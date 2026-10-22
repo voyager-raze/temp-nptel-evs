@@ -1,0 +1,353 @@
+                                            Environmental Science
+                             Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                               Indian Institute of Technology Kharagpur
+           Week 07- (Lecture 01) : Circular Economy (Introduction to the Concept)
+
+Welcome to week 7 of the NPTEL online certification course on Environmental Science. In the
+past two weeks, we learned about renewable energy resources and saw how they can contribute
+towards sustainable development. This week, we will also learn another important concept that
+can contribute towards sustainable development and that is circular economy. Specifically in this
+introductory lecture on circular economy, we will be learning about how material and energy
+flows in urban areas, what are out the limits to such linear consumption patterns and how we can
+close the loop by moving towards a circular economy and what are the benefits of a circular
+economy system. So, at the end of this lecture, you should be able to differentiate between the
+following terminologies, that is, what is urban metabolism, what is urban anabolism, what is urban
+catabolism, you should be also able to distinguish between linear economy and circular economy.
+Now, we know that humans have evolved, grown and thrived in nature.
+Humans have evolved, grown and thrived, in nature. In fact, nature ­ and everything that it gives
+us ­ has been the catalyst for where we are today. Its resources have enabled people to dominate
+the planet complete with modern expectations, benefits and luxuries. From the supply of raw
+materials, water, food, medicines and energy, to the pollination of crops, formation of soils and
+protection from floods, storms and erosion, the planet's natural systems provide a range of vital
+services that underpin production, trade, livelihoods and consumption in every country. The
+natural assets that provide these services ­ ecosystems, species, water, rivers, seas, land, minerals
+and atmosphere ­ are thus an immensely valuable component of a nation's wealth, and a major
+factor in determining its levels of economic prosperity. We can think of it as NATURAL
+CAPITAL.
+
+In economics, capital is money and other forms of wealth that can be used to support one's
+lifestyle, providing a sustainable income if used properly, and an economy. Natural capital is the
+sum total of the natural resources and natural services that keep us and other forms of life alive
+and support our economies. Natural resources are materials and energy in nature that are essential
+or useful to humans. These resources are often classified as renewable (such as air, water, soil,
+plants, and wind) or nonrenewable (such as copper, oil, and coal). Natural services are processes
+in nature such as purification of air and water, which support life and human economies. The
+earth's biodiversity of species, ecosystems, and interacting components provide us with these
+essential services at no cost. We can use technology to enhance such services but there are no
+substitutes for them.
+
+The demand for NATURAL CAPITAL increases as the population continues to grow. Between
+1960 and 2000, global food production increased by roughly two-and-a half times, wood harvests
+for pulp and paper production tripled, installed hydropower capacity doubled, and timber
+production increased by more than half.
+
+Productive soils, a favorable climate, and clean and abundant water resources are all essential for
+growing crops, raising livestock, and for ecosystems to continue to provide the critical
+provisioning services that humans need.
+
+Biodiversity underpins these services; without variation in plants and organisms, the multitude of
+available food crops and game species would not exist. Abundant water resources are also central
+to the production of energy and most of the material goods that people enjoy.
+
+Over the past several decades, over-exploitation of resources has been a significant stressor in
+many parts of the world. In some cases, over-exploitation of a resource to meet one need has
+damaged the resources available to meet another need. Increasing populations are driving land use
+change, resulting in more forested and agricultural lands being converted for residential,
+commercial, and transportation uses. This development results in the loss of land dedicated to
+commodity production.
+
+Climate change is also an important driver of change. Climate change can alter species
+compositions and may affect our ability to grow specific crops in certain areas. Climatic changes
+may also make some areas more prone to pest infestations
+
+With financial capital, when we spend too much we run up a debt, which if left unchecked can
+eventually result in bankruptcy. With natural capital, when we draw down too much stock from
+our natural environment we also run up a debt which needs to be paid back. If the stock of natural
+resources is at risk then our organisations are at risk and ultimately the planet and our human well-
+being is at risk. Hence, poorly managed natural capital becomes not only an ecological liability
+but a social and economic liability too.
+Urbanization is one of the most important global change processes. As the share of people in, and
+the footprint of, urban areas continue to grow globally and locally, understanding urbanization
+processes and resulting land use ­ both their patterns and intensity ­ is increasingly important with
+respect to natural resource use, and global environmental change.
+
+Cities usually develop in areas with suitable natural conditions, such as alluvial plains near bodies
+of water. By taking advantage of steadily evolving social structures and technologies, cities allow
+humans to exploit natural resources more efficiently, thereby allowing the cities to expand and
+become more complex. Because of the advantages offered by cities, they have become the main
+home of the world's population. The rapid development of cities has led to an increasingly high
+density of material flow, energy flow, population flow, and information flow, accompanied by
+rapid turnover (i.e., transformation) of resources. Because cities function as open systems, they
+depend on their external environment for resources they cannot obtain internally; as a result, large
+external inputs are required, and many byproducts of their consumption (including waste) are
+exported from the city.
+
+The massive inputs of materials and energy and the resulting discharge of waste have increased
+the pressure on the city's internal and external environments, resulting in problems such as
+excessive consumption of resources and energy, pollution, and deterioration of environmental
+quality.
+
+Cities occupy only 2%­3% of the world's land area, but create more than 75% of the world's GDP,
+consume about 75% of the world's natural resources and nearly 67% of the world's fossil fuels,
+and contribute more than 70% of the world's greenhouse gas emissions. The land, fresh water,
+food, energy, and infrastructure within cities can no longer support such large artificial structures.
+Problems for the ecological environment caused by the global urbanization process become
+concentrated in these small areas and have a profound impact on the health of the urban ecosystems
+and on sustainable development of their regions and the world.
+
+In this context, we must answer two crucial questions: as hybrid artificial and natural systems, can
+cities better mimic organisms and natural ecosystems by using resources more efficiently to
+mitigate environmental problems? If this is possible, how can it be achieved? To answer these
+questions, researchers have focused on the city itself both as the source of the problem and the
+location where the problem must be solved. To accomplish the goal of making cities more
+environmentally sustainable, it's first necessary to understand the laws that govern their internal
+processes by taking advantage of the insights provided by ecological science. To do so, researchers
+consider cities as if they are giant living organisms ("superorganisms") with a complex circulatory
+system or as an ecosystem, with complex interactions among its components. Based on this
+metaphor, it becomes possible to analyze the city's metabolic mechanisms and detect imbalances
+that cause ecological and environmental problems, which are analogous to metabolic disorders.
+
+Like ecosystems and organisms, cities have a distinctive structure. Even though most of a city is
+composed of non-biological elements, it also has natural components (e.g., green spaces, bodies
+of water), so its structure has many similarities with a living organism. If we consider the human
+body as a reference, cities and bodies are similar in terms of their structural hierarchy and
+functional mechanisms.
+
+The material and energy exchanges between an organism and its environment, as well as the
+transformations of materials and energy within an organism, can be called a metabolism. This
+metabolic category includes anabolism (constructive growth through assimilation), catabolism
+(breaking materials down into their components), and regulatory metabolism (controlling the rate
+of anabolic and catabolic processes). From the perspective of an organism's metabolism, urban
+metabolism can be described using key words such as external metabolism (focused on interactions
+with the city's external environment) and internal metabolism (focused on interactions within the
+city), synthetic metabolism (creating new structures), decomposition (removal of old or failed
+structures), and regulation (balancing the rates of these processes). Based on this overview, we can
+divide the metabolism of urban organisms into different metabolic phases of urban internal
+metabolism and external metabolism can be defined by referring to human or biological internal
+and external metabolism.
+
+The exchange of materials and energy between the urban metabolic components within the city's
+internal environment constitutes the internal metabolism, whereas the exchange of materials and
+energy between the metabolic components and the external region constitutes the external
+metabolism. Together, these two metabolic components define the city's overall metabolic system.
+Both biological and urban organisms consume resources and generate recyclable byproducts and
+unrecyclable waste. Both also receive inputs from their external environment (e.g., food for
+humans, construction materials for cities) and their internal environment (e.g., sugars stored in
+muscles for humans, transformation of raw materials into processed materials in cities). Thus, the
+city's internal and external environments function both as suppliers and as consumers. Overall, the
+categories and forms of internal and external metabolism in cities are very similar to those in living
+organisms.
+Urban nutrients include resources such as energy, land, water, minerals, and biological resources.
+They are the "food" on which the urban organism depends for its survival and health (i.e., for its
+stability and sustainability). The vitality of the urban organism depends on the types of "food" that
+it consumes, and how, as well as on the degrees of absorption and digestion (i.e., the uptake and
+transformation efficiencies) and on the smoothness of excretion. The amount, throughput, rate,
+and properties of the city's internal and external nutrients are important indicators of its health.
+However, unlike living organisms, the resources tend to flow through cities flow along linear paths.
+
+In fact, the linear model of production and consumption has dominated the global industrial
+systems since the Industrial Revolution. In the linear model, raw materials and resources are
+extracted from the Earth, refined or processed, and then transported to factories to be manufactured
+into various products. The final products are transported to their final destinations, bought by
+consumers, used, and then discarded when they have ended their lifespan or become obsolete and
+again replaced by newer versions.
+The vast majority of discarded products (waste) is taken to landfill or incinerated; only a small
+portion is recovered or recycled. In sum, it is a "take, make, and waste" model where waste is
+produced, and energy is expended, at every step. The "take, make, and waste" approach results in
+significant resource losses throughout the production process. However, low prices of resource
+and labor reinforce this system, as does the ease of acquiring new resources and the low costs to
+dispose of waste.
+
+Material recovery is therefore not a high priority in our existing economic system.
+
+The linear production model clearly incurs and perpetuates unnecessary resource losses in several
+ways. The one way flow of matter and energy in the current global economy is "running down"
+the parent ecosystem in which it operates, from which it sources and to which it releases its wastes
+and emissions. Resources and energy are extracted from the parent system, produced and
+consumed within the human economic subsystem and wastes and emissions are dumped back to
+nature in harmful concentrations. The life supporting parent ecosystem that used to be
+fixed/constant in its size is now is becoming smaller. The global natural ecosystem is shrinking in
+size and volume. The shrinking is clear if measured simply in quantitative terms, but very apparent
+also in the sense of the qualitative potential of the earth's ecosystems to provide life-sustaining
+functions. Measured by the land area that can support human habitation, the earth is shrinking, and
+at an accelerating pace. Deserts are expanding, the sea level is rising, the population is growing,
+per capita consumption is increasing, the volume of livestock and cattle is growing and biodiversity
+is depleting at ever faster rates. The shrinking is best illustrated by advancing deserts and rising
+sea levels that work inwards toward the economic system, which in, turn is expanding outwards.
+This process is leading to a head-collision.
+Overwhelming scientific evidence shows that the linear flow is unsustainable in terms of all the
+three dimensions of sustainable development; economic, ecological and social.
+A simple and logical answer to the problem of the linear flow model is its reverse; a cyclical flow
+of materials and energy, i.e., a circular economy. Although, by definition, energy cannot be
+recycled, only cascaded for extended use on lower temperature and pressure levels, one can speak
+about materials and energy cycling for the purpose of simplification.
+
+The circular economy model closes the cycle by recycling the wastes thrown away and reusing
+them in the production process. It means any waste generated from each stage of a production
+process may be recycled and fed back into the same or another production system. It eventually
+helps producers reduce the use of new resources, making the production process more resource-
+and cost efficient. As such, the circular economy model vastly stresses redesigning the products
+and production processes.
+While producers are at the heart of the circular economy model, consumers also have a significant
+role in at least three areas: first, accepting recycled products for consumption (e.g., of bags from
+recycled paper); second, maximum reuse of materials (e.g., of household appliances); and third,
+minimizing waste (e.g., of food).
+The circular economy represents a shift in beliefs of moving from a linear "take, make, and waste"
+model towards a more resource efficient and sustainable system. The circular economy is designed
+to "close the loop" on waste, and to be able to regenerate by intention. It replaces the assumption
+of disposability with that of restoration, and seeks to create value in ways other than consumption
+of resources. By mimicking the circular flows of natural regenerative processes, a circular
+economy promotes the efficient and effective flow of materials through optimized systems that
+allow wastes to be indefinitely recycled within the production and economic process, hence
+minimizing the need for costly virgin resource inputs.
+
+In a circular model, waste is designed out functionally and systematically throughout a product's
+life cycle and its component parts. In addition, the system adds a "functional service" to the
+process, in which manufacturers retain ownership of their products and sell the use of the product
+rather than the product itself. This shift in focus from product to its service means that
+manufacturers practice better resource husbandry and smarter management that benefit the
+producers and their customers.
+
+As such, a circular economy is fundamentally different from a linear economy. To put it simply,
+in a linear economy, we mine raw materials and process them into a final product, while any waste
+from the production process and the product itself are thrown away after use. This model has at
+least three downsides. First, every time we produce a new final product, we require new raw
+materials and other resources (e.g., energy, finance), which makes the production process resource
+intensive and costlier. Second, any waste thrown away generates adverse environmental impacts
+(e.g., plastic bottles). And third, the overall process results in an unsustainable and less resource-
+efficient production system. In the long run, the unsustainable approach--being followed by
+traditional economic systems across the world--impacts not only the environmental quality but
+also the quality of life and the livability of the earth.
+
+The merits of the circular economy model, on the other hand, stretch out to the three key
+dimensions of sustainable development -- environmental, social, and economic--that make it a
+superior choice to the linear one. Environmental benefits are at the heart of the model as it enables
+the traditional production and consumption systems to be sustainable and environment-friendly by
+efficiently utilizing resources, minimizing waste and pollution, and maximizing the use of
+renewables. It can sustainably preserve the environmental quality for future generations. The
+environmental benefits also add to the social benefits, i.e., the society as a whole benefit when the
+environmental quality is preserved and improved.
+
+Social benefits also arise as it exposes and designs out the negative impacts of economic activities
+on human and animal health by minimizing pollution, unhealthy product designs, and release of
+hazardous wastes. Furthermore, a circularity- or sustainability-focused production system or
+process can help improve labor practices, provide decent work, protect human rights, and deliver
+better social responsibility to organizations and individuals.
+
+From an economic perspective, the model enables products to be easier to repair and longer-lasting
+with incentives to take old products back, can cut unemployment, and can save people money. As
+such, it makes both producers and consumers economically more efficient while creating more
+employment opportunities by allowing the expansion of recycling or repairing industries.
+Circular economy is an economy constructed from societal production-consumption systems that
+maximizes the service produced from the linear nature-society-nature material and energy
+throughput flow. This is done by using cyclical materials flows, renewable energy sources and
+cascading -type energy flows. CE should utilize nature's cycles for preserving materials, energy
+and nutrients for economic use.
+
+A circular economy eliminates waste and pollution, and conserves resources. It is a shift from a
+throw-away to a circular mindset to extend the lifecycle of goods, food and resources through
+better design and continuous reuse, so nothing goes to waste. In a circular economy, instead of
+industries, manufacturers and consumers taking resources, using them once and disposing of them,
+they are kept in perpetual use. Products are designed to be more durable, reusable, repairable and
+recyclable, and businesses will look for ways to eliminate waste in their operations.
+
+Consumers rethink the way they purchase, use and dispose of things ­ options for sharing, renting,
+repairing and repurposing items to prevent waste from becoming more common. This circular shift
+will lead to less impact on the environment, allowing the earth's resources to recover and
+regenerate.
+A circular economy is an economic system of closed loops in which raw materials, components
+and products lose their value as little as possible, renewable energy sources are used and systems
+thinking is at the core.
+1. Closed cycles
+In a circular economy, material cycles are closed following the example of an ecosystem. There is
+no such thing as waste, because every residual stream can be used to make a new product. Toxic
+substances are eliminated and residual flows are separated into a biological and a technical cycle.
+Producers take back their products after use and repair them for a new useful life. In this system,
+it is therefore not only important that materials are recycled properly, but also that products,
+components and raw materials remain of high quality in these cycles.
+
+2. Renewable energy
+Just like raw materials and products, energy also lasts as long as possible in a circular economy.
+Because it is not possible to recycle energy, the circular economic system must therefore be fed
+by renewable energy sources. This of course can reduce emissions and pressure on natural
+resources, chart innovative pathways to net-zero economies, create sustainable economic growth
+and jobs, and reduce supply chain risk.
+
+3. Systems thinking
+The circular economy does not only require closed material cycles and renewable energy, but also
+systems thinking. Every actor in the economy (company, producer, consumer) is connected to
+other actors. Together, this forms a network in which the actions of one player influence other
+players. To take this into account, the short and long term consequences must be taken into account
+in choices, as well as the impact of the entire value chain.
+
+In a circular economy, resources get used but not used up; new business strategies keep products,
+components and materials in the system ­ during and after use ­ and dangerous, dirty waste is at
+an absolute minimum.
+Circular business models can thus outperform traditional linear models in eight important areas:
+1. More attractive products
+With circular business models, waste becomes an asset rather than a liability to discard. Renewable
+and recyclable inputs become essential parts of production, lowering or even eliminating waste,
+pollution and biodiversity loss, thereby strengthening the three main reasons for purchasing
+sustainable products.
+
+2. Greater customer intimacy
+In the linear economy, companies sell new products to the next in line and leave the continued
+customer dialogues to their downstream partners. For circular business models, next-in-line
+communication is not sufficient. They require continuous dialogue throughout the business
+ecosystem during the product's lifetime.
+
+Circular organizations offer product-as-a-service, in which a customer pays for the use of a service
+over a limited time. The provider maintains ownership of the product and remains incentivized for
+the product's ongoing maintenance, durability, upgrade and treatment at the end of its use. Circular
+economy maximizes how idle assets are used across a community while providing customers with
+affordable and convenient access to products and services. The increased intimacy enables a
+consistent dialogue that helps providers understand customer usage patterns and perceptions.
+3. Lower costs
+Circular products are designed to be reused, repaired or refurbished and ultimately disassembled.
+Similarly, circular components are designed to be reconditioned, remanufactured and eventually
+recycled. As a result, materials and components cost less and the desired service from the product
+will be more cost-effective due to the product's increased usage.
+
+4. Recurrent income sources
+Circular business models involve recurrent selling not only in product-as-a-service and sharing-
+economy business models but also from the commerce of recovered components and materials,
+which generate an income every time they're resold. Related services like repairs, redistribution
+and refurbishment also bring recurrent income. Waste and by-products can be treated as assets too.
+
+5. Greater resilience
+Circular products have been designed so that when they're no longer functional in their current
+application, their embedded components, materials, energy and other resources can be recovered.
+Users are incentivized to return the products by paying deposits or by the terms of their product-
+as-a-service contracts.
+Organizations that control their production input by recovering components and recycling their
+materials (rather than disposing of them) can better withstand unstable supply chains, product
+shortages and finicky suppliers. They can also protect themselves against price fluctuations.
+
+6. Greater product and component utility
+Linear economy business models are designed around the user owning the product, which provides
+for poor utilization (e.g. cars are parked around 95% of the time). Circular products are designed
+to be reused, repaired, reconditioned and upgraded, which increases utilization, enabling higher
+income per unit. Similarly, components will be harvested and remanufactured and used again and
+the materials will ultimately be recycled.
+
+7. Reduced production times
+Products and components that stop working can be refurbished more quickly to as-new or to nearly
+new conditions, eliminating the need to manufacture many new product components.
+One example can be found in wind power. Demand for wind turbines is currently so high that
+fulfilling orders take some manufacturers as long as two years. By contrast, an existing wind
+turbine can be refurbished and delivered in four months.
+
+8. Climate and environmentally friendly
+Recycling, repairing, refurbishing and re-using circular products require less energy and have less
+impact on the environment than conventional methods. This includes biodiversity loss, foresting
+and mining, component and product manufacturing and the transport of raw materials. Also,
+organizations that adopt safe disposal methods can lower their environmental impact.
+
+To summarize, circular economy is an attractive approach to meet the requirements of sustainable
+development in the context of increasingly degraded natural resources, depletion, polluted
+environments, and severe climate change and biodiversity loss. It is the most appropriate and
+practical approach to achieve the Sustainable Development Goals (SDGs) and harmonize the
+relationship between the economy and the environment.
+

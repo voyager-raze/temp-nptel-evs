@@ -1,0 +1,252 @@
+[
+  {
+    "week": 1,
+    "title": "Environmental Concerns, Population Growth and Resource Consumption",
+    "faculty": "Goel",
+    "lectures": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "tags": [
+      "population",
+      "IPAT",
+      "ecological footprint",
+      "EPI",
+      "LCA",
+      "sustainability"
+    ],
+    "summary": "Introduces major environmental concerns (air, water, soil, biodiversity) and links them to population growth via arithmetic, geometric and exponential models. Covers IPAT, ecological footprint, Earth Overshoot Day, Energy Performance Index and lifecycle assessment as impact metrics."
+  },
+  {
+    "week": 2,
+    "title": "Principles of Sustainable Development",
+    "faculty": "Chowdhury",
+    "lectures": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "tags": [
+      "Brundtland",
+      "planetary boundaries",
+      "SDGs",
+      "Anthropocene",
+      "pillars"
+    ],
+    "summary": "Defines sustainable development from Brundtland (1987) through Rio and the 17 SDGs, framed by planetary boundaries and Anthropocene trends. Emphasizes environment-economy-society pillars and six SDG transformations as exam-ready structure."
+  },
+  {
+    "week": 3,
+    "title": "Understanding Air Pollution",
+    "faculty": "Chowdhury",
+    "lectures": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "tags": [
+      "criteria pollutants",
+      "PM2.5",
+      "ozone",
+      "control",
+      "indoor air",
+      "Montreal"
+    ],
+    "summary": "Defines ambient vs indoor air pollution, primary/secondary pollutants, criteria pollutants and major sources. Covers control technologies (ESP, scrubbers, FGD), ozone depletion/Montreal Protocol, and health burden of outdoor and household air pollution."
+  },
+  {
+    "week": 4,
+    "title": "Climate Change: Scientific Basis, Mitigation and Adaptation",
+    "faculty": "Chowdhury",
+    "lectures": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "tags": [
+      "GHG",
+      "GWP",
+      "albedo",
+      "Paris Agreement",
+      "IPCC",
+      "mitigation"
+    ],
+    "summary": "Distinguishes weather vs climate and explains enhanced greenhouse effect, GWP and key climate indicators. Reviews UNFCCC, Kyoto, Paris Agreement and IPCC assessment reports with mitigation and adaptation framing."
+  },
+  {
+    "week": 5,
+    "title": "Renewable Energy I (Solar and Wind Energy)",
+    "faculty": "Chowdhury",
+    "lectures": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "tags": [
+      "energy trilemma",
+      "solar PV",
+      "CSP",
+      "wind",
+      "Betz",
+      "storage"
+    ],
+    "summary": "Frames renewables via the energy trilemma (secure, equitable, sustainable) and covers solar PV/CSP and wind fundamentals. Key exam math: Betz limit 16/27 and wind power proportional to air density, area and v cubed."
+  },
+  {
+    "week": 6,
+    "title": "Renewable Energy II (Geothermal, Ocean, Hydro, Bioenergy)",
+    "faculty": "Chowdhury",
+    "lectures": [
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "tags": [
+      "geothermal",
+      "EGS",
+      "tidal",
+      "wave",
+      "OTEC",
+      "hydropower",
+      "pyrolysis"
+    ],
+    "summary": "Covers geothermal (including EGS), tidal/wave/OTEC ocean energy, hydropower efficiency from head, and bioenergy pathways including pyrolysis. Dense formula and potential numbers (tidal 1200, wave 29500, OTEC 44000 TWh/y)."
+  },
+  {
+    "week": 7,
+    "title": "Industrial Ecology and Circular Economy",
+    "faculty": "Goel",
+    "lectures": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "tags": [
+      "circular economy",
+      "urban metabolism",
+      "industrial ecology",
+      "closing loops"
+    ],
+    "summary": "Contrasts linear take-make-waste urban metabolism with circular borrow-use-return systems. Industrial ecology and closing material loops are positioned as strategies for sustainable urban resource flows."
+  },
+  {
+    "week": 8,
+    "title": "Water Quality, Reuse and Recycling",
+    "faculty": "Goel",
+    "lectures": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "tags": [
+      "hydrologic cycle",
+      "BOD",
+      "DO sag",
+      "WQI",
+      "NGT",
+      "reuse"
+    ],
+    "summary": "Reviews global water resources, withdrawals vs consumption, and water-quality parameters (DO, BOD/COD, N species). Ends with NSF-WQI, NGT discharge standards and wastewater reuse/recycling goals."
+  },
+  {
+    "week": 9,
+    "title": "Solid Waste Management (including E-waste)",
+    "faculty": "Goel",
+    "lectures": [
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "tags": [
+      "ISWM",
+      "4Rs",
+      "hierarchy",
+      "MSW",
+      "landfill",
+      "e-waste"
+    ],
+    "summary": "Covers integrated solid waste management, waste hierarchy and 4Rs, MSW generation/composition/collection, treatment and disposal. Dedicated lecture on e-waste management and hazards of open dumping."
+  },
+  {
+    "week": 10,
+    "title": "Noise Pollution",
+    "faculty": "Goel",
+    "lectures": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "tags": [
+      "SPL",
+      "dB",
+      "Leq",
+      "inverse square",
+      "audiometry",
+      "CPCB"
+    ],
+    "summary": "Defines noise as unwanted sound; wavelength lambda=c/f, SPL in dB, and A-weighting. Covers audiometry, health effects, Leq/Ldn rating, inverse-square attenuation (-6 dB per distance doubling for point sources) and control/regulations."
+  },
+  {
+    "week": 11,
+    "title": "Ecology and Soil Pollution",
+    "faculty": "Goel",
+    "lectures": [
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "tags": [
+      "ecosystem",
+      "trophic",
+      "BCF",
+      "USLE",
+      "soil erosion",
+      "niche"
+    ],
+    "summary": "Builds ecology fundamentals: ecosystems, niches, food webs, trophic pyramids and logistic growth. Soil pollution lectures emphasize bioaccumulation/BCF and the Universal Soil Loss Equation (USLE) for erosion estimation."
+  },
+  {
+    "week": 12,
+    "title": "Environmental Policies and Legislation",
+    "faculty": "Goel",
+    "lectures": [
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "tags": [
+      "Chipko",
+      "EPA 1986",
+      "Water Act",
+      "Air Act",
+      "NGT",
+      "EIA"
+    ],
+    "summary": "Traces environmental movements (Bishnoi, Chipko, Appiko) and India core Acts/Rules from Water Act 1974 through EPA 1986 and waste rules. Covers landmark judgments, NGT structure/powers and rapid EIA case framing."
+  }
+]

@@ -1,0 +1,289 @@
+                                       Environmental Science
+                         Prof. Samik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                Week 12
+                                               Lecture 05
+             Rapid Environmental Impact Assessment ­ A case study of the
+                                           River Ib Barrage
+
+Welcome everyone. This is the last and final lecture of week 12 on Environmental Policy
+and Legislation.
+
+In today's lecture, we are going to go through a case study related to rapid environmental
+impact assessment. This case study is about the river Ib in Orissa and the proposal to build
+a barrage across the river.
+So, the concepts that we are going to cover today is how to conduct a rapid environmental
+impact assessment, the methodology and remote sensing and GIS as tools in this exercise.
+
+Some of the keywords are submergence, digital elevation model, remote sensing, storage
+capacity, water yield and evaporation.
+So, what I am going to talk to you about is the river Ib barrage proposal that was first
+proposed in 2005 or maybe even before that. Now before I go into the actual proposal, it is
+important to remember that an EIA is necessary for any major infrastructure project that is
+proposed. And it is also important to recognize that for any large project when you can
+conduct an EIA, it takes many different types of resources. You need skilled manpower;
+your technical manpower has to be fairly skilled. You need a lot of financial resources to
+conduct surveys. So, it becomes a very time consuming as well as expensive exercise. To
+reduce the cost, one can do what is called a rapid EIA. A rapid EIA can be done simply
+sitting in an office with a computer and an internet connection. So, you can download
+satellite data for remote sensing and you have your Google Maps, Google Earth, all these
+tools, geographic information system tools, ArcGIS, all these tools are available quite
+freely and you can use them to conduct a preliminary rapid EIA to determine whether the
+proposed project is feasible or not. As I said it is part of the regulations, it is part of the
+Environment Protection Act. Now coming to this specific proposal.
+
+Let me come to what is where and what is river Ib. So, river Ib, you can see it in this map
+and let me see if I can. So, in this Google Map you can see very clearly where Ib river
+starts.
+
+So this is the starting point of Ib river. It starts in the hills in Pandrapat or Pandrapet and it
+ends basically in the Hirakud Reservoir. The Hirakud reservoir as most of you know is the
+Hirakud dam built on the Mahanadi River. You can see the extent of the reservoir, it is a
+huge reservoir, it is one of the largest reservoirs in the country, in the world. The Ib river
+is one of the three major tributaries of the Mahanadi River and you can see in this particular
+map that it is just a short section. Now the idea in this proposal, let us come back to this
+proposal.
+
+So it is a rain fed river but it is a perennial stream. Despite the fact that it is a rain fed river,
+
+it is perennial, it has sufficient flow, it rises like I said in the hills over here and it ends in
+
+the Hirakud reservoir. It has a total length of 251 km. Most of the river is in Orissa even
+
+though  it  rises  in  the  hills  of  Chhattisgarh.
+So let us come to what was the project objective. The proposal about the river Ib barrage
+was to provide water for irrigation for approximately 800 hectares. Drinking water for three
+urban areas was proposed. So, these three urban areas are Jharsuguda, Belpahar and
+Brajrajnagar. So, they are all clustered. This is the location of the proposed dam or barrage
+whatever you want to call it and these are the three. Two of them are visible in this map
+and there is a third one over here, somewhere here. So that is the second objective and the
+third objective was to provide water for different industries in Jharsuguda. Jharsuguda is a
+heavily industrialized area and this entire region is also known for its coal fields. So, there
+are lots of industries as well as coal mines, coal fields and mines and so on and water for
+all these industries is also one of the project objectives.
+
+Before I go into the methodology that was adopted for this particular project, it is important
+for you as a student to know what is the methodology followed for an EIA. So, this just
+gives you the basic steps that need to be followed in any environmental impact assessment.
+So, the first step is screening. Does the proposed project require an EIA? Is it big enough
+to require an EIA? And generally, these large infrastructure projects without question
+require an EIA. The second question is what is the level of assessment? And in a project
+like this, a fairly detailed assessment is required. The second step is coping. What are the
+issues? What are the impacts? What is going to be the boundary of the EIA? What are the
+timelines for the project as well as for the impacts? All these things, once the answer in the
+first step is yes, then in the second step we have all these issues to be defined. The third
+step is to actually conduct the impact analysis. What are the potential environmental as
+well as social impacts? Those have to be identified. One has to come up with design
+alternatives. It's not sufficient to come up with a single proposal. You have to come up with
+certain alternatives. You have to say if this is not good, then let me try another way and
+another way and so on to achieve the same objectives. So, remember our objectives are
+providing water, municipal water supply, industrial water supply and irrigation water
+supply. Is there any other source of water? What are the other sources of water? Can they
+be better? So those kinds of questions have to be answered. Design alternatives are
+proposed and compared. The alternative which has the least cost and cost is not only
+financial cost, but it includes environmental cost as well. So least cost and highest benefit
+is normally chosen as the final alternative. Then we come to mitigation. Now let us say out
+of the given alternatives, you choose your best alternative, but there are still certain
+problems associated with it. So those require mitigation. Actions to reduce or avoid
+potential adverse environmental consequences of the development activities have to be
+recommended. That's part of the EIA. In fact, that is the literally the bottom line for the
+person who's doing the EIA. This is the most important point. And then finally, you have
+to prepare a report and present it to the decision makers and other stakeholders. So, you
+can imagine that the stakeholders in this kind of project would be the municipalities of the
+three urban areas, the urban local bodies. It would be the farmers in this region and it would
+be the industries in this region. So, these are the stakeholders along with the administrative
+authorities. Then we come to review of EIA. Is the EIA adequate and effective in terms of
+the report? So, the report will be examined by the decision makers. They will determine
+whether the report is adequate and it answers all the questions that are required to make a
+decision. Finally, the decision is made by the authorities to either reject, approve or modify
+the proposal. After the proposal is accepted, there has to be a post monitoring of the
+impacts. So, project impacts have to be checked to ensure that legal standards are met.
+Mitigation measures are implemented as described in the report. So, it's an eight-step
+process and what I'm going to cover for obvious reasons are the first five steps.
+So, coming back to the project objective, so what did we define for ourselves for doing this
+project? We wanted to conduct a rapid environmental impact assessment for the proposed
+River Ib Barrage project using only remote sensing data and GIS. What was the design
+parameter that we used for evaluating the alternatives in terms of design? So the design
+parameter was the height of the barrage and the original proposal from the authorities in
+Orissa had 2 m, 3 m, 4 m, 5 m and 6. We brought it down to 4, 5 and 6 m for convenience.
+You can evaluate the environmental impacts using what is called a micro digital elevation
+model along with remote sensing and other data. What were the categories of impacts that
+were evaluated? One was the storage capacity of the barrage. Remember that the project
+objective was providing water. Where is that water going to be stored? That is the big
+question. So, the storage capacity of the barrage as a function of the height of the barrage.
+Remember as you increase the height of the barrage or the dam, the storage capacity
+automatically increases. The question that is of enormous importance in all these projects
+is how high is good enough? Will it suffice? What is the height that is useful in all respects
+or in as many respects as possible? Yeah. What are the changes in land use and land cover
+and what is the water availability for the command area of the project?
+
+What was the methodology we adopted for this project? The first thing we did was collect
+the data including satellite data. This data was incorporated into ArcInfo, ERDAS,
+IMAGINE, these are all software packages and micro-DEM. The results were analyzed,
+impact assessment was done and finally the report was prepared to with recommendations
+for mitigation and conclusions. So, I will be sharing all this information in the next few
+slides.
+So, data collection and impact analysis were done using remote sensing data which means
+satellite data for the most part and supporting data were collected from IMD and the Central
+Water Commission. So whatever data was available on the internet from these
+organizations that data was used. So here we have satellite data which was converted into
+micro-DEM. This is the digital elevation model. It was used to delineate the submerged
+areas in ArcGIS and to calculate the storage capacity of the barrage. Landsat enhanced
+thematic mapper data was used for determining land use, land cover. So LULC stands for
+land use, land cover information. We needed population data which was extracted from the
+census. So, we need to know the population of the three urban areas and we know that we
+need to make certain assumptions for water demand calculations. Then we come to
+hydrologic data. We need to also understand the water budget for this particular region. So
+that was also done based on whatever data could be found on different sources on the
+internet.
+Now this is basically a digital map of the elevations in the river Ib Basin. The basin
+boundary is shown over here and you can see the watershed for the entire basin and the
+maximum elevation towards the top is 1157 m and the minimum elevation somewhere
+towards the south end is 157 m. So, you can see the enormous range in elevation for this
+particular watershed. This is the, I think this is the barrage site.
+
+We now come to the land use, land cover classification for this River Basin. Now this is
+what we call a false color composite. This is not actual color of the area. The map of the
+area or rather the satellite image of the area is converted into a digital image and then
+different colors are given to different types of land use, land cover categories. So the yellow
+area is agriculture. Very few areas over here you can see are white and that is barren land
+or riverbeds and we have red spots. If you look at this image closely, the small dots are all
+red and they are settlements. The green areas are vegetation and the blue areas are water
+bodies. It's very important to know what is the major land use in any given area. So, for the
+Ib river catchment, agriculture is 47% of the area, vegetation is 46%, water trees,
+settlements and barren land account for the rest. So, settlements are 5% and the other two
+are 1% each.
+
+The annual water demand in the command area of this particular proposed project is shown
+in this particular slide. So, the urban local bodies of Jharsuguda, Bajrajnagar and Belpahar,
+they wanted 22.2 million cubic m per year. The Mahanadi Coal Limited has a requirement
+for 3.6 million cubic m per year and the irrigation requirement in this area for two crops
+per year was 69 million cubic m. So, a total requirement of 94.8 million cubic m per year
+is calculated for this project In 2031.
+Now what is the data that was important for us to do this kind of project? The first is rainfall
+and evaporation data. It is important to know how much precipitation is received in the
+catchment area or the command area and how much is lost by evaporation. So, a simple
+water budget was done. What is the rainfall and what are the losses by evaporation? I don't
+think we included infiltration which is actually another loss and it can be a significant loss
+in this particular region. But I can tell you it was not accounted for but it should be in reality
+it should be accounted for. So, let's first take a look at the blue lines and the red lines. We
+are living in a monsoon fed region or this entire region is a monsoon fed region. There is
+rain only for a few months in a year. So, the blue line represents rainfall and even though
+it is above zero throughout the year it is not much. Most of the rain happens during the four
+months, four to six months if you want to look at it that way from June to October,
+November. So, these are the months that most of the rainfall is received. The remaining
+part of the year is subject the water that is there in the ponds and reservoirs and so on is
+subject to evaporation. So you can see the evaporation rate at during different times of the
+year for the same location. This is for Jharsuguda. Now this data was average from 1984
+to 2000. The evaporation rate as you can see has ranged all the way from 75 mm per month
+to a maximum of 275 mm per month and then back down to around 100 mm per month.
+It's an enormous loss for any water related project. So, this is our water budget. What we
+get is rainfall and what we lose is by evaporation. And like I said a major weakness if I can
+put it that way is that we should have included infiltration but we did not for obvious
+reasons. Yes. And water yield is how much water can be collected. Now it's only in the
+three months of July August and September that there is a surplus of water. For the
+remaining nine months in the year there is a water deficit. Okay. So that is the most
+important point that how much water are we receiving. This is based on simply taking
+rainfall and evaporation and nothing else. So obviously there is a deficit for nine months
+and surplus for three months and this surplus has to last throughout the year. The estimated
+water flow to the river is 65.5 million cubic m per year and it's important to note that the
+water demand is 94 million cubic m per year and the estimated water flow to the river is
+much less than that.
+
+After doing this exercise for five different barrage heights or three or five yeah five
+different barrage heights 2 m, 3 m, 4 m, 5 and 6 m. There are a few things to note. The
+river bed the average river bed level was estimated to be 195 meters above the mean sea
+level. The barrage height itself was kept two, three, four, five or six m above the average
+bed level. So that was 197, 198 all the way to 201 m elevation above the mean sea level.
+So, these were the different design alternatives that were evaluated. The amount of area
+submerged and the storage volume was calculated based on the modeling. You can see the
+river and you can also see the submerged area. This is the site of the proposed barrage. You
+can see the submerged area for 200 m elevation which means 5 m barrage height. So, you
+can this kind of thing can be done quite easily and this is the entire stretch of the river. You
+can also see the land use categories, water bodies, vegetation and so on.
+For the five alternatives, the design alternatives ranging from 2 m to 6 m, they are plotted
+here as a function. So, the submerged area storage capacity as a function of the elevation.
+So, the elevation above mean sea level is plotted against these two major impact
+parameters. This is what we are measuring impact in terms of. So, you have the submerged
+area and the storage capacity and it is almost common sense if you understand how dams
+are built that the storage capacity of the reservoir will increase as the barrage height
+increases and as the barrage height increases so will the submerged area. So that is clear in
+this graph. So what you see in the previous slide here is the relationship between the
+elevation of the barrage, the top of the barrage and its relation with submerged area and
+storage capacity. As this height increases the storage capacity will increase and so will the
+submerged area. So qualitatively we understand this is very simple.
+What is more important for us is to answer the question whether the annual water demand
+can be met using different barrage heights. So, for the three heights that were of importance
+4 m, 5 m and 6 m, the annual demand, remember our annual demand is 94.8 million cubic
+m. How much of that demand will be satisfied with the different barrage heights? So, in
+the first case it is 6.5%, second case 10% and the third case 14.6%. Also, to remind you
+that this submerged area has different land use, land cover categories. What we call useful
+land is vegetated land, settlement and agricultural land that is useful land. So how much
+useful land will be lost? Remember we do not worry about water bodies and we do not
+worry about barren land. It is the useful land that is important because that will have both
+environmental as well as social impacts. Vegetations are villages and when they are
+submerged the people who live in those villages will have to be rehabilitated, they will
+have to be resettled in some other areas and vegetation is basically your forested areas or
+lower vegetation as well. So, if that vegetation is lost that is also useful land area that is
+lost. So, this useful land area is a major loss whenever you have a dam or a barrage project.
+So, there is a conflict between these two objectives, satisfying water demand and loss of
+useful land. So, finding a compromise between these two conflicting objectives is always
+very difficult. The alternative that was finally proposed was 4.5 m which satisfies 8.25 %
+of the total annual demand and submerges 770 hectares of useful land.
+How can we mitigate these impacts? So, submergence like I said is a major issue. There
+are two major issues with submerged land and one is that you need to rehabilitate the
+displaced people, you have to compensate them for the land that they will lose. Many of
+them get on their livelihood from agriculture, they are farmers and they need to be provided
+land as compensation as well as for settlement. The second point is reforestation for
+recovering the forest cover. So, you are going to lose major amount of land is lost as forest
+cover. So that has to be also replaced in other areas which is not easy. And then you also
+have to remember that in a project like this you are only satisfying less than 10 % of the
+annual water demand of that region. So, you may almost come to the point of questioning
+the wisdom of having a project like this and therefore looking at other sources maybe it is
+not a good idea to have a dam project, it may be better to have tanks and ponds like
+rainwater harvesting tanks and ponds which are much smaller perhaps underground
+structures that would inhibit evaporation losses. All these kinds of options can be examined
+as design alternatives. In this particular exercise we have not examined all those
+alternatives. We have just looked at barrage height, but there are many other possible
+methods of satisfying water demand without creating a dam or a barrage. So that is
+possible.
+These are the water bodies in the Ib River basin. So, you can see that they are very small
+water bodies, they may be ponds, they may be tanks as well. So, these tanks and water
+bodies can be either they can be built better and they can be maintained better so that the
+local requirements can be met that is one option. The second option is to create some kind
+of underground network that is also another option.
+
+So, these kinds of design alternatives can be evaluated using these simple tools. I will end
+this lecture with conclusions. The major design parameter was the height of the barrage
+which helped us to determine the submerged area as well as the storage capacity of the
+barrage. Remote sensing GIS and supporting data were used successfully in a micro digital
+
+elevation model to calculate the storage capacity and the submerged area for the different
+
+barrage heights. So, three alternatives for the design height of the barrage were evaluated
+
+along with the baseline alternative. As mentioned, several times as the barrage height
+
+increases so does the storage volume, but it also results in loss of useful land due to
+
+submergence of that area. None of the three barrage heights that were examined 199, 200
+
+and 201 m from mean sea level, none of them were capable of meeting the entire total
+
+annual water demand which raises the question whether it is worth having a project like
+
+this. Based on our simulations a more reasonable alternative would be to have a barrage
+
+height of 199.5 m which would satisfy only 8.25 % of the total annual water demand and
+
+lead to submergence of approximately 770 hectares of useful land. Less than 800 hectares
+
+would  be  irrigated  with  this  project.
+
+This particular case study has been published and you may be able to access it perhaps on
+the internet, but this is the entire reference to that paper.
+That brings me to the end of this lecture and this course. Thank you.
+

@@ -1,0 +1,219 @@
+{
+  "mnemonics": [
+    {
+      "id": "see-trilemma",
+      "title": "Energy trilemma SEE",
+      "expansion": "Security, Equity, Environmental sustainability",
+      "hook": "Healthy grids must SEE clearly.",
+      "week": 5
+    },
+    {
+      "id": "waste-hierarchy",
+      "title": "Waste hierarchy PRRRD",
+      "expansion": "Prevent > Reuse > Recycle > Recover > Dispose",
+      "hook": "Please Reduce Really Revolting Dumps.",
+      "week": 9
+    },
+    {
+      "id": "four-rs",
+      "title": "4Rs",
+      "expansion": "Reduce, Reuse, Recycle, Recover",
+      "hook": "Source reduction sits at the throne.",
+      "week": 9
+    },
+    {
+      "id": "ipat",
+      "title": "IPAT",
+      "expansion": "Impact = Population x Affluence x Technology",
+      "hook": "I Pat the planet harder as P, A, T rise.",
+      "week": 1
+    },
+    {
+      "id": "betz-1627",
+      "title": "Betz 16/27",
+      "expansion": "Max CP = 16/27 ~ 59%",
+      "hook": "Sixteen over twenty-seven -- wind hard ceiling.",
+      "week": 5
+    },
+    {
+      "id": "ghg-five",
+      "title": "Five GHG names",
+      "expansion": "CO2, CH4, N2O, CFCs, H2O vapor",
+      "hook": "Carbon Methane Nitro CFC Water -- trapping IR.",
+      "week": 4
+    },
+    {
+      "id": "acts-timeline",
+      "title": "India Acts timeline W-A-E-N",
+      "expansion": "Water 1974, Air 1981, EPA 1986, NGT 2010",
+      "hook": "Wet Air envelops Environment; then green Tribunal.",
+      "week": 12
+    },
+    {
+      "id": "usle",
+      "title": "USLE factors",
+      "expansion": "A = R K LS C P",
+      "hook": "Rain Kills Loose Soil; Cover and Practice save it.",
+      "week": 11
+    },
+    {
+      "id": "bbb-tox",
+      "title": "BCF trio",
+      "expansion": "Bioconcentration (vs water), Bioaccumulation (in body), Biomagnification (up food chain)",
+      "hook": "Water -> Body -> Bigger predators.",
+      "week": 11
+    },
+    {
+      "id": "sdg-env",
+      "title": "Env-heavy SDGs",
+      "expansion": "6 water, 7 energy, 11 cities, 12 SCP, 13 climate, 14 oceans, 15 land",
+      "hook": "6-7-11-12-13-14-15 green spine.",
+      "week": 2
+    },
+    {
+      "id": "noise-6db",
+      "title": "Inverse square -6 dB",
+      "expansion": "Point source: double distance -> -6 dB",
+      "hook": "Twice as far, six dB quieter.",
+      "week": 10
+    },
+    {
+      "id": "wqi-do",
+      "title": "NSF-WQI top weight",
+      "expansion": "DO weight 0.17 (highest)",
+      "hook": "Dissolved Oxygen Dominates the index.",
+      "week": 8
+    },
+    {
+      "id": "ocean-rank",
+      "title": "Ocean potential rank",
+      "expansion": "OTEC >> Wave >> Tidal (TWh/y)",
+      "hook": "OTEC is an Ocean Titan; Tide is Tiny.",
+      "week": 6
+    },
+    {
+      "id": "circular",
+      "title": "Linear vs Circular",
+      "expansion": "Take-Make-Waste vs Borrow-Use-Return",
+      "hook": "Do not take forever -- borrow and bring back.",
+      "week": 7
+    }
+  ],
+  "memoryPalace": {
+    "title": "Week 12 Law Path",
+    "steps": [
+      {
+        "order": 1,
+        "cue": "Village gate -- Bishnoi and Khejri",
+        "fact": "Community forest ethos; sacrifice legacy for trees precedes modern statutes."
+      },
+      {
+        "order": 2,
+        "cue": "Himalayan trail -- Chipko 1973",
+        "fact": "Tree-hugging movement; Bahuguna marches; Right Livelihood Award 1987."
+      },
+      {
+        "order": 3,
+        "cue": "Western Ghats fork -- Appiko 1982-83",
+        "fact": "Southern echo of Chipko forest protection."
+      },
+      {
+        "order": 4,
+        "cue": "River bridge -- Water Act 1974",
+        "fact": "CPCB/SPCBs; prevent/control water pollution; wholesomeness of water."
+      },
+      {
+        "order": 5,
+        "cue": "Smokestack -- Air Act 1981 (am. 1987)",
+        "fact": "Consent for listed industries; ambient pollutant limits."
+      },
+      {
+        "order": 6,
+        "cue": "Umbrella pavilion -- EPA 1986 (am. 1991)",
+        "fact": "Central powers to protect environment; parent of many Rules."
+      },
+      {
+        "order": 7,
+        "cue": "Rule book stalls",
+        "fact": "HW 1989, BMW 1998, Fly ash 1999, MSW 2000/2016, Batteries 2001, Plastic and E-waste 2011, C&D 2016."
+      },
+      {
+        "order": 8,
+        "cue": "Green tribunal hall -- NGT 2010",
+        "fact": "Natural justice; aim dispose in 6 months; Delhi + Bhopal, Pune, Kolkata, Chennai."
+      },
+      {
+        "order": 9,
+        "cue": "Courtroom of PILs",
+        "fact": "Landmark environmental judgments (incl. M.C. Mehta line) drive policy and education mandates."
+      },
+      {
+        "order": 10,
+        "cue": "EIA desk at exit",
+        "fact": "Rapid EIA case: predict impacts, consult, condition clearances before build."
+      }
+    ]
+  },
+  "compareHooks": [
+    {
+      "id": "weather-climate",
+      "pair": "Weather vs Climate",
+      "hook": "Weather is today's outfit; climate is the wardrobe over 30 years.",
+      "week": 4
+    },
+    {
+      "id": "geo-exp",
+      "pair": "Geometric vs Exponential growth",
+      "hook": "Geometric steps yearly; exponential grows every instant -- e^(rn) wins.",
+      "week": 1
+    },
+    {
+      "id": "primary-secondary",
+      "pair": "Primary vs Secondary air pollutants",
+      "hook": "Primary exits the stack; secondary is cooked in sunlight.",
+      "week": 3
+    },
+    {
+      "id": "kyoto-paris",
+      "pair": "Kyoto vs Paris",
+      "hook": "Kyoto bound Annex I; Paris asks every nation for NDCs.",
+      "week": 4
+    },
+    {
+      "id": "open-closed-otec",
+      "pair": "Open vs Closed OTEC",
+      "hook": "Open boils seawater; closed boils ammonia-like fluid.",
+      "week": 6
+    },
+    {
+      "id": "point-line-noise",
+      "pair": "Point vs Line noise",
+      "hook": "Point loses 6 dB per double distance; road line loses ~3.",
+      "week": 10
+    },
+    {
+      "id": "act-rules",
+      "pair": "Act vs Rules",
+      "hook": "Act says WHAT; Rules say HOW.",
+      "week": 12
+    },
+    {
+      "id": "ef-biocap",
+      "pair": "Footprint vs Biocapacity",
+      "hook": "Footprint is shopping bill; biocapacity is paycheck from nature.",
+      "week": 1
+    },
+    {
+      "id": "bod-cod",
+      "pair": "BOD vs COD",
+      "hook": "BOD = bugs oxygen appetite; COD = chemical oxidant appetite (usually >= BOD).",
+      "week": 8
+    },
+    {
+      "id": "mit-adapt",
+      "pair": "Mitigation vs Adaptation",
+      "hook": "Mitigation turns down the stove; adaptation learns to live with the heat.",
+      "week": 4
+    }
+  ]
+}

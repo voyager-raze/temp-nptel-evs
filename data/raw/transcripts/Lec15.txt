@@ -1,0 +1,402 @@
+                                            Environmental Science
+                             Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                               Indian Institute of Technology Kharagpur
+
+                                                     Week 03
+                                      (Lecture 05): AIR POLLUTION
+                    (Global Issues & Mitigation Measures, Indoor Air Quality)
+
+Welcome to lecture 5 of week 3 of the NPTEL online certification course on Environmental
+Science. Now, in this concluding lecture on air pollution, we will be learning about the global
+issues pertaining to air pollution and we will also learn about indoor air pollution
+So specifically, in this lecture, we will be learning about stratospheric ozone depletion and how
+we can mitigate stratospheric ozone depletion. We will also learn about indoor air pollution in the
+context of its sources, effects, and control strategies. So, at the end of this lecture, you should be
+able to distinguish between ozone depletion and the ozone hole. You should be able to define the
+ozone-depleting substances, and you should also be able to explain the importance of the Montreal
+Protocol. And finally, you should also be able to identify indoor air pollutants in your home. So
+far, we have seen those environmental pollutants, particularly air pollutants, can have different
+impacts at local, regional, and global scales. So, at the local scale, we studied photochemical smog;
+at the regional scale, we studied transboundary haze pollution and acid deposition.
+
+Ozone is a gas that is naturally present in our atmosphere. Ozone is found primarily in two regions
+of the atmosphere. About 10% of the Earth's ozone is in the troposphere, which extends from the
+surface to about 10­15 kilometers altitude. In the troposphere, ozone is formed by a series of
+chemical reactions that involve naturally occurring gases as well as those from sources of air
+pollution.
+About 90% of Earth's ozone resides in the stratosphere, the region of the atmosphere between the
+top of the troposphere and about 50 kilometers altitude. Stratospheric ozone is formed naturally
+by chemical reactions involving solar ultraviolet radiation (sunlight) and oxygen molecules, which
+make up about 21% of the atmosphere. In the first step, solar ultraviolet radiation breaks apart one
+oxygen molecule (O2) to produce two oxygen atoms. In the second step, each of these highly
+reactive oxygen atoms combines with an oxygen molecule to produce an ozone molecule (O3).
+These reactions occur continually whenever solar ultraviolet radiation is present in the
+stratosphere. As a result, the largest ozone production occurs in the tropical stratosphere.
+The production of stratospheric ozone is balanced by its destruction in chemical reactions. Ozone
+reacts continually with sunlight and a wide variety of natural and human-produced chemicals in
+the stratosphere. In each reaction, an ozone molecule is lost and other chemical compounds are
+produced. Important reactive gases that destroy ozone are hydrogen and nitrogen oxides and those
+containing chlorine and bromine. Some stratospheric ozone is regularly transported down into the
+troposphere and can occasionally influence ozone amounts at Earth's surface.
+Ozone in the stratosphere absorbs a large part of the Sun's biologically harmful ultraviolet
+radiation. Stratospheric ozone is considered "good" ozone because of this beneficial role. In
+contrast, ozone formed at Earth's surface in excess of natural amounts is considered "bad" ozone
+because it is harmful to humans, plants, and animals.
+
+The total ozone column at any location on the globe is defined as the sum of all the ozone in the
+atmosphere directly above that location. Most ozone resides in the stratospheric ozone layer and a
+small percentage (about 10%) is distributed throughout the troposphere. Total ozone column
+values are often reported in Dobson units denoted as "DU." Typical values vary between 200 and
+500 DU over the globe, with a global average abundance of about 300 DU. The quantity of ozone
+molecules required for total ozone to be 300 DU could form a layer of pure ozone gas at Earth's
+surface having a thickness of only 3 millimeters (0.12 inches), which is about the height of a stack
+of 2 common coins. It is remarkable that a layer of pure ozone only 3 millimeters thick protects
+life on Earth's surface from harmful UV radiation emitted by the Sun.
+
+Total ozone varies strongly with latitude over the globe, with the largest values occurring at middle
+and high latitudes during most of the year. This distribution is the result of the large-scale
+circulation of air in the stratosphere that slowly transports ozone from the tropics, where ozone
+production from solar ultraviolet radiation is highest, toward the poles. Ozone accumulates at
+middle and high latitudes, increasing the vertical extent of the ozone layer and, at the same time,
+total ozone. Values of total ozone are generally smallest in the tropics for all seasons.
+
+The part of the stratosphere with the highest amount of ozone is commonly referred to as the
+"ozone layer".
+The abundance of ozone in the atmosphere is measured by a variety of techniques. The techniques
+make use of ozone's unique optical and chemical properties. There are two principal categories of
+measurement techniques: local and remote.
+
+Local measurements of the atmospheric abundance of ozone are those that require air to be drawn
+directly into an instrument. Once inside an instrument's detection chamber, the amount of ozone
+is determined by measuring the absorption of ultraviolet (UV) light or by the electrical current or
+light produced in a chemical reaction involving ozone.
+
+Remote measurements of total ozone amounts and the altitude distributions of ozone are obtained
+by detecting ozone at large distances from the instrument. Most remote measurements of ozone
+rely on its unique absorption of UV radiation. Sources of UV radiation that can be used are the
+Sun, lasers, and starlight. For example, satellite instruments use the absorption of solar UV
+radiation by the atmosphere or the absorption of sunlight scattered from the surface of Earth to
+measure ozone over nearly the entire globe on a daily basis.
+Ozone depletion describes two distinct but related phenomena observed since the late 1970s: (1) a
+steady decline in the total amount of ozone in earth's stratosphere (i.e., the ozone layer), and (2) a
+much larger springtime decrease in stratospheric ozone around earth's polar regions. The latter
+phenomenon is referred to as the ozone hole. The details of ozone-hole formation in the polar differ
+from those of mid-latitude thinning, but the most important process in both the cases is catalytic
+destruction of ozone by atomic halogens. The main source of these halogen atoms in the
+stratosphere is photodissociation of man-made halocarbon refrigerants, solvents, propellants and
+foam-blowing agents (including chlorofluorocarbons (CFCs) and others). These compounds are
+transported into the stratosphere by winds after being emitted at the surface. Both types of ozone
+depletion increase as the emissions of halocarbons increase.
+The stratospheric ozone depletion process begins with the emission of halogen source gases by
+human activities and natural processes. These compounds have at least one carbon and one halogen
+atom, causing them to be chemically stable and leading to common use of the term halocarbon, an
+abbreviation for halogen and carbon.
+
+Emitted source gases accumulate in the lower atmosphere (troposphere) and are transported to the
+stratosphere by natural air motions. The accumulation occurs because most source gases are highly
+unreactive in the lower atmosphere. Some halogen gases are emitted in substantial quantities from
+natural sources. These emissions also accumulate in the troposphere, are transported to the
+stratosphere, and participate in ozone destruction reactions. These naturally emitted gases are part
+of the natural balance of ozone production and destruction that predates the large release of
+manufactured halogenated gases.
+
+Halogen source gases do not react directly with ozone. Once in the stratosphere, halogen source
+gases are chemically converted to reactive halogen gases by ultraviolet radiation from the Sun.
+The rate of conversion is related to the atmospheric lifetime of a gas, which is usually about 1 to
+100 years. Gases with longer lifetimes have slower conversion rates and survive longer in the
+atmosphere after emission. Emitted gas molecules with atmospheric lifetimes greater than a few
+years circulate between the troposphere and stratosphere multiple times, on average, before
+conversion occurs. The reactive gases formed from halogen source gases react chemically to
+destroy ozone in the stratosphere. After a few years, air in the stratosphere returns to the
+troposphere, bringing along reactive halogen gases. These reactive halogen gases are then removed
+from the atmosphere by rain and other precipitation or deposited on Earth's land or ocean surfaces.
+This removal brings to an end the destruction of ozone by chlorine and bromine atoms that were
+first released to the atmosphere as components of halogen source gas molecules.
+Those halogen source gases emitted by human activities are called ozone-depleting substances
+(ODSs); all ODSs contain at least one chlorine or bromine atom.
+
+ODSs containing only carbon, chlorine, and fluorine are called chlorofluorocarbons, usually
+abbreviated as CFCs. The principal CFCs are CFC-11 (CCl3F), CFC-12 (CCl2F2), and CFC-113
+(CCl2FCClF2). CFCs, along with carbon tetrachloride (CCl4) and methyl chloroform (CH3CCl3),
+historically have been the most important chlorine-containing halogen source gases emitted by
+human activities. These and other chlorine-containing ODSs have been used in many applications,
+including refrigeration, air conditioning, foam blowing, spray can propellants, and cleaning of
+metals and electronic components.
+
+Another category of ODSs contains bromine. The most important of these gases are the halons and
+methyl bromide (CH3Br). Halons are a group of industrial compounds that contain at least one
+bromine and one carbon atom; halons may or may not contain a chlorine atom. Halons were
+originally developed to extinguish fires and were widely used to protect large computer
+installations, military hardware, and commercial aircraft engines. As a consequence, upon use
+halons are released directly into the atmosphere. Halon-1211 and halon-1301 are the most
+abundant halons emitted by human activities.
+
+Then, another bromine containing ODSs is methyl bromide, which is used primarily as a fumigant
+for pest control in agriculture and disinfection of export shipping goods, and also has significant
+natural sources.
+These compounds undergo little or no chemical loss within the troposphere, and accumulate until
+transported to the stratosphere. Subsequent steps are conversion of ODSs to reactive halogen gases,
+chemical reactions that remove ozone, and eventual removal of the reactive halogen gases.
+
+The chlorine- and bromine-containing gases that enter the stratosphere arise from both human
+activities and natural processes. When exposed to ultraviolet radiation from the Sun, these halogen
+source gases are converted to a number of reactive halogen gases. These more reactive gases
+contain all of the chlorine and bromine atoms originally present in the source gases. The most
+important reactive chlorine- and bromine-containing gases that form in the stratosphere are shown
+here. Throughout the stratosphere, the most abundant are typically hydrogen chloride (HCl) and
+chlorine nitrate (ClONO2). These two gases are considered important reservoir gases because,
+while they do not react directly with ozone, they can be converted to the reactive forms that do
+chemically destroy ozone.
+The most reactive forms are chlorine monoxide (ClO) and bromine monoxide (BrO), and chlorine
+and bromine atoms (Cl and Br). A large fraction of total reactive bromine is generally in the form
+of BrO, whereas usually only a small fraction of total reactive chlorine is in the form of ClO. The
+special conditions that occur in the polar regions during winter cause the reservoir gases HCl and
+ClONO2 to undergo nearly complete conversion to ClO.
+Now, the reactive halogen gases participate in three principal reaction cycles that destroy ozone.
+
+Cycle 1 illustrated here is made up of two basic reactions: Cl + O3 and ClO + O. The net result of
+Cycle 1 is to convert one ozone molecule and one oxygen atom into two oxygen molecules. The
+cycle can be considered to begin with either ClO or Cl. When starting with ClO, the first reaction
+is ClO with O to form Cl and O2. Then, Cl reacts with O3 and re-forms ClO, consuming O3 in the
+process and forming another O2. The net or overall reaction is that of atomic oxygen (O) with
+ozone (O3), forming two oxygen molecules (O2). The cycle then begins again with another
+reaction of ClO with O. Chlorine is considered a catalyst for ozone destruction because Cl and
+ClO are re-formed each time the reaction cycle is completed, and hence available for further
+destruction of ozone. Atomic oxygen is formed when solar ultraviolet (UV) radiation reacts with
+O3 and O2 molecules. For typical stratospheric conditions at middle or low latitudes, a single
+chlorine atom can destroy thousands of ozone molecules before it happens to react with another
+gas, breaking the catalytic cycle. During the total time of its stay in the stratosphere, a chlorine
+atom can thus destroy many thousands of ozone molecules.
+The abundance of ClO is greatly increased in polar regions during late winter and early spring,
+relative to other seasons, as a result of reactions due to special metrological conditions in those
+regions. Cycles 2 and 3 become the dominant reaction mechanisms for polar ozone loss because
+of the high abundances of ClO and the relatively low abundance of atomic oxygen (which limits
+the rate of ozone loss by Cycle 1). Cycle 2 begins with the self-reaction of ClO. Cycle 3, which
+begins with the reaction of ClO with BrO, has two reaction pathways that produce either Cl and
+Br or BrCl. The net result of both cycles is to destroy two ozone molecules and create three oxygen
+molecules. Cycles 2 and 3 account for most of the ozone loss observed in the stratosphere over the
+Arctic and Antarctic regions in the late winter/early spring season. At high ClO abundances, the
+rate of polar ozone destruction can reach 2 to 3% per day.
+The severe depletion of stratospheric ozone in late winter and early spring in the Antarctic is known
+as the "ozone hole". The ozone hole appears over Antarctica because meteorological and chemical
+conditions unique to this region increase the effectiveness of ozone destruction by reactive halogen
+gases. In addition to a large abundance of these reactive gases, the formation of the Antarctic ozone
+hole requires temperatures low enough to form polar stratospheric clouds (PSCs), isolation from
+air in other stratospheric regions, and sunlight. PSCs are clouds that form when water vapor enters
+the stratosphere and when temperatures are cold enough for water vapor to condense there. During
+the winter, the high latitudes receive very little to no solar radiation, so temperatures drop
+significantly during this period, known as polar night. Under these conditions, PSCs can develop.
+Reactions on the surfaces of liquid and solid PSCs can substantially increase the relative
+abundances of the most reactive chlorine gases. These reactions convert the reservoir forms of
+reactive chlorine gases, chlorine nitrate (ClONO2) and hydrogen chloride (HCl), to the most
+reactive form, ClO. The abundance of ClO increases from a small fraction of available reactive
+chlorine to comprise nearly all chlorine that is available. With increased ClO, the catalytic cycles
+involving ClO and BrO become active in the chemical destruction of ozone whenever sunlight is
+available.
+Severe depletion of the Antarctic ozone layer was first reported in the mid-1980s. Antarctic ozone
+depletion is seasonal, occurring primarily in late winter and early spring (August­November).
+Peak depletion occurs in early October when ozone is often completely destroyed over a range of
+stratospheric altitudes, thereby reducing total ozone by as much as two-thirds at some locations.
+This severe depletion creates the "ozone hole" apparent in images of Antarctic total ozone acquired
+using satellite instruments. In most years the maximum area of the ozone hole far exceeds the size
+of the Antarctic continent.
+
+Here, the total ozone values are shown for high southern latitudes between 21 and 30 September
+2017 as measured by a satellite instrument. The dark blue and purple regions over the Antarctic
+continent show the severe ozone depletion or "ozone hole". Minimum values of total ozone inside
+the ozone hole are close to 150 Dobson units (DU) compared with Antarctic springtime values of
+about 350 DU observed in the early 1970s. The area of the ozone hole is usually defined as the
+geographical region within the 220-DU contour (see white line) on total ozone maps. The
+maximum values of total ozone in the Southern Hemisphere in late winter/early spring are
+generally located in a crescent-shaped region that surrounds and is isolated from the ozone hole,
+due to stratospheric winds at the boundary of the polar vortex. In late spring or early summer
+(November­December), these atmospheric winds weaken and the ozone hole disappears due to
+the transport of ozone-enriched air masses towards the pole.
+Significant depletion of ozone has been observed in the Arctic stratosphere in recent decades.
+However, Arctic ozone depletion is less severe than that observed in the Antarctic and exhibits
+larger year-to-year differences as a consequence of the highly variable meteorological conditions
+found in the Arctic polar stratosphere. Even the most severe Arctic ozone depletion does not lead
+to total ozone amounts as low as those seen in the Antarctic, because Arctic ozone abundances
+during early winter before the onset of ozone depletion are much larger than those in the Antarctic.
+Stratospheric ozone is considered good for humans and other life forms because it absorbs
+ultraviolet (UV) radiation from the Sun. If not absorbed, high energy UV radiation would reach
+Earth's surface in amounts that are harmful to a variety of life forms. The Sun emits three types of
+UV radiation: UV-C (100 to 280 nanometer (nm) wavelengths); UV-B (280 to 315 nm), and UV-
+A (315 to 400 nm). Exposure to UV-C radiation is particularly dangerous to all life forms.
+Fortunately, UV-C radiation is entirely absorbed within the ozone layer. Most UV-B radiation
+emitted by the Sun is absorbed by the ozone layer; the rest reaches Earth's surface.
+
+The depletion of stratospheric ozone leads to an increase in the UV-B component of the Sun's
+radiation reaching the Earth's surface. In humans, increased exposure to UV-B radiation raises the
+risks of skin cancer and cataracts, and suppresses the immune system. Exposure to UV-B radiation
+before adulthood and cumulative exposure are both important health risk factors. Excessive UV-
+B exposure also can damage terrestrial plant life, including agricultural crops, single-celled
+organisms, and aquatic ecosystems. Low energy UV radiation, UV-A, which is not absorbed
+significantly by the ozone layer, causes premature aging of the skin.
+In 1985, a treaty called the Vienna Convention for the Protection of the Ozone Layer was signed
+by 28 nations in Vienna. The signing nations agreed to take appropriate measures to protect the
+ozone layer from human activities. The Vienna Convention was a framework agreement that
+supported research, exchange of information, and future protocols. In response to growing
+concern, the Montreal Protocol on Substances that Deplete the Ozone Layer was signed in 1987
+and, following ratification, entered into force in 1989. The Protocol has been successful in
+establishing legally binding controls for developed and developing nations on the production and
+consumption of halogen source gases known to cause ozone depletion. Halogen source gases
+containing chlorine and bromine controlled under the Montreal Protocol are referred to as ozone-
+depleting substances (ODSs). National consumption of an ODS is defined as production plus
+imports of the controlled substance, minus exports of the substance. The Protocol provisions are
+structured for developed countries to act first and for developing countries to follow with some
+financial assistance. In 2009, the Montreal Protocol became the first multilateral environmental
+agreement to achieve universal ratification.
+
+The Montreal Protocol protects the ozone layer through control of the global production and
+consumption of ozone-depleting substances (ODSs). Equivalent effective stratospheric chlorine
+(EESC) is a quantity that represents the abundance of halogens available for ozone depletion in
+the stratosphere. Values of EESC are based upon either analysis of surface observations of ODSs
+or projections of future abundances of ODSs. Projections of EESC for the midlatitude lower
+stratosphere (about 19 km altitude) are shown separately for: no Protocol provisions; the provisions
+of the original 1987 Montreal Protocol and some of its subsequent Amendments and Adjustments;
+and zero emissions of ODSs starting in 2020. The city names and years indicate where and when
+changes to the original 1987 Protocol provisions were agreed upon. Without the Protocol, EESC
+values would have increased significantly in the 21st century, leading to large amounts of ozone
+depletion throughout the world, including over highly populated regions.
+
+The Montreal Protocol and its Amendments and Adjustments have been very successful in
+reducing the atmospheric abundance of ozone-depleting substances (ODSs). The overall
+abundance of ozone-depleting substances (ODSs) in the atmosphere has been decreasing for the
+past two decades. If the nations of the world continue to comply with the provisions of the Montreal
+Protocol, the decrease will continue throughout the 21st century. Those gases that are still
+increasing in the atmosphere, such as halon-1301 and hydrochlorofluorocarbons (HCFCs), will
+begin to decrease in the coming decades if compliance with the Protocol continues. However, it is
+only after midcentury that the abundance of ODSs is expected to fall to values that were present
+before the Antarctic ozone hole was first observed in the early 1980s, due to the long atmospheric
+lifetime of these gases.
+Substantial recovery from the depletion of global and polar ozone caused by ozone-depleting
+substances (ODSs) is expected in the middle of this century. The recovery follows from the success
+of the Montreal Protocol in reducing the global production and consumption of ODSs. Currently,
+the atmospheric abundances of most major ODSs and the associated annual values of equivalent
+effective stratospheric chlorine (EESC) are in decline (see Q15). In contrast to the diminishing role
+of ODSs, changes in climate are expected to have an increasing influence on future levels of total
+ozone. Climate change is driven by the projected growth in the abundance of greenhouse gases
+(GHGs), primarily carbon dioxide (CO2 ), methane (CH4 ), and nitrous oxide (N2O). Rising
+abundances of GHGs will lead to changes in temperature, chemistry, and the circulation of the
+stratosphere, all of which affect ozone. Chemistry-climate models can be used to project how
+ozone is expected to respond to changes in ODSs and climate in particular geographical regions
+during the recovery period. Global events, such as major volcanic eruptions or actions to mitigate
+global warming by geoengineering, may also influence future ozone levels.
+Worldwide, around 2.4 billion people still cook using solid fuels (such as wood, crop waste,
+charcoal, coal and dung) and kerosene in open fires and inefficient stoves (1). Most of these people
+are poor and live in low- and middle-income countries. There is a large discrepancy in access to
+cleaner cooking alternatives between urban and rural areas: in 2020, only 14% of people in urban
+areas relied on polluting fuels and technologies, compared with 52% of the global rural population.
+
+Household air pollution is generated by the use of inefficient and polluting fuels and technologies
+in and around the home that contains a range of health-damaging pollutants, including small
+particles that penetrate deep into the lungs and enter the bloodstream. In poorly ventilated
+dwellings, indoor smoke can have levels of fine particles 100 times higher than acceptable.
+Exposure is particularly high among women and children, who spend the most time near the
+domestic hearth. Reliance on polluting fuels and technologies also require significant time for
+cooking on an inefficient device, and gathering and preparing fuel.
+Each year, 3.2 million people die prematurely from illnesses attributable to the household air
+pollution caused by the incomplete combustion of solid fuels and kerosene used for cooking (see
+household air pollution data for details). Particulate matter and other pollutants in household air
+pollution inflame the airways and lungs, impair immune response and reduce the oxygen-carrying
+capacity of the blood.
+
+Among these 3.2 million deaths from household air pollution exposure: 32% are from ischaemic
+heart diseases, 23% are from stroke, 21% are due to lower respiratory infection, 19% are from
+chronic obstructive pulmonary disease (COPD): 6% are from lung cancer. Household air pollution
+accounted for the loss of an estimated 86 million healthy life years in 2019, with the largest burden
+falling on women living in low- and middle-income countries.
+
+Almost half of all deaths due to lower respiratory infection among children under 5 years of age
+are caused by inhaling particulate matter (soot) from household air pollution.
+
+There is also evidence of links between household air pollution and low birth weight, tuberculosis,
+cataract, nasopharyngeal and laryngeal cancers.
+Indoor air pollution is also a serious problem in urban regions and developed countries. The figure
+here shows some typical sources of indoor air pollution in a modern home. Indoor air pollution
+usually poses a much greater threat to human health than does outdoor air pollution.
+
+Many studies have revealed some alarming facts about indoor air pollution. First, levels of these
+common pollutants generally are two to five times higher inside homes and commercial buildings
+than they are outdoors, and as much as 100 times higher in some cases. Second, pollution levels
+inside cars in traffic clogged urban areas can be up to 18 times higher than outside levels. Third,
+the health risks from exposure to such chemicals are magnified because most people in developed
+countries spend 70­98% of their time indoors or inside vehicles.
+
+Since 1990, indoor air pollution has been placed at the top of the list of 18 sources of cancer risk.
+It causes as many as 6,000 premature cancer deaths per year in the United States. At greatest risk
+are smokers, children younger than age 5, the elderly, the sick, pregnant women, people with
+respiratory or heart problems, and factory workers.
+
+Pesticide residues and lead particles brought in on shoes can collect in carpets, which is why some
+people remove their shoes after entering a house. Most households also use pesticides indoors at
+least once a year. And many chemicals containing potentially harmful organic solvents are found
+in paints and various sprays.
+Living organisms and their excrements can also pollute indoor air. Evidence indicates that
+exposure to allergens such as dust mites and cockroach droppings found in some homes plays an
+important role in the number of people suffering from asthma.
+Another living source of indoor air pollution is toxic airborne spores of molds (fungal growths)
+and mildew that can cause headaches and allergic reactions and aggravate asthma and other
+respiratory diseases. Some evidence suggests that spores from molds and mildew growing
+underneath houses and on inside walls are the single greatest cause of allergic reactions to indoor
+air.
+Air pollutants found in buildings have also been linked to a number of health effects, a
+phenomenon known as the sick-building syndrome (SBS). Such effects include dizziness,
+headaches, coughing, sneezing, shortness of breath, nausea, burning eyes, sore throats, chronic
+fatigue, irritability, skin dryness and irritation, respiratory infections, flu-like symptoms, and
+depression.
+According to the EPA and public health officials, the four most dangerous indoor air pollutants in
+developed countries are tobacco smoke; formaldehyde found in many building materials and
+household products; radioactive radon-222 gas, which can seep into houses from underground
+rock deposits; and particulate matter.
+
+Usually, the most effective way to improve indoor air quality is to eliminate individual sources of
+pollution or to reduce their emissions.
+Some sources, like those that contain asbestos, can be sealed or enclosed; others, like gas stoves,
+can be adjusted to decrease the amount of emissions. In many cases, source control is also a more
+cost-efficient approach to protecting indoor air quality than increasing ventilation because
+increasing ventilation can increase energy costs.
+
+Another approach to lowering the concentrations of indoor air pollutants in your home is to
+increase the amount of outdoor air coming indoors.
+
+Most home heating and cooling systems, including forced air heating systems, do not mechanically
+bring fresh air into the house. Opening windows and doors, operating window or attic fans, when
+the weather permits, or running a window air conditioner with the vent control open increases the
+outdoor ventilation rate. Local bathroom or kitchen fans that exhaust outdoors remove
+contaminants directly from the room where the fan is located and also increase the outdoor air
+ventilation rate.
+
+It is particularly important to take as many of these steps as possible while you are involved in
+short-term activities that can generate high levels of pollutants -- for example, painting, paint
+stripping, heating with kerosene heaters, cooking, or engaging in maintenance and hobby activities
+such as welding, soldering, or sanding. You might also choose to do some of these activities
+outdoors, if you can and if weather permits.
+
+There are many types and sizes of air cleaners on the market, ranging from relatively inexpensive
+table-top models to sophisticated and expensive whole-house systems. Some air cleaners are
+highly effective at particle removal, while others, including most table-top models, are much less
+so. Air cleaners are generally not designed to remove gaseous pollutants.
+
+The effectiveness of an air cleaner depends on how well it collects pollutants from indoor air
+(expressed as a percentage efficiency rate) and how much air it draws through the cleaning or
+filtering element (expressed in cubic feet per minute).
+
+Over the past few years, there has been some publicity suggesting that houseplants have been
+shown to reduce levels of some chemicals in laboratory experiments. There is currently no
+evidence, however, that a reasonable number of houseplants remove significant quantities of
+pollutants in homes and offices. Indoor houseplants should not be over-watered because overly
+damp soil may promote the growth of microorganisms which can affect allergic individuals.
+So, indoor house plants should not be over watered because overly dam soil may promote the
+growth of microorganisms which can affect allergic individuals. So, to summarize our week long
+discussion on air pollution we can say that air pollution is one of the greatest environmental risk
+to human health and well being. And contamination of the outdoor and indoor environment causes
+respiratory as well as other diseases and therefore, important sources of morbidity and mortality.
+And a key strategy for solving air pollution problems is to focus on preventing or sharply reducing
+outdoor and indoor air pollution at global, regional, local, national and individual levels. And each
+one of us has an important role to play in protecting the atmosphere that sustains life and supports
+our economies. So, with that I end our discussion on air pollution. Thank you.
+

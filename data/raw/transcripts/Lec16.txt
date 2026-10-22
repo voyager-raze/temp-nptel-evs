@@ -1,0 +1,302 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+         Week 04 (Lecture 01): CLIMATE CHANGE (Definition & Evidence)
+
+Welcome to lecture 1 of week 4 of the NPTEL online certification course on Environmental
+Science. This week, we will be learning about one of the most pressing environmental
+issues of our time that is climate change. In today's introductory lecture, we will first
+familiarize ourselves with some of the fundamental aspects of climate change. We will
+then look into how the earth's climate has changed in the past and how it is changing in the
+present. And then we will see what are the various indicators that tell beyond doubt that
+climate change is real and is actually happening.
+So, at the end of this lecture you should be able to have an understanding of the following
+terminologies that is greenhouse gases, enhanced greenhouse gas effect, global warming,
+albedo and global climate indicators. When we talk about climate change first and foremost
+it is important that we understand the difference between weather and climate.
+Now, when we talk about weather, weather is basically short-term changes in atmospheric
+variables such as temperature and precipitation in a given area over a period of hours or
+days. So, weather is a specific event for example, like a rain storm or a hot day that happens
+over a few hours or days or weeks.
+
+So, there are really several components to weather. So, that includes like rain, sunlight,
+cloud cover, hail, snow, blizzards, ice storms, thunderstorms as well as excessive heat
+waves and so on. Climate on the other hand is basically the statistical description of the
+weather conditions of a particular area that over decades to thousands of years. So, climate
+is basically the description of the long-term pattern of weather in a particular area. Now,
+when we are talking about climate we are basically looking into the averages of
+precipitation, temperature, humidity, sunshine, wind velocity as well as phenomena such
+as fog, frost, hail storms and other measures of weather that occur over a long period in a
+particular place. Now, the minimum period that is usually considered is 3 decades. Now,
+we all know that life on earth actually depends on energy coming from the sun and half the
+solar radiation that reaches the earth's surface, it only reaches after passing through the air
+and clouds and once it is reaches the surface the earth surface absorbs some of the radiation
+and then radiates it back in the form of infrared heat.
+
+Now, in our atmosphere, apart from nitrogen and oxygen, there are certain unique gases.
+Why I am calling them unique? Because these gases actually allow the incoming solar
+radiation to pass through, but they do not allow the outgoing infrared radiation from the
+earth's surface to escape into space that is they basically absorb the heat almost 90 percent
+of the heat is absorbed by these gases and then re radiate it in all directions including
+downwards . So, these gases we call it as the greenhouse gases and the effect that is being
+created by these greenhouse gases is called the greenhouse effect which is because it is
+quite similar to the phenomena that happens in a greenhouse. Now, there are 5 major gases
+that contribute to the greenhouse effect, these are basically carbon dioxide, methane,
+nitrous dioxide, chlorofluorocarbons and water vapor. Now among these 5-carbon dioxide,
+methane and nitrous oxide they occur naturally in the earth's atmosphere.
+Chlorofluorocarbon on the other hand is actually coming mostly from human activities
+whereas, water vapour although is a is the most abundant greenhouse gas, but its impact
+on climate change is not considered. Why? Because the increase in atmospheric moisture
+content happens only when the greenhouse gas effect is more. So, basically when there is
+more carbon dioxide, more methane and more nitrous oxide more warming takes place. So,
+more of water vapor is being evaporated from our oceans as well as from other water
+bodies. So, basically, we can say water vapour is more like feedback.
+
+Now, when we talk about climate change. So, climate change is basically the long-term
+shifts in temperature and weather patterns . So, basically it is long term alterations in
+temperature and weather patterns. And these shifts in temperature and weather patterns can
+actually happen either because of natural causes or due to anthropogenic activities. Now
+when we talk about natural causes, we need to understand here that the sun does not always
+shine at perpetually the same level of brightness . So, it brightens and dims slightly and it
+takes almost 11 years to complete one solar cycle. So, during one solar cycle or during any
+solar cycle, the sun actually undergoes various changes in its activity and appearance. And
+these activities have a direct influence on the earth's atmosphere as well as on the earth's
+surface, especially in terms of the incoming solar radiation. Now when we apart from the
+variation in solar activity, sometimes slight variation in the earth's orbit can also impact the
+amount of solar radiation that is received by the planet. So, these are some of the natural
+causes of climate change. But beside natural causes, we also have anthropogenic reasons
+for climate change. Now anthropogenic activities for example, CO2 emission resulting
+from direct combustion of fossil fuels like coal, oil or natural gas as well as renewable
+energy resources like biomass, which we constantly rely upon to meet our insatiable energy
+demand. So, all these can actually release significant amount of greenhouse gases mostly
+CO2 into the atmosphere. Apart from that our land use patterns, deforestation, extensive
+agriculture, natural activities all these can also contribute to the greenhouse gas emissions
+in the atmosphere. Now when excess greenhouse gas gases are emitted into the atmosphere,
+they build up in the atmosphere. So, the additional greenhouse gases in the atmosphere
+what they do, they basically amplify the greenhouse effect by several folds. So, this we call
+it as the enhanced greenhouse effect. So, this green enhanced greenhouse effect can
+actually lead to shifts in snow and rainfall patterns, as well as it can also raise the average
+temperature, as well as create more extreme climate events such as heat waves and floods.
+So, that is why we need to be concerned about climate change. In fact, as we have seen in
+week 2 of this course, the importance of climate change has also been recognized by the
+United Nations in its sustainable development agenda 2030, where climate change actually
+constitutes goal number 13 that is we are urged to take urgent action against climate change.
+
+Now let us look into more details about how about the enhanced greenhouse effect and
+why is it happening, and how is it actually changing the Earth's climate? Now, we all know
+that energy from the sun is basically the ultimate driver of climate on earth. So, the solar
+energy that is received by the earth it is dependent on how much the sun emits and the
+distance between the earth and the sun. Now, part of this sunlight what is happening is it is
+reflected directly back to space by the atmosphere, by the clouds, by our land covers, ice
+sheets, water surfaces, and so on. Then we also have aerosols in the earth's atmosphere.
+So, aerosols are nothing, but tiny particles in the earth's atmosphere and some of these
+particles can actually be coming from anthropogenic activities that is human activities. So,
+these aerosols also have the ability to reflect some of the incoming solar radiation .
+Now eventually whatever the solar radiation is reflected back to space the rest enters the
+earth's atmosphere . So, the solar energy then is absorbed by the earth and is finally, again
+returned to space as infrared radiation . So, in the process what happens is this infrared
+radiation it interacts with the whole climate system that is our atmosphere, oceans, land
+surfaces, ice sheets, and so on. So, in the process, what happens is there are certain gases,
+as I already mentioned to you. So, these gases they are forming an envelope around the
+earth surface. So, basically, they are they are like an envelope in the earth's atmosphere and
+these gases what they do they absorb this outgoing infrared radiation which is trying to
+flow upwards from the earth's surface and once they trap this outgoing ah solar infrared
+radiation, they're radiate it in all directions and including back downwards.
+So, in the so, whenever there is an optimal concentration of these greenhouse gases in the
+earth's atmosphere there is a just balance between the incoming solar radiation and the
+outgoing solar radiation. So, basically, there is an equilibrium, and therefore, we are having
+a stable climate. But today, what is happening is human activities are directly adding more
+greenhouse gases to the earth's atmosphere. So, we are releasing more carbon dioxide, more
+methane and more nitrous oxide as well as some chemically manufactured gases and these
+gases, what happens is they are adding, they are able to trap more heat that is they are
+making it it is this is making it even more effective at preventing heat from escaping into
+space.
+Now, what is then happening is, in this case, the energy that is leaving is less than the
+energy that is entering the earth's atmosphere. So, the earth continues to warm until a new
+balance is established. So, in short, the greenhouse gases emitted by human activities, what
+are they doing they are basically altering the earth's energy balance. So, they are basically
+disturbing the earth's energy balance and therefore, it is climate. So, humans are also
+affecting climate by changing the nature of the land surface for example, by clearing
+more forests then by ah through the emission of pollutants that affect the amount of amount
+as well as type of particles in the earth's atmosphere and so on. So, in this case we can say
+that climate change is basically the significant change that is happening in the weather
+patterns of the planet earth at least over a sustained period of time that is as I said to you at
+least for a period of 30 years this certain this type of change has been noticed or in fact, it
+is even more. Now, let us look into some of the additional aspects of this enhanced
+greenhouse effect. Now, as you can see over here as I already said to you, the earth's
+incoming solar radiation, which is in the form of a short-wave radiation. Now, short wave
+radiation is basically radiation that includes infrared radiation through visible light to
+ultraviolet light. So, the incoming solar radiation is mostly in the form of short-wave
+radiation and this incoming solar radiation is actually partially reflected by the atmosphere
+as well as the earth's surface because of ice sheet covers and so on. Now, the remaining
+radiation is basically absorbed by the earth's surface, especially the continents, oceans, the
+troposphere, which is the lower part of the earth's atmosphere. So, they all absorb the
+remaining solar radiation. Now, then what happens is the warm earth. So, the warm earth
+then emits the infrared radiation upward in the form of long wave radiation. So, these are
+basically radiations of longer wavelength and the intensity of these long wave radiation
+depends on the atmospheric and oceanic circulation move ah depends on basically the
+atmospheric and oceanic circulation ah moves that is how much they are able to move
+and ah absorb the heat about . So, thereafter what happens is the remaining of the long
+wave radiation is trying to is escape, but it is actually trapped by these greenhouse gases
+that are present in the earth's atmosphere and these greenhouse gases they then re radiate
+this infrared radiation in all directions including downwards. Now apart from that what
+you need to also understand that this incoming solar radiation is actually reflected into the
+space by the not only by the atmosphere, but also by the clouds. So, these we call it as
+albedo. Now, albedo is basically the fraction of solar radiation that is reflected by a surface
+or an object . So, the amount of cloud cover definitely therefore, determines the amount
+of amount of solar radiation that will be reflected back to space. Similarly, we also have
+aerosols as I said they are tiny particles which are found in the earth's atmosphere as a
+result of natural causes as well as due to human activities. So, these aerosols are also able
+to reflect some of the incoming solar radiation. Then we also have something called surface
+albedo because our forest covers as well as our deserts, they are either darker or clearer
+than average. So, they are also able to absorb or reflect some of the incoming solar radiation
+and so, does our ice covers and snow covers which are usually lighter in color and therefore,
+they will be reflecting the incoming solar radiation. And among the various greenhouse
+gases so, once this ah so, as I mentioned to you so, incoming solar radiation is therefore,
+reflected back into space because of atmospheric albedo as well as because of surface
+albedo. And the remaining incoming solar radiation is absorbed by the earth and then the
+warm earth is actually releasing the absorption or absorbed heat in the form of infrared
+rays. Now these infrared rays are then directly trapped by various greenhouse gases which
+include the carbon dioxide, methane, nitrous oxide as well as fluorinated gases. So, carbon
+dioxide as I mentioned to you carbon dioxide can be coming from the natural carbon cycle
+as well as due to anthropogenic activities such as burning of fossil fuels. Methane is also
+naturally present in the earth's atmosphere, but it can also come from other human activities
+for example, agricultural practices, land change in land use patterns as well as fossil fuel
+exploration, natural ah gas transport and use as well as ah decomposition of waste in land
+fields and so on. Then we have nitrous oxide which also comes mostly from the use of
+fertilizers. Then we have fluorinated gases which comes from the use of refrigerants and
+then we also have something called enablers. So, enablers are basically carbon monoxide
+and ah NOx. So, carbon monoxide and NOx, as we have seen in the last week, they are
+basically products of incomplete combustion of fossil fuels. And although they are not
+directly greenhouse gases, but they are able to increase the concentration of greenhouse
+gases indirectly. And apart from that as I already mentioned to you, when the earth's
+surface warms up, a significant amount of moisture actually evaporates from our oceans as
+well as water bodies. So, more and more water vapor are added to the earth's atmosphere
+which also amplifies the greenhouse effect along with other greenhouse gases. So, water
+vapor again as I said to you, we can consider it as more of a as feedback to climate change.
+Now, climate change is nothing new nor unusual. So, in fact, the earth's climate has
+changed throughout history and as you can see in this graph over here. So, this is basically
+some data taken from an icecore. So, over here you can see that in the last 800,000 years
+basically there have been at least 8 cycles of ice ages and warmer periods. So, these freezing
+and thawing cycles we refer to them as glacial and interglacial periods. And if you look
+into this last 10,000 years. So, in this last approximately last 10,000 years we have had the
+privilege to have a fairly stable climate. So, it is during this time that humans civilized
+human civilization flourished and agriculture came into existence cities grew and so on.
+And in fact, for the past 1000 years as you can see the average temperature of the
+atmosphere has remained almost stable, but it has started rising during the last century.
+Why, because people have started began clearing more forest and burning fossil fuels. So,
+specially since the start of the industrial revolution we have been burning more and more
+fossil fuels clearing forests and so on.
+Now before we look into that in a greater detail, you must be curious to know like how do
+we get such, how do we determine such past temperatures from ice cores. So, when we
+have to determine such past temperatures or we have to come up with the temperature
+profile of the earth in the distant past, we basically look into ice cores and not into
+geological records. So, basically what we are we do is we extract ice cores from. So, we
+drill out glaciers and we basically extract cylindrical sections of ice cores, as you can see
+in the picture over here. So, over here, we are basically we extract out such cylindrical
+sections of ice cores and then in those cylindrical sections of ice, we analyze the tiny air
+bubbles that are trapped in those ice cores. So, each section of ice cores actually represents
+many thousands of years of snow accumulation. So, the addition of snow each year what
+it does it is bearing the snow that is already underlying there and over time it come they
+are compressed into a glacier ice. So, each layer of an ice is then derived that if the so, each
+layer of ice that we are deriving from the ice cores it is basically ah it is basically snow that
+fell on the earth in the past . So, each layer can be considered as a time capsule. So, that
+contains information about the about the characteristics of the earth's atmosphere in the
+past basically what was the greenhouse gas concentration, what was the temperature and
+so on. So, analysis of this data as well as with the help of climate models and so on we are
+able to predict how, what was the earth's temperature like in the past. So, as you can see
+in the picture over here. So, this is basically a layer of an ice core which is having several
+tiny air bubbles trapped. So, scientists basically analyze these air bubbles which tell them
+the concentration of greenhouse gases as well as other factors that are there, for example,
+the solar activity that used to be there during that period of time, snowfall, forest fire
+frequency and so on. So, different kinds of information can actually be derived from the
+analysis of such ice core trapped air bubbles.
+Now, coming back to our discussion. So, when we look into it. So, now, compiling or
+measuring data or measuring data pertaining to the global average surface temperature it
+actually requires millions of measurements from various regions of the earth. So, it requires
+basically measurements from land stations, ships, as well as from as well as from satellites
+and in spite of the complexity that is associated in getting such in doing such measurements
+several independent teams have actually concluded separately and unanimously that the
+global average surface temperature of the earth has actually increased by about 1 degree
+since the 1900s. So, over here basically we can see that the combined air and surface
+temperature has actually increased at an average rate of 0.08 degree per decade since 1880.
+So, basically after the start of the industrial revolution. So, after the start of the industrial
+revolution when we have started going for burning of more fossil fuels, more deforestation,
+and so on. So, we can see that there has been a gradual increase in the temperature of the
+earth's surface and each of the last 4 decades has actually been warmer than any other
+decade in the instrumental record since 1850. So, is this just the only trend that or only
+aspect that tells us that climate change is happening or basically the planet is warming up
+well definitely not there are several other changes that are consistent with an increase in
+global temperature and such changes have been observed in many other components of the
+climate system.
+So, as you can see over here, mountain glaciers, they actually have been shrinking and
+contributing to the global sea level rise. Then, the Greenland and the West Antarctic ice
+sheets they also have both lost ice since 1990 and that has also contributed to sea level rise.
+So, both Greenland and the West Antarctic ice sheets so their thickness have significantly
+gone down. Then the area of the Arctic Ocean that is actually covered by sea ice that has
+also decreased significantly since 1987 throughout the year and then particularly later on
+in the summers. Over there also the thickness of the Arctic ice sea ice cover has also
+decreased by more than 30 percent over the last 30 years. Then if we look into the amount
+of moisture in the earth's atmosphere that has also increased significantly which is of
+course, consistent with a warmer air. Then apart from there that there have also been
+changes in ocean currents because of increase in ocean heat content as well as changes in
+the ocean salinity. Now why there is change in ocean salinity because with more humidity
+in the earth's atmosphere some of the regions are receiving more rainfall than usual. So,
+that is actually contributing to the decrease in the salinity of the oceans. So, this increases
+in ocean heat content, as well as decrease in ocean salinity in certain places. So, they are
+impacting the ocean current and in response to the ocean these changes in ocean current.
+So, there are also certain other changes that have been observed in our oceans. And apart
+from increase in the air temperature over ocean, increase in sea surface temperature,
+increase in air temperature over land, increase in temperature of the lower atmosphere.
+There is also an increasing number of plants and animals on land as well as an ocean which
+are also undergoing shifts in their distribution as well as life cycle. So, all these are basically
+consistent with observed temperature changes. And if this is not compelling enough what
+you also need to realize is that we are having extreme changes, in we are having widespread
+changes in extreme temperatures over the last 50 years. So, over the last 50 years, we are
+seeing widespread changes in extreme temperatures. So, as you can see over the figures
+over here. So, basically cold days, cold nights and frost they have become less frequent in
+recent years, but heat waves hot nights hot days they have become more and more frequent.
+So, this again implies that of course, the atmosphere of the planet earth is warming and so
+does the surface atmosphere over here I am referring to the lower part of the earth's
+atmosphere. And apart from that it is also warming the earth's temperature surface
+temperature, the temperature of our oceans and so on . So, apart from these there is also
+heavy precipitation that is also observed in certain areas, then there is also increase in
+drought or dryness in certain areas and so on. So, all these trends conclusively suggest that
+global warming is real and is actually happening. So, to conclude today's lecture. So, what
+we saw first is basically what is climate change and how climate change is basically a
+problem related to the energy balance of the earth's atmosphere . And when once this
+energy balance is actually disrupted the climate has to be the surface temperature of the
+earth has to increase unless and until a new equilibrium is established. So, this actually is
+inducing the climate change. We then saw what are the weather what are the various other
+aspects of this climate change.
+
+So, basically, we saw that such type of climate change has also happened in the past, but
+the rate of climate change that we are experiencing now is unprecedented in human history
+. So, although the earth has undergone repeated periods of thawing and freezing, but the
+rate at which we are experiencing warming now is unprecedented. We have never before
+seen such a rate of warming before, and there are several things that are going on in our
+earth's planet system. So, basically, we saw several indicators apart from a warming surface
+temperature and warming land. So, there is more melting of ice and snow, there is more
+moisture in the atmosphere, there is more precipitation and then there is also more of
+extreme weather events. So, all these are actually hinting that the weather, the climate of
+the planet is actually set to change. So, with that we will be concluding today's lecture. In
+the next class we will be looking into ah what are the actual causes of climate change like
+how these greenhouse gases are impacting ah the climate, whether all the greenhouse gases
+have the same impact on the climate system that is does CO2 and methane do they behave
+in the same manner or do they have the same global warming potential or what is global
+warming potential. So, we will be revisiting we will be visiting these concepts. And apart
+from that we will also be learning the concepts of radiative forcing a surface for forcing
+and so on. So, with that, we conclude today's lecture, we will continue in the next lecture
+on climate change. Thank you. So, to summarize today's lecture, we have learned about
+some of the key terminologies that are associated with climate change. We then looked into
+the enhanced greenhouse gas effect basically how the earth's climate is changing and it is
+ultimately a result of the disturbance in the earth's energy balance. We also looked into
+how earth's past temperatures are determined from ice cores and what is the current trend
+in the earth's surface temperature. And we also saw that there are several indicators that
+prove beyond doubt that global warming is actually happening. So, with that I conclude
+today's lecture. In the next lecture we will look into what are the key causes behind climate
+change or rather we will look into what are the main drivers of climate change. So, with
+that I end today's lecture. Thank you.
+

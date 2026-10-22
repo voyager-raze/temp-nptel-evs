@@ -1,0 +1,1244 @@
+Week 10: Noise Pollution
+Lecture 1 ­ Sound, noise and its characteristics
+§ Noise and sound: characteristics and units
+   § Range of hearing
+   § Sound pressure
+   § The decibel scale
+   § Sound levels
+· Hearing
+· Decibels
+· Sound pressure
+· Frequency
+· Hertz
+· Noise is unwanted sound that produces undesired                      Noise and
+  physiological or psychological effects in individuals                     its
+
+    · Traffic noise, industrial and construction activities, public  characteristics
+       events
+
+· Can interfere with the social activities of individuals or groups
+
+· Sound ­ form of energy ­ unlike mass-based pollutants
+
+· Noise of sufficient intensity or duration can result in
+  permanent or temporary deafness (hearing loss)
+
+· Noise is a major occupational hazard for industrial workers
+
+· Environmental noise is due to various activities ­ mainly
+  transportation
+    · Road, rail and air transport are major contributors to
+      noise
+    · Examples of environmental costs of noise: Cost of sound-
+      proofing homes in the vicinity of airports; replacing air
+      fleet to reduce noise pollution
+The nature of sound
+
+                             Human range of
+                                  hearing
+· Sound waves need a medium to pass through unlike light
+
+· Sound waves are vibrations that pass through fluids (gases or liquids) or solids
+
+· Sound waves are alternating waves of compression and rarefaction which result in
+  local changes in air density and therefore, pressure
+
+· These pressure changes are detected by the human ear.                             Sound and
+· c = speed of sound, m/s
+
+· f = frequency = number of times a peak or trough arrives in one second of         its
+  oscillations, Hertz or Hz, s-1
+
+characteristics · Period = p = 1/f = time between two successive troughs or peaks
+
+· Amplitude = height of the peak or depth of the trough with respect to the zero
+  pressure level.
+
+· Wavelength =  = c/f = distance between two peaks or two troughs in a sinusoidal
+  sound wave
+
+p
+                                                         A
+· Simple arithmetic average of sound pressures (P) will always be zero and is of no use
+
+· Root mean square sound pressure (Prms) ­ time-weighted average ­ equation 15.3 (Davis
+  and Masten, 2009)
+
+·  Prms =  !  2        !/$
+
+           "!     
+
+· Where tm = time period of measurement                                                    Sound and
+                                                                                                its
+· Work = magnitude of displacement *component of force in the direction of
+                                                                                         characteristics
+   displacement
+
+· Sound power or energy (W) = rate at which work is done, Watts
+
+· Sound intensity, I = W/A = (Prms)2/c
+· A = unit area perpendicular to propagation of the sound wave, m2
+
+Where c = speed of sound in medium (m/s) and  = density of medium (kg/m3)
+
+· `c = 20.05  where T = absolute temperature in deg K
+
+where A = area perpendicular to direction of wave motion, m2 and
+
+ = density of medium, kg/m3
+§ Range of human hearing: 2 x 10-5 Pa to 200 Pa
+
+§ Range of hearing is 7 to 8 orders of magnitude
+
+§ Log scale for measuring these variations                                   Levels and
+§ Unit of measurement of sound = bel (after Alexander Graham Bell)           decibels
+§ L' = log (Q/Q0); L' = sound level, bels
+§ Q = measured quantity and Q0 = reference quantity
+§ Bel is divided by 10 to give decibels
+
+Several methods of measuring sound
+
+§ Sound power level = Lw = 10log (W/10-12) where reference power level = 10-12 W
+§ Sound intensity level = LI = 10log(I/10-12) where reference intensity level = 10-12 W/m2
+§ Sound pressure level (measured by instruments) =
+
+          Lp = 10log (P2rms/P2rms,0) = 20log (Prms/Prms,0)
+§ Reference pressure level = 20 microPa = 0 dB = threshold of human hearing
+The decibel scale
+
+· Decibel scale is a logarithmic scale
+· Which means a change from 10 dB to 20, 30 or 50 dB equals a change by
+
+  10 times, 100x and 10,000x
+· The way to do this is:
+· A: 10 dB = 10 log 10^1 = 1*10 log 10
+· B: 20 dB = 10 log 10^2 = 2*10 log 10 = B is 10x louder than A
+· C: 30 dB = 10 log 10^3 = 3*10 log 10 = C is 100x louder than A
+· D: 50 dB = 10 log 10^5 = 5*10 log 10 = D is 10,000x louder than A
+Sound pressure    Sound level,  Perception
+level (SPL), µPa       dB
+                                                  Threshold of hearing                       Sound Pressure
+        20              0                               Study room                                Levels
+       100              14                                 Library
+      1000              34                             Conversation                       Convert SPL to dB:
+     10,000             54                                                                Lp (dB) = 20*log[SPL-rms/SPL-rms0]
+     20,000             60                     Room with air conditioner                  Where
+     50,000             68                            Business office                     SPL-rms0 = reference SPL = 20 µPa
+    100,000             74
+    356,000             85      Loud, noisy, difficult to have a normal conversation
+    633,000             90                             Street traffic
+   2,000,000           100                             Heavy truck
+   6,325,000           110
+  35,566,000           125                         Power lawnmower
+  63,246,000           130                             Rock concert
+  200,000,000          140
+                                            Jet taking off at 100 m distance
+                                                    Threshold of pain
+
+                                              Jet engine at 25 m distance
+
+Davis and Masten, 2009. Principles of Environmental Engineering and Science, McGraw Hill
+                                          Graph for solving decibel addition problems
+
+                                     3
+
+Increments in levels to be added to                                                                  § If there are 2 sources of 50 dB each, then
+   higher levels
+                                     2.5                                                             the addition of the two gives 53 dB.
+
+                                                                                                     § If the two sources are 40 dB and 50 dB,
+
+                                     2                                                               then the addition results in 50.3 dB.
+
+                                                                                                     § If the two sources are 45 dB and 50 dB,
+
+                                                                                                                                   then the additive effect is 51.3 dB
+                                     1.5
+
+                                     1
+
+                                     0.5
+
+                                     0
+                                        0 1 2 3 4 5 6 7 8 9 10 11 12
+                                              Difference in decibels between two levels to be added
+
+Davis and Masten, 2009. Principles of Environmental Engineering and Science, McGraw Hill
+Know which noises can cause damage. Wear hearing protection when you are involved in a loud activity.
+§ 85 dB(A): Regular and prolonged exposures to noise at or above 85 dB(A) (averaged over 8 hours per day)
+
+are considered hazardous.
+
+§ 100 dB(A): Regular and prolonged unprotected exposure of more than 15 minute per day risks permanent
+
+hearing loss.
+
+§ 110 dB(A): Regular and prolonged unprotected exposure of more than 1.5 minutes per day risks permanent
+
+hearing loss.
+
+Examples of noise levels
+
+§ 194 dB Loudest possible tone                                             Levels and decibels
+§ 180 dB Rocket launch
+
+§ 165 dB 12-gauge shotgun                                                  How loud is too loud?
+§ 140 dB Jet engine at take-off
+
+§ 120 dB Ambulance siren
+
+§ 119 dB Pneumatic percussion drill
+
+§ 114 dB Hammer drill
+
+§ 108 dB Chain saw
+§ 105 dB Bulldozer, spray painter
+
+§ 103 dB Impact wrench
+
+§ 98 dB Hand drill                   Examples of sound levels in decibels
+§ 96 dB Tractor                      from various sound sources and
+§ 93 dB Belt sander                  activities, taken from the "How loud
+§ 90 dB Hair dryer/power lawn mower  is too loud" screen of the NIOSH
+§ 80 dB Ringing telephone            Sound Level Meter app
+§ 60 dB Normal conversation
+· Davis and Masten, 2009. Principles of Environmental Engineering and
+   Science, McGraw Hill
+
+· Sincero and Sincero (1996) Environmental Engineering: A Design
+   Approach. Prentice Hall
+Week 10: Noise Pollution
+Lecture 2 ­ Audiometry
+§ Measuring noise
+   § Weighting networks
+   § Audiometry
+   § Audiograms
+   § Hearing loss
+· Weighting network
+· Threshold of pain
+· Threshold of hearing
+· Octave
+· Loudness
+· Phon
+Measuring noise
+
+· Sound meters are designed to mimic human response to sound; they are called
+  sound level meters (physical and psychological) and not sound pressure meters
+  (physical) for that reason
+
+· Human response to sound is a combination of physical and psychological
+  responses
+     · A purely physical measurement would not be of much use to humans
+
+· Basic parts are microphone, amplifier, weighting network and display in dB
+
+· Weighting network = electronic filtering circuits built into sound meters to
+  cancel or attenuate certain frequencies
+
+· Every phone has all the requirements for measuring sound levels
+
+· Sound level meter apps for phones are available on the Internet and you can
+  measure sound
+                    Calibrator  Sound level meter
+
+Sound                                                                                                Sound level meter and
+source                                                                                                weighting networks
+
+        preamplifier                            Amplifier
+
+                                Weighting                                               Rectifier    Display
+                                 network                                                             meter
+
+        Microphone
+
+                                                                                        Output jack
+
+Sincero and Sincero (1996) Environmental Engineering: A Design Approach. Prentice Hall
+· Sound energy from the source is converted into electrical signals by the                   Sound level meter
+  microphone
+     · 3 types of microphones are available: condenser, crystal or piezoelectric
+        and dynamic
+
+· Pre-amplifier boosts the electrical signals from the microphone
+
+· The weighting networks modify the electrical signals accounting for human
+  response to low frequency sounds
+
+· The amplifier boosts the modified signals from the weighting networks
+
+· The rectifier converts the AC electrical signals to DC signals so that an analog
+  or digital response can be displayed in dB
+
+· The sound levels are time-weighted for fast or slow or impulse responses and
+  slow responses provide more damping of the signals when the sound
+  fluctuations are greater, i.e., the slow setting is better than the fast setting;
+  impulse sounds
+
+· The display of dB usually provides instantaneous sound levels, LAeq, Lpeak,
+  Lmax, Lavg and the readings can be integrated over variable durations of
+  time.
+
+Khoiyangbam RS and Gupta N (2015) Introduction to Environmental Sciences, TERI Press, Delhi
+                                                 Measuring
+                                                    sound
+
+By Phonical - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67405429
+· Thumbrules for measuring sound                                                             Measuring
+                                                                                               sound
+    · Sound level meter should be mounted on a tripod and operator
+      should be min 0.5 m away from edge of meter
+
+    · Outdoor measurement should be 1.2 to 1.5 m above ground
+      and min 3.5 m away from reflecting surfaces such as buildings
+
+    · Indoor sound measurements should be 1.2 to 1.5 m above floor
+      and 1.5 m away from windows and 1 m away from walls. Indoor
+      measurements should be made with windows closed.
+
+    · A demo of sound level measurements is shown next.
+
+Khoiyangbam RS and Gupta N (2015) Introduction to Environmental Sciences, TERI Press, Delhi
+Weighting networks
+
+· 3 internationally accepted weighting scales (weighting networks) to account for
+  psychological responses to sound (Sincero and Sincero, 1996):
+     · A-network: approximates human response to low intensity sound; low frequencies
+        are removed severely
+     · B-network: approximates human response to medium intensity sound; low
+        frequencies are removed moderately
+     · C-network: approximates human response to high intensity sound; negligible removal
+        of low frequencies
+
+ Sincero and Sincero (1996) Environmental Engineering: A Design Approach. Prentice Hall
+                                                           Weighting Networks
+
+By Lindosland at English Wikipedia.) (Uploads - Lindosland (talk) (Uploads)Transferred from en.wikipedia to Commons by Wdwd
+using CommonsHelper., Public Domain, https://commons.wikimedia.org/w/index.php?curid=17644425
+Problem
+
+A new type 2 sound level meter is to be tested with two pure tone sources that emit 90
+dB. The pure tones are at 1000 Hz and 100 Hz. Estimate the expected readings on the A, B,
+and C weighting networks.
+
+Solution
+
+From the figure in the previous slide, we note that the relative response (correction
+factor) for each of the weighting networks is zero for 1000 Hz. Thus for the pure tone
+at 1000 Hz we would expect the readings on the A, B, and C networks to be 90 dB.
+
+For 100 Hz in the same figure, the relative response for each weighting network
+differs. For the A network, the meter will subtract 19.1 dB from the actual reading, for
+the B network, the meter will subtract 5.6 dB from the actual reading, and for the C
+network, the meter will subtract 0.3 dB. Thus, the anticipated readings would be
+
+          A network: 90-19.1 =70.9, or 71 dB(A)
+          B network: 90-5.6 = 84.4, or 84 dB(B)
+          C network: 90-0.3= 89.7, or 90 dB(C)
+ Averaging sound pressure levels
+
+· Average sound pressure level = Lp
+· Lp = 20 log [1/N !$"# 10&!/'(]
+· With reference to 20 µPa, for i number of measurements where i ranges from 1
+
+  to N.
+· Determine average sound pressure levels for 4 readings of 38, 51, 68 and 78
+
+  dB. (Solved problem, Davis and Masten, 2009).
+    · Solution: 69 dB
+ Problems
+
+· Determine the sound level in dB for two identical sources of the
+  following sound pressure levels with reference to 20 µPa: 40, 60, 80 dB.
+    · Solution: For two sources at sound levels of 40 dB each, the sound
+       pressure level with reference to 20 µPa is 3 dB higher, i.e, 43 dB.
+       Similarly, for 60 dB, it will be 63 dB, for 80 dB, it will be 83 dB.
+
+· Solve the same problem for 3 identical sources of the same sound
+  pressure levels. What difference does adding multiple sources of the
+  same sound pressure level make?
+    · Solution: For three sources at sound levels of 40 dB each, the
+       sound pressure level with reference to 20 µPa is 3.15 dB higher, i.e,
+       43.15 dB. Similarly, for 60 dB, it will be 63.15 dB, for 80 dB, it will be
+       83.15 dB.
+                                          Graph for solving decibel addition problems
+
+                                     3
+
+Increments in levels to be added to                                                                  § If there are 2 sources of 50 dB each, then
+   higher levels
+                                     2.5                                                             the addition of the two gives 53 dB.
+
+                                                                                                     § If the two sources are 40 dB and 50 dB,
+
+                                     2                                                               then the addition results in 50.3 dB.
+
+                                                                                                     § If the two sources are 45 dB and 50 dB,
+
+                                                                                                                                   then the additive effect is 51.3 dB
+                                     1.5
+
+                                     1
+
+                                     0.5
+
+                                     0
+                                        0 1 2 3 4 5 6 7 8 9 10 11 12
+                                              Difference in decibels between two levels to be added
+
+Davis and Masten, 2009. Principles of Environmental Engineering and Science, McGraw Hill
+Audiometry and audiograms
+
+· Normal hearing and sensitivity range
+
+· Young, healthy males - 20 to 16,000 Hz
+
+· Women and children ­ 20 to 20,000 Hz
+· Speech range ­ 500 to 2000 Hz
+
+· Ear is most sensitive between 2000 to 5000 Hz
+· Threshold of hearing = 20 microPa or 0 dB
+
+· Noise analysis and control require that the noise spectra are divided into
+  octaves
+
+· Octave ­ frequency interval between a given frequency and the frequency
+  double that. So, 22 Hz to 44 Hz is the first octave followed by 44 to 88 Hz and so
+  on....(Table 15-2, Davis and Masten, 2009)
+
+· Loudness = psycho-acoustic quantity (shows relation between pressure,
+  intensity and loudness)
+
+· Phon = sound pressure level of 1000 Hz pure tone in decibels
+Table 15-2 Octave Bands
+
+Octave Frequency Geometric Mean Octave Frequency Geometric Mean
+
+Range (Hz)  Frequency (Hz) Range(Hz)          Frequency(Hz)      Octave
+                                                                 bands
+  22-44                  31.5    1400-2800     2000
+  44-88                   63     2800-5600     4000
+ 88-175                  125    5600-11,200    8000
+175-350                  250   11,200-22,400  16,000
+350-700                  500   22,400-44,800  31,500
+700-1400                 1000
+Loudness contours and                           The ANSI reference values for hearing
+threshold hearing level                                       threshold level
+
+Fletcher-Munson Equal Loudness contours (1933)           50 45
+replaced by the ISO 226:2003 revision                    40
+                                                         30
+                                                         20      27
+                                                         10
+                                                SPL, dB              13.5                        16 15.5
+                                                          0
+                                                            100            9 7.5 7.5 9  11.5 12
+
+                                                                         1000                    10000
+                                                                     Frequency, Hz
+· Davis and Masten, 2009. Principles of Environmental Engineering and
+   Science, McGraw Hill
+
+· Sincero and Sincero (1996) Environmental Engineering: A Design
+   Approach. Prentice Hall
+
+· Khoiyangbam RS and Gupta N (2015) Introduction to Environmental
+   Sciences, TERI Press, Delhi
+Week 10: Noise Pollution
+Lecture 3 ­ Effects of noise
+§ Measuring response to sound: Audiometry
+§ Hearing losses
+§ Structure of the human ear
+§ Occupational hazards due to noise
+§ Effects of sound
+· Audiogram
+· Hearing loss
+· Occupational hazard
+· Sonic boom
+· Cochlea
+ Audiometry and audiograms
+
+· Audio meters ­ sources of pure tones with variable sound
+  pressure level output into ear phones.
+
+· Audiograms are used to test temporary and permanent hearing
+  loss
+
+· Fig 15-13 (Davis and Masten, 2009): ANSI references for hearing
+  threshold levels
+
+· Fig 15-14 (Davis and Masten, 2009): audiogram showing healthy,
+  excellent hearing response ­ young, adult male
+
+· Hearing impairment
+    · Intense explosive noise can rupture eardrums
+    · More common: neural damage due to injury to hair cells (see
+      structure of ear)
+                                                                        Typical Audiogram
+
+                                                                                    In adults, normal hearing is typically defined as
+                                                                                    thresholds of 25 dB HL or lower. Thresholds of
+                                                                                    30 dB HL and above indicate hearing loss.
+                                                                                    Noise induced hearing loss is typically
+                                                                                    characterized by a "notch" in the audiogram, at
+                                                                                    4000 Hz. Typical of occupational exposures.
+
+By Christa L. Themann - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=116337043
+                                                     Structure
+                                                       of the
+
+                                                    human ear
+
+By Lars Chittka; Axel Brockmann - Perception Space--The Final Frontier, A PLoS Biology
+Vol. 3, No. 4, e137 doi:10.1371/journal.pbio.0030137 (Fig. 1A/Large version), vectorised
+by Inductiveload, CC BY 2.5,
+https://commons.wikimedia.org/w/index.php?curid=5957984
+· Pure tone testing or audiometry                                                         Types of
+                                                                                        hearing tests
+     · Non-invasive test
+
+     · Person to be tested is seated in a sound proof cabin and asked to wear
+        headphones (ear muff type)
+
+     · A series of pure tones at different loudness levels are sent to the
+        headphones and the tested person has to respond if the tones are audible
+        or not.
+
+· Acoustic reflex measures
+     · Also called middle ear muscle reflex (MEMR), tests how well the ear
+        responds to loud sounds. In normal hearing, a tiny muscle inside the ear
+        tightens when you hear loud noises. This is called the acoustic reflex. It
+        happens without you knowing it.
+
+     · During the test:
+     · The audiologist or other provider will place a soft rubber tip inside the ear.
+
+     · A series of loud sounds will be sent through the tips and recorded onto a
+        machine.
+
+     · The machine will show when or if the sound has triggered a reflex.
+
+     · If hearing loss is bad, the sound may have to be very loud to trigger a reflex,
+        or it may not trigger the reflex at all.
+
+https://medlineplus.gov/lab-tests/hearing-tests-for-adults/
+Tuning fork test                                                                               https://commons.wikimedia.org/w/index.php?curi
+· The fork is hit so that it makes a tone at the rated frequency.                                                      d=118562
+· The vibrating tuning fork is placed behind the ear or on top of the head of the person
+                                                                                                  Types of
+   to be tested.                                                                               hearing tests
+· The tested person is asked whether they can hear the sound in the left ear, right ear, or
+
+   both equally.
+· This test can also show which type of hearing loss has occurred (conductive or
+
+   sensorineural).
+
+Speech and word recognition test
+· The audiologist talks to the tested person through headphones, and asks them to
+
+   repeat a series of simple words, spoken at different volumes.
+· The tested person has to respond to the softest speech level that they can hear.
+· Some of the testing may be done in a noisy environment, because many people with
+
+   hearing loss have trouble understanding speech in loud places.
+Tympanometry test
+· The audiologist or other provider will place a small device inside the ear canal.
+· The device will push air into the ear, making the eardrum move back and forth.
+· A machine records the movement on graphs called tympanograms.
+· The test helps find out if there is an ear infection or other problems such as fluid or wax
+
+   buildup, or a hole or tear in the eardrum.
+
+https://medlineplus.gov/lab-tests/hearing-tests-for-adults/
+· Hearing losses: defined as shift in threshold of hearing to >25 dB   Hearing
+  (low fence)                                                            loss
+    · Temporary Threshold Shift (TTS): ringing in ear, discomfort or
+      muffling of sound; occurs in first 2 h of exposure and recovery
+      takes about 16 to 24 h after exposure
+    · Permanent Threshold Shift (PTS):
+         · Hearing loss between 3000 to 6000 Hz with a dip at 4000 Hz
+           ­ high frequency notch; this notch broadens in both
+           directions
+         · Onset and progress of hearing loss is very slow and easily
+           goes unnoticed
+         · Only when speech frequencies (500 to 2000 Hz) average >25
+           dB, then individual may notice it
+         · Total hearing loss due to noise has not been observed
+
+· Causes: noise-induced losses versus age, drugs, disease, physical
+  head injury
+
+· Aging results in degeneration of hearing responses ­ loss is called
+  presbycusis
+                                                Age-related
+                                                hearing loss
+
+Age-related hearing loss according to the International Organization for
+Standardization (ISO) 7029 standard. Shown are audiograms for females (A)
+and males (B). The x-axis displays the pure tone frequency (Hz) and the y-axis
+the hearing thresholds (dB HL). Each individual graph is representative of the
+median audiogram at a particular age (ranging from 20 to 70 years old, with
+increments of 10 years). CC-BY
+· Factors affecting threshold shift                                  Hearing loss
+    · Sound level: if > 60 to 80 dB, normal person will experience
+      TTS
+    · Frequency distribution: speech frequencies are more potent
+      in causing threshold shift than lower frequencies
+    · Duration of sound: if sound lasts longer, the threshold shift
+      is greater
+    · Temporal distribution of sound: number and length of quiet
+      periods will determine potential threshold shifts
+    · Individual preferences
+    · Type of sound: continuous, intermittent, impulse, low
+      frequency noise
+
+· Hearing loss due to occupational exposure is a major problem
+    · It is a f(time of exposure and noise level in dB) - Fig 15-17
+§ Continuous: Non-stop noise! Examples include running                  Types of
+  motors, fans, engines                                                  sound
+
+§ Intermittent: When there are quiet and noisy periods such as
+  at railway stations when the trains come in (high noise levels)
+  and after they leave (quiet period), airports when the planes
+  land, etc.
+
+§ Impulse: A burst of sound that lasts less than a second.
+  Firecrackers, gun shots, tyre bursts, any other explosive sounds
+
+§ Low frequency noise: This is noise that is cancelled by A-
+  weighting networks. Therefore, they can be measured using
+  only C-weighting networks. This includes background noise
+  from power plants, electrical gadgets in the homes, diesel
+  generators
+
+https://www.cirrusresearch.co.uk/blog/2020/04/4-different-types-noise/
+ · Sensorineural hearing loss                                                                            Types of
+       · Most common type of hearing loss and occurs due to damage to the inner ear.                     hearing
+
+       · Damage to the inner ear or the actual hearing nerve; this loss generally occurs when              loss
+          some of the hair cells within the cochlea are damaged.
+
+       · Can happen due to aging, exposure to loud noise, injury, disease, certain drugs or an
+          inherited condition.
+
+       · This type of hearing loss is typically not medically or surgically treatable; hearing aids can
+          be beneficial.
+
+ · Conductive hearing loss
+
+       · This type of hearing loss occurs in the outer or middle ear where sound waves do not
+          reach the inner ear.
+
+       · Sound may be blocked by earwax or a foreign object located in the ear canal; the middle
+          ear space may be impacted with fluid, infection or a bone abnormality; or the eardrum
+          may have been injured.
+
+       · In some people, conductive hearing loss may be reversed through medical or surgical
+          intervention.
+
+       · Conductive hearing loss is most common in children who may have recurrent ear
+          infections or who insert foreign objects into their ear canal.
+
+ · Mixed hearing loss
+       · Sometimes people can have a combination of both sensorineural and conductive hearing
+          loss. They may have a sensorineural hearing loss and then develop a conductive
+          component in addition.
+
+https://www.hopkinsmedicine.org/health/conditions-and-diseases/hearing-loss/types-of-
+hearingloss#:~:text=Hearing%20loss%20affects%20people%20of,loss%20and%20mixed%20hearing%20loss.
+FIGURE 15-17                                                                  · Communication: If background noise levels
+
+§ NIOSH occupational noise exposure limits for                                                                                        are high ­ communication can be difficult to
+                                                                                                                                      impossible.
+continuous or intermittent noise exposure.
+
+§ All new installations should not exceed Line A
+
+                                                                                                                                      120                                                           Occupational
+
+Permitted duration T(h)                                                                                                               110
+                                                                                                       lowbackground noise (dBA)High
+                                                                                                                                      100                                                           hazards due to
+
+                                                                                                                                                                Communication
+
+10                                                                                                                                    90                        Impossible                  noise Maximum vocal
+
+                      Line B existiLnigneinAstnaellwatiionnstsallations                                                               80                                                    effort
+
+                                                                                                                                                                Communication
+
+                                                                                                                                      70                        difficult                   Shout
+
+                                                                                                                                      60                        Communication
+                                                                                                                                                  Area of            Possible
+
+                                                                                                                                      50      nearly normal              6                       Expected voice
+                                                                                                                                                                                                 level
+                                                                                                                                              speech
+                                                                                                                                                                                            9
+1                                                                                                                                             communication
+
+                                                                                                                                      40
+
+                                                                                                                                           0                 3
+
+         Line A                                                                                                                                            Talker to listener distance (m)
+         Formula: T= 16/2(L-80)/5
+         Range: 80-115dBA--slow                                                                                                     FIGURE 15-18
+
+         Line B                                                                                                                     Quality of speech communication as
+         Formula: T= 16/2(L-85)/5                                                                                                   a function of sound level and
+                                                                                                                                    distance
+         Range: 85-115dBA--slow
+
+0.1
+
+     80       85  90  95           100  105  110                         115
+
+                  Effective noise level L
+
+                      (dBA ­slow)
+  Example 15-5 (Davis and Masten, 2009)
+
+Consider the problem of a speaker in a quiet zone who wishes to
+speak to a listener operating a 4.5-Mg truck 6.0 m away. The sound
+level in the truck cab is about 73 dBA.
+
+Solution
+Using Figure 15-18, we can see that she is going to have to shout
+very loudly to be heard. However, if she moved to within about 1.0
+m, she would be able to use her "expected" voice level, that is, the
+unconscious slight rise in voice level that one would normally use in
+a noisy situation.
+It can be seen that at distances not uncommon in living rooms or
+classrooms (4.5-6.0 m), the A-weighted background level must be
+below about 50 dB for normal conversation.
+ Annoyance and Sonic booms
+
+· Annoyance
+    · Unpleasant sound ­ anything that disrupts or disturbs regular
+      activities
+    · Noise at night is more annoying than in the day
+    · Response to air traffic gets the highest attention
+    · Other sources ­ all types of transportation, industrial and
+      recreational activities
+
+· Sleep interference
+
+· Fig 15-20 ­ based on questionnaire given to 350 people living near
+  airports
+                  100
+
+                            Awakening from
+
+                   90 Light sleep single
+
+                            noise
+
+                   80
+
+Percent response  70 Awakening overall                             "Noise wakes   Effect of noise
+                      Single noise                                 me up"            on sleep
+                                                                   30 noises
+                  60
+                                                                "Noise keeps me
+                  50                                            From going to
+                                                                Sleep" 30 noises
+                  40
+                  30
+
+                  20
+
+                  10                                Awakening from
+
+                                                    Deep sleep single
+
+                  0                                 noise
+
+                      0  20  40             60  80  100         120    140
+
+                             dBA-Indoors-brief sounds (<3 min)
+
+Figure 15-20, Davis and Masten, 2009
+Community noise sources
+
+· Transportation noise: air, rail and road traffic
+
+· Construction noise and siting considerations
+· Sonic booms
+
+    · Generation of a shock wave when an aircraft speed exceeds the
+      speed of sound (supersonic)
+· Davis and Masten, 2009. Principles of Environmental Engineering and Science,
+   McGraw Hill
+
+· Sincero and Sincero (1996) Environmental Engineering: A Design Approach.
+   Prentice Hall
+Week 10: Noise Pollution
+Lecture 4 ­ Noise rating systems and modeling
+§ Noise-rating systems: LN, Leq, Ldn
+§ Inverse square law
+
+   § Point and Line sources
+
+   § Attenuation of sound
+· Limits
+· Rating system
+· Transmission
+· Standards
+· Day-night average
+· LN = statistical measure of how frequently a sound level is exceeded ­ see
+  Figures 15-21 and 15-22 (Davis and Masten, 2009)
+
+Percent of time greater than                                                                40                                     35%
+   stated value                                                                             35
+100                                                                                         30              10% 10%                     15% 12%
+ 90                                                            Frequency of occurrence (%)  25
+ 80             L30=67dBA                                                                   20          5%                                        2% 1%
+ 70                                                                                         15
+ 60                                                                                         10                                          2dBA
+ 50
+ 40                                                                                          5      55  60                         65         70         75
+ 30                                                                                          0
+ 20
+ 10                                                                                             50
+   0
+                                                                                                        Sound level (dBA)
+        50
+                                                                                                    Probability distribution plot
+
+            60  70             80
+
+            Sound level (dBA)
+
+Cumulative distribution curve                                                               Rating system
+· LCpeak
+· Lmax
+
+Percent of time greater than                                                                40                                     35%
+   stated value                                                                             35
+100                                                                                         30              10% 10%                     15% 12%
+ 90                                                            Frequency of occurrence (%)  25
+ 80             L30=67dBA                                                                   20          5%                                        2% 1%
+ 70                                                                                         15
+ 60                                                                                         10                                          2dBA
+ 50
+ 40                                                                                          5      55  60                         65         70         75
+ 30                                                                                          0
+ 20
+ 10                                                                                             50
+   0
+                                                                                                        Sound level (dBA)
+        50
+                                                                                                    Probability distribution plot
+
+            60  70             80
+
+            Sound level (dBA)
+
+Cumulative distribution curve                                                               Rating system
+Leq ­ equivalent continuous equal energy level
+
+The Leq Concept
+
+The equivalent continuous equal energy level (Leq) can be applied to any fluctuating
+noise level. It is that constant noise level that, over a given time, expends the same
+
+amount of energy as the fluctuating level over the same period. It is expressed as
+
+follows:
+
+Leq  =  10  log  !  #"  10L(t)10  d  t                      (15­14)
+                 "
+
+where            t = the time over which Leq is determined
+
+            L(t) = the time varying noise level in dBA
+
+     Generally speaking, there is no well-defined relationship between L(t) and time,
+
+so a series of discrete samples of L(t) have to be taken. This modifies the expression
+
+to                                                          (15­15)
+Leq = 10 log $$%%!& 10 Li 10 ti
+where n = the total number of samples taken
+
+            Li = the noise level in dBA of the ith sample
+            ti = fraction of total sample time
+
+The time-weighted average (TWA) shows a worker's daily exposure to occupational noise
+(normalized to an 8 hour day), taking into account the average levels of noise and the
+time spent in each area. This is the parameter that is used by the OSHA Regulations.
+TWA is similar to Leq for 8 h duration of exposure.
+Leq ­ equivalent continuous equal energy level
+
+By Phonical - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67405344
+Day-night average noise levels
+
+The Ldn Concept
+The Ldn is the Leq computed over a 24-hour period with a "penalty" of 10 dBA for
+a designated night-time period. Thus, it is a day-night average and the subscript
+
+"dn" is assigned instead of "eq." In applications to airport noise, the Ldn may be
+referred to as DNL. The night-time period is from 10 P.M. to 7 A.M. The Ldn
+equation is derived from the Leq equation with the time increment specified as
+1 second. Because the time over which the Ldn is computed is one day, the total
+time period is 86,400 seconds. Equation 15­15 is then written as
+
+Ldn = 10 log[ "#,!%&& 10 Li10 ti +  10(Lj +10)10 ti]  (15-16)
+
+Because 10(log 86,400)  49.4, the day-night average sound level may be
+written as
+
+Ldn = 10 log [10Li10 ti + 10(Lj+10)10 ti] - 49.4      (15-17)
+Problem
+
+EXAMPLE 15­6 (Davis and Masten, 2009)
+
+Consider the case where a noise level of 90 dBA exists for 10 min and is followed
+by a reduced noise level of 70 dBA for 30 min. What is the equivalent continuous
+equal energy level for the 40-min period? Assume a 5-min sampling interval.
+
+Solution
+
+If the sampling interval is 5 min, then the total number of samples (n) is 8,
+and the fraction of total sample time (ti) for each sample is 18 = 0.125.
+With these preliminary calculations, we may now compute the sum.
+)'(! = (109010)(0.250) + (107010)(0.750)
+
+      = (2.50 × 108 ) + (7.50 × 106 ) = 2.58 × 108
+
+And finally, we take the log to find
+Leq = 10 log(2.58 × 108 ) = 84.11, or 84 dBA
+Inverse Square Law
+
+If a sphere of radius  vibrates with a uniform radial expansion and
+
+contraction, sound waves radiate uniformly from its surface. If the sphere is
+
+placed such that no sound waves are reflected back in the direction of the       TRANSMISSION
+source, and if the product  is much less than 1 ( is the wave number, m-1 =
+
+2/ and  = wavelength, m, then the sound intensity at any radial distance r OF SOUND OUTDOORS
+
+from the sphere is inversely proportional to the square of distance, that is,
+
+I  =   *                                                        (15­18)
+
+      4r2
+
+where I = sound intensity (in W·m-2); W = sound power of source (in W)
+This is the inverse square law.
+It explains that portion of the reduction of sound intensity with distance that
+is due to wave divergence (Figure 15­26).
+
+FIGURE 15­26        Illustration of inverse square law.
+
+                        b                                2b
+                       aA
+                    X                                    2a 4A
+
+                       D                                 2D
+           TRANSMISSION OF SOUND OUTDOORS ­ Line Sources
+
+LINE SOURCES
+
+· For line sources such as a roadway or a railroad, the reduction of sound
+
+   intensity is inversely proportional to r rather than r2.
+
+· From a practical standpoint it is difficult if not impossible to measure the
+
+   sound power of the source.
+
+· We measure the SPL at some known distance from the source and then use
+
+   the inverse square law or radial dependence relationships to estimate the
+
+   SPL at some other distance.
+
+· For example, using the inverse square law, the sound pressure level, Lp2, at a
+
+   distance r2 from the source may be determined if the sound pressure level,
+
+   Lp1, at some closer point, r1, is known:
+                       log(+!)2
+·  Lp2  =  Lp1  -  10                                        (15­19)
+                             +"
+· For a line source, the sound pressure level, Lp2, at a distance 2 from the
+
+   source, may be determined by a similar equation.
+                            (+!)
+·  Lp2  =  Lp1  -  10  log                                   (15­20)
+                             +"
+Transmission of sound outdoors
+
+§ Noise sources are often complex not simple spherical sources of sound     Basic point source
+§ Complex sources can be considered to be point sources (for which <<1) if      model with
+                                                                               attenuation
+   they meet the following conditions (Magrab, 1975 in Davis and Masten,
+   2009):
+
+     § r/ >> 1
+     § / << r/
+     § Therefore, for r/ > 3, / << 3
+     Lp  Lw ­ 20*log r -11- Ae
+     Where Lp = desired SPL at angle  and distance r from source, dB
+     Lw = measured SPL (reference 10-12 W) at angle , dB
+     Ae = attenuation at distance r, dB
+     Sources of sound attenuation can be divided into 5 terms:
+     Ae1 = attenuation due to absorption by air, dB
+     Ae2 = attenuation by ground, dB
+     Ae3 = attenuation by barriers, dB
+     Ae4 = attenuation by foliage, dB
+     Ae5 = attenuation by buildings (houses), dB
+Transmission of sound outdoors
+
+EXAMPLE 15­7
+
+The sound power level (re: 10-12 W) of a compressor is 124.5 dB at 1000 Hz. Determine the SPL
+200 m downwind on a clear summer afternoon if the wind speed is 5 m·s-1, the temperature is
+20°C, the relative humidity is 50%, and the barometric pressure is 101.325 kPa. At these
+conditions, the attenuation by air absorption (Ae1) is 0.94 dB. The total ground attenuation (Ae2) is
+-2.21 dB, that is reflection increases the noise level.
+
+Solution
+Using the basic point source model (Equation 15­23), the SPL at the receiver is
+
+Lp = 124.5 - 20 log (200) - 11 - 0.94 - (-2.21)
+  = 124.5 - 46 - 11 - 0.94 + 2.21
+  = 68.77 or 69 dB at 1000 Hz
+Land  Exterior  Description of Land Use Category                                                           Noise
+Use   Design                                                                                            standards
+Cat.  Noise     Tracts of lands in which serenity and quiet are of extraordinary significance
+      Levela    and serve an important public need, and where the preservation of those                     for
+A     (dBA)     qualities is essential if the area is to continue to serve its intended purpose.      construction
+      Leq L10   For example, such areas could include amphitheaters, particular parks or
+B     57 60     portions of parks, or open spaces, which are dedicated or recognized by             Table 15-3 FHA Noise Standards
+C               appropriate local officials for activities requiring special qualities of serenity        for New Construction
+D     67 70     and quiet.
+E               Residences, motels, hotels, public meeting rooms, schools, churches,
+      72 75     libraries, hospitals, picnic areas, recreation areas, playgrounds active sports
+      UU        areas, and parks.
+      52 52     Developed lands, properties or activities not included in categories A and B.
+      (I) (I)   Undeveloped lands. U = unlimited
+                Public meeting rooms, schools, churches, libraries, hospitals, and other such
+                public buildings. I = interior
+
+aEither Leq or L10 may be used, but not both. The levels are to be based on a 1-h sample.
+Source: FHWA, 1973.
+· Davis and Masten, 2009. Principles of Environmental Engineering and Science,
+   McGraw Hill
+
+· Sincero and Sincero (1996) Environmental Engineering: A Design Approach.
+   Prentice Hall
+Week 10: Noise Pollution
+Lecture 5 ­ Noise control and regulations
+§ Noise control
+   § Source
+   § Path
+   § Receiver
+
+§ Noise regulations in India
+· Traffic
+· Attenuation
+· Ear plugs
+· Regulations
+· Barriers
+Leq Prediction
+The Ontario Ministry of Transportation and Communications developed
+
+a traffic noise prediction equation based on the Leq concept (Hajek,
+1977).
+
+The empirical equation they developed is as follows:
+
+Leq = 42.3 + 10.2 log(Vc + 6Vt) - 13.9 log D + 0.13S        (15-24)   Traffic noise
+                                                                       prediction
+where Leq = energy equivalent sound level during 1 h (in dBA)
+
+Vc = volume of automobiles (four tires only) (in vehicles · h-1)
+
+Vt = volume of trucks (six or more tires) (in vehicles · h-1)
+
+D = distance from edge of pavement to receiver (in m)
+
+S = average speed of traffic flow during 1 h (in km · h-1)
+
+This equation does not account for barriers.
+
+A nomograph is available that takes barriers into account.
+Ldn Prediction
+The Ontario method is a direct extension of the Leq methodology that
+enables the calculation of Ldn. The modified model has the following form:
+
+Ldn = 31.0 + 10.2 log[ADDT + %T ADDT20] - 13.9 log D + 0.13S (15­25)   Traffic noise
+                                                                        prediction
+where Ldn = equivalent A-weighted sound level during 24-h period with
+10-dBA weighting applied to 2200 - 0700 h (in dBA)
+
+    ADDT = annual average daily traffic (in vehicles · day-1)
+        %T = average percentage of trucks during a typical day (%)
+
+This equation, like Equation 15­24, does not account for barriers.
+Noise control
+
+· Source-path-receiver control
+
+· Source control
+     · Reduce impact forces ­ moving parts or parts that collide with each other; example
+        - provide shock absorbers or lubricate moving parts
+     · Reduce speeds of moving parts and pressures and flow velocities of fluids which
+        cause turbulence
+     · Reduce frictional resistance
+          · Alignment, balance, polish and eccentricity
+     · Reduce surface area of machine that radiates noise
+     · Reduce noise leakage by providing insulation and/or caulking, rubber gaskets to
+        make joints airtight
+     · Provide silencers, mufflers and shock absorbers
+     · Reduce vibrations in machine and anchor the machine to reduce noise
+
+· Path control
+
+· Receiver control
+Noise control
+
+· Path control (fig 15-29)
+     · Block the path of sound: the barrier has to block the direct line of sight and sound
+     · Deflect sound
+     · Absorb sound: use absorbing materials like soft, porous or spongy material that will
+        absorb sound ­ carpets, drapes, acoustical tiles or lining
+     · Separation: increase distance of receiver from source
+
+· Receiver control
+     · Alter timings of noisy activities ­ for example, imposing silent hours for social
+        activities, air traffic restrictions or limited timings
+     · Ear protection: different types of materials are available (fig 15-30)
+Path control of noise
+
+FIGURE 15­29 (Davis and Masten, 2009)
+Noise paths from a source to a receiver. (Source: National Cooperative Highway Research Program Report
+174, Washington, DC.)
+
+Sectional view   Direct  Shadow zone
+      Reflected
+                              Diffracted
+ Direct                Transmitted
+
+Roadway
+              Barrier
+Noise attenuation
+
+Attenuation of ear protectors (dB)   0                                                          FIGURE 15­30
+
+                                                                       Dry cotton plugs         Attenuation of ear protectors at various
+                                                                                                frequencies. (Source: National Bureau of
+                                    10                                                          Standards Handbook, Berendt et al., p.
+                                                                                                119, 1976.)
+
+                                    20                     Wax-impregnated stopples,
+                                                           properly fitted plastic inserts
+                                    30
+                                                                       Over-the-ear muffs
+                                          Muffs + inserts
+
+                                    40
+
+                                    50                      1000                         10000
+                                                           Frequency(Hz)
+                                      100
+  Noise regulations
+
+§ Leq values defined by USEPA, 1974 based on:
+    § Different types of activities: residential, commercial, transportation,
+       hospitals, industries, educational institutions, recreational areas, farm
+       land and unpopulated land
+    § Indoors: Activity interference (<45 dB) versus hearing loss (<70 dB)
+    § Outdoors: Activity interference (<55 dB) versus hearing loss (<70 dB)
+· Zoning of areas as residential, industrial, etc. to be done by State     Noise Pollution
+  Government                                                              (Regulation and
+                                                                        Control) rules, 2000,
+· The State Government shall take measures for abatement of noise
+  including noise emanating from vehicular movements, blowing of                 India
+  horns, bursting of sound emitting firecrackers, use of loud
+  speakers or public address system and sound producing
+  instruments and ensure that the existing noise levels do not
+  exceed the ambient air quality standards specified under these
+  rules.
+
+· All development authorities, local bodies and other concerned
+  authorities while planning developmental activity or carrying out
+  functions relating to town and country planning shall take into
+  consideration all aspects of noise pollution as a parameter of
+  quality of life to avoid noise menace and to achieve the objective
+  of maintaining the ambient air quality standards in respect of
+  noise.
+
+· 100 metre area around hospitals, educational institutions and
+  courts may be declared as silence area / zone for the purpose of
+  these rules.
+  Noise Pollution (Regulation and Control) Rules, 2000
+
+· Use of sound producing instruments, bursting fire crackers, using
+  public address systems, use of horns, construction activities are
+  not allowed in the silence zone or during night time
+
+· Use of public address systems requires approval of administrative
+  authority
+
+· Noise level at the boundary of the public place, where
+  loudspeaker or public address system or any other noise source is
+  being used shall not exceed 10 dB (A) above the ambient noise
+  standards for the area or 75 dB (A) whichever is lower;
+
+· The peripheral noise level of a privately owned sound system or a
+  sound producing instrument shall not, at the boundary of the
+  private place, exceed by more than 5 dB (A) the ambient noise
+  standards specified for the area in which it is used.
+       NOISE SURVEY - MEASUREMENT METHODOLOGY
+
+               Road Edge     § 5 Locations for Noise Levels measurements
+                             § Three times in the year
+           Mobile phone      § Time periods measured and averaged:
+            with Decibel X
+           Application with       § 6AM-8AM, 12PM-2PM, 6PM-8PM, 12AM-
+
+               premium               2AM
+             subscription
+       3m
+
+1.2 m
+                                                                                                           NOISE LEVELS METER
+                                                                                                         APPLICATION INTERFACE
+
+Decibel X application sound level capture modes (a) Main Interface (b) Video
+                                     mode (c) Result.
+NOISE LEVEL -
+ TEMPORAL
+ VARIATIONS
+
+                           16
+Ø Halls adjacent to boundary road (bypass of NH-49) were seriously affected          Noise
+      by outside noise. The peak value was very high because of the locomotive      Survey -
+      horn and reached a peak value of 99.6 dB(A) in the morning.                 conclusions
+
+Ø The Leq value near the academic main gate and Clock tower was also very
+      high (60-75 dB(A)) from (12 PM to 2 PM ) which were noise hotspots at that
+      time.
+
+Ø Sound levels at Technology club, IIT Kharagpur were close to the CPCB
+      standards.
+
+Ø During the rush hour traffic ( 12 PM ­ 2 PM ), better traffic management is
+      required so the traffic will flow continuously, and noise can be within
+      recommended limits.
+· Davis and Masten, 2009. Principles of Environmental Engineering and
+   Science, McGraw Hill
+
+· Sincero and Sincero (1996) Environmental Engineering: A Design Approach.
+   Prentice Hall
+
+· Rajoria SS (2023) Quantification of Environmental quality based on Noise and Soil
+   Pollution: A Case Study of IIT Kharagpur. M.Tech. Thesis, IIT Kharagpur
+

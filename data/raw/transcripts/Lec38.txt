@@ -1,0 +1,488 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                Week 08
+                                               Lecture 03
+        Water Quality Parameters ­ Oxygen demanding wastes and Microbial
+
+Welcome everyone to lecture number 3 of week 8. Today we are going to look at another
+set of water quality parameters and these are oxygen-demanding wastes and how we
+measure their oxygen demand. We will also very briefly look at microbial parameters.
+So, the concepts that we are going to cover in this particular lecture, we are going to look
+at the importance of dissolved oxygen, the solubility of DO in water and the three different
+methods of determining the oxygen demand of wastes. So, we have the theoretical oxygen
+demand, chemical oxygen demand, and biochemical oxygen demand. In terms of the
+microbial water quality parameters, we are going to focus on coliforms.
+
+These are the keywords for this particular lecture, dissolved oxygen, solubility,
+temperature, salinity, theoretical oxygen demand, chemical oxygen demand, biochemical
+oxygen demand, and coliforms.
+Let us take a look at something that you may have studied again in high school, but we will
+make sure that we are all on the same wavelength about that. So, you know that oxygen is
+a sparingly soluble gas in water. It does not like to be dissolved in water, it does not react
+with water, unlike CO2. So, when you add CO2 to water, CO2 plus water will give you
+carbonic acid. Unlike CO2, oxygen does not like to be soluble in water and it does not react
+with water either. So, the concentration of oxygen in water is very, very low. The saturation
+concentration of dissolved oxygen is 5.1 milligrams per liter at 40 degree centigrade and
+45,000 milligrams per liter of TDS. TDS means total dissolved solids that is also
+considered to be salinity. And if the water is at 0-degree centigrade and 0 milligrams per
+liter TDS, the maximum DO that you can have in the water is 14.6 milligrams per liter.
+What you see in this table is that as the temperature goes up, the DO saturation value goes
+down. So, from 0 degree centigrade and 0 salinity which is 14.62 milligrams per liter to
+around 30-degree centigrade, you have 7.56 milligrams per liter. So, one thing to note is
+that for our ambient temperature condition, so our temperature normally especially in water
+for general environments, it would be somewhere in this range from 0 to 30 degree
+centigrade. And you can see the variation in DO values. This is for let us say freshwater
+systems, this is pure water, freshwater may be somewhere between 0 to 5000 chloride
+concentration, it will be much less. And then from 5000 to 15000 milligrams per liter, we
+have saline water conditions. So, the maximum that you can have is 14.62 milligrams per
+liter and the minimum is 6.5 in this case, or even less 5.1 at 40-degree centigrade. So, you
+can see that the window, the range within which dissolved oxygen is likely to be found in
+water is very small.
+So, let us start with the importance of dissolved oxygen for aquatic ecosystems. I have
+written in the very first bullet, most higher aquatic life forms need oxygen for survival.
+This excludes bacteria, there are certain, there is a very large group of bacteria that can
+survive without oxygen. So, keeping them aside, all, almost all other higher living
+organisms that are present in aquatic ecosystems, they will need oxygen for their survival.
+The minimum DO level for ecosystems ranges from 3 to 5 milligrams per liter. And there
+are certain cold freshwater systems. So, especially in the temperate zone, in the Arctic zone,
+the recommended levels can be as high as 8 milligrams per liter. For example, you have
+salmon and so many other trout, salmon, they all require much higher levels of DO
+compared to other species of fish and aquatic organisms. So, the DO level is extremely
+important for the survival of aquatic organisms. There are sources of DO in these aquatic
+ecosystems and we are going to look at that and we are also going to look at the losses,
+where are the losses of DO coming from. So, let us take a look first at the sources, where
+is the DO coming into the water. The first thing is equilibrium with the atmosphere. So,
+the DO level in water is going to be in equilibrium with the atmosphere and you know
+Henry's law, which defines the concentration of any compound, whether it is oxygen or
+any other gas, the concentration of that compound in the liquid phase versus the gaseous
+phase is defined by Henry's law, which gives you the partitioning of any compound
+between the gas phase and the liquid phase. So, the same thing applies for DO.
+
+You also get reaeration of water due to wind and wave action that is another source and
+you also get DO in water due to photosynthesis by phytoplankton. So, we have algae, we
+have other aquatic plants, they are photosynthesizing their own biomass, they are growing
+in the water and they are contributing to dissolved oxygen levels in water. Then we come
+to losses, where are the losses of DO from these aquatic systems, why does that happen?
+The first thing is degradation of organic matter by what we call heterotrophic aerobic
+bacteria. I will be defining these types of bacteria at the end of this lecture. So,
+heterotrophic aerobic bacteria require oxygen for their growth and they also utilize organic
+matter. So, any organic matter that is degradable by these bacteria will be utilized and in
+the process, oxygen will be consumed. So, we are going to spend a lot more time on this
+point in the next few slides. Now, these oxygen levels will go below saturation. So, what I
+showed you here are the saturation levels, these are DO saturation values and the oxygen
+level is below saturation and it will result in what we call sub-oxic conditions and these
+sub-oxic conditions or when the DO levels go down to 0, you get anoxic conditions.
+Anaerobic bacteria are the only organisms that can survive when DO levels are 0. So, there
+are a group in fact two groups of bacteria that are capable of surviving in sub-oxic as well
+as anoxic conditions and we will be spending some time on that.
+
+So, just to define a little more clearly what the dissolved oxygen, where does it go and how
+does it get lost. So, we are going to use glucose as representative of organic matter. Just
+imagine that we are using something as simple, it is a simple sugar. Glucose is one of the
+simplest sugars and it is completely biodegradable. Now, organic matter in the environment
+is not completely biodegradable, but for simplicity and for illustrating the process I am
+using it as an example.
+So, here we have glucose in the presence of oxygen will go to CO2 and water. This is
+complete oxidation and this oxidation is mediated in nature by bacteria. What we do is also
+the same thing, but so do all other organisms including bacteria. So, this oxidation of
+biodegradation of organic matter is mediated in aquatic ecosystems mainly by bacteria as
+well as higher organisms, but this is a simplified representation of that reaction. If you were
+to take this reaction in reverse, you would get the photosynthesis reaction where it is
+mediated by phytoplankton.
+
+So, the same thing CO2 is taken up by phytoplankton along with water and converted to
+biomass, and that biomass here is represented by glucose. So, you have the same reaction
+in reverse. Now, you can see a simple schematic here, you have an aquatic ecosystem this
+graphic represents the water column. So, your oxygen and CO2 are going to be in
+equilibrium with the atmosphere, you will have phytoplankton which are mainly algal cells
+or even aquatic plants and they will be able to grow only at the surface of the water. They
+will not be able to grow where the light is not able to penetrate.
+
+You know that photosynthesis means that it has to be mediated by sunlight. So, if sunlight
+cannot penetrate into the depth of the water column, then algal growth or even the growth
+of other aquatic plants will not be possible. So, this green layer is related to the photic zone
+or the light zone and you have these two major gases that are going to be in equilibrium in
+the water column. These bacteria are going to be present throughout the water column from
+the depths to the top. At the top you will have aerobic bacteria, there will be sub-oxic
+conditions just over here somewhere in the middle and we have what we call facultative
+bacteria. They can switch in the absence of oxygen, they can switch from aerobic
+respiration to anaerobic respiration provided the terminal electron acceptors are available.
+We will be looking at that more in the next few slides. So, and at the bottom, if the organic
+matter content of the water column is very high, towards the bottom of the water column
+you will have situations where there is absolutely no oxygen. So, that is anoxic, anoxic
+meaning zero oxygen.
+Let us take a look at the theoretical oxygen demand. So, as long as organic matter is present
+in water, it is biodegradable and there is nothing toxic in the water, oxygen will be
+consumed in its degradation. I have already mentioned that there are several methods for
+measuring oxygen demand of this organic matter. We are going to look first at the
+theoretical oxygen demand ThOD. This is a theoretical method, it requires an
+understanding of the ratio of the basic elements in water. So, I can use glucose as a
+representation of organic matter that is one method. The second method is that I do a
+complete elemental characterization of the water sample that also we can do. We have the
+required equipment and we have the required methods and so on that can be done, but it is
+very expensive. If you have a water sample which contains a few known compounds, then
+if you know the chemical formula for the different compounds, you can also come to the
+same point. So, you can come to the stoichiometric oxygen requirements based on that
+information. It is a calculation-based method and I have already given you an example of
+glucose. So, here you have glucose plus 6 moles of oxygen being converted to 6 moles of
+CO2 and 6 moles of water.
+
+C6H12O6 + 6O2  6CO2 + 6H2O
+
+ThOD for glucose = 6 mole O2/ mole glucose
+
+= (6*32)/180 = 1.067 mg O2 / mg glucose
+
+So, if I say what is the theoretical oxygen demand for glucose, it is 6 moles of oxygen per
+mole of glucose. So, here we have 1 mole of glucose and 6 moles are being utilized to
+convert it to 6 moles of CO2 and water. So, this is complete oxidation, which can be
+mediated by bacteria. I can also convert it and express it in the form of milligrams. So, I
+multiply it by the molecular weight, 6 moles multiplied by the molecular weight of O2
+oxygen divide by the molecular weight of glucose. So, here you will get 1.067 milligrams
+of oxygen per milligram of glucose. So, there is an almost one to one relationship between
+glucose and oxygen. For practice, you can use these other compounds, hexane, benzene,
+cyclohexane or any other compound. It is not necessarily just for C6 compounds. I have
+written it here just because I wanted to understand the difference between different C6
+compounds, but you can do it for absolutely any compound on the planet. You can do the
+same kind of calculation and when we deal with wastewater, in wastewater you do not have
+a single compound, you have hundreds of compounds. So, how can you deal with that? So,
+in that case what we do is we determine how much carbon is there, how much nitrogen,
+phosphorus, sulphur these things can be determined in the lab and you can come up with
+an estimate of the elemental composition of that particular organic matter. So, we have
+done exercises like that in the lab it takes much more time and effort to do it, but it can be
+done.
+We come now to the next method and this one is a lab based method. So, chemical oxygen
+demand and biochemical oxygen demand both of these methods are lab based methods for
+approximating the theoretical oxygen demand.
+
+As I said this particular method requires complete elemental characterization of any waste
+whether it is wastewater or waste, you need complete elemental characterization which is
+very time-consuming as well as expensive. It can be done without a doubt, but these are
+our approximate methods for achieving the same result.
+So, COD is one of the most important water quality parameters. It is defined as the amount
+of oxygen consumed to completely chemically oxidize the organic constituents present in
+water and convert them to inorganic end products. So, what I showed you in the last slide
+about glucose being converted to CO2 and water, this is the same thing and we are doing it
+chemically, not biochemically.
+
+The units are milligrams per liter or ppm, ppm stands for parts per million and this indicates
+the mass of oxygen consumed per liter of the solution whatever the sample is. As I said
+BOD is going to be the next method that we are going to look at and both of them are
+indirect measures of the amount of organic matter in water. They are not direct measures
+of organic matter. For direct measurement of organic matter you need TOC. TOC is total
+organic carbon. That again is an expensive lab-based method. You need a separate
+instrument for measuring it and COD and BOD are relatively cheap lab methods that are
+much easier to conduct in any land. The COD test is a practical measure of the maximum
+oxygen demand of the water samples and ThOD it is an approximation. So, COD is a
+practical approximation of the theoretical measure of the oxygen demand. So, COD is
+approximately ThOD. How do we do it? We take a strong oxidizing agent like potassium
+dichromate, we add it to our sample, we boil the sample and keep the pH conditions very
+low. So, this allows what we call complete digestion or complete oxidation of the sample
+and it takes a few hours to complete this test.
+So, now we come to our next oxygen demand measure and that is biochemical oxygen
+demand. Thinking of the same equation where glucose plus oxygen are converted to CO2
+and water, here the reaction is mediated by microorganisms mainly bacteria. So, this takes
+a few weeks to complete. If I want to take this reaction to completion, it will take at least
+20 to 30 days. No one wants to spend that much amount of time on doing this kind of
+measurement. So, it is generally done in the lab for 3 to 5 days. In India, we have
+standardized this test and we now use 3 days to measure BOD tests at 27 degree centigrade
+and the global standard is BOD5 at 20 degree centigrade. And in all cases, it is done under
+strictly aerobic conditions. I will talk a little bit more about that in the next few slides. What
+are we doing this test for? This test is done to simulate natural conditions to the greatest
+extent. Now, glucose is a highly biodegradable compound, but let us say we have some
+compounds that are not so biodegradable. For example, I have some examples of pulp and
+paper. We know that paper is also organic material, but it is not highly biodegradable. It is
+moderately biodegradable. It takes a lot of effort for the bacteria, even for the bacteria to
+degrade this material. So, when you are putting wastewater into an aquatic water body, you
+want to know whether it is going to degrade rapidly, moderately, or never. So, this test is
+a simulation. It is basically a lab-based simulation of natural conditions and unlike the COD
+test, the COD test is a very harsh test. It takes all compounds, it will oxidize all compounds
+no matter how difficult they are to oxidize because the conditions are high temperature,
+low pH and you are digesting the sample. So, because of that, the COD test does not tell
+you what will happen under natural conditions. It tells you the maximum potential for
+oxygen consumption. The BOD test on the other hand is going to tell you what is likely to
+happen when you put waste or wastewater into the environment.
+So, what is the relationship between these three parameters? ThOD, if you know the
+organic matter stoichiometry, if you know that, if you know the formula for the gross
+measure of all organic matter, then ThOD will give you the highest value. COD and BOD
+are both lab-based tests, you will not get 100% efficiency in the oxidation of that
+compound, and because COD based on theory, COD is equal to ThOD, but we know there
+are inefficiencies in the process. So, THOD will be greater than equal to COD and COD
+will be greater than equal to BOD.
+
+                                         ThOD  COD  BOD
+For glucose, all three are equal because glucose is a highly biodegradable compound. But
+if I take wood pulp, if I take paper, if I take some other material that is not so biodegradable,
+then there will be this kind of relation.
+
+So, here at this point, we are going to look, we will take a closer look at the BOD test.
+Now, the BOD and COD tests are standard tests, they are globally accepted. And anytime
+people report these COD and BOD values, the assumption is that they are following
+standard test conditions. So, what are these standard test conditions? Standard test
+conditions for the BOD test is 5 days. So, the sample is incubated for 5 days at a
+temperature of 20 degree centigrade.
+Here we have a large bottle, we take distilled water, and we add a certain set of nutrients
+to this water. We also may require bacteria. So, if you are doing the test for municipal
+wastewater, which is teeming with bacteria, no bacteria have to be added. But if you are
+doing this test with industrial wastewater, you can add bacteria because industrial
+wastewater may or may not have sufficient bacteria in it. So, this is what we call seeded
+dilution water. And this dilution water along with the waste sample is added to BOD
+bottles. Now, these BOD bottles come in a standard shape and size. They are always 300
+ml in size, and they have this inverted frustum of a cone shape at the top and a frosted glass
+stopper as well. So, let me say a few things more about each one of these points. So, the
+dilution water contains essential nutrients and microbial seed to make sure that these factors
+do not limit bacterial growth. When it is incubated, when these bottles are incubated, they
+are incubated in the dark because we do not want photosynthesis to happen in these bottles.
+So, we do not want algal growth in these bottles and otherwise, algae will add DO to it. So,
+they will complicate the process. By keeping light out, we are ensuring that bacteria by
+aerobic respiration only will decompose whatever organic matter is there in the waste
+sample. These frosted glass stoppers and this inverted frustum of a cone is there to create
+a water seal. So, this water seal has to be maintained. So, the water, the seeded dilution
+water is added after the waste has been added and then the stopper is literally dropped into
+the bottle. And when it is dropped, a water seal is formed over here and no further intake
+of oxygen from the atmosphere is allowed. So, there is no longer any equilibrium between
+the atmosphere and the sample in the bottle. And then the bottles are placed in the incubator
+for a period of 5 days.
+
+Now, before placing them in the incubator, you need to measure the DO levels. You need
+to measure the DO concentration and that is the DO initial. So, DO initial is measured
+before the test and after 5 days of incubation, you take out the bottles and measure the DO
+level in the bottle again.
+We normally sacrifice the bottles. We do not use the same bottle. We set up a whole bunch
+of bottles and each measurement of DO means that that bottle is no longer used. So, that is
+to measure the DO drop.
+
+The DO, we may also, let me also mention one more point, we may set up a blank,
+especially for industrial wastewaters where we have seeded dilution water, we may need
+to set up a blank sample. So, to measure the DO that is related to this seeded dilution water
+may be required under certain conditions. This is very common with industrial waste
+waters, not so much with sewage.
+So, in any case, you have to measure the DO drop in the sample blank as well as the sample
+bottles. Two conditions have to be fulfilled at the end of the test to make it a useful result.
+So, the minimum DO drop or change in DO concentration during incubation should be 2
+milligrams per liter minimum. It can be higher, but not less. Minimum DO level measured
+after 5 days should also be greater than equal to 2 milligrams per liter.
+
+Maximum obviously is going to be DO saturation, but the minimum DO should also be
+greater than equal to 2 milligrams per liter. I have already mentioned that in India, we have
+modified this particular standard test for 3 days and 27-degree centigrade just for ease and
+for making it faster.
+
+Now, we come to how do we calculate it. So, the 5-day BOD is the ratio of the drop in DO
+over 5 days and the dilution factor. So, dilution factor here is the volume of wastewater
+divided by the total volume and we know that the standard BOD bottle has a total volume
+of 300 ml and you can add 5 ml of wastewater 50 ml, 100 ml, whatever is considered it
+requires a little bit of guesstimating because you need to be in this you have to meet these
+conditions.
+
+So, to meet these conditions, you have to play with the volume of the wastewater, you may
+not get a useful result right away and therefore, you have to play with the volume of
+wastewater in this particular equation. So, it may take more than one iteration. If you are
+not doing a sample blank, then BOD5 is equal to DO initial minus DO final divide by the
+dilution factor.
+
+5  =    -  
+        
+If you are including the sample blank, then the blank is the initial DO value in the blank
+sample, the final DO value in the blank sample, and your BOD5 accounts for that blank.
+So, that DO drop in the blank sample has to be subtracted from the DOi and DO final of
+the actual wastewater.
+
+                        5 = [( -  ) - ( - )(1 - )]/
+
+Let us go into some more details. So, here we have the same reaction, the glucose oxidation
+or biodegradation reaction which is mediated by bacteria. We continue to use glucose as
+representative of all organic matter even though it is highly biodegradable and natural
+organic matter or sewage organic matter or wastewater organic matter may or may not be
+highly biodegradable. But just for illustrating the entire process, we will go through this
+graph. Now, as I said glucose represents organic matter. So, during the test, we have
+organic matter which is being consumed and the blue line represents the DO levels.
+So, this blue line both of the reactants organic compounds and oxygen both will be lost in
+the test during the incubation period. The 5-day incubation period is very short, it is not
+anywhere near what it takes in reality. So, in reality, it takes about 20 to 30 days and we
+have shortened it for convenience.
+BODt is the amount of BOD utilized at time t. Remember that BOD stands for organic
+matter. Even though the actual words are biochemical oxygen demand, it literally
+represents the amount of organic matter that has been utilized by time t. Lt is another
+parameter which is the amount of BOD or organic matter that is still remaining at time t.
+So, you can talk about what is gone or you can talk about what is remaining. So, in this
+graphic, you see it very clearly. If you can think of BOD as organic matter, Lt is what is
+remaining and BOD T is what has been decomposed or degraded completely.
+
+Therefore, the ultimate BOD in this case we call it ultimate carbonaceous BOD, and this
+ultimate carbonaceous BOD is L0. L0 is equal to therefore BODt plus Lt.
+
+                       0 =    =  + 
+
+So, BODt is the amount of BOD utilized at time t and remember that BOD is a surrogate
+for organic matter. So, this organic matter is being decomposed or degraded during the
+incubation and Lt stands for the amount of BOD that has not been degraded.
+
+So, the two together are L0. L0 is also called ultimate carbonaceous biochemical oxygen
+demand. So, this L0 is BODt plus Lt and you can see it in the graphic over here. Now, the
+rate of degradation of this organic matter is considered to be a first order equation. So, if it
+is a first order exponential decay equation, it can be written as this particular form. So, Lt
+remaining the organic matter remaining at any time t is equal to the initial organic matter
+multiplied by the exponent to the power minus Kt.
+
+                                               = 0-
+So, that is the first thing you can substitute it into this reaction to get BODt is equal to L0
+times 1 minus e to the power minus Kt.
+
+                                         = 0(1 - -)
+
+Now, one point to note, what are we measuring? We are measuring BOD5. So, if I want to
+know what is the ultimate carbonaceous demand, then I have to use this particular equation
+and determine L0 assuming that I know the K value for my wastewater, either wastewater
+or any other material, any organic material. This K value is subject to all the points that
+you have probably studied and that is basically first point is that Arrhenius's law says that
+as the temperature increases your reaction rate constant will also increase because your
+reaction rate will increase.
+
+So, this K value has to be modified for any change in temperature. So, if the temperature
+is greater than 20, you have to we have a correction equation over here. Let me put it like
+that Kt is equal to K20 theta to the power T minus 20.
+
+                                            = 20(-20)
+
+K20 is what you derive from the BOD test. So, that will give you the K20 value. But let us
+say you are using these values for doing some modelling, some mathematical modelling
+for the river and so on which we will be looking at in the next lecture.
+
+We will be looking at the DO sag curve. If you are looking at water temperature that is
+deviating from 20 degrees centigrade, it may be 10 degrees, it may be 5 degrees, it may be
+30, 35 whatever it is. So, Kt has to be modified for that temperature and this is what we call
+the temperature correction equation. So, K20 is what you get from the BOD test and Kt has
+to be modified using the theta value. In general, the theta value that is used is 1.047 and
+this comes again from the DO sag curve. We will be looking at what is called the Streeter-
+Phelps equation or the DO sag curve. We will be looking at that in the next lecture.
+Now, what I would like you to notice that up until this point, we were focusing on BOD5.
+Now, let us assume that we are in a position to conduct the BOD test for 20 to 30 days.
+When you conduct a test for 20 to 30 days and you measure the DO content of the
+wastewater sample periodically, let us say you measure it every second or third day for the
+entire period, you will find that you get a curve like this and around 7 to 10 days there will
+be an inflection in the curve.
+
+The first part of the curve is what we call the carbonaceous biochemical oxygen demand.
+Now, this is exerted by heterotrophic aerobic bacteria that are going to utilize organic
+matter that is present in the sample. After 7 to 10 days, there is another group of bacteria
+that will become, that will make their presence felt. So, these are called nitrifying bacteria.
+So, Nitrosomonas and Nitrobacter are nitrifying bacteria, they convert ammonia,
+nitrosomonas converts ammonia to nitrite and nitrobacter converts nitrite to nitrate.
+
+We can sum up these two reactions and write them in a single step. So, here we have
+ammonia plus 2 oxygen, 2 moles of oxygen will be converted to water and nitrate.
+
+NH3 +2O2  H2O + HNO3
+
+So, these nitrifying bacteria do not have, there are a couple of things to be noted about
+nitrifying bacteria. One is they are slow growers and two, the reason you see this inflection
+is for two reasons, one that the nitrifying bacteria are slow growers and two, there is more
+food for the heterotrophic aerobic bacteria in the beginning. So, they out compete the
+nitrifiers in the first phase. After about 7 to 10 days, when the carbonaceous organic matter
+has been degraded for the most part, but the ammonia is still remaining to be degraded into,
+the ammonia is remaining to be utilized and converted to nitrate that happens much later
+and the impact is seen at around 7 to 10 days. So, that is called the nitrogenous biochemical
+oxygen demand and that is exerted by nitrifying bacteria only.
+So, the total BOD of the sample is the sum of both carbonaceous as well as nitrogenous
+biochemical oxygen demand. How do we measure this nitrogenous biochemical oxygen
+demand? We do not want to conduct the test on a regular basis for 20 to 30 days. So, the
+simpler method is to determine Total Kjeldahl Nitrogen. Total Kjeldahl Nitrogen TKN will
+give us a measure of the organic and ammonia nitrogen in the sample and this can be
+converted based on this particular reaction where you see the ratio 1 mole of ammonia
+requires 2 moles of oxygen. You put it in terms of milligrams. So, 4.57 milligrams of
+oxygen per milligram of nitrogen is the oxygen demand of the nitrogen in ammonia. So, if
+I have a wastewater sample which has 40 milligrams per litre of TKN, all I have to do to
+determine the ultimate nitrogenous BOD demand is 4.57 multiplied by 40 will tell me how
+much oxygen is required to convert ammonia to nitrate.
+
+So, we come to an example problem that will help you to understand each one of these
+points. So, we have a wastewater sample with a BOD5 of 300 milligrams per litre and a
+reaction rate constant that is equal to 0.21 per day. So, let me put it another way 0.2 per
+day and a total kjeldahl nitrogen content of 40 milligrams per litre. This is somewhat
+common for sewage, most untreated wastewater municipal wastewater has these kinds of
+values. So, based on what we just saw for BOD5, we know that BOD5 is equal to L0 1
+minus multiplied by 1 minus e to the power minus kt. You have the ability using the k value
+and the BOD5 value you can determine L0.
+So, L0 is your ultimate carbonaceous BOD value and in this case it is 474.6 milligrams per
+litre. The TKN value is given all you have to do is multiply by 4.57 to determine your
+ultimate NBOD. Find the first you need to find the ultimate CBOD and NBOD that is done
+here. The third step is find the remaining carbonaceous and nitrogenous oxygen demand
+after 5 days have gone.
+So, BOD remaining after 5 days will be 474.6 minus 300 and NBOD remaining after 5
+days is the entire amount. We are assuming that the NBOD is exerted only after 5 days are
+over. We make the assumption that no NBOD is exerting an oxygen demand until after 5
+days.
+
+So, we will now come to our last, one of the most important water quality parameters and
+that is bacteria. Now, for reasons that will become more and more obvious as we go through
+this course, bacteria are the lowest life forms on the planet and they are responsible, they
+are one of the biggest groups of decomposing organisms.
+So, in the biogeochemical cycles the decomposition of organic matter is basically done by
+bacteria and fungi as well as higher organisms, but these are the two major groups of
+decomposing organisms. Now, bacteria are capable of surviving and reproducing using
+three different biochemical pathways. I have already mentioned in a previous slide that
+they have aerobic respiration and aerobic respiration and fermentation. So, here we have
+aerobic respiration and what is aerobic respiration? So, remember again the reaction
+between glucose, oxygen going to CO2 and water. So, you have any organic compound,
+this is a carbohydrate, it can be anything CH2O and N stands in the case of glucose, it stands
+for 6, it can be any compound, it can be any organic compound literally.
+In the presence of oxygen, will convert it to CO2 and water and you can see that oxygen is
+being reduced from an oxidation state of 0 to minus 2 in both CO2 and water and carbon in
+the organic compound is being oxidized to CO2. So, if you take glucose, it has an oxidation
+state of 0 and carbon in glucose has an oxidation state of 0 and carbon in CO2 has an
+oxidation state of plus 4. So, you can see that carbon is donating 24 electrons and oxygen
+is picking up all those 24 electrons. So, therefore, oxygen is called the terminal electron
+acceptor and the organic compound is called the electron donor and it is this combination
+of electron donor with acceptor. The number of electrons can never be free-floating,
+whatever is donated by one compound has to be picked up by the electron acceptor.
+
+So, that is our first set of reactions and this is the most common. Now, aerobic respiring
+bacteria we measure in the lab in terms of heterotrophic plate count bacteria. Supposing
+oxygen is no longer available, if oxygen is no longer available, but there are other species,
+oxidized species like ferric, iron, manganic and carbonates, and nitrates. If these
+compounds are present in water, they can substitute for oxygen as terminal electron
+acceptors. The bacteria will be able to survive and reproduce with any of these compounds
+instead of oxygen. So, they are able to survive in sub-oxic or anoxic conditions. So,
+facultative bacteria as well as anaerobic bacteria will be able to survive. Now, these
+facultative bacteria can switch as well. So, as long as oxygen is available, they will use
+oxygen and when oxygen is exhausted, they will switch to these available electron
+acceptors and that becomes anaerobic respiration. If none of these electron acceptors are
+available, then we have what are called fermentative conditions. So, that happens under
+anoxic conditions and there is a particular group of bacteria. In fact, there are several
+bacteria that can utilize something like glucose and part of the compound will be oxidized
+and the other part will be reduced and we are going to look at coliforms.
+Coliforms are bacteria that are defined as rod-shaped, gram-negative, non-spore forming,
+motile meaning they are capable of moving motile or non-motile bacteria which can
+ferment lactose and produce acid and gas when they are incubated at 35 to 37 degree
+centigrade. Why are we focusing on coliforms? These coliform bacteria are considered to
+be indicator organisms because they are normal inhabitants of the gastrointestinal tract of
+warm-blooded animals which includes human beings. So, human beings, birds, the
+mammals around you, dogs, cats, and so on. These are all warm-blooded animals and the
+gastrointestinal tract of these animals has tons and tons of coliform bacteria.
+
+They are non-pathogenic. They are required, they are essential for our ability to digest
+complex food. So, they are definitely a requirement for our ability to digest food. However,
+if these bacteria are present in either drinking water or any other water body, they are
+representative of fecal contamination. So, when you think about municipal sewage,
+municipal sewage is basically fecal matter that is being discharged and it is going to have
+very high numbers of coliforms and this will become again very important when we look
+at water body classification as well as drinking water treatment.
+
+So, how do we, so one of the best examples of coliforms is E. coli or Escherichia coli. And
+there are several methods that are available for enumerating these coliforms and I will show
+you some examples. So, we have the most probable number test. It is a Fermentative
+bacterial tube test that is used in the labs. It is based on statistical tables. It is a combination
+of using these bacterial tube tests as well as statistical tables to come up with a probable
+number for the number of coliforms that may be present in the sample and they are all more
+than 100 years old. We also have plate counts. They can be either spread plates or pore
+plates and they can also have membrane filtration. Membrane filtration is the best available
+method that we have these days. It can be used in combination with plating or with
+microscopes.
+These are the references that I have used for this particular lecture and I will stop here.
+Thank you.
+

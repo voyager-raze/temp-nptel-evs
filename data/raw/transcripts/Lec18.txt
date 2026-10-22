@@ -1,0 +1,428 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+Week 04 (Lecture 03): CLIMATE CHANGE (Projections and Related Impacts)
+
+Welcome to lecture 3 of week 4 of the NPTEL online certification course on Environmental
+Science. In the last lecture, we explored the key drivers of climate change, focusing on the
+factors contributing to this global issue.
+In this lecture, we will familiarize ourselves with the potential impacts of climate change.
+Specifically, we will examine the long-term consequences of climate change on our polar
+regions and high mountains, oceans and marine life, weather systems, livestock production
+and food security, ecosystems, and overall well-being. As you may already understand,
+climate change is set to impact nearly every sphere of our planet.
+
+By the end of this lecture, you should be able to explain the following terminologies:
+cascading impacts of climate change, permafrost, global sea level rise, ocean acidification,
+extreme weather, among others.
+We have already seen that human-induced warming has reached approximately 1 degree
+Celsius above pre-industrial levels. In the decade from 2006 to 2015, the average global
+temperature increase reached 0.87 degrees Celsius relative to the period between 1850 and
+1900. This warming has been predominantly due to human activities, particularly the
+increasing concentration of greenhouse gases in the atmosphere.
+
+Given that global temperatures are currently rising by almost 0.2 degrees Celsius per
+decade, human-induced warming likely reached 1 degree Celsius above pre-industrial
+levels around 2017. If this pace of warming continues, it is projected to reach 1.5 degrees
+Celsius around 2050. Since the 1970s, most land regions have been warming at a faster
+rate than the global average.
+
+This means that in many regions, warming has already exceeded 1.5 degrees Celsius above
+pre-industrial levels. Over a fifth of the global population today lives in regions where at
+least one season has already experienced warming greater than 1.5 degrees Celsius above
+pre-industrial levels. The warming caused by anthropogenic emissions from the pre-
+industrial period to the present is expected to persist for centuries to millennia, leading to
+long-term changes in the climate system.
+It is crucial to familiarize ourselves with the long-term adverse effects of climate change.
+Widespread evidence indicates that climate change will have severe consequences for
+much of the world, including higher temperatures, rising sea levels, increased heavy
+rainfall, prolonged drought conditions, heat stress, inundation, and related damage, among
+others. These impacts will not all manifest simultaneously or in the same manner. Some
+will emerge abruptly, while others will develop slowly and continue over time.
+Additionally, multiple impacts can occur concurrently and in various combinations,
+complicating efforts to mitigate and adapt to these challenges.
+
+The interactions between these climate change impacts will have significant spatial and
+temporal implications, spreading across different settings and contexts. While the full
+scope and scale of these effects are not yet fully understood, empirical evidence is
+beginning to suggest that climate change impacts will propagate as cascades across both
+physical and human systems. This means that changes in one system will inevitably affect
+others due to the interconnected nature of these systems. For instance, the combined effects
+of more frequent and intense storms, sea level rise, and increased storm tides can have
+compounding impacts on the ability of individuals, governments, and the private sector to
+adapt in time to prevent loss and damage. Therefore, it is urgently necessary to improve
+our understanding of the extent, scope, and implications of these cascading changes to
+better prepare and respond to the challenges posed by climate change.
+As temperatures increase, there will be a significant rise in the melting of ice and snow.
+Sea ice, which is a crucial component of the Arctic Ocean, undergoes seasonal changes in
+its extent and thickness. During the dark winter months, sea ice covers almost the entire
+Arctic Ocean. However, in the summer, some of this ice melts due to warmer temperatures
+and extended daylight hours. Typically, sea ice reaches its minimum thickness and extent
+by mid-September, with the area covered by ice being roughly half the size of its winter
+maximum. This seasonal cycle of melting and freezing is being increasingly disrupted by
+rising global temperatures, leading to thinner ice and a reduction in the overall area covered
+by ice.
+As the ice begins to expand again during the fall and winter, the extent of the area covered
+by sea ice becomes a crucial indicator of changes in the global climate. Warmer air and
+temperatures are steadily reducing the amount of ice that remains. Ice, being light-colored,
+reflects more sunlight back into space than liquid water does. This reflective property,
+known as albedo, plays a significant role in maintaining the Earth's energy balance. By
+reflecting sunlight, sea ice helps keep the polar regions cool, contributing to the overall
+stability of the planet's climate. As sea ice diminishes, less sunlight is reflected, leading to
+further warming and creating a feedback loop that accelerates the melting of ice.
+
+Sea ice plays a crucial role in maintaining cool air temperatures by acting as a barrier
+between the cold air above and the relatively warmer water below. Climate change has the
+potential to drastically alter the Earth's snow and ice-covered regions because snow and ice
+can easily transition between solid and liquid states in response to even minor changes in
+temperature.
+
+Since 1992, the massive ice sheets that cover Greenland and Antarctica have lost more than
+100 billion metric tons of ice per year on average. The area covered by ice is typically at
+its smallest in September, following the summer melting season. Over time, the annual
+minimum extent of Arctic sea ice has steadily decreased, highlighting the ongoing impact
+of climate change on these vital regions. The shrinking ice cover not only contributes to
+rising sea levels but also reduces the Earth's ability to reflect sunlight, further exacerbating
+global warming.
+
+In September 2021, the Arctic sea ice extent was recorded as the 12th smallest ever
+observed. The length of the Arctic ice melt season has also extended, and the ice itself has
+become thinner, making it more susceptible to further melting. As the amount of sea ice
+continues to decrease, the cooling effect provided by the Arctic regions is diminished. This
+reduction in sea ice not only contributes to global warming by decreasing the Earth's albedo
+(the reflective capacity of the Earth's surface) but also leads to a feedback loop where less
+ice results in more heat absorption, further accelerating the melting process and warming
+the planet.
+
+This process may trigger a feedback loop, where ocean warming--caused by increased
+absorption of solar energy--leads to an even greater loss of sea ice, which in turn causes
+further warming. This creates a cycle of diminishing snow and ice cover, causing the
+Earth's surface to absorb more energy from the sun and become warmer.
+
+The reduction in snowfall and snow cover diminishes the beneficial insulating effects of
+snow, which not only affects vegetation and wildlife but also has broader implications for
+water supplies, transportation, cultural practices, travel, and recreation for millions of
+people around the world. The changing climatic conditions can have global consequences,
+as snow and ice influence not only air temperature but also sea levels, ocean currents, storm
+patterns, and ocean salinity.
+
+For instance, the melting of ice sheets on Greenland and Antarctica adds fresh water to the
+ocean, disrupting the balance and affecting these critical environmental factors. This
+increase in sea levels can significantly alter ocean circulation patterns, which are driven by
+variations in both temperature and salinity.
+
+In addition to the melting of ice and snow, the Arctic and other cold regions have soils that
+contain perennially frozen layers, known as permafrost. These soils in the northern
+permafrost regions store a vast amount of organic carbon, estimated to be between 1,460
+to 1,600 petagrams of carbon across surface soils and deeper deposits. Specifically,
+permafrost soils and deposits hold approximately 1,070 to 1,360 petagrams of carbon. Of
+this, around 300 to 400 petagrams are stored within the first meter of soil, while the
+remainder is stored at greater depths.
+
+The remaining carbon is stored in permafrost-free soils within the permafrost regions.
+These carbon deposits have accumulated over thousands of years due to the slow rates of
+organic matter decomposition in frozen or waterlogged soil layers. However, these frozen
+soils are highly susceptible to decomposition once they thaw. A warming climate can
+indeed cause some of this permafrost to thaw, releasing the stored carbon into the
+atmosphere.
+
+In fact, permafrost thawing has already been observed in many locations around the world.
+This thawing process can lead to the release of greenhouse gases like carbon dioxide and
+methane, further exacerbating global warming and creating a feedback loop that accelerates
+climate change. A thawing permafrost layer can indeed have severe impacts on both people
+and the environment. For instance, as the ice-filled permafrost thaws, it can turn into a
+muddy slurry, which will no longer support the weight of the soil and vegetation above it.
+This destabilization can lead to significant changes in the landscape, including the collapse
+of buildings, roads, and other infrastructure built on what was once solid ground.
+Permafrost plays a crucial role in the Arctic ecosystem by making the ground watertight,
+thereby maintaining the vast network of wetlands and lakes across the Arctic tundra. These
+wetlands are vital habitats for various plant and animal species, supporting a rich
+biodiversity. However, the thawing of permafrost threatens to drain these wetland breeding
+sites, which could have devastating consequences for numerous species that rely on these
+environments for survival, particularly during the breeding season.
+The loss of these habitats could lead to a decline in wildlife populations and disrupt the
+ecological balance of the region, affecting not only the local environment but also the
+global climate system. The release of greenhouse gases from thawing permafrost further
+compounds these issues, contributing to an accelerated pace of climate change.
+
+Additionally, as organic matter, such as the remains of plants currently frozen in the
+permafrost, begins to thaw, it will start to decompose. This decomposition process will
+release methane and carbon dioxide into the atmosphere, further contributing to global
+warming. The cryosphere, as I mentioned earlier, includes not only snow, glaciers, and
+permafrost but also lake and river ice, and it is an integral element of high mountain
+regions.
+High mountain regions are home to roughly 10 percent of the global population.
+Widespread changes in the cryosphere will affect physical, biological, and human systems
+in the mountains as well as the surrounding lowlands. For instance, glacier retreat and
+permafrost thaw can decrease the stability of mountain slopes and the integrity of
+infrastructure, while also increasing the number and area of glacier lakes. These changes
+can lead to landslides, floods, and other cascading events in areas where such events have
+not been previously recorded.
+
+Snow avalanches are also projected to decline in number, and the run-out distance at lower
+elevations will decrease. However, avalanches involving wet snow, even in winter, are
+expected to occur more frequently. Additionally, rain-on-snow floods are anticipated to
+occur earlier in spring and later in summer. In several regions, worsening route safety will
+reduce mountaineering opportunities. The variability and decline in natural snow cover
+will compromise the operation of low-elevation ski resorts, and the decline in glaciers and
+snow will impact the aesthetic, spiritual, and cultural aspects of mountain landscapes.
+These changes not only alter the natural environment but also affect the livelihoods,
+traditions, and well-being of the communities that rely on these high mountain regions. The
+cascading impacts of climate change in these areas highlight the interconnectedness of
+physical and human systems, underscoring the need for comprehensive adaptation
+strategies to address these challenges.
+This situation will also negatively impact the well-being of people, especially in regions
+such as the Himalayas, Eastern Africa, and the tropical Andes. As a consequence of both
+natural and anthropogenic changes in the climate system, sea level changes are occurring
+on temporal and spatial scales that threaten coastal communities, cities, and low-lying
+islands.
+
+When we refer to "sea level" in this context, we are talking about the time-averaged height
+of the sea surface, which eliminates short-duration fluctuations like waves, tides, and
+surges. The global mean sea level rise refers to an increase in the volume of ocean water.
+After a period of approximately 2,000 years of little change, the global mean sea level has
+risen faster in the 20th century than in any prior century over the last three millennia.
+In fact, it has increased by about 15 centimeters. The global mean sea level rise has
+accelerated since the late 1960s, with an average rate of 2.3 millimeters per year over the
+period from 1971 to 2018, increasing to almost 3.7 millimeters per year over the period
+from 2006 to 2018.
+
+It is important to understand that global sea level rise is primarily a result of changes in the
+volume of water in the oceans, which is largely driven by changes in ocean temperature,
+melting, and increased discharge of land-based ice, such as glaciers, ice caps, and ice sheets
+in Greenland and Antarctica, as well as changes in runoff, including dam construction or
+groundwater withdrawal.
+Ocean thermal expansion, which is caused by the excess heat being absorbed by the oceans,
+and mass loss from glaciers have dominated the total change from 1901 to 2018. The
+contribution of Greenland and Antarctica to the global mean sea level rise was actually
+four times larger during the 2010 to 2019 period than during the 1992 to 1999 period. Due
+to the increased ice sheet mass loss, the total loss of land ice was the largest contributor to
+global mean sea level rise over the period from 2006 to 2018.
+By 2050, sea levels are expected to rise an additional 10 to 25 centimeters, regardless of
+whether or not greenhouse gas emissions are reduced. This projection highlights the urgent
+need for adaptation and mitigation strategies to protect vulnerable regions from the impacts
+of rising sea levels.
+
+Even if net zero emissions are achieved, sea level rise will persist. This ongoing rise is
+primarily due to the slow response of the deep oceans and ice sheets to environmental
+changes. The deep oceans will continue to warm, and the ice sheets will gradually adjust
+to the warming caused by past and present emissions. This slow response means that even
+as we reduce emissions to net zero, the effects of previous emissions will continue to impact
+sea levels.
+
+Ocean and ice sheets are inherently slow to react to environmental changes. For example,
+under low-emission scenarios, projections suggest that sea level rise will continue at a rate
+similar to today's, even as we approach net zero emissions. However, in scenarios where
+emissions remain high, projections indicate a substantial acceleration in sea level rise--
+potentially more than five times the current rate by 2100. This acceleration could be
+particularly pronounced if processes that expedite the retreat of the Antarctic ice sheet
+become widespread.
+Rising sea levels will undoubtedly increase the frequency and severity of extreme sea level
+events along the coasts. The most commonly referenced risks associated with sea level rise
+include increased coastal flooding from encroaching seas and waves, which could manifest
+as both permanent inundation and episodic events caused by storms.
+
+Moreover, rising seas will also trigger other natural processes along the coast that could
+lead to negative impacts, such as erosion and rising groundwater levels. For instance, as
+waves crash further up the shore, they will erode sand from coastal reef walls and beaches.
+In coastal communities where the underground water table is already near the land surface,
+higher ocean water levels could force groundwater levels up, leading to flooding.
+
+The most immediate trigger for high sea level events is often a combination of high tide
+and storm surge. These events can lead to sudden and severe flooding, particularly in low-
+lying coastal areas, making it crucial to consider both immediate and long-term strategies
+for managing and mitigating the risks associated with rising sea levels.
+
+Sea levels essentially establish a baseline for storm surges. Storm surges are potentially
+destructive increases in sea height that occur during coastal storms. As local sea levels rise,
+this baseline also rises, allowing coastal storm surges to penetrate further inland. This
+increased reach of storm surges can lead to more extensive flooding in coastal areas.
+
+Beyond flooding, one of the key impacts of such sea level encroachments is the intrusion
+of saltwater into coastal ecosystems and aquifers--a phenomenon known as saltwater
+intrusion. This intrusion can have significant implications for freshwater resources,
+agriculture, and natural habitats, making it an issue of growing concern as sea levels
+continue to rise.
+Due to the projected global mean sea level rise, extreme sea levels that are historically rare
+will become more common by 2100 under all climate change scenarios. This means that
+what were once considered rare and extreme events could become regular occurrences,
+posing ongoing challenges for coastal communities and ecosystems.
+
+ Many low-lying cities, such as Miami in Florida and Dhaka in Bangladesh, along with
+small islands across various latitudes, are expected to experience significant sea level rise
+and related extreme events annually by 2050. This is true regardless of whether these areas
+are urban or rural, continental or island-based.
+Beyond sea level rise, it's important to recognize the critical role that oceans play in
+regulating the amount of carbon dioxide (CO) in the atmosphere. As atmospheric CO
+concentrations increase, the oceans absorb more of this gas. However, due to the slow
+mixing time between surface and deeper waters, it can take hundreds to thousands of years
+to establish a new balance.
+Over the past 250 years, the oceans have absorbed about 28 percent of the CO produced
+by human activities. While this ability of the oceans to absorb CO prevents atmospheric
+levels from rising even higher, the increasing levels of dissolved CO in the oceans can
+negatively impact marine life.
+CO reacts with seawater to form carbonic acid, which increases the acidity of the water.
+This rise in acidity alters the balance of minerals in the ocean, particularly affecting the
+availability of carbonate ions. These ions are crucial for marine organisms, such as corals
+and shellfish, that rely on them to form their shells and skeletons.
+
+The data shown here, derived from computer model simulations, depicts the surface ocean
+aragonite saturation state from 1880 to 2015. This state is based on historical data and
+future projections of CO emissions, with the locations of continents and coral reefs
+marked. Aragonite saturation state is commonly used to track ocean acidification because
+it provides a measure of carbonate ion concentration. This measure is crucial in
+understanding how changes in ocean chemistry might affect marine ecosystems,
+particularly coral reefs, which are highly sensitive to changes in aragonite levels.
+
+Aragonite is one of the most soluble forms of calcium carbonate, widely utilized by marine
+calcifiers, such as corals, mollusks, and other organisms that form calcium carbonate
+structures. These organisms thrive and are more likely to survive and reproduce when the
+aragonite saturation state is greater than 3. However, when the aragonite saturation level
+falls below 3, these organisms become stressed, and when it drops below 1, the shells and
+other aragonite structures begin to dissolve. This poses a significant threat to marine life,
+particularly coral reefs, which are highly sensitive to changes in ocean chemistry.
+The predicted decrease in pH by approximately 0.3 units during the 21st century represents
+a potentially greater change than any seen in the last 300 million years. Such a shift could
+have profound impacts on marine ecosystems, disrupting the delicate balance that many
+organisms rely on for survival.
+
+It's also important to understand that the air-sea gas exchange is a physicochemical process
+primarily controlled by the difference in gas concentration between the air and sea, as well
+as the exchange coefficient. This exchange coefficient determines how quickly a molecule
+of gas, such as CO, can move across the ocean-atmosphere boundary. On average, it takes
+about one year for CO in the surface ocean to equilibrate with atmospheric CO. This slow
+process means that it's not uncommon to observe significant differences in CO
+concentrations between the air and sea, often driven by variability in oceanic biological
+activity and circulation patterns.
+The oceans contain a vast reservoir of carbon that interacts with the atmosphere, as CO
+reacts with water to form carbonic acid and its dissociation products, such as bicarbonate.
+As atmospheric CO concentrations rise, these interactions with the surface ocean alter
+seawater chemistry, leading to ocean acidification. Evidence suggests that past and current
+ocean uptake of human-derived CO is primarily a physical response to these rising
+atmospheric CO concentrations.
+
+Whenever the partial pressure of a gas increases in the atmosphere over a body of water,
+the gas diffuses into the water until the partial pressures across the air-water interface
+equilibrate. However, the global carbon cycle is deeply intertwined with the physical
+climate system, creating several feedback loops between the two systems. For instance,
+increased CO levels modify the climate, which, in turn, impacts ocean circulation and
+consequently the ocean's capacity to absorb CO.
+
+In addition, changes in marine ecosystems due to rising CO levels or climate shifts can
+also influence air-sea CO exchange. These feedback mechanisms complicate predictions
+about how the ocean carbon cycle will function in the future.
+
+The increased acidity of the ocean alters the balance of minerals in the water, making it
+more challenging for corals and plankton to produce calcium carbonate, the primary
+component of their hard exoskeletons and shells. Declines in coral and plankton
+populations can lead to significant changes in marine ecosystems, ultimately affecting fish
+populations and the people who rely on them for food and livelihood.
+
+ And signs of such damage are already starting to appear in certain areas. Now, rising
+global average temperatures are also associated with widespread changes in weather.
+Scientific studies indicate that extreme weather events, such as heat waves and large
+storms, are likely to become more frequent or more intense with human-induced climate
+change. These extreme events are abrupt, occurring in the present, and are highly visible,
+as opposed to long-term climate change trends that seem abstract, distant, gradual, and
+complicated. Now today if you see the news, so the global news is in fact full of ,reports
+on extreme weather or climate events on a regular basis. And long term changes in climate
+can actually directly or indirectly affect many aspects of society in potentially disruptive
+ways.
+
+For example, warmer average temperatures could increase air conditioning costs. They can
+also affect the spread of diseases like Lyme disease, malaria, and others. However, these
+temperature changes could also improve conditions for growing certain crops. More
+extreme variations in weather pose a significant threat to society. More frequent and
+extreme heat events can lead to increased illness and deaths, especially among vulnerable
+populations. Additionally, these events can damage crops and disrupt food production.
+ While increased precipitation can replenish water supplies and support agriculture,
+intense storms can damage property, cause loss of life, and lead to population displacement.
+Such storms can also temporarily disrupt essential services, including transportation,
+telecommunications, energy, and water supplies.
+When considering the impacts of climate change on our water resources, extreme weather
+conditions are projected to reduce renewable surface water and groundwater resources,
+particularly in many dry subtropical regions. This reduction will likely intensify
+competition for water among various sectors, further stressing these already vulnerable
+areas.
+In present dry regions, drought frequency is expected to increase by the end of the 21st
+century. In contrast, water resources are likely to increase at high latitudes. Climate change
+is projected to reduce both raw water quality and pose risks to drinking water quality, even
+with conventional treatment, due to interacting factors. These factors include increased
+temperature, elevated sediment, nutrient, and pollutant loadings from heavy rainfall, higher
+concentrations of pollutants during droughts, and disruption of treatment facilities during
+floods.
+
+ When we look into our food supply system, crop productivity is projected to increase
+slightly at middle to high latitudes with moderate atmospheric warming. However, this
+productivity will decrease if warming becomes too severe. For example, moderately
+warmer atmospheric temperatures and increased precipitation at northern latitudes may
+lead to a northward shift of some agricultural production to parts of midwestern Canada,
+Russia, and Ukraine. But overall food production could decrease due to unsuitable soils in
+these northern regions. According to several projections, food may remain plentiful for a
+while because of the longer growing season in the northern regions.
+But most scientists warn that by 2050, some 200 to 600 million of the world's poorest and
+most vulnerable people could face malnutrition and starvation due to the effects of climate
+change on agricultural systems. In addition, livestock systems will also be impacted by
+climate change, mainly through increasing temperatures, precipitation variation, and
+atmospheric CO concentration, along with a combination of these factors. Temperature
+affects most of the critical aspects of livestock production, such as water availability,
+animal production and reproduction, and animal health. Livestock diseases are also likely
+to be influenced by increased temperature and precipitation variations. In short, climate
+change will reduce the availability of livestock products as well as their quality and safety
+due to contamination with pathogens or pesticides, and it will also reduce the nutritional
+quality and sensory appeal of these products.
+Apart from that, when we look into our ecosystems, a large fraction of both terrestrial and
+freshwater species face an increased extinction risk under the projected climate change
+during and beyond the 21st century. This risk is particularly heightened as climate change
+interacts with other stressors such as habitat modification, over-exploitation, pollution, and
+invasive species. In fact, extinction risk increases under all climate change scenarios. As
+seen in this graph, many species are projected to be unable to keep up with the pace of
+climate change. The maximum speed at which they can move across land is slower than
+the average climate velocity in their environment. This is particularly true in flat areas
+where even small temperature changes correspond to larger geographical shifts.
+
+In such scenarios, and in the absence of human intervention, tree mortality and associated
+forest diebacks are expected to occur in many regions. Small mammals and primates will
+also face significant risks, particularly in flat areas. Although marine species may have an
+easier time shifting their ranges, invasion and warming could lead to high local extinction
+rates, especially in tropical and semi-enclosed seas.
+
+Lastly, when we consider the consequences of climate change on humans, the impacts are
+broad and far-reaching. Changes in the Earth's climate can significantly affect public
+health, agriculture, water supplies, energy production and use, land use and development,
+recreation, and more. These shifts underscore the critical need for comprehensive strategies
+to mitigate and adapt to the ongoing changes in our environment.
+
+The nature and extent of these effects, and whether they will be harmful or beneficial, will
+vary regionally as well as over time. Changes in climate will actually alter the average
+weather conditions to which we are accustomed, resulting in multiple threats to human
+health and welfare. Warmer average temperatures will continue to lead to hotter days and
+more frequent, longer heat waves, increasing the number of heat-related illnesses and
+deaths.
+
+Additionally, increases in the frequency or severity of extreme weather events, such as
+storms, will heighten the risk of dangerous flooding, high winds, and other direct threats to
+people and property. Warmer temperatures will also reduce air quality by intensifying the
+chemical reactions that produce photochemical smog. Along with changes in precipitation
+patterns and extreme events, these factors could also enhance the spread of certain diseases.
+
+In addition to all that, climate change will require adaptation on larger and faster scales
+than in the past, presenting significant challenges to human well-being and the economy.
+The more extensively and rapidly the climate changes, the more profound the potential
+effects on society will be, influencing different regions and sectors to varying degrees.
+
+And that depends not only on the sensitivity of those systems to climate change but also
+on their ability to adapt or cope with it. Populations of particular concern include the poor,
+children, the elderly, those already in poor health, the disabled, and indigenous populations.
+
+To summarize today's lecture, we can see that climate change will have far-reaching
+impacts on the planet as a whole. It will affect not only ecosystems and human well-being
+but also nearly every sphere of the planet that comprises the environment we thrive in.
+
+In the next lecture, we will explore the options available to us for mitigating climate
+change.
+
+With that, I conclude this lecture on the consequences of climate change. Thank you.
+

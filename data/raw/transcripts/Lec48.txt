@@ -1,0 +1,317 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                               WEEK 10
+                                               Lecture 03
+                                            Effects Of Noise
+Welcome everyone to lecture number 3. Today we are going to look at the effects of noise
+in this lecture.
+
+So, some of the concepts that we are going to cover are continuation of the audiometric
+responses, how we measure response to sound, hearing losses, the structure of the human
+ear, occupational hazards due to noise and the effects of sound.
+Keywords are audiogram, hearing loss, occupational hazard, sonic boom and the cochlea
+of the ear.
+
+What is audiometry? I already mentioned in the previous lecture that audiometry is our
+measurement of how we respond to different frequencies and what is the loudness level.
+So, we have a different way of measuring sound at different frequencies.
+So we have audio meters these are sources of pure tones which means fixed frequencies
+with variable sound pressure level output into the earphone and that data is then put
+together to generate an audiogram. Now anytime a person suspects either temporary or
+permanent hearing loss, they would probably go to a doctor and ask for an audio
+checkup. So they would be put through various procedures, basically this is what is done,
+an audiometer is used and an audiogram is generated. I have already shown you the ANSI
+references for the hearing thresholds. Let me show you what a normal adult audiogram
+looks like So this is our typical audiogram. For a normal adult and at the bottom in blue
+so there are two things in this graph.
+What you have is the red circles which represent the hearing in the right ear and the blue
+crosses which represent hearing in the left ear. The red one is normal hearing. So if you
+refer back to the ANSI reference levels or over here it is very clear as the frequency
+increases and we have already defined our threshold of hearing so normal hearing is
+defined as the ability to hear sound of different frequencies at thresholds of 25 decibels or
+less.
+
+So, you can see the blue area. The blue area is 25 decibels or less and that is a normal
+person. If you see in the left ear there is an interesting phenomenon in this case at 4000
+hertz there is a very serious decline in the person's ability to hear sound. It took almost 55
+decibels to be heard at 4000 hertz or frequency. So, this is called the audiometric notch.
+
+This is the clinical definition of noise induced hearing loss Now there are several
+occupations in which the worker is exposed to either continuous or intermittent noise. So,
+it may be drilling operations and mining activities. It may be construction activities where
+there is continuous drilling and cutting and sawing operations that are going on. So, these
+are examples of occupational exposures where the worker is exposed for perhaps 8 hours
+a day to noise levels. And because of that, they have permanent hearing loss and this is a
+sort of stereotypical example which is very common in clinical practice where they find
+that occupational workers who are exposed continuously to noise have hearing loss at
+4000 hertz.
+
+So, this is called the audiometric notch. So, like I said hearing impairment can happen
+either due to intense explosive noise which happens either due to occupational exposure
+or it can happen due to accidents, incidents and so on which can result in rupture of the
+eardrums. You can also have continuous exposure to sound which can result in neural
+damage due to injury to the hair cells. So, let's take a look at the structure of the ear. What
+we see here is the structure of the human ear.
+
+So, as you can see you have the outer part of the ear and this outer ear extends all the way
+to the eardrum or the tympanic membrane. So, you have the external auditory canal or the
+ear canal in common language and this eardrum or the tympanic membrane is the barrier
+between the outer ear and the middle ear. The middle ear extends from behind the
+tympanic membrane. It includes the eustachian tube and it has three ossicles. These are
+the three ossicles the malleus, cingus and stapes and they are attached to this eustachian
+tube.
+Now the eustachian tube is also responsible for maintaining equilibrium and finally we
+have the inner ear. This inner ear is where the cochlea is and they have hair cells within
+them. So, sound energy that comes to the ear passes through the ear canal or the auditory
+canal. It causes vibrations in the tympanic membrane. These vibrations are transmitted to
+the ossicles from where they are transmitted to the cochlea or the hair cells inside the
+cochlea and that is then registered by the brain and that is how a human being is able to
+hear.
+So, in this slide and the next we are going to look at a few different types of hearing tests.
+The most common one is called the pure tone testing or audiometry testing and most of
+us when we go for a hearing test, we will be put through something like this. So, this is a
+non-invasive test. The person is asked to be seated in a sound proof cabin. It is a small
+cabin and they are given headphones to wear.
+
+A series of pure tones at different loudness levels are sent directly to the headphones and
+the person has to respond if the tone is audible to them or not. So that a set of
+measurements is made by the person performing the test and then a graph is created, an
+audiogram is created based on this type of test. So, like I said, this is the first level of
+hearing test and this is very common. The next one is called acoustic reflex measure and
+it is also called middle ear muscle reflex and this tests how well the ear responds to loud
+sounds. So, in the previous case they are getting the threshold of hearing is measured for
+the individual.
+
+In this case it is the response of the individual to very loud sound. So, in a normal course
+of events a tiny muscle inside the ear tightens when it is exposed to loud noises. This is
+called the acoustic reflex and it is an unconscious reflex that the moment you hear a loud
+sound there is an unconscious tightening of the ear muscle that is inside the ear.
+Therefore, during the test, the audiologist or other service provider will place a soft
+rubber tip inside the ear. A series of loud sounds is sent through these tips and recorded
+also on a machine.
+
+The machine will record if the sound has triggered a reflex in the inner muscles. If the
+hearing loss is bad, the sound that is required to trigger a reflex will be extremely loud
+and, in many cases, there may be no reflex at all. That signifies that the hearing loss is
+severe. We then come to another very common test and this is called the tuning fork test.
+In the tuning fork test, this is a tuning fork and every tuning fork has a fixed frequency.
+
+So, the fork is hit so that it makes a tone at the rated frequency of the tuning fork. When it
+is hit it starts vibrating and then it starts vibrating and the tuning fork is placed either
+behind the ear or on top of the head of the person that is being tested. The tested person is
+asked whether they can hear it in their left ear, right ear or both equally. This kind of test
+is like I said very common, it is very simple and it also shows the difference whether it is
+a conductive hearing loss or a sensory neural hearing loss. So, these are the different
+types of hearing losses which I will talk about in the subsequent slides.
+But this is a test that is not only simple but it also tells us the nature of the hearing loss.
+We then have speech and word recognition test. The audiologist will talk to the tested
+person through headphones. A few simple words are spoken by the audiologist to the
+person at different volumes. The tested person has to respond to the softest speech level
+that they are capable of hearing.
+Some of the testing may be done in a noisy environment and many people with hearing
+loss will have trouble understanding speech in loud places. So, if there is background
+noise So if there is background noise, it is very often that people who have already
+suffered hearing loss will have trouble understanding clearly what is being said.
+Tympanometry test is another test. The audiologist will place a small device inside the
+ear canal. The device will push air into the ear making the eardrum move back and forth.
+A machine records the movement on the graph and that is called a tympanogram. The test
+will help the person to figure out whether it is an ear infection or there are problems with
+build-up of fluid or wax in the ear cavity or if there is a hole or tear in the eardrum. So
+any damage to the hair cells within the cochlea can result in it can be either due to neural
+damage or due to injury due to the hair cells. So, let's spend a little more time on hearing
+losses. Hearing losses can be of two types.
+
+You can have temporary threshold shift or you can have permanent threshold shift. The
+shift in the threshold of hearing by more than 25 decibels that is the lower limit or the
+lower fence that is noted over here. So, when the threshold of hearing, the ability to hear
+shifts by more than 25 decibels it is considered a hearing loss. We have all experienced
+temporary threshold shifts where ringing in the ears, discomfort, muffling of sound. After
+a flight this is one of the most common experiences when there is change in cabin
+pressure you have a problem because of the change in cabin pressure there is a shift in the
+position perhaps of the eardrum or the tympanic membrane.
+So, all those kinds of temporary threshold shifts can happen that happens very often. If
+you listen to loud music for a short period of time you find that you are unable to hear
+normal conversation that's because you have been exposed to very high decibels for an
+hour or two and that will result in a temporary threshold shift. So, this occurs in the first
+two hours of exposure and recovery takes around 16 to 24 hours after exposure. So, these
+kinds of temporary threshold shifts are very common in our lives. What is more serious is
+permanent threshold shift.
+Permanent threshold shift means hearing loss between 3000-6000 hertz with a dip at
+4000 hertz and that is what I showed you in this particular graph. Now this temporary
+hearing loss over a period of time if the exposure continues and with the age of the
+person this hearing loss will increase over a period of time So these two points which are
+right now at 40, the point at slightly more than 3000 hertz and at 7000 hertz they will
+both come further into the louder decibel range. So, these hearing losses will broaden in
+their extent as time goes by. So, whether its exposure continues or because of the age of
+the person. So, that's a common phenomenon that this notch will broaden over time.
+The onset and progress of hearing loss is very slow and generally it goes unnoticed in the
+initial phases. When speech frequencies, now speech frequencies are 500 to 2000 hertz
+when you find that the person is not able to hear normal speech at lower than 25 decibels
+it means the person will start realizing that he or she is experiencing hearing loss. Total
+hearing loss due to noise has never been observed. What are the causes of hearing loss?
+Hearing loss can be noise-induced where you have regular exposure to noise.
+That is one. Noise-induced hearing loss also happen due to age, drugs, disease and
+physical head injury. Aging results in degeneration of our hearing responses. The loss is
+called presbycusis. So here is an example of that. The International Organization for
+Standards, International Standards Organization has a standard set of curves for
+accounting for hearing loss due to age And you can see it for men and women it is
+different.
+
+So, you can see the graph on the, the first graph is for women. And you can see the
+hearing losses for men are much more severe in the high-frequency range with age.
+Women tend to Women tend to lose less in the higher frequency range. So, you can see
+the difference. At 20 years, assuming they have no hearing loss in both cases for every 10
+years increase in age there are losses, hearing losses in the high frequencies over time.
+
+So, we are looking at hearing loss and when we think about the factors that affect the
+threshold shift, I have already mentioned that we have a temporary threshold shift and if
+the sound level is greater than 60 to 80 decibels then the normal person will experience a
+temporary threshold shift. So that is our first point. The second issue is the frequency
+distribution. Speech frequencies are more potent in causing a threshold shift compared to
+lower frequencies.
+The next issue is the duration of sound. So, if you are exposed to a loud sound for a
+longer period of time, the threshold shift is going to be greater. Another major factor is
+temporal distribution of sound. What is the number and the length of the quiet periods?
+So, if that is going to vary that will also have an impact. It will have an impact on
+potential threshold shifts.
+Then we come to individual preferences. For some people loud music is preferable, a
+certain type of music is preferable and for other people the same type of music is not
+acceptable. So that is basically a factor that means that individuals prefer different types
+of sound and that itself will also result in threshold shifts. Now there are four basic types
+of sounds. Continuous, intermittent, impulse, and low frequency noise.
+So, let's take a look at that. What is continuous noise or continuous sound for that matter.
+So anytime you have something that is non-stop, it just goes on and on. So, the running
+motor, running fan, running engine, whether it's by occupational exposure or if you are at
+home and the fan is constantly running, those are continuous noise levels which we often
+get used to. Then we come to intermittent noise levels.
+
+When there is quiet as well as noisy periods. So, imagine that you are at a railway station,
+when the train comes in the noise level is very high. After the train leaves and there is no
+further activity that is the quiet period. Similarly at airports when the planes are landing
+there is a lot of noise and then after they leave there is a quiet period. So, these are
+examples of intermittent noise levels.
+
+Then we come to impulse. Impulse sound or noise is a burst of sound that lasts less than a
+second. So, firecrackers, gunshots, tyre bursts, any other explosive sound will be
+considered an impulse sound. Low frequency noise, now if you remember the A-waiting
+networks and the other A, B and C waiting networks, the low frequency sounds were
+cancelled by the A-waiting networks. In the C-waiting networks we are cancelling only
+sounds that are below 100 hertz. From 100 to 1000 there is no cancelling of those
+frequencies.
+
+So, these low frequency noise or sounds can be measured only with C-waiting networks.
+They cannot be used or rather A-waiting networks cannot be used. What are low
+frequency sounds? Low frequency sounds are again background noise that comes from
+thermal power plants. It can even come from electrical gadgets in the home, from diesel
+generators. Very often when the electricity goes off, you realise, most of us realise that
+there is a hum in the background from either the fridge or any other machine that is there,
+any other gadget or appliance that is there in the house that has a low frequency hum
+which we get used to and it is only when the power goes off that we realise that we are
+constantly exposed to low frequency noise.
+
+So, these are all examples of low frequency noise. Now we look at the types of hearing
+losses. I have already mentioned this in the previous slides that there are two major types
+of hearing loses the first one is called sensory neural hearing loss and the second one is
+called conductive hearing loss. The most common one is sensory neural hearing loss. It is
+a very common type.
+It occurs due to damage to the inner ear. Now the inner ear is on the other side of the ear,
+of the tympanic membrane or the ear drum Any damage to the inner ear or to the actual
+hearing nerve can result in sensory neural hearing loss. Now this loss will occur when
+some of the hair cells within the cochlea are damaged. This can happen due to various
+reasons. Most commonly it happens as part of the ageing process, exposure to loud noise,
+injury, disease, certain drugs or medication or it may be an inherited condition.
+This type of hearing loss cannot be treated. It cannot be treated with medicine or surgery
+and the only remedy is hearing aids. So, hearing aids can be beneficial for people
+suffering from sensory neural hearing loss. We then come to conductive hearing loss.
+This type of hearing loss occurs in the outer or middle ear where the sound waves do not
+reach the inner ear.
+So, the inner ear is not getting any sensory input. The sound may be blocked by ear wax
+or any foreign object located in the ear canal. The middle ear space may be impacted by
+either fluid infection or bone abnormality. If the ear drum is injured that may also be
+cause of conductive hearing loss. In some cases, conductive hearing loss can be reversed
+through medical or surgical intervention. Conductive hearing loss is very common in
+children who have recurrent ear infections or often children insert foreign objects into
+their ear canal and that can also result in conductive hearing loss.
+
+In some cases, people have a combination of sensory neural as well as conductive hearing
+loss and that again becomes a complication. So, NIOSH which is responsible in the US
+for coming up with occupational noise exposure limits for both continuous as well as
+intermittent noise exposure, has modified the standards and I showed it in a previous
+lecture as well. So, the blue line represents the line for new installations. So, all new
+installations are required to have exposures only below this, so in this range below the
+blue line and existing installations which tend to be louder have a slightly more lenient
+standard. So, if you remember in the table in the very first lecture, I had 85 decibels for 8
+hours duration to 8-hour duration at 85 decibel A, A waiting network is allowed.
+Not for longer and not for louder levels. That is one point. Now let us take a look at
+another issue. Now let us say you have a few people who are working where there are
+very high background noise levels. We have all experienced it. Let us say you are in a
+truck and you are trying to have a conversation. It is very difficult because the
+background noise in the truck is very high.
+So, background noise, if the background noise levels are high, communication can be
+difficult to impossible. So, let us take a look at the second graph on this slide. On the X
+axis we have the distance between talker and listener, on the Y axis we have the
+background noise level and the background noise level in this particular case ranges from
+40 decibel A to 120 decibel A. When the distance between talker and listener or the two
+people is small and the background levels are anywhere from 40 to 90, there is no issue in
+terms of having a normal speech.
+So, it is between 3, less than 3-meter distance. But when the distance increases, they are
+not going to be able to hear each other if the background level is more than 50. So as long
+as the background level is 50 and the distance is up to 9 to 10 meters, speech is possible.
+That is okay. At 70 decibel A and 10-meter distance communication will be difficult. And
+similarly at 10-meter distance and a background level of 90 decibels communication will
+be impossible.
+
+So that is the whole point here. So, there is an example in the textbook where the speaker
+is in a quiet zone and wishes to speak to a person who is sitting in a truck 6 meters away.
+The sound level, the background sound level in the truck cabin is 73 decibels A. Based on
+this figure let's look at 6 meters and 73 decibels. So, the talker and the listener are in this
+range at 6 meters and 73 decibels.
+Communication is very difficult. So, the normal level of conversational sound is not
+going to work in this situation. The person has to raise their voice to be heard. And this
+can be very similar to the situation in classrooms. In classrooms, you have distances of
+more than 6 meters and the teacher has to raise their voice to a very high level to be
+heard. Let's now come to another point and that is annoyance as well as sonic booms.
+
+We will talk about that later. So, what is annoying? Annoying is anything that is
+unpleasant. Anything that disturbs or disrupts our regular activity. And we all know that
+any noise at night is going to be more annoying than in the day. We are trying to sleep at
+night and even the slightest noise is going to wake people up.
+So that is a major issue. One of the things that gets media attention in most countries is
+the response of residents to air traffic noise. And some of you may be aware of the fact
+that in developed countries they do not have air traffic at night. So, flights don't come in
+or take off at night. They normally do that in the daytime.
+So that residents around the airport are not disturbed. Other sources, all types of
+transportation, industrial and recreational activities, they are all sources of noise. And that
+is something that needs to be controlled or taken care of. Anything that causes sleep
+interference as I said that is annoying. and I will show you a questionnaire, rather the data
+from a questionnaire survey conducted with 350 respondents living near airports. What
+they found is all kinds of differences in the responses of the residents to sounds in their
+rooms.
+
+So, let's say you have a flight taking off, what is the decibel level in their bedroom at that
+time? So, what is the impact on them, what is the response, what is the impact on them
+and what is the decibel level indoors for brief sounds that last less than 3 minutes? Many
+of them complained about noise keeps me from going to sleep, noise wakes me up,
+awaking from deep sleep. So, these are some of the responses that have been shown in
+this particular graph. There are community noise sources. As I mentioned again in a
+previous lecture, most of the community or environmental noise comes from
+transportation sources.
+It can be air, it can be rail, it can be road and so on. So, all transportation methods, all
+modes of transport result in high amounts of environmental noise. Another major source
+of environmental noise is construction activity. So anytime you have construction activity
+in your vicinity, you know that there are noise levels, the noise levels are high. So,
+construction noise and siting considerations. Supposing you are planning to set up some
+kind of activity in the residential area and that will result in regular noise levels, so that
+has to be either accounted for or some kind of control over the noise levels has to be put
+in place.
+
+We are all aware of sonic booms. When you have jet aircraft taking off from the airport,
+they will generate a shockwave and when the aircraft speed exceeds the speed of sound,
+you hear a sonic boom. So that is when you have supersonic aircraft. And that is again a
+major problem for people who live near airports. Alright, thank you. I will stop at this
+point.
+

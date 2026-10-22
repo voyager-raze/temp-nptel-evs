@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Transcript Notes — NPTEL EVS</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="logo" href="index.html"><span class="logo-mark">EV</span> NPTEL EVS</a>
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="assignments.html">Assignments</a>
+        <a href="materials.html">Materials</a>
+        <a href="notes.html">Notes</a>
+        <a href="transcripts.html" class="active">Transcripts</a>
+        <a href="final.html">Final Notes</a>
+        <a href="mock.html">Mock Exam</a>
+      </nav>
+      <div class="top-actions"><button class="btn btn-sm" id="themeToggle" type="button">Theme</button></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <h1>Lecture transcript notes</h1>
+      <p>60 one-page notes from spoken lectures — objectives, keywords, likely MCQ facts, and a mnemonic. Search across all lectures.</p>
+    </section>
+
+    <div class="toolbar">
+      <input type="search" id="search" placeholder="Search keywords, titles, facts…" style="min-width:220px;flex:1" />
+      <div class="week-pills" id="weekPills" style="margin:0"></div>
+    </div>
+
+    <div id="content" class="lec-list"></div>
+  </main>
+
+  <script src="js/app.js"></script>
+  <script>
+    let lectures = [];
+    let weekFilter = 0;
+
+    async function init() {
+      const [data, weeks] = await Promise.all([
+        EVS.fetchJSON("data/transcript-notes.json"),
+        EVS.fetchJSON("data/weeks.json"),
+      ]);
+      lectures = data.lectures || [];
+      const params = new URLSearchParams(location.search);
+      weekFilter = Number(params.get("week") || 0);
+
+      const pills = document.getElementById("weekPills");
+      pills.innerHTML =
+        `<button class="week-pill ${weekFilter===0?"active":""}" data-w="0">All</button>` +
+        weeks.map(w =>
+          `<button class="week-pill ${weekFilter===w.week?"active":""}" data-w="${w.week}">W${w.week}</button>`
+        ).join("");
+      pills.querySelectorAll(".week-pill").forEach(b => {
+        b.onclick = () => {
+          weekFilter = Number(b.dataset.w);
+          pills.querySelectorAll(".week-pill").forEach(x => x.classList.remove("active"));
+          b.classList.add("active");
+          render();
+        };
+      });
+      document.getElementById("search").addEventListener("input", render);
+      render();
+    }
+
+    function render() {
+      const q = (document.getElementById("search").value || "").toLowerCase().trim();
+      let list = lectures;
+      if (weekFilter) list = list.filter(l => l.week === weekFilter);
+      if (q) {
+        list = list.filter(l => {
+          const blob = [l.title, l.summary, ...(l.keywords||[]), ...(l.likelyFacts||[]), l.mnemonic||""]
+            .join(" ").toLowerCase();
+          return blob.includes(q);
+        });
+      }
+
+      const root = document.getElementById("content");
+      if (!list.length) {
+        root.innerHTML = `<div class="empty">No lectures match.</div>`;
+        return;
+      }
+
+      root.innerHTML = list.map(l => `
+        <details class="lec-item" data-lec="${l.lec}">
+          <summary>
+            <span>Lec ${String(l.lec).padStart(2,"0")} · W${l.week} — ${esc(l.title)}</span>
+            <span class="chip">${(l.keywords||[]).length} keywords</span>
+          </summary>
+          <div class="lec-body">
+            <div class="note-block">
+              <h4>Objectives</h4>
+              <ul>${(l.objectives||[]).map(o=>`<li>${esc(o)}</li>`).join("")}</ul>
+            </div>
+            <div class="flag-row">${(l.keywords||[]).map(k=>`<span class="chip">${esc(k)}</span>`).join("")}</div>
+            <div class="note-block">
+              <h4>Likely MCQ facts</h4>
+              <ul>${(l.likelyFacts||[]).map(f=>`<li>${esc(f)}</li>`).join("")}</ul>
+            </div>
+            ${l.mnemonic ? `<div class="note-block"><h4>Mnemonic</h4><p>${esc(l.mnemonic)}</p></div>` : ""}
+            <div class="note-block"><h4>Summary</h4><p>${esc(l.summary)}</p></div>
+          </div>
+        </details>
+      `).join("");
+
+      root.querySelectorAll("details").forEach(d => {
+        d.addEventListener("toggle", () => {
+          if (d.open) EVS.markNoteRead("transcripts", d.dataset.lec);
+        });
+      });
+    }
+
+    function esc(s) {
+      return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+    }
+
+    init().catch(e => {
+      document.getElementById("content").innerHTML = `<div class="empty">${e.message}</div>`;
+    });
+  </script>
+</body>
+</html>

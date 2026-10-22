@@ -1,0 +1,1422 @@
+Week 12: Environmental Policy and Legislation
+Lecture 1 ­ The Environmental Movement and its global and
+local impacts
+§ Environmental history
+§ Environmental movement
+§ Environmental movement history
+§ The Bishnoi movement
+§ Chipko Andolan
+§ The Jungal Bachao Andolan
+§ Appiko movement
+· Social
+· Khejri
+· Industrial Revolution
+· Digital Revolution
+· Pollution
+· E-waste
+· Plastic
+· REE (rare earth elements)
+Pollution (or destruction) of our environment,
+      results in the destruction of all living beings.
+
+The winds become cruel,
+           and Nature is degraded (full of defects)
+ Environmental History
+
+v Every organism modifies its environment and is modified by its environment (adaptation)
+v The capacity of human beings to modify their environment far exceeds that of any other species on this Planet
+v Degradation of the environment began with agriculture and reached its peak with the Industrial Revolutions
+At the advent of steam and electricity, the muse of history holds her nose and shuts her eyes (H. G. Wells, 1918).
+Agricultural    · Started more than 10,000 years ago with `slash and burn' method of
+Revolution        farming
+
+                · Biodiversity reduced from 1000s of species/km2 to a few 10s of
+                  species/km2
+
+                · Started in 1760 with invention of the steam engine (1st Industrial                      Environmental
+                  Revolution)#; beginning of excess emissions of GHGs, pollutants, air                        History
+                  and water pollution issues
+Industrial
+Revolution      · Around mid-1800s, mass production of steel, oil and electricity;
+                  invention of light bulb and IC engine (2nd Industrial Revolution)
+
+Industrial (or  · Advent of semiconductors, personal computers and the Internet (3rd
+   Digital)       Industrial Revolution or the Digital Revolution); new waste streams (e-
+                  waste, plastics, REE)
+ Revolution
+                · Cloud computing, Internet of Things (IoT) and machine learning (4th
+                  Industrial Revolution)
+
+                · Personalization ­ human-robot collaboration, artificial intelligence and
+                  cognitive systems (5th Industrial Revolution)
+
+                # https://www.cnbc.com/2019/01/16/fourth-industrial-revolution-explained-davos-2019.html
+Environmental History: Indus Valley Civilization
+
+· Knowledge of the need to protect the environment by providing sufficient,        By Avantiputra7 - Own work, CC BY-SA 3.0,
+  clean water and sanitation is well-documented for the four major ancient         https://commons.wikimedia.org/w/index.php?curid=33202416
+  civilizations: Egypt, Mesopotamia, Indus Valley and China.
+
+· The Indus Valley Civilization dates back more than 7000 years from the present
+  time
+
+· The urban centers of this civilization were marked by a high level of
+  sophistication; these were planned cities built on a grid pattern
+
+· The ability to channel and store water for the cities for the non-monsoon
+  periods is evident at Dholavira
+
+· Drains for collecting wastewater, toilets and baths are visible in the ruins of
+  Mohenjodaro and Harappa
+
+Lothal, India
+Year Location              Description                                                   The Urban
+3500 to Mesopotamia        Drains from homes and latrines leading to cesspits were    Environment in
+2500 BC                    found.
+                           Drainage system with wastewater treatment (perhaps,          the Ancient
+Before Mohenjo-daro,       sedimentation) present in Mohenjo-daro; toilets and             World
+2500 BC Harappan           sewers were present in every house and covered drains
+                           were present in the middle of streets (Webster 1962).                   Goel, 2019
+            civilization   Bathrooms, sewers and toilets seats made of limestone.
+
+Before City of             Dholavira had water reservoirs, stormwater drains, septic
+2100 BC Herakopolis,       tanks, cess pits (Agarwal 2009)
+
+            Egypt          Drainage structure called the Cloaca Maxima was built to
+                           collect rainwater, sewage and water from swamps and
+Before Dholavira, India -  discharge it to the River Tiber (Delleur 2003).
+1800 BC Harappan           Public toilets, sewers and collection mains for conveying
+                           wastewater and stormwater were present. Wastewater
+            civilization   was collected and used for irrigating fields.
+                           Soil conservation was practiced.
+600 BC Ancient Rome
+
+300 BC  Ancient Greece
+to 500
+AD      Ancient India,
+        China and Peru
+2000
+years
+ago
+Year          Location    Description
+1189 AD       London, UK  Cesspits for collection of wastewater were constructed
+                          and sludge from them was conveyed to fields for land
+1370 AD Paris, France     application (sold to farmers as fertilizer).                 The Urban
+                          A vaulted stonewall sewer was built in a section of Paris  Environment
+Early 14th    R Thames,   (Delleur 2003).                                            ­ the Modern
+century       London      Recognition that River Thames was extremely polluted.
+                                                                                         World
+1596          UK          Invention of the modern flush toilet by Sir John
+                          Harington.                                                           Goel, 2019
+Late 14th to  Europe      Pollution was associated with the spread of disease
+mid-16th
+century       R Thames,   Unbearable stench from the R Thames, evacuation of
+              London      British Parliament due to the stench
+1858                      Building of the London sewerage system (1858 ­ 1865),
+                          Kolkata sewerage system (1859 ­ 1875), Madras
+1916          USA         sewerage system (1890)
+                          National Park Service founded to efficiently manage
+                          natural resources, i.e, forest and wildlife conservation
+Year   Location Description
+6 Aug
+and 9  Hiroshima  Radiation from the dropping of two atomic bombs; Linkage between
+Aug    and        radiation and acute as well as chronic health effects became
+1945   Nagasaki,  apparent.
+1958   Japan
+
+2-3    Minamata, Linkage was suspected between the discharge of methyl mercury                  Major
+Dec                                                                                        Environmental
+1984   Japan      along with wastewater and a disease affecting the central nervous
+                                                                                              Disasters
+26                system. The wastewater came from a fertilizer manufacturing
+April                                                                                              Goel, 2017
+1986              company (Chisso Corporation).
+
+24     Bhopal,    Methyl Isocyanate (also called phosgene) gas was released from
+Mar    India      Union Carbide's fertilizer manufacturing plant. Official death toll was
+1989              2259. Several thousands were affected by permanently disabling
+                  injuries.
+
+       Pripyat,   Explosion and fire in Chernobyl Nuclear Power Plant released large
+       Ukraine    quantities of radioactive particles which spread over much of
+                  western USSR and Europe. There were 31 fatalities, several acres of
+                  forest were destroyed and radiation effects leading to cancer
+                  continue to be evaluated.
+
+       Alaska,    An oil supertanker, the Exxon Valdez sprung a leak and spilled 10.8
+       USA        million gallons of crude oil into Prince William Sound leaving high to
+                  moderate levels of oil along 200 miles of coastline and disturbing the
+                  marine ecosystems.
+Year Author,        Book                 Theme
+         Country
+
+1798  Thomas        An Essay on the      Exponential population growth and its               The Environmental
+1913  Malthus, UK   Principle of         impact on the future of society                        Movement ­
+                    Population                                                                    important
+      Rabindranath                       The connection between Humans,                          publications
+      Tagore        Gitanjali and other  Nature and spirituality
+                    poems
+
+1949 Aldo Leopold A Sandy County         The moral and ethical imperative in
+                              Almanac    conserving Nature
+
+1962 Rachel Carson The Silent Spring     A milestone in the environmental
+                                         movement; drew the world's attention
+                                         to the negative environmental impacts
+                                         of synthetic organic compounds,
+                                         especially pesticides.
+
+1968 Paul R Ehrlich The Population Bomb Environmental impacts of runaway
+                                                           population growth, affluence and
+                                                           technology
+
+1972 The Club of    The Limits to Growth Unlimited population growth is
+         Rome                                    unsustainable
+§ The environmental movement is a social movement that aims to protect the         Environmentalism
+  natural world from practices that harm the environment in order to create                 and
+  sustainable lifestyles.
+                                                                                   The Environmental
+§ Environmentalists have included people from all walks of life ­ religious            Movement
+  leaders, artists, writers, philosophers, poets, lawyers, .......
+
+§ Religions like Jainism and Buddhism include a need to protect all living beings
+  as part of the principle of non-violence
+
+§ Laws against air and water pollution were first enacted in Britain in the mid-
+  1800s
+
+§ The first Forest Conservation program was started by the British in India in
+  1842 at the local level
+
+§ Wildlife conservation societies were established in the late 1800s.
+
+https://en.wikipedia.org/wiki/Environmentalism
+Environmental Movement History
+
+Many accidents and natural calamities occurred due to     The environmentalist political parties were continually
+   pollution and modern revolutionary acts; that led   successful, and the non-government organizations created a
+ people to start regional environmental movements.
+                                                                        good impression on the public.
+                    Tasmania, Australia,
+                Indonesia, Europe, and the                                        American and
+                                                                                European regions
+                              USA
+
+Initial                           middle of
+1960s
+                                  16th century
+   7
+             8                    9                             1              11
+Europe
+         Between                                                0
+            the
+                                                       In 1973           In the last 2-decades of the 20th
+          1970s
+            and                   Europe               India (the rural            century
+          1980s
+                                  Pollution caused by the areas of UP)
+
+The Green Political Movement      Industrial Revolution The Chipko Movement
+began, and many organizations         made people where women protested
+started their activities under
+those parties for protecting the  environmentally-     against deforestation.
+environment.                          conscious
+Environmental Movements in India
+
+1730        1979
+
+      1973                                              1982-83
+
+Social movements in India against the cutting of trees
+§ Bishnoi Movement, 1730
+§ Chipko Movement, 1973
+§ Jungle Bachao Andolan, 1979
+§ Appiko Movement, 1982-83
+
+Similar movements around hydroelectric projects to prevent
+deforestation and rehabilitation of displaced people
+· The Bishnoi sect lives in the Western Thar desert and other parts of             Bishnoi
+  Northern India and are followers of Guru Jambeshwar (1451-1536)                Movement,
+
+· It is one of the earliest groups to support wildlife protection, eco-              1730
+  conservation and green living.
+
+· For constructing his new palace in Sep 1730, Jodhpur's King Abhay Singh
+  gave his men orders to clear the trees in Khejarli village for wood.
+
+· Amrita Devi, her family and other local people from Khejarli stood in
+  opposition to the King's men and battled for the survival of trees by hugging
+  them as a sign of protest. 363 Bishnois died in the protest until the King
+  found out, stopped the killings and revoked the order to cut the trees.
+
+Khejri trees
+· The first Chipko protest occurred near the village of Mandal in the upper Alakananda              Chipko
+   valley in April 1973.                                                                      Movement, 1973
+
+· The local villagers were denied access to trees in a small area for making agricultural
+   tools and were outraged when the government allotted a much larger plot to a sporting
+   goods manufacturer for logging of trees.
+
+· When their appeals were denied, a Gandhian social worker, Chandi Prasad Bhatt led
+   villagers into the forest and embraced the trees to prevent logging.
+
+· After many days of protests, the government canceled the company's logging permit
+   and granted the original allotment requested by Dasholi Gram Swarajya Sangh started
+   by Bhatt.
+
+· As the movement continued, protests became more project-oriented and expanded to
+   include the entire ecology of the region, ultimately becoming the "Save Himalaya"
+   movement.
+
+· Between 1981 and 1983, Bahuguna marched 5,000 km (3,100 miles) across the
+   Himalayas to bring the movement to prominence.
+
+· Throughout the 1980s, many protests focused on the Tehri dam on the Bhagirathi River
+   and mining operations, resulting in the closure of at least one limestone quarry.
+
+· Similarly, a massive reforestation effort led to the planting of more than one million
+   trees in the region.
+
+· In 1987, the Chipko movement was awarded the Right Livelihood Award "for its
+   dedication to the conservation, restoration and ecologically-sound use of India's natural
+   resources".
+· The aim of this Movement was to stop the government from             Jungle
+  replacing the natural Sal forest with high-priced Teak trees.       Bachao
+                                                                      Andolan,
+· The tribals of the Singhbhum district of Bihar started the protest   1979-
+  as the Sal tree was considered sacred and provided leaves, nuts
+  and firewood while the Teak was going to be sold by the
+  government for profit leaving nothing for the tribals.
+
+· Later this movement spread to Orissa and Jharkhand.
+     Appiko Movement , 1983
+
+· Appiko means "hug" in Kannada, which symbolizes the protection for
+  the tree.
+
+· Environmental activist, Panduranga Hegde founded and led the
+  movement, with the aim to conserve the jackfruit (Kalse) trees in
+  Karnataka.
+
+· The youth and women's of Saklani villages and its surroundings walked
+  about five miles to the nearby forest and hugged the trees there in the
+  form of protest. Their demand to ban the felling of the trees continued
+  for 38 days and forced the state government to finally withdraw the
+  order.
+
+· Like the Chipko movement, the Appiko movement also chose the
+  Gandhian way of protest to achieve a sustainable society in which
+  human beings and nature are in balance.
+§ Goel, S. [2017] Solid and hazardous waste management: An Introduction in
+   Advances in Solid and Hazardous Waste Management, Capital Books, Delhi
+   and Springer, Germany.
+
+§ Goel (2019) Water and Wastewater Engineering, Cambridge University
+   Press, Delhi.
+v
+Week 12: Environmental Policy and Legislation
+Lecture 2 ­ Environmental Law and Rules in India
+§ Act Vs Rule
+§ Water Act, 1974
+§ Air Act, 1981
+§ Environment Protection Act, 1986
+§ Hazardous Waste Rules, 1989
+§ Biomedical Waste Handling (BWM), 1998
+§ Fly Ash Rules, 1999
+§ Municipal Solid Waste Management, 2000 (changed in 2016)
+§ Battery Rules, 2001
+§ Plastic Waste Rules, 2011
+§ E-Waste Rules, 2011
+§ Construction and Demolition Waste Management Rules, 2016
+§ Act
+§ Rule
+§ Environment
+§ CPCB
+§ E-waste
+§ Battery
+§ Biomedical
+§ Municipal solid waste
+§ Plastic
+§ Construction
+                                  Act Vs Rule
+
+Act                                      Rule
+
+Act means a law                          Rules are its procedure
+
+Act means what should be done. It provides Rules are guidelines
+the basic framework of the law
+
+The act contains substantive provisions  Rules specify the procedure for
+                                         implementing the main provisions of the
+                                         Act
+
+Act is the statute which prescribes the  Rules flow from the statute to enable its
+action by its provisions                 provisions
+
+Act contains main legal provisions on a  Rules are mainly procedural matters
+subject
+
+Passing an Act is time-consuming         Making Rules take less time
+Water (Prevention     Air (Prevention and        Environment        Hazardous Waste
+   and Control of     Control of Pollution)  Protection Act, 1986  (Mngmt, Handling
+                                                                   and Transboundary
+Pollution) Act, 1974        Act, 1981                              Movement) Rules,
+
+                                                                            1989
+
+      Battery            Municipal Solid     Fly Ash Rules, 1999    Biomedical Waste
+(Management and       Waste (Management                            Handling Rules, 1998
+ Handling) Rules,     and Handling) Rules,
+
+        2001                    2000
+
+      E-waste             Plastic Waste       Construction and
+(Management and       Management Rules,       Demolition Waste
+ Handling) Rules,                            Management Rules,
+                               2016
+        2011                                          2016
+ Water Act, 1974 (Prevention and Control of
+ Pollution)
+
+v The Act was enacted in 1974 to implement the decision taken at the
+  UN Conference on Human Environment, Stockholm, 1972.
+
+v The Water (Prevention and Control of Pollution) Act was last
+  amended in 2003.
+
+v The main objectives of the Water Act are to provide for prevention,
+  control and abatement of water pollution and the maintenance or
+  restoration of the wholesomeness of water
+
+v Central and State Pollution Control Boards were established to
+  monitor and enforce the regulations, collect and analyse samples,
+  impose penalties, close industrial units, publish names of offenders
+
+v It applies to all wastewater discharges ­ municipal and industrial
+   Air Act, 1981 (Prevention and Control of Pollution)
+
+v The main objectives of the Act are:
+
+(i) To provide for the prevention, control and abatement of air pollution.
+
+(ii) To confer on Central and State Pollution Control Boards the powers to
+implement the provisions of the Act and assign to the Boards functions
+relating to pollution.
+vThe Air (Prevention & Control of Pollution) Act was enacted by the
+
+  Parliament in 1981 and amended in 1987.
+vAccording to this Act, no person can operate certain types of industries
+
+  including asbestos, cement, fertilizer and petroleum industries without
+  consent of the State Board.
+vIt states that sources of air pollution such as industry, vehicles, power
+  plants, etc., are not permitted to release particulate matter, lead, carbon
+  monoxide, sulphur dioxide, nitrogen oxide, volatile organic compounds
+  (VOCs) or other toxic substances beyond a prescribed level.
+    Environment Protection Act, 1986
+
+vThe Environment Protection Act was enacted in 1986 with the objective of
+  providing protection and improvement of the environment.
+
+vThe Act was last amended in 1991. It empowers the Central Government to
+  establish authorities [under section 3(3)] charged with the mandate of
+  preventing environmental pollution in all its forms and to tackle specific
+  environmental problems that are peculiar to different parts of the country.
+
+vAccording to this act `Environment' includes (i) water, air and land, and (ii) the
+  interrelationship which exists among and between (a) water, air and land and
+  (b) human beings, other living creatures, plants, micro-organisms and
+  property.
+
+v Environmental Impact Assessments became mandatory for all large projects
+  due to this Act.
+      Hazardous Waste (Management, Handling and
+          Transboundary Movement) Rules, 1989
+
+v These Rules came into effect in the year 1989 and have been amended in the years
+   2000, 2003 and 2022. The current notification of the Hazardous Waste (Management,
+   Handling and Transboundary Movement) Rules, 2022 supersedes former notifications.
+
+v Hazardous waste means any waste which by reason of any of its physical, chemical,
+   reactive, toxic, flammable, explosive or corrosive characteristics causes danger or is
+   likely to cause danger to health or environment, whether alone or when in contact
+   with other wastes or substances.
+
+v Hazardous Waste Management Rules are notified to ensure safe handling, generation,
+   processing, treatment, packaging, storage, transportation, use, reprocessing,
+   collection, conversion, and offering hazardous waste for sale, destruction and
+   disposal.
+
+v The Rules lay down corresponding duties of various authorities such as MoEFCC,
+   CPCB, State/UT Govts., SPCBs/PCCs, DGFT, Port Authority and Custom Authority while
+   State Pollution Control Boards/Pollution Control Committees have been designated
+   with wider responsibilities touching almost every aspect of hazardous wastes
+   generation, handling and their disposal.
+
+v Waste rubber tyres are now under the Extended Producer Responsibility (EPR) as of
+   2022
+ Biomedical Waste Handling (BWM) Rules, 1998
+
+· Biomedical Waste (Management & Handling) Rules, 1998 were notified by
+  the Ministry of Environment & Forests (MoEF) under the Environment
+  (Protection) Act, 1986.
+
+· These Rules apply to all persons who generate, collect, receive, store,
+  transport, treat, dispose or handle biomedical waste in any form. The
+  `prescribed authority' for enforcement of the provisions of these rules in
+  respect of all the health care facilities located in any State/Union Territory is
+  the respective State Pollution Control Board (SPCB)/Pollution Control
+  Committee (PCC).
+
+· The rules were recently revised on March 28, 2016.
+YELLOW  Biomedical Wastes Categories (color codes) &
+                         their Segregation
+RED
+                             · Human and animal anatomical waste
+                             · Waste contaminated with blood and body fluids
+                             · Expired or discarded medicines
+                             · Microbiology, biotechnology and other clinical laboratory waste
+                             · Discarded disinfectants
+
+                             · Contaminated waste (Recyclable):
+                             Wastes generated from disposable items such as tubing,
+                             bottles, intravenous tubes and sets, catheters, urine bags,
+                             syringes (without needles and fixed needle syringes) and
+                             vacutainers with their needles cut and gloves.
+BLUE   Biomedical Wastes Categories (color codes) & their
+                               Segregation
+WHITE
+                             Waste sharps including Metals: Needles, syringes
+                             with fixed needles, needles from needle tip cutter or
+                             burner, scalpels, blades, or any other contaminated sharp
+                             object that may cause puncture and cuts. This includes
+                             both used, discarded and contaminated metal sharps.
+
+                             Glassware: Broken or discarded and contaminated glass
+                             including medicine vials and ampoules except those
+                             contaminated with cytotoxic wastes.
+                             Metallic Body Implants
+                     Fly Ash Rules, 1999
+
+vThe Central Government issued directions for restricting the excavation of top
+  soil for manufacture of bricks and promoting utilization of fly ash in the
+  manufacture of building materials and in construction activities with a
+  specified radius of 100 km from coal or lignite based thermal power plants.
+
+vThe amendment notification 3rd November, 2009, sets a timeline to achieve
+  the target of 100% utilization of fly ash by thermal power plants was
+  specified;
+
+vIt is observed that the thermal power plants are yet to achieve the target of
+  100% utilization of fly ash and the unutilized fly ash quantum is continuously
+  increasing;
+
+vIt is observed that the construction agencies are not using fly ash and fly ash
+  based-products in their construction projects; and
+
+vIt is felt that there is an urgent need to provide additional measures for
+  utilization of fly ash and fly ash based products in the country.
+Fly Ash Rules, 1999
+
+vRecently, `Fly Ash Management and Utilization Mission' was constituted by the National Green Tribunal (NGT).
+
+vThe aim of this mission was to `Coordinate and monitor issues relating to the handling and disposal of fly ash
+  and associated issues'.
+
+Description                                         Year 2020-21
+Number of thermal power plants from which data was       202
+obtained
+Installed capacity, MW                               209990.50
+Coal consumed, million tons                            686.34
+Percent ash content of coal on average, %               33.88
+Flyash generation, million tons                        232.56
+Flyash utilization, million tons                       214.91
+Percent utilization, %                                  92.41
+
+https://cea.nic.in/wp-content/uploads/tcd/2021/09/Report_Ash_Yearly_2020_21.pdf
+Municipal Solid Waste
+Law
+
+                       Ancillary Rules
+  Municipal Solid Wastes Rules (Management and Handling)
+   2000 (Revised as Solid Waste Management Rules, 2016)
+
+vThese rules shall apply to every municipal authority and they will be
+  responsible for collection, segregation, storage, transportation, processing
+  and disposal of municipal solid wastes.
+
+vFew features of revised manual on solid waste management:
+
+a) Vision for municipal solid waste management for the country in line with
+    Swachh Bharat Mission.
+
+b) Waste generators have to segregate waste at source into three fractions:
+    biodegradable, non-biodegradable and domestic hazardous waste and give
+    to waste collection team. Sanitary waste is to be wrapped separately and
+    included in non-biodegradable waste.
+
+c) Biodegradable waste will be converted to compost and will have to be co-
+    marketed with fertilizers by Department of Fertilizers.
+
+d) Ministry of New and Renewable Energy will facilitate creation of Waste-to-
+    Energy infrastructure
+        Battery Rules (Management and Handling), 2001
+
+vThese rules were last amended in 2022
+vThese rules are no longer applicable to lead acid batteries only but include all
+
+  types of batteries regardless of chemistry, shape, volume, weight, material
+  composition and use. Exceptions are batteries used for security equipment or
+  space exploration.
+vUnder the amended rules and as part of its EPR, the producer is now solely
+  responsible for:
+
+     v Collection, recycling or refurbishing obligations and targets as mentioned
+        in the specific Schedules of the rules
+
+     v Sending waste batteries for recycling or refurbishing and not for landfilling
+        or incineration
+
+     v Registering on the online centralized portal and updating information and
+        informing CPCB regarding any changes
+
+     v Collection of Waste Batteries; the Producer may operate schemes such as
+        deposit refund system or buy back or any other model.
+    E-Waste Rules (Management and Handling), 2011
+
+v The Rules were amended in 2015 and then in 2022.
+
+v Every manufacturer, producer, refurbisher, dismantler and recycler involved in
+  manufacture, sale, transfer, purchase, refurbishing, dismantling, recycling and
+  processing of e-waste or electrical and electronic equipment including their
+  components, consumables, parts and spares which make the product
+  operational but shall not apply to waste batteries, packaging plastics, micro
+  enterprises and radioactive wastes which are governed by their own rules.
+
+· In the E-waste Rules of 2011, the role of producers in (Extended Producer
+  Responsibility - EPR) was not clarified and is now defined clearly in the
+  amendment of 2022.
+
+· Producer Responsibility Organizations (PROs) are included in addition to the
+  Extended Producer Responsibility (EPR).
+
+· Under Deposit Refund Scheme, a portion of the sale price shall be retained by
+  the producers and be refundable to consumers once the end-of-life products
+  are channelized according to the prescribed methods.
+
+· Solar PVC panels and cells are now under the purview of these rules.
+               Plastic Waste Management Rules, 2016
+                         (last amended in 2022)
+
+v The Plastic Waste Management Rules, 2016 were last amended on 6 July 2022.
+v Few salient features of the rule are:
+
+a) Carry bags shall either be in natural shade (colourless), which is without any added
+    pigments or made using only those pigments and colourants which are in conformity
+    with Indian Standard: IS 9833:1981,
+
+b) Carry bags made of virgin or recycled plastic, shall not be less than 120 microns in
+    thickness,
+
+c) Carry bags made from compostable plastics shall conform to the Indian Standard:
+    IS/ISO 17088:2008 titled as Specifications for Compostable Plastics, as amended from
+    time to time,
+
+d) Recycled plastic or products made of recycled plastic shall not be used for storing,
+    carrying, dispensing or packaging food stuffs,
+
+e) Sachets using plastic material shall not be used for storing, packing or selling gutkha,
+    tobacco and pan masala.
+
+f) Extended Producer Responsibility (EPR) applies to all producers, importers and brand
+    owners of plastic packaging.
+Construction and Demolition Waste Management
+                       Rules, 2016
+
+· The rules, effective from 29 March 2016, shall apply to all waste resulting
+  from construction, re-modelling, repair and demolition of any civil structure
+  of individual or organization or authority who generates construction and
+  demolition waste such as building materials, debris, rubble.
+
+Some of the criteria for selecting sites for processing of construction &
+demolition waste
+§ The processing or recycling site should be large enough to last for 20-25
+
+   years
+§ It should be away from settlements, forest areas, water bodies,
+
+   monuments and places of historic or religious interest
+§ A buffer zone should be maintained. Site should be fenced.
+§ Approach roads should be made to avoid dust
+§ Site should have fire-fighting equipment and a weigh bridge
+§ Goel, S. [2017] Solid and hazardous waste management: An Introduction in
+   Advances in Solid and Hazardous Waste Management, Capital Books, Delhi
+   and Springer, Germany.
+
+§ Directorate General of Health Services and CPCB (2019) Guidelines for
+   Management of Healthcare Waste as per Biomedical Waste Management
+   Rules, 2016, New Delhi
+
+§ CPCB, https://cpcb.nic.in/rules-4/
+Week 12: Environmental Policy and Legislation
+Lecture 3 ­ Important legal judgments pertaining to the
+Environment
+· Legal principles and doctrines vis-à-vis the Environment
+· Landmark judgments of the Supreme Court of India
+§ Oleum Gas leak case
+§ Doon Valley Case
+§ Tanneries, Kanpur
+§ Taj Trapezium
+§ River Palar, Vellore
+§ Vegetable oil, Peddashpur
+§ Ratlam, solid waste
+§ Nilgiris
+§ Sariska
+§ Mining
+   Principles and doctrines vis-à-vis Environment
+
+§ The Doctrine of Absolute Liability
+     § The owners of the industry or authorities are fully liable for granting
+        compensation to the victims of any environmental disaster due to them and
+        have to pay for restoration of the environment
+
+§ Polluter Pays Principle
+     § The polluter is fully liable for the cost of remediating pollution resulting
+        from their past or present activities
+
+§ Precautionary Principle
+     § The judges may examine a case on the basis of potential threat to the
+        environment or human health; burden of proof lies with the proposer
+
+§ The Doctrine of Sustainable Development
+     § Sustainable development for improving the quality of life, eliminating
+        poverty and ensuring that natural assets are not exhausted in one
+        generation
+
+§ The Public Trust Doctrine
+     § The State is the trustee of the `Commons' that include air, water, sea and
+        forests and these cannot be subject to private ownership and have to be
+        protected for public use.
+  Landmark Judgments related to the Environment
+
+· Municipal Council, Ratlam vs. Shri Vardhichand & Ors.; Supreme Court of
+   India (date of judgment 29 July 1980)
+
+· The residents of Ratlam municipality were frustrated about the lack of
+   sanitary facilities and the contamination in the streets. They brought suit
+   against the municipality under Section 133 of the Criminal Procedure Code
+   for public nuisance.
+
+· Ratlam municipality's obligations to its people under Section 123 M. P.
+   Municipalities Act of 1961, include the provision of sanitary facilities and the
+   prevention of street contamination from a nearby alcohol plant.
+
+· The municipality argued in its defense that 1) the residents chose to live
+   where there are no facilities, and 2) the authorities lacked funds necessary to
+   construct the facilities required to comply.
+
+· Supreme Court decision was that a municipality could not claim inability to
+   provide basic sanitation facilities and prevent street contamination due to
+   lack of financial ability.
+
+· The municipality was ordered to take immediate action with regards to the
+   contamination and pollution in the streets. It was also ordered to provide
+   sanitary facilities and services for its residents within a six-month period.
+  Landmark Judgments related to the Environment
+
+· Soon after the Bhopal Gas Tragedy on 2-3 December, 1984, there was a leak
+    of Oleum gas in Kirti Nagar, Delhi on 4 and 6 December, 1985. The leaks came
+    from Shriram Foods and Fertilizers.
+
+· M.C. Mehta and others vs. Union Of India and Ors. Etc 1986 in which the SCR
+    (1) 312 discusses the concept of Public Liability. This case is also known as the
+    Oleum Leakage Case.
+
+· It is a landmark judgment in which the principle of Absolute Liability was laid
+    down by the Supreme Court of India. The case made legal history as the
+    principle of Strict Liability was modified to the Doctrine of Absolute Liability
+
+· The Court held that the permission for carrying out any hazardous industry
+    very close to the human habitation could not be given and the industry was
+    relocated.
+
+· The Environment Protection Act, 1986 came into effect after these cases ­
+    Bhopal and Delhi, highlighting the need for industrial development as well as
+    the need for protecting human life and the environment
+
+ https://blog.ipleaders.in/oleum-gas-leak-case-case-study/
+      Landmark Judgments related to the Environment
+
+§ Rural Litigation and Entitlement Kendra (RLEK), Dehradun vs. State of Uttar
+   Pradesh AIR 1987 SC 2187 ­ also known as the Doon Valley case
+
+§ Landmark case because the Supreme Court upheld the `Doctrine of
+   Sustainable Development' for the first time in India.
+
+§ The limestone quarries were held responsible for the deaths of several locals
+   due to landslides caused by use of dynamite in the mines.
+
+§ The Court held in 1987 that all the mines in the area (except for three) ought
+   to remain closed.
+
+§ Mining in the valley was held to have violated the Forest Conservation Act,
+   1980.
+
+§ Economic development should not come at the cost of environmental
+   degradation.
+
+§ Supreme Court held that the permanent assets of mankind are not to be
+   exhausted in one generation. The natural resources should be used with
+   requisite attention and care so that ecology and environment may not be
+   affected in any serious way.
+
+§ The Constitution of India guarantees the Right to wholesome environment as
+   a fundamental right under Article 21.
+
+https://www.pixstory.com/story/landmark-cases-that-shaped-environmental-law-in-india-the-dehradun-valley-litigation/44957
+ Landmark Judgments related to the Environment
+
+§ M.C. Mehta vs. Union of India AIR 1988 SCR (2) 538
+§ The writ petition filed by the activist advocate M.C. Mehta in the Supreme
+
+   Court highlighted the pollution of the Ganga river by the hazardous
+   industries such as tanneries located on its banks.
+§ Justice ES Venkataramiah gave a historic judgement in "M.C. Mehta vs.
+   Union of India AIR 1988 SCR (2) 538" ordering the closure of a number of
+   polluting tanneries near Kanpur.
+§ In this judgment it was observed that just like an industry which cannot
+   pay minimum wages to its workers cannot be allowed to exist, a tannery
+   which cannot setup a primary treatment plant cannot be permitted to
+   continue to be in existence.
+Landmark Judgments related to the Environment
+
+· M.C. Mehta vs. Union of India WP 860/1991                                   Advocate M C Mehta
+
+· Objective was to create environmental awareness and include it in
+    education
+
+· Cinema theatres all over the country have to exhibit two slides free
+    of cost on environment in each show. Their licenses will be
+    cancelled if they fail to do so.
+
+· The Television network in the country will give 5 to 7 minutes to
+    televise programmes on environment apart from giving a regular
+    weekly programme on environment.
+
+· Environment has become a compulsory subject up to 12th standard
+    from academic session 1992 and University Grants Commission will
+    also introduce this subject in higher classes in different Universities.
+
+· Shri MC Mehta has won other landmark judgments from the
+    Supreme Court of India including banning of lead from gasoline in
+    India
+
+· He received the Goldman Environmental Prize (1996), Ramon
+    Magsaysay Award (1997) and Padma Shri (2016).
+Landmark Judgments related to the Environment
+
+· M.C. Mehta vs. Union of India (also called the Taj Trapezium Case) AIR 1987
+    delivered its historic judgment in 1996
+
+· The pride of India and one of the wonders of the world, i.e., Taj Mahal, was
+    facing threat due to high toxic emissions from Mathura Refineries, Iron
+    Foundries, Glass and other chemical industries.
+
+· Acid rain was a serious threat to the Taj Mahal and 255 other historic
+
+monuments within the Taj Trapezium Zone (TTZ).                                    http://agrasmartcity.in/exploreagra.aspx?expid=9&exp
+
+                                                                                                                                                                         _id=33
+
+· The petitioners stated that the marble was yellowing and the inner chamber
+
+of the Taj had fungal growth
+
+· The Supreme Court in its order gave directions including a ban on the use of
+    coal and directing the industries to switch to Compressed Natural Gas (CNG).
+    Tanneries were asked to relocate out of the TTZ
+
+· A green belt was created around Mathura refinery for protecting the
+    environment.
+
+https://www.informea.org/en/court-decision/mc-mehta-v-union-india-and-ors-0
+  Landmark Judgments related to the Environment
+
+§ Vellore Citizens Welfare Forum v. Union of India (Date of judgment ­ 28 Aug 1996)
+§ Excessive pollution of River Palar due to the release of pollutants by the tanneries and
+
+   other industries in the State of Tamil Nadu.
+§ Palar River is the main source of drinking and bathing water for the surrounding villages
+
+   and towns.
+§ Tamil Nadu Agricultural University Research Centre, Vellore found that approximately
+
+   35,000 hectares of agricultural land have turned either entirely or partially unsuitable
+   for cultivation.
+§ This is one of the landmark cases whereby the Supreme Court critically analyzed the
+   relationship between environment and industry and upheld the `Polluter Pays Principle'
+   and the `Doctrine of Sustainable Development'.
+§ Tanneries in India are major foreign exchange earners and give work to a large number
+   of individuals.
+§ Water in River Palar and soil in the area were severely contaminated and a danger to
+   human health.
+§ Each tannery had to pay Rs. 10,000 as fine in the Collector's office and contribute to
+   setting up of a Common Effluent Treatment Plant (CETP).
+
+https://legaldesire.com/15-landmark-judgments-on-environmental-protection/
+ Landmark Judgments related to the Environment
+
+· The Supreme Court held that the Himachal Pradesh Government had violated the
+    Doctrine of Public Trust in "M.C. Mehta vs. Kamal Nath and Ors. (date of judgment 13
+    Dec 1996)".
+
+· The Himachal Pradesh State Government had leased out a protected forest area on
+    the bank of river Beas to a motel company for commercial purposes.
+
+· In 1996, the Supreme Court passed a judgment that would hold the State responsible
+    for maintaining natural resources.
+
+· "Our legal system - based on English Common Law - includes the public trust doctrine
+    as part of its jurisprudence. The State is the trustee of all natural resources which are
+    by nature meant for public use and enjoyment. Public at large is the beneficiary of
+    the sea-shore, running waters, airs, forests and ecologically fragile lands. The State as
+    a trustee is under a legal duty to protect the natural resources. These resources
+    meant for public use cannot be converted into private ownership".
+    https://indiankanoon.org/doc/1514672/
+  Landmark Judgments related to the Environment
+
+§ A.P. Pollution Control Board v. Prof. M.V. Nayudu (Retd.) & Ors. (27 January 1999)
+§ New factory for the production of vegetable oils was proposed and respondent
+
+   industry purchased 12 acres of land in Peddashapur, Andhra Pradesh (present day
+   Telangana).
+§ Vegetable oils are category RED hazardous materials and the proposed area was within
+   the 10 km radius of two reservoirs ­ Himayat Sagar and Osman Sagar which provide
+   water to the twin cities of Hyderabad and Secunderabad.
+§ APPCB did not give consent to operate on above grounds and the respondent industry
+   sought to question the validity of their orders.
+§ The Supreme Court of India relied on the Precautionary Principle, the Polluter Pays
+   Principle and the `Burden of Proof'. The Precautionary Principle is based on the need
+   for authorities to prevent environmental pollution from happening based on sound
+   scientific principles.
+§ The Court in the present judgment directed that the authority (APPCB) to be appointed
+   under Section 3(3) of the Environment (Protection) Act, 1986 shall implement the
+   Precautionary Principle. Further, when a new proposal is envisaged and a risk of great
+   or irreversible damage to the environment is perceived, the burden of proof lies on the
+   one that is proposing to undertake the activity in question.
+§ SCI also acknowledged the need for technical and scientific expertise along with legal
+   expertise leading eventually to the formation of NGT.
+
+https://www.informea.org/en/court-decision/ap-pollution-control-board-v-prof-mv-nayudu-retd
+ Landmark Judgments related to the Environment
+
+· The livelihood of forest dwellers in the Nilgiri region of Tamil Nadu was
+    affected by the destruction of forests.
+
+· The Supreme Court in "TN Godavarman Thirumulpad (Godavarman2) vs.
+    Union of India and Ors." passed a series of directions since 1995, till the
+    final judgment in 2014.
+
+· The Supreme Court decided to set up a Compensatory Afforestation Funds
+    Management and Planning Authority (CAMPA) to monitor the afforestation
+    efforts, to oversee the compensation of those who suffered on account of
+    deforestation, and to accelerate activities for preservation of natural
+    forests.
+
+· Similar writ petition was filed by the Tarun Bharat Sangh in the Supreme
+    Court to stop mining activities in the Sariska Wildlife Sanctuary. The Court
+    in the case of "The Tarun Bharat Sangh vs. Union of India and Ors. (1991)"
+    banned all mining activities in the Sanctuary.
+
+· Subsequently, all mining and development activities within a 1 km buffer
+    zone around national parks and sanctuaries were banned by the SC of
+    India.
+· https://blog.ipleaders.in/environment-law-judgment/
+· https://www.informea.org/
+· Indian Kanoon. https://indiankanoon.org/
+Landmark Judgments related to the Environment
+Landmark Judgments related to the Environment
+Week 12: Environmental Policy and Legislation
+Lecture 4 - NGT and its important judgments
+· Important judgments of the National Green Tribunal (2010
+  to 2023)
+· Solid waste management
+· Almitra Patel
+· Samir Mehta
+· MV Rak
+· Mon region and black-necked crane
+· Alaknanda Hydropower project
+ Important NGT judgments: Almitra Patel vs Union of India
+
+· Almitra Patel and others filed a Public Interest Litigation (PIL) under Article 32 of the
+
+    Constitution of India before the Supreme Court in 1996, whereby the petitioner
+    sought immediate and urgent improvement in the practices adopted for the
+    treatment of municipal solid waste or garbage in India in 4 metropolitan cities; SCI
+    decided to hear the petition for NCT of Delhi only.
+
+· In 1997, SCI in response to this litigation asked all states to provide reports on the level
+
+    of compliance with existing rules and found most were in non-compliance.
+
+· Asim Burman committee was formed as per SCI orders in 1998 and Almitra Patel was a
+
+    member of this committee.
+
+· Garbage strewn over Delhi is a typical occurrence; the municipal government of Delhi
+
+    was not paying enough attention to the problem of hazardous waste management.
+    Many ailments, including as respiratory and skin disorders, afflicted the Delhi
+    population.
+
+· All of the trash from the factories were dumped into the Yamuna River, which
+
+    provided drinking water to Delhi, and these wastes were contaminated since the Delhi
+    municipal administration failed to properly handle them.
+
+· The Supreme Court passed judgment on 15/02/2000 and in 2014, it transferred all
+
+    Solid and liquid waste management issues to the National Green Tribunal.
+
+                                                              https://indiankanoon.org/doc/339109/
+    Important NGT judgments: Almitra Patel vs Union of
+
+                                      India
+
+· Highlights of the NGT judgement
+     · Every state and UT were directed by the Tribunal to immediately
+         enforce the Solid Waste Management Rules, 2000.
+     · Tribunal instructed the central government, state governments, local
+         bodies and all citizens, without delay, to fulfil their respective
+         obligations under the Rules.
+     · A guideline was released to ensure adequate segregation prior to
+         waste production in power plants. As required, it mandated the
+         provision of buffer zones around plants and landfills.
+     · Absolute segregation of waste was made compulsory for energy plants
+         and landfills can only be used for the deposition of inert waste and are
+         subject to bio-stabilization within 6 months.
+     · Complete prohibition of open burning of waste on land, including
+         landfills, was the most important direction of the Tribunal.
+ Srinagar Bandh Aapda Sangharsh Samiti & Anr. v. Alaknanda hydro Power Co. Ltd. & Ors
+ (date of judgment 19 August 2016)
+
+                                                            § Facts and Issues
+                                                            § Petitioners sought compensation from Alaknanda Hydro Power Co. Ltd. to
+
+                                                                 the tune of INR 9,26,42,795 against the damage suffered by the Petitioners
+                                                                 in terms of life and property.
+                                                            § Justification was that the first Respondent had dumped a huge quantity of
+                                                                 `muck' generated during construction of the Alaknanda Hydro Electric
+                                                                 Project.
+                                                            § Due to heavy rains when the reservoir of the Project got filled, and the
+                                                                 dam gates were opened, the muck was carried to the villages resulting in
+                                                                 huge loss to the life and property of members of the Samiti.
+                                                            § The Tribunal had to decide on whether the Respondent was liable to pay
+                                                                 the claimed compensation.
+
+This NASA satellite image of the northern Indian subcontinent shows the monsoon clouds
+over the state of Uttarakhand, Himachal Pradesh and Uttar Pradesh. The clouds brought
+torrential rains within hours, which consequently led to the 2013 floods in North India,
+killing 6054, injuring and stranding more than 60,000 tourists and pilgrims.
+§ Judgment
+
+§ The Tribunal reached the conclusion that damage to the property as alleged by the
+    applicants was incurred as a result of flood water, which brought along soil and muck,
+    entering residential premises.
+
+§ There was contribution of Phyllite, which is a product generated by digging of tunnel
+    and canal and through power house excavation downstream of the barrage in
+    question. Thus, clear contribution of the project could be noticed.
+
+§ The Tribunal noted that although the 2013 Uttarakhand floods were the result of a
+    cloud burst, the damage caused to the residential area was not the result of an Act of
+    God.
+
+§ The muck from the project was about 30 percent, which clearly was the footprint of
+    Respondent No.1's involvement in the damage. And even if it was an Act of God, the
+    Tribunal saw the invocation of the `No Fault Liability' under Section 17(3) of the
+    National Green Tribunal Act, 2010 justified, which principle made the Respondent No.
+    1 liable to pay the claimed compensation along with Rs. 1 lakh each to the applicants
+    along with costs.
+
+§ This is one of those judgments, whereby the NGT has directly relied on the principle of
+    `polluter pays' and made a private entity liable to pay a compensation, making them
+    subject to this code of environmental jurisprudence.
+Samir Mehta vs. Union of India and Ors
+
+Facts and Issues
+
+ This case involved questions of public importance and significant environmental
+   jurisprudence.
+
+ On 4 August 2011, a ship - MV Rak, sank 20 nautical miles off the coast of Mumbai.
+
+ The ship was owned and managed by a Qatar based company and was carrying                   https://www.gem.wiki/The_sinking_of_the_
+   approximately 60,000 tons of coal, 290 tonnes of fuel oil and 50 tonnes of diesel oil.   MV_Rak_off_Mumbai,_India
+
+ The ship's cargo originated from Indonesia and was to be delivered to Dahej, Gujarat.
+
+ An oil slick was sighted on August 6 and spread near the coast. While the Indian Coast
+   Guard had two ships spraying the slick with dispersants, the slick came in close to the
+   coast.
+
+ A thick film of oil was formed on the surface of the sea and large-scale damage was
+   caused to mangroves and marine ecosystem.
+
+ An environmentalist, Samir Mehta, filed applications in relation to the environmental
+   damage caused due to the sinking of a ship.
+Judgment
+
+Ø The Tribunal found that negligence could be attributed to the many of the
+    Respondents (5, 6, 7 and 11).
+
+Ø Said respondents had not adhered to the principles of pre-voyage due diligence
+    despite having sufficient time.
+
+Ø The sinking of the ship was the result of the negligence of the Respondents and
+    upholding the principle of Polluter Pays, the Tribunal directed Respondents 5, 7 and
+    11 to pay environmental compensation to the tune of Rs. 100 crores to the Ministry
+    of Shipping, GOI, which is one of the biggest compensation amounts ever paid by a
+    private entity against environmental damage done.
+
+Ø Further, Respondent 6 was asked to pay compensation of Rs. 5 crores.
+                 Save Mon Region Federation and Ors. vs. Union of India and Ors.
+
+                                                                       § Facts and Issues
+                                                                       § An appeal was filed by an organization named Save Mon Region
+
+                                                                           Federation along with a social activist against the grant of
+                                                                           Environmental Clearance given to a INR 6,400 crore hydroelectric
+                                                                           power project.
+                                                                       § The said project was situated close to the wintering site for the
+                                                                           sacred Black-necked Crane, which is part of the IUCN Red list of
+                                                                           Endangered species and classified as `vulnerable'.
+                                                                       § The area is also home to several other endangered species such as
+                                                                           the snow leopard, red panda, and Arunachal macaque.
+
+Black-necked cranes on the banks of the Nyamjang Chuu river,
+the wintering site of the birds in Zemithang, Tawang, Arunachal
+Pradesh. Photo: Kamal Medhi and Abhik Palit
+
+  https://www.elaw.org/save-mon-region-federation-v-union-india
+Judgment (dated 7 April 2016, quoted as is)
+
+i) The Environmental Clearance dated 19.4.2011, is suspended till the time the following
+studies are carried out, their public consultation done, the Expert Appraisal Committee
+(EAC) considers the outcome of such public consultation, carries out a fresh appraisal of
+proposal for grant of EC, makes recommendation to the MoEF&CC, and the MoEF&CC
+acts upon such recommendations in accordance with law.
+
+ii) The MoEF&CC shall cause to be made a separate study of E-flow requirement for
+protection of habitat of the Black- necked Crane and for conservation of the Black-necked
+Crane through the Wildlife Institute of India, Dehradun, as expeditiously as possible and
+make such study report along with Tawang River Basin study available for `public
+consultation' and shall hold `public consultation' in compliance of the aforesaid direction
+in accordance with law.
+
+iii) The EAC shall thereupon, make fresh appraisal of the proposal for grant of EC and take
+appropriate decision for making recommendations to the MoEF&CC, who shall take
+decision thereupon in accordance with law.
+
+iv) The Appeal stands disposed of with no order as to costs.
+ The NGT has been taking initiatives to monitor compliance with the              NGT Orders,
+   Environmental regulations by States and Union Territories                         2022
+
+ Administrative authorities in several states have been directed to pay
+   compensation for damage to human health and property due to
+   environmental degradation (Business Standard, 30 Dec 2022)
+      States include Maharashtra, Telangana, West Bengal, Rajasthan, Uttar
+        Pradesh, Punjab, Jammu and Kashmir for non-compliance with the Solid
+        Waste Management Rules, 2016
+      NGT held the Municipal Corporation of Ludhiana responsible for the
+        death of seven people due to a fire near a Ludhiana dumpsite in April
+        2022. The cause of the accident was considered to be improper handling
+        of more than 30 lakh metric tonnes (MT) of solid waste, which released
+        hazardous gases, including methane, and contaminated the
+        groundwater. A penalty of Rs 100 crore on the Municipal Corporation of
+        Ludhiana was imposed.
+      NGT highlighted failure in handling more than 1 crore MT of MSW for the
+        recurring fires at the Bhalswa dumpsite. Observing that citizens cannot
+        be allowed to face an emergency situation due to lack of governance, it
+        directed the Delhi government to pay Rs 900 crore as environmental
+        compensation for improper management of municipal solid waste.
+· In cases of illegal sand mining, the tribunal issued orders for carrying out drone         NGT Orders,
+                                                                                                 2022
+    surveys and effectively prohibiting such activities, besides imposing costs and levying
+
+    compensation.
+
+· It also issued directions to prevent illegal mining of stones and granite that was being
+
+    conducted without environmental clearances or without following safety norms.
+
+· NGT imposed environmental compensation and prohibitive orders against
+
+    construction companies for extracting groundwater without requisite permissions.
+
+· In cases of road construction and development projects involving felling of trees and
+
+    encroachments in wildlife sanctuaries, NGT directed the re-designing of projects and
+    ordered strict adherence to the laws for environmental clearance and formulation of
+    plantation and rehabilitation plans.
+
+· NGT ruled that a proposed music festival near the Ranthambhore tiger reserve in
+
+    Rajasthan can be held only with the requisite permission of and according to the
+    conditions stipulated by a joint committee comprising the National Wildlife Board and
+    the state's Chief Wildlife Warden.
+
+· On the issue of illegal functioning of hotels, resorts, pubs, clubs, ashrams and other
+
+    commercial activities in the Chilla Range of Rajaji National Park in Uttarakhand, the
+
+    tribunal directed all operating establishments be closed and all commercial activity in
+    the forest stopped.
+· It also set aside the environmental clearance granted to a private builder for  NGT Orders,
+    construction of a group housing project near the Vishwavidyalaya metro            2022
+    station in the national capital.
+
+· For matters pertaining to industrial pollution, the tribunal directed the
+    Union Ministry of Environment, Forests and Climate Change (MoEF&CC) to
+    review and streamline the functioning of State Environmental Impact
+    Assessment Authorities (SEIAAs).
+
+· The tribunal passed orders on complaints of deterioration of ambient air
+    quality due to the operation of brick kilns, stone crushers and hot mix
+    plants.
+
+· While hearing a petition seeking directions to evolve standards for indoor
+    air quality, the tribunal ordered a committee with officials drawn from the
+    ministry of environment and forests and the Central Pollution Control Board
+    (CPCB) to develop an appropriate mechanism in coordination with other
+    concerned ministries, particularly the Ministry of Urban Affairs and the
+    Ministry of Health.
+
+· The NGT said brick kilns in the National Capital Region (NCR) can operate
+    only after assessing the carrying capacity of air in a particular area while
+    following the notifications of the MoEF&CC and the directives of the
+    Supreme Court.
+ Monitoring of rooftop rainwater harvesting                             NGT
+ Monitoring of water quality in all rivers in the country with the   Initiatives
+
+   goal to achieve bathing water quality (CPCB criteria for ambient
+   surface water bodies) in all rivers
+ Monitoring and compliance of SWM Rules, 2016 at all Indian
+   Railways stations
+ Removal, treatment, disposal and resource recovery from legacy
+   MSW all over the country
+· National Green Tribunal. www.greentribunal.gov.in
+· MSW Rule, 2000
+· India Kanoon. https://indiankanoon.org/
+· Judgement by Supreme Court of India, 2000. on Almitra
+
+   H. Patel And Anr. ... vs Union Of India And Ors. .. ... on 15
+
+   February, 2000
+· https://blog.ipleaders.in/ngt-judgments/
+Week 12: Environmental Policy and Legislation
+Lecture 5 ­ Rapid Environmental Impact Assessment ­ A case
+study of the River Ib Barrage, Odisha
+§ Rapid Environmental Impact Assessment
+§ Methodology
+§ Remote Sensing and GIS
+§ Submergence
+§ Digital elevation model
+§ Remote Sensing
+§ Storage capacity
+§ Water yield
+§ Evaporation
+          The River Ib Barrage proposal (2005)
+
+Major objectives
+ØProvide water for irrigation for approximately 800 ha
+ØDrinking water to three urban bodies, i.e., Jharsuguda,
+
+  Brajrajnagar and Belpahar, and
+ØWater for various industries in Jharsuguda and its periphery.
+
+§ It is necessary to conduct an EIA for any major project that is
+  proposed.
+
+§ Remote Sensing and GIS tools can be used to conduct a Rapid
+  EIA for such projects
+                                                          River Ib, Odisha
+
+                                                          § River Ib ­ a rain-fed major
+                                                              tributary of the Mahanadi,
+                                                              rises in the hills and ends in
+                                                              the Hirakud Reservoir; Total
+                                                              length ­ 251 km
+
+                                                          § Most of it flows through
+                                                              Odisha
+
+https://goo.gl/maps/bqhocfTt9xznzhWr9  Google Maps, 2012
+    Screening    1. Screening: Does the proposed project require an EIA  Methodology
+     Scoping     and what is the level of assessment required?               for an
+Impact analysis  2. Scoping: Key issues and impacts are identified.            EIA
+    Mitigation   Boundary and time limits are defined.
+    Reporting    3. Impact analysis: Potential environmental and social
+     Review      impacts are identified. Design alternatives are
+Decision-making  proposed and compared. In general, the alternative
+Post-monitoring  with least cost and highest benefit is chosen.
+                 4. Mitigation: Actions to reduce or avoid potential
+                 adverse environmental consequences of development
+                 activities of the chosen design alternative are
+                 recommended.
+                 5. Reporting: Results of an EIA are presented as a
+                 report to the decision-making body and other
+                 stakeholders.
+                 6. Review of EIA: Adequacy and effectiveness of the
+                 EIA report is examined and information necessary for
+                 decision-making is provided.
+                 7. Decision-making: Decision to reject, approve or
+                 modify the proposed project is made.
+                 8. Post-monitoring: Project impacts are checked to
+                 ensure that legal standards are met and mitigation
+                 measures are implemented as described in the EIA
+                 report.
+            Project Objectives
+
+Conduct a rapid Environmental Impact Assessment (EIA) for the
+proposed River Ib barrage project based on remote sensing (RS) data and
+GIS
+
+    · Design parameter used: height of the barrage (4, 5 and 6 m)
+    · Evaluate environmental impacts using Micro Digital Elevation
+
+      Model (Micro-DEM) model along with RS and other data
+    · Major categories of impacts evaluated:
+
+         · storage capacity of the barrage,
+         · changes in land use/ land cover (LULC), and
+         · water availability for the command area
+  Methodology for this project
+
+                  Data collection including satellite data
+
+Incorporation of data into ArcInfo, ERDAS IMAGINE, and MicroDEM
+               Analysis of results and impact assessment
+                  Mitigation measures and conclusions
+Data collection and impact analysis
+
+      RS Data collection              Supporting data collection
+
+   Use SRTM data in a microDEM,      Population data and water demand
+delineate submerged areas in ArcGIS                calculations
+
+    and calculate storage capacity     Hydrological data: water budget
+                                                   calculations
+   Use Landsat Enhanced Thematic
+       Mapper data for LULC info
+
+Impact
+analysis
+Elevations in River
+      Ib basin
+
+      Max elevation = 1157 m
+        Min elevation = 157 m
+         Barrage site marked
+  Land use/ land
+cover classification
+ for Ib river basin
+Annual Water demand in the command area for 2031
+
+Sl. No  Water requirement       Quantum of
+    1                           water in 106
+    2                           m3/y
+    3
+        Urban Local Bodies of
+
+        Jharsuguda,             22.2
+
+        Brajrajnagar, Belpahar
+
+            Mahanadi Coal
+                                            3.6
+
+        Limited, Ib valley area
+
+        Irrigation requirement
+                                             69
+
+          for two crops/year
+
+        Total                   94.8
+Water yield, rainfall and evaporation data for Jharsuguda (averaged
+from 1984 to 2000) Based on IMD data, 2012 and CWC data, 2006.
+
+                                                                                  Estimated water flow to
+                                                                                   River Ib = 65.5 MCM/y
+
+                                                                               13
+   Submergence at 200 m elevation (5 m
+       barrage height) over study area.
+
+Project alternatives examined
+§ Five different barrage heights (pond water level) were assumed
+
+   for calculating the area submerged and storage volume; these
+   heights were 2, 3, 4, 5 and 6 m at 197, 198, 199, 200 and 201 m
+   elevation, respectively above M.S.L.
+§ The average river bed level is estimated to be 195 m above M.S.L.
+Calculated storage
+ volume and the
+ submerged land
+ area at different
+ barrage heights
+Impact of varying barrage height on water demand and
+                        submerged land
+
+Design height of      Annual water       Useful land
+   barrage, m     demand satisfied, %  submerged, ha
+         4
+         5                 6.5%             628.25
+         6                  10%             918.42
+                          14.6%            1174.50
+
+Mitigation: Alternative proposed is 4.5 m which satisfies 8.25%
+   of the total annual water demand and submerges 770 ha
+· Submergence                                                        Mitigation
+                                                                     measures
+    · Rehabilitation of displaced people: compensation for land
+      and settlement area
+
+    · Reforestation programs for loss of forest cover
+
+· Partial fulfillment of annual water demand
+
+    · New alternative proposed with barrage height of 4.5 m
+    · Traditional method of using tanks and ponds for satisfying
+
+      water demand should be examined closely
+
+          · Underground structures would inhibit evaporation losses
+Water body identification in the Ib river basin
+· Major design parameter evaluated was height of the barrage which
+  determines the area submerged as well as the storage capacity of the barrage.
+
+· RS, GIS and supporting data were used along with a Micro-Digital Elevation
+  Model (DEM) to calculate storage capacity and area of submergence for
+  different heights of the barrage.
+
+· Three alternatives for design height (4 m, 5 m and 6 m) of the barrage were
+  evaluated along with the baseline alternative.
+
+· As barrage height increases, so does storage volume resulting in a
+  proportionate increase in loss of useful land due to submergence.
+
+· Annual water demand: None of the three barrage heights (199, 200 and 201
+  m) examined was capable of satisfying the total annual water demand of 94.5
+  million m3/y in the study area.
+
+· Based on simulations, a more reasonable alternative to the proposed height of
+  200 m is a barrage height of 199.5 m which will satisfy about 8.25% of the total
+  annual water demand, and lead to the submergence of approximately 770 ha
+  of useful land [<800 ha to be irrigated].
+Debiprasad Taudia and Sudha Goel (2013) Rapid environmental impact assessment
+using remote sensing and geographic information systems: A case study of river Ib
+Barrage, Odisha, Journal of Geomatics, 7(1): 47 - 55.
+

@@ -1,0 +1,467 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                Week 08
+                                               Lecture 02
+                              Water quality parameters ­ General
+
+Welcome everyone to lecture number 2 of week 8. We are going to take a look at some
+general water quality parameters.
+Some of the concepts that we are going to cover the first one is CPCB's classification of
+water bodies. We will take a look at some general water quality parameters and then
+specifically go through each one of them. So, we will go through pH, ionic strength,
+electrical conductivity, solids, temperature, turbidity, alkalinity, hardness, color, and toxic
+heavy metals.
+
+These are the keywords for our lecture 2 and they are the same as some of the concepts
+that we are going to cover.
+So, I will leave it at that and we come to our list of water quality parameters. Now,
+whenever we think about water quality, the first thing that comes to mind is how can we
+measure water quality. There is no single measure of water quality that can be used.
+There are not hundreds, but there are at least a few tens of parameters that are all
+important depending on the nature of the water body, depending on what we are going to
+use that water for, and so on.
+
+So, before we go too far, it is important to understand that the water quality is going to be
+generally based on the use of the water. For example, drinking water has a different set of
+water quality parameters, wastewater has a different set of water quality parameters,
+industrial water whether it is process water or wastewater, they will all have different
+parameters depending on what is important and we are going to look at ambient water
+quality. So in this lecture, we are going to focus on ambient water quality or the water
+quality in surface as well as we are actually going to focus only on surface water bodies
+and the water quality over there. Now we look at these physical parameters that are listed
+at the top pH, ionic strength, electrical conductivity, solids, temperature, turbidity. I have
+highlighted dissolved oxygen because it is one of the most important physical parameters
+and we are going to have a separate lecture.
+
+The next lecture after this will be devoted entirely to dissolved oxygen and the second set
+of parameters, I will talk about it in a minute. In this particular lecture, we are going to
+look at alkalinity, hardness, colour, and toxic heavy metals. So, the first set of parameters
+are physical, the next set of parameters are chemical. Chemical parameters can be divided
+into two categories: organic matter and inorganic compounds. Within organic matter, we
+have oxygen-demanding waste. So, wastes that will lead to depletion of dissolved
+oxygen, we will be looking at that in some detail in the next lecture. We will also look at
+methods for measuring oxygen demand. We have theoretical oxygen demand, we have
+chemical oxygen demand and we have biochemical oxygen demand. So, we are going to
+look at all of them and we will also spend a little bit of time on synthetic organic
+compounds just very briefly. As I said, the inorganic compounds will be covered in
+today's lecture and we will also have a separate lecture on the biological water quality
+parameters. They are in fact some of the most important parameters, especially from the
+drinking water point of view. These parameters, the biological parameters are the most
+important and we will have a separate lecture on that.
+
+This is CPCB's water body classification. So if you notice, I will start with the last
+column, the criteria have different parameters. The first parameter is total coliform
+organisms MPN. MPN stands for most probable number per 100 ml. What is the most
+probable number? That number stands for number of coliform organisms. So as long as
+that is less than 50, pH is between 6.5 and 8.5, DO value. DO stands for dissolved oxygen
+should be greater than 6 milligrams per liter and BOD 5 should be less than 2 milligrams
+per liter. Now, these parameters are unknown to you at this point, but by the end of this
+lecture and the subsequent two lectures, you should be very clear about each one of these
+parameters and that is why they are so important. So good quality water is defined on this
+basis, on the basis of these four parameters. It is class A and this is suitable for drinking
+without treatment, but after disinfection. Anytime you are storing water, it has to be
+disinfected and a chlorine residual should be maintained so that it remains without any
+microbial pathogens.
+So those are some of the things that I will be talking in more detail in later lectures. The
+same parameters but more lenient, total coliform organisms MPN per 100 ml should be
+less than 500, pH range remains the same, DO value comes down to 5 or greater, BOD 5
+less than 3 milligrams per liter and that water is fit for outdoor bathing. So you see people
+swimming in surface water bodies, whether they are lakes, ponds, rivers, streams,
+whatever it is, all that is based on class B that is class B water and these are the
+parameters that are required to be met. Then we come to the next set. Total coliforms for
+class C is it should be less than 5000, pH is more lenient from 6 to 9, the DO value goes
+down, it has to be greater than 4 milligrams per liter, BOD 5 has to be less than 3
+milligrams per liter. This water is suitable for drinking provided adequate treatment is
+given to the water before drinking and it is disinfected. The next class is class D. This
+water is not fit for drinking even after treatment, pH is between 6.5 and 8.5, DO values
+are greater than 4 milligrams per liter, greater than equal to free ammonia as nitrogen is
+less than equal to 1.2 milligrams per liter and this water is suitable for propagation of
+aquatic ecosystems as well as wildlife. If the water is of quality that is poorer than all
+these other water classes, then the pH will be between 6 to 8.5, electrical conductivity
+may be high and that is a maximum of 2250 micro moles per centimeter. It has a sodium
+absorption ratio maximum 26 and boron concentration maximum is 2 milligrams per
+liter. Now, this water is not useful for drinking. It can however be used for irrigation for
+industrial cooling water and perhaps for waste disposal, controlled waste disposal. Now
+that this classification and several other reasons which will become apparent at the end of
+this week will make it clear why we are going to go through each of the parameters that
+are listed in this table as well as several other parameters.
+So, we will start with the simplest one which you have studied way back in high school
+and we will just refresh your memories about that. So, you know that pH is a critical
+water quality parameter. It determines the use of water. You have already noticed in the
+previous table that the range, the acceptable range is more or less 6.5 to 8.5. So, we want
+to be in the neutral range and that is what we consider acceptable and that is especially
+true for drinking water, but even for aquatic ecosystems you will find that 6.5 to 8.5 is
+where most aquatic organisms are able to thrive and in fact in this case, graphic on the
+side you can see that if the pH goes down into the acidic range, it becomes difficult for
+several aquatic organisms to survive and one of the reasons for having these criteria for
+these water bodies is for maintaining aquatic ecosystems. So, you can see that when the
+pH drops to 6, rainbow trout which are fish begin to die at pH 5, frog eggs, tadpoles,
+crayfish, mayflies all of them die and at pH 4 it is likely that all fish will die. So, these are
+all indicators. The pH is an extremely good indicator of whether an aquatic ecosystem is
+healthy or not. We all know that it is defined as the negative logarithm of the activity of
+hydrogen ions.
+
+pH = -[log H+]
+
+Hydrogen electrodes are used as an absolute standard for measuring pH and the
+dissociation of pure water measured using a hydrogen electrode will result in an activity
+of protons of 10-7 mol/ L.
+
+H2O  H+ + OH-
+
+So, you can write the reaction as H2O which will dissociate into protons plus hydroxide
+ions.
+
+Kw = [H+] * [OH-]/ [H2O] = 10-14
+
+The dissociation constant Kw for this reaction is proton concentration multiplied by
+hydroxide concentration divided by H2O. H2O is one and the product of H+ ions
+multiplied by hydroxide ions is 10-14. And if you write the pKw, pKw means the minus log
+of this number Kw. So, pKw is 14 and 25 degree centigrade and the activity of water is
+assumed to be 1.
+I have already mentioned that for drinking water we want a pH between 6.5 and 8.5. It is
+also important to remember that the equilibrium constant for water changes with
+temperature and it is a significant difference. So, the Kw values for different temperatures
+are noted in this table and you will find that at 25 our pH is neutral at pH 7 or rather
+though to put it another way the water is neutral at pH 7 and any deviation from 25
+degree centigrade means that the point of neutrality is shifting either upwards if the
+temperature goes down or it is going downwards if the temperature goes up. So, at 100
+degree centigrade, the point of neutrality is 6.14. It is not that the water is acidic, no. The
+water the neutral point 7 being a neutral where H+ and OH- minus are equal that is 7 for
+25 degree centigrade. At 100 degree centigrade, it's 6.14, and at 0 degree centigrade, it's
+7.47.
+Coming to our next parameter we have ionic strength. Ionic strength is a measure of the
+concentration of all cations and all anions present in water. It is a property of the solution
+and not of the individual ions. It was first defined by Lewis and Randall in 1921 and this
+is the definition or rather the equation for ionic strength. I stands for ionic strength.
+
+  =  1     2
+     2
+
+Ci is the concentration of any ions. So, if let us say you have five cations and five anions
+then Ci is the individual concentration of each anion. So, C1, C2, C3, C4, C5 and you have
+Zi. Zi is the charge of that corresponding ion. So, if I have calcium, the charge will be 2+
+and if I have sodium, the charge will be 1. If I have iron, the charge will be 3. So,
+depending on the charge of that particular ion you have to take the square. So, ionic
+strength is one-half the sum of (Ci * Zi2). Now, where is this information for C1, C2, C3
+going to come from? It is not easy, but we have all the instruments. Today, our
+technology is at a level where you can characterize any water sample to determine the
+concentration of each individual cation and anion and the best possible method is ion
+chromatography. So, ion chromatography or ion yes you can determine the individual
+concentrations of let us say calcium, magnesium, iron on the anion side we have chloride,
+sulphate, nitrate all of them can be measured using ion chromatographs or ion
+chromatography. Ionic strength can also be estimated by multiplying the total dissolved
+solids. Now total dissolved solids which you do not know yet we are going to look at it in
+subsequent slides. This is a long and tedious method however there are shortcuts. These
+are simplified methods because the actual method for measuring total dissolved solids is
+quite tedious. So, we will come to that later. Now ionic strength can be estimated by
+multiplying the TDS value, TDS by 2.5 times 10-5 and this is called the Langelier's
+approximation or Langelier's method.
+
+                                            = 2.5  10-5
+
+So, let us come to electrical conductivity. Now a water sample is going to be able to
+conduct electrical current only because of the presence of the ions present in the water.
+The purest water having no ions. Let us assume that you have a water sample that has 0
+ions in it that water is going to be completely resistant to the passage of electrical current
+it will not be able to conduct any electricity. However because of the concentration of all
+ions present in water, this water becomes conductive. So, the units for the concentration
+of all ions present in water are micro siemens per centimeter. The inverse of electrical
+conductivity is electrical resistivity, which has units of mega ohms or micro ohms per
+centimeter. These values are generally reported for 25 degree centigrade. It is a very
+simple and inexpensive measure of the ionic strength of a solution. The last slide I talked
+about the ionic strength and the fact that if you want to know the concentration of
+individual ions you need to use ion chromatography or an ion chromatograph and that is a
+very expensive instrument. Conductivity on the other hand is a handheld instrument. This
+instrument looks very similar to a digital thermometer. It is just about the same size. It is
+about the size of your hand and it is about an inch in width. And this is a pocket
+instrument you can keep it in your pocket and just take a simple reading. It is very direct
+and inexpensive method of measuring ionic strength. There is a probe, there is an
+electrical probe at the bottom and it is able to measure the conductivity of the solution. It
+will not give you any information about the individual ions. It will only give you an idea
+about the ionic strength of the solution. Conductivity serves as a convenient surrogate
+parameter for TDS which I already said is a very difficult and time-consuming method
+and we will come to that as well later. As I said, you can measure it instantaneously. All
+you need to do is take this probe, dip it in your water sample, and get a reading as shown
+over here. Now, you have to come up with a correlation between conductivity and TDS.
+So ideally you should do a TDS measurement as well as a conductivity measurement and
+find the correlation or conversion factor. This conversion factor we normally in practical
+terms we normally make an assumption of 0.65. The range for this factor is 0.55 to 0.75
+mg-cm/ L-S. So, this is a simple conversion factor that is used to convert conductivity
+readings to TDS. Conductivity is linearly related to ionic strength in dilute solutions
+where the ionic strength is less than 0.1 moles/ L or molar strength.
+
+Let us come to solids. So, I have already introduced the idea of TDS, total dissolved
+solids. What are we talking about? Whenever you think about any water sample, there are
+all kinds of solids are present in it. So, if you think about water and you filter that water
+you will find that there are certain solids that are captured by the filter and there are
+certain solids that will pass through the filter. So these total solids include literally all
+solids some are dissolved and some are suspended and what is suspended and what is
+dissolved is entirely dependent on the pore size of the membrane filter that you use.
+So this membrane filter of 1.5 to 1.7 micron pore size is what we generally use to define
+total suspended solids. So for water quality measurements suspended solids are defined
+as solids that are separated using a membrane filter.
+Let me show you a schematic. We have our water sample it contains some amount of
+solids. If you take your water sample pass it through a membrane whatever is caught on
+the membrane surface is your total suspended solids whatever passes through is total
+dissolved solids. How you measure it I will come to that in a minute.
+
+So this is our first cut off and that cut-off depends on a membrane pore size. Now, you
+can always use a different pore size depending on what you are trying to do. When we do
+bacterial work, we normally use a cut-off of 0.45-micron pore size filters, and when we
+want to capture even smaller particles and so on we go even further down to 0.2-micron
+pore size. But for drinking water purposes this is sufficient. Now, these total dissolved
+solids are present in the water that passes through the membrane. How do I measure that
+solid amount? So, a small aliquot of that filtrate is then allowed to be completely
+evaporated. So, as long as there is water you cannot estimate the amount of solids so it
+has to be evaporated maybe over 24 hours or even longer. And you measure the weight of
+your crucible. So you take a crucible put it in a hot air oven at 105 degree centigrade for
+24 hours or longer and once all the water has been evaporated you measure the weight of
+the crucible before and after evaporating the water and the solids that are remaining
+inside the crucible are your TDS. So these are the solids that are remaining in the filtrate
+and you have to evaporate the water that is in the filtrate to determine TDS. As I said it
+can take anywhere from 24 to 48 or even longer period of time because it takes a long
+time to evaporate some of this material. Most people do not find it useful to do it so that
+is why we use electrical conductivity. Let us now come to the next set of solids.
+
+Our next set of solids is you take your solid sample what is captured on the membrane
+filter. If our membrane is a glass fiber filter instead of a cellulose filter you can put it in
+what we call a muffle furnace and you can burn the you can measure the weight of the
+filter then burn it at 550 degree centigrade. Now these suspended solids will be part of
+them will be burnt and part of them will be ash. So the weight of the filter before and
+after ignition will be able to you will be able to get a measure of how much is volatilized.
+Now volatilized means what has been burnt. So if you have organic material it has been
+burnt it is no longer part of whatever is remaining.
+Whatever is remaining is the fixed solids that is the ash amount and so when the total
+solids are burnt at 550 degree centigrade in a muffle furnace whatever is remaining after
+burning is called total fixed solids and whatever is lost, so the weight of the membrane
+plus the solids on it initially and then after burning you can compare it and determine the
+total volatile solid.
+
+                                            =  + 
+
+What I just explained applies to suspended solids. So, it is actually,
+
+                                            =  + 
+
+So first two we do not use really in water quality sampling we do not use this method.
+Let us now come to the next parameter. The next parameter is temperature and it may
+seem very obvious it is as fundamental as pH. Temperature is another master variable
+which determines many different activities that are related to aquatic ecosystems and so
+many other things. So, the dissolved oxygen levels, the health and biodiversity of an
+ecosystem, the rate of reaction for physical, chemical and biological processes they are
+all temperature dependent. So, any change in temperature will be reflected in a change in
+all these parameters. Temperature determines the fate and transport of contaminants in
+water. It will also determine the depth of the water column. So, whether you have a
+shallow pond or a deep pond or you have a shallow river or a deep river all that will
+impact the water temperature in that situation. A shallow pond you may have light
+intensity which goes all the way down to the bottom of the pond but if the pond is very
+deep light will not penetrate throughout the depth of the water column. So, again
+depending on the penetration of light it will impact the water temperature. So you will
+have a gradation or a gradient or stratification you can call it all these words. You will
+have different strata which will have different temperatures depending on the depth of the
+water column. Similarly, because of the changes in depth of the water column as well as
+light intensity, you will have what is called photosynthetic activity. Photosynthesis means
+you need light. So only the top layer of a deep water column will have photosynthetic
+activity, you will have algal growth and that algal growth will contribute to the turbidity
+of water and this is under unpolluted conditions. If situation is where there is pollution it
+becomes even more complicated. So, all these factors will determine the water
+temperature and whether it is changing with depth in the water column. So, temperature
+will affect the water quality parameters you know that there is a relationship between the
+density of water and temperature. Dissolved oxygen concentrations also change with
+temperature. I will show you examples in the next lecture. Solubility, dissolution of
+contaminants, growth of organisms, volatility of various contaminants. All of them are
+temperature-dependent effects. I have already mentioned reaction rates, equilibrium
+constants and because there is a change in reaction rates and equilibrium constants
+therefore the speciation which means different species of different contaminants will also
+change if there is a temperature change.
+
+Let us take a look at turbidity. What is turbidity? Very often you look at a water sample
+and you say this is not clear. When you say this is not clear it means it contains light
+scattering substances. So, if you look at the standards these are three turbidity standards
+that are shown on the right-hand side. The first one looks clear. This is the standard for 0
+to 10 NTUs and I will explain what NTUs are. The next one is 0 to 100 and the next one
+is 0 to 1000. So you can see that as the turbidity level increases the sample looks milky
+and this happens very often when you take a sample from any natural water body. They
+are either yellowish in color or greenish in color most of the time they are yellow to green
+in color and that is because of algal growth. But there can be other reasons as well it can
+be brownish yellow as well. So that comes from humic material. I will talk about each
+one of these points as we go. So the presence of light scattering substances many of them
+are colloidal. Colloidal means they will not settle they will remain what we call in
+suspension. So you can see these samples, the individual particles are not visible.
+However, there is a sufficient concentration of these particles which contributes to their
+light scattering property and that is why light cannot pass through it and they give the
+sample a milky look. And these substances are clay and silt. Clay and silt are basically
+very fine inorganic particles and biological particles like bacteria and algae can also
+contribute to light scattering. High turbidity levels will prevent light from basically
+sunlight from penetrating deep into the water column and it will result in a shallow photic
+zone. Photic zone means where the light is and you will get photosynthetic activity only
+in the photic zone not in the darker zone. So photosynthetic organisms are capable of
+growing only in the photic zone and the darker zone cannot sustain their growth. This has
+important implications because DO dissolved oxygen is coming into water from two
+sources. One is equilibrium with the atmosphere and two is generation of oxygen by
+photosynthetic organisms like algae. So these organisms are generating oxygen in water
+and as the aphotic zone is dark there is no photosynthesis so there is lack of oxygen
+generation and it can result in low to zero DO levels in this zone. This is a very important
+water quality parameter. How do we measure it? We use a turbidity meter or a
+nephelometer for measuring turbidity and it is based on measuring the intensity of light
+that is either transmitted. So if you have a light source and you measure what comes out
+from the other side that is the transmission of light and if you measure light perpendicular
+to the path of light then that is scattered light. So you can either measure it at 180 degrees
+from the light source or 90 degrees from the light source. So, both instruments are
+compared to standard solutions of known turbidity and that is what you see in the photo
+over here. These are standard solutions of known turbidity that are used for calibrating
+these instruments and it is measured in term, turbidity is measured in terms of
+nephelometric turbidity units.
+
+So we now come to the next parameter and that is alkalinity. Alkalinity is a measure of
+the capacity of water to neutralize acids. As long as the water has some alkalinity in it
+any other discharge of acidic material for example, wastewater may be acidic in some
+cases and if it is acidic and alkalinity is present in the water the pH will not change
+significantly. However, if there is no alkalinity there will be an immediate impact and the
+pH will change. The most common contributors to the alkalinity in water are
+bicarbonates, carbonates, and hydroxides. Now, these will remove proton ions and lower
+the acidity of water and increase its pH. Now, measuring alkalinity is very important to
+determine whether a stream is going to be able to neutralize acidic pollution from either
+rainfall or wastewater. Total alkalinity is measured by measuring the amount of acid
+needed to bring the sample to a pH of 4.5. This is a standard method. At this pH, all
+alkaline compounds are consumed in the neutralization reaction and we measure it in
+terms of milligrams per liter of calcium carbonate just to bring it all down to a single unit
+that can be compared we use this particular unit. Hydroxide alkalinity is a significant
+fraction of the total alkalinity only when the sample pH is very high. So, if it is greater
+than 11 if the pH is greater than 11 then hydroxide will be a significant contributor to the
+total alkalinity and it is directly determined based on pH and Kw. So that is very simple.
+Samples containing only carbonates and bicarbonates and insignificant amounts of
+hydroxides will have a pH between 8.3 and 11. In that case, bicarbonate alkalinity is
+equal to total alkalinity minus carbonate alkalinity. Samples which have only
+bicarbonates have a pH less than 8.3 and, in that case, total alkalinity is equal to
+bicarbonate alkalinity.
+
+We now come to another parameter and that is hardness. Hardness is attributed to the
+concentration of calcium and magnesium in the water sample. This is a major problem
+generally in groundwater. Very rarely you may have a similar problem in surface water.
+What is the problem with calcium and magnesium? Calcium and magnesium are non-
+toxic. They are useful as nutrients and they are found in fairly high concentrations in
+groundwater. When you use water containing high concentrations of calcium and
+magnesium, you find very often that when you are using soap and water, the soap does
+not result in foam or froth formation. You get instead a white precipitate of the soap
+forms in some cases if the water is extremely hard. And this prevents proper cleaning
+from happening because if foam and froth are not formed, then the dirt particles cannot
+be brought into solution and the cleaning efficiency becomes very poor. And we all know
+what a dissatisfying experience that is. Most of us have experienced it at some point or
+the other. Scale formation is another problem associated with these two ions, cations.
+And something that many of us have experienced at home is that if you have electrical
+appliances that work using water and there is a heating element in these appliances that is
+in contact with water. So, your steam iron, your water heater, and some of us use a simple
+heating rod to heat water in winter for various uses. So, after a period of time, you find
+that the heating element has a scale, white colored scale is formed on the surface of this
+heating element. And this scale is nothing but the precipitation of CaCO3 and magnesium
+hydroxide. So, calcium carbonate and magnesium hydroxide will precipitate due to the
+high temperature and they will form a very hard scale on the surface of the heating
+element. And as the scale builds up with continuous use, it can, it will bring down the
+efficiency of that heating appliance all the way down to failure. So, very often when you
+have these kinds of appliances, they fail because of scale formation. And the only thing
+you have to do is use a dilute acid to remove the scale and it will start functioning again.
+Hardness is expressed in terms of milligrams per liter as CaCO3 and it has to be, these
+ions have to be removed. So, drinking water treatment especially for groundwater which
+has high concentrations, we need to remove it, but that is beyond the scope of this
+particular lecture, we will maybe take a look at it later. The desirable limit for total
+hardness is 200 milligrams per liter and the permissible limit in the absence of any other
+source is 600 milligrams per liter. So, total hardness is expressed as the concentration of
+calcium and magnesium in terms of milligrams per liter of CaCO3. So, carbonate
+hardness is CH and that is hardness associated with carbonate and bicarbonate ions. Non-
+carbonate hardness is TH minus CH.
+
+                                            =  - 
+
+So, it is the difference between the total hardness and carbonate hardness. The
+concentration of carbonate and bicarbonate can be greater than total hardness. If that is
+the case, then total hardness is defined as being equal to carbonate hardness and non-
+carbonate hardness becomes 0. Carbonate hardness has also been called temporary
+hardness because you can remove it by heating and is generally associated with sodium
+rather than calcium and magnesium.
+Then we come to color. What is the importance of color? We generally look at water
+quality. Our first way of examining any water sample is by the color of the water and if
+you find that it is not clear that is turbidity and if you find that it has even a slight tint of
+color, then you do not want to drink it. You know that it is definitely not clean water. So,
+color in water is associated with dissolved as well as particulate. It can be either dissolved
+or particulate matter or both and it can be either organic or inorganic. Organic matter
+which includes dissolved compounds like humic and fulvic acids. Now humic and fulvic
+acids come from the decaying vegetation and they give the water a light tea-like yellow
+color. So sometimes it is very frequent when you take a water sample from a river or lake
+or pond, you find that it has a slight yellowish color and that yellowish color which is a
+tea-like dilute tea-like color comes from decaying vegetation. It may also have algal
+growth. So, phytoplankton or algae impart a green or yellow color to the water. So, if it is
+very green, you know it is definitely algal cells and if it is got yellowish color to it, it is
+maybe either humic material or phytoplankton. Inorganic material will result from
+dissolved metals. So you may have iron, manganese, chromium, and the colors for each
+of these metals depending on their oxidation state can range from yellow to red or even
+black. Metals like iron and manganese precipitate very slowly as they get oxidized. So
+when iron gets oxidized Fe2+ has a reddish-orange color and as it gets oxidized to Fe3+, it
+becomes, it results in black-colored precipitates and manganese precipitates similarly it
+goes to a blackish color. The color of water is measured in terms of Hazen units, platinum
+cobalt units or what is called the AFHA Hazen scale. So AFHA is the American Public
+Health Association and that scale, all of these scales are the same. It is just different terms
+used for the same scale. The platinum cobalt scale is specific to the color yellow and it is
+based on a standard reference, which is the dilution of 500 ppm of platinum cobalt
+solution. So, the color produced by 1 mg of platinum cobalt dissolved in 1 liter of water
+is considered as 1 unit of color on the platinum cobalt scale. So you can call it a Hazen
+unit or a platinum cobalt unit.
+
+We then come to the last parameter for this lecture and that is toxic heavy metals.
+
+Now there are six toxic heavy metals that are shown in this slide, arsenic, selenium,
+mercury, cadmium, lead and chromium.
+These toxic heavy metals can be either of natural or anthropogenic origin. If they are of
+natural origin, the best example is arsenic in groundwater. It comes mainly from the
+dissolution of soil and rocks as well as a little bit from surface runoff. Then we have
+anthropogenic sources, industrial and municipal wastewater discharges, leachate from
+solid waste dumps and several other sources can result in the presence of these toxic
+heavy metals in water. The best example is mercury. Mercury is present in the flue gases
+from coal-based thermal power plants. It is present in household products like tube lights
+and thermometers and it is used as either a catalyst or for various other reasons in
+industrial processes. Now not mentioned it yet, but in air pollution, you may have learnt
+about wet deposition and dry deposition of mercury. You know that these household
+products like fluorescent tube lights and thermometers after they are broken or used, they
+end up in the solid waste dumps. So, the leachate will have some amount of mercury
+from all this material. And similarly, industrial discharges, wastewater discharges may
+have trace amounts of these toxic heavy metals and that may be the reason for their
+presence in water bodies. Now these metals are not known to serve any physiological
+function and they can be toxic at ppb. Ppb stands for parts per billion and they can be
+toxic even at that level. The only exception is selenium in this list. It is required in trace
+amounts by various organisms, but at ppb levels, it is known to be toxic to human beings
+as well as other organisms.
+So this table is a summary of the major sources of these toxic heavy metals and the kind
+of damage that they can do on human health. So as I said, arsenic is very common in the
+groundwater of several areas in the world including eastern part of West Bengal, the
+border areas with Bangladesh and most of Bangladesh is severely affected. Other
+countries that are affected by arsenic in groundwater are Taiwan and US. Southern part,
+the southwestern part of the US is also severely affected. So, it is a natural pollutant and
+it is present in natural deposits. It also comes into the environment from various other
+sources from smelters, from glass, from electronic waste and from orchards. Orchards are
+often they used to use pesticides which were arsenic based pesticides. So these are some
+of the examples of the sources of arsenic. What are the effects on human health? It causes
+melanosis, it is a skin disease, it causes nervous system toxicity and several other health
+problems. Selenium is similarly found from natural deposits, mining, smelting, coal and
+oil combustion and it causes liver damage. Mercury is a neurotoxin, it causes
+gastrointestinal problems as well as central nervous system damage. Again, it comes from
+natural deposits, it is present in household products, I have already mentioned those. It is
+present in thermal power plant emissions and electrical appliances. Cadmium similarly
+natural deposits, galvanized pipe corrosion, batteries, paints, very often you see
+disposable batteries which contain cadmium. The effects are on the kidneys. Lead is
+another major toxic heavy metal, it comes from natural as well as industrial deposits,
+plumbing, soldering, we do not use it, we use other metals which are safer and brass
+faucets etc. It causes kidney as well as nervous system damage. Chromium which is again
+a major problem in northern India where you have tanneries and so on that are operating.
+They use chromium as part of the leather tanning process and because of that industrial
+discharges from tanneries contribute to high chromium levels in water. So natural
+deposits, mining, electroplating, pigments or as well as tanneries contribute to chromium
+in water. It causes liver, kidney and circulatory disorders. I will stop this lecture here.
+
+These are some of the references that I have used for this particular set of material and
+thank you. We will continue in the next lecture.
+

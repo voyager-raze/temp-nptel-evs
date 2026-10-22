@@ -1,0 +1,328 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                Week 09
+                                               Lecture 04
+                                  MSW Treatment and Disposal
+
+Welcome, everyone to lecture number 4 of week 9. We are going to go through MSW
+treatment and disposal in this lecture.
+So, some of the concepts that we are going to go through are treatment processes and
+disposal methods. We will look at thermal or chemical processing and biological
+processing. We will also look at disposal methods, landfilling as well as incineration.
+
+The keywords for this particular lecture are landfilling, biodegradable, compost,
+combustion, gasification, pyrolysis and anaerobic digestion.
+So, before we go into any details, let us look at the main goal today in solid waste
+management or rather municipal solid waste management. Our current goal is zero waste
+to landfills. So, remember the ISWM objectives, one of our goals was to minimize
+landfilling. We want to do away with landfills.
+
+So, landfilling is no longer an acceptable option, but because it is the only option in some
+cases, so it cannot be completely eliminated. But it is important to remember that many
+European countries have already achieved less than 1% waste to landfills. So, we will be
+going through all these points as we go through this lecture. We will start first with
+treatment options. What are our common treatment options? The first is composting, and
+I think most of you are familiar with composting today.
+
+Composting is where you take bacteria and fungi that are present in soil or in wastewater
+and you add them to your waste content to the organic fraction of your waste and allow it
+to be degraded over a fairly long period of time. The minimum time required is one
+month and it can go up to three months or even six months. You can do the same thing
+without bacteria and fungi. You can use earthworms and if you are using earthworms, it
+is called vermicomposting. You can have anaerobic digestion in which case the benefit is
+that you get biogas and I have already mentioned that biogas is the combination of CO2
+and methane and you need to separate the two gases to get a useful fuel. You can
+pelletize your fuel. The solid waste material which is wet can be ground to a very fine
+material. It can be pelletized; small pellets can be created to form what is called refuse
+derived fuel and these pellets can be sold in the market as fuel.
+Then we have disposal options. We have two main options. One is incineration of the
+waste followed by landfilling or directly you can go for landfilling and like I said
+landfilling which used to be a very popular option in developed countries especially those
+with large amounts of land like Australia, Canada, they have huge amounts of land and
+landfilling was done at a fairly inexpensive level. However, with current understanding,
+we do not want to pollute the soil, we do not want to use the land for dumping waste. So
+our basic goal, we are back to our basic goal that we do not want any waste to go to
+landfills.
+
+So, let us take a look at the global status. What is the most popular method? Composting
+is fairly popular. It is 5.5%, and it is followed by incineration at 11%, controlled
+landfilling which means engineered landfilling or sanitary landfilling with gas collection
+is so let me back up here. Controlled landfilling is 4%, sanitary landfilling is 7.7%, open
+dumping unfortunately at the global level is one-third. So, 33% of the global municipal
+solid waste is being dumped openly, and this is a common site in our country. I will show
+you data for our country at the end of this lecture. What about recycling? Recycling at the
+global level is only 13.5%, and it needs to be improved. Others are less than 1%, and that
+takes care of that brings us to the last point which is landfilling unspecified which is often
+a combination of open dumping and unsanitary landfilling. So, that is 25%.
+These are also these choices of disposal methods. I said this in an earlier lecture that one
+of the factors that determines a country's choice in terms of treatment and disposal
+method is the availability of land and the cost of incineration. Now remember that
+incineration is expensive as well for the simple reason that you need air pollution control
+equipment and because this air pollution control equipment is fairly expensive therefore
+incineration becomes an expensive option. So, given the fact that cost and land
+availability both are important factors there is a relationship between the income level of
+the country. So, whether you judge that by gross domestic product or gross national
+product either way, it is determined by the income level of the country.
+
+So let us take a look at the low-income countries. In low-income countries 93% is openly
+dumped. After that, we have landfilling 3%, and we have 3.7% recycling. India is a
+lower-middle-income country. Open dumping remains the norm 66%. 18% is landfilled.
+You can see that landfilling improves as the income level increases and incineration
+which is absent in low-income and lower-middle-income countries shows up only for
+upper middle income and high-income countries. Just remember that incineration is an
+expensive option. It is a very effective option because it reduces the volume and weight
+of waste by anywhere from 60 to let us say 90% because you are left only with the ash.
+The greater the organic content it all depends on the organic content of the waste. So if
+the waste is mostly organic incineration will take care of the bulk of it and if there is a
+significant inorganic content in the waste, then that is what is remaining for landfilling.
+So high-income countries at the other extreme a significant fraction goes for incineration.
+22% is going for incineration, 29% is recycled, 6% is composted, and 39% is landfilled
+with 2% open dumping. So you can see open dumping is hardly an option in high-income
+countries quite obviously and as the income level increases open dumping of waste
+ceases to happen. So landfilling increases, recycling increases, incineration increases
+along with income levels. South Asia which has many of the poor developing countries
+and we are in South Asia 75% of the municipal solid waste is openly dumped. 4% is
+landfilled, 16% is composted, and 5% is recycled and you can see the breakup for other
+regions of the world in the same graphic. Anaerobic digestion is not a significant
+treatment option in most countries. It has not proved as popular as we would like it to be.
+It is not easy, it is a fairly difficult process to operate and maintain.
+
+So what are we doing in India? Urban local bodies meaning municipal corporations,
+municipalities, administrative authorities, they generally go for one of these four options
+that you see in this graph. So, by far most of them are going for composting. Composting
+at the large scale or rather full-scale plants is highly successful. It has been found to be
+low maintenance, low cost, it is easy to install, there is some amount of capital
+expenditure, there is some amount of land requirement, but it requires low-skilled
+operators, any person even without an education can be trained to run a composting plant.
+It is not difficult at all. So that is one point in its favor. Depending on the land area
+requirement and the area that you are setting up the plant in, that land cost will vary
+obviously and therefore that will contribute to the cost of composting but otherwise it has
+proved to be the best possible option all over the country. So we have more than 1000
+plants, out of that 983 were operational in 2016-17 and I am sure many more have been
+set up since then, and there are several more that were in the planning stage at that time.
+Vermicomposting which is composting done by earthworms is also a highly popular
+process. What is the reason for not being as popular as regular composting? As I
+mentioned before regular composting is relying on bacteria and fungi to break down the
+biodegradable fraction of MSW, convert it to a stable compost material which has high
+nutrient content and then use it as a supplemental fertilizer. As a supplement to fertilizers
+in fields and gardens and so on. Vermicomposting results in a compost that is higher
+quality compared to the regular compost. But you are breeding earthworms, and not all
+earthworms are equally effective that is one issue and the second issue is in fact to
+complete that idea the most effective earthworms are imported into India from Africa.
+The Indian earthworms for some reason are not as efficient as the African earthworm. So
+that is one issue. The second issue is that breeding earthworms is not so easy.
+Earthworms are extremely sensitive organisms. They require high levels of moisture.
+They should not be exposed to sunlight. So, composting which can be done under
+literally under the sky cannot be done with vermicomposting.
+
+For vermicomposting, you need a closed enclosure. So the compost beds have to be
+covered throughout, and you need to maintain moisture at fairly high levels. So unless all
+those conditions are met vermicomposting is not effective. But the end product is very
+high-quality compost. I have also I should mention over here that composting plants
+which have been created under basically under a shed have proved to be even more
+successful than the ones that are in the open. So having an enclosure where you have a
+cover or some kind of roof over the compost enclosure is definitely improving the
+efficiency of the composting process. So in all cases, having an enclosure is worth the
+cost.
+
+Then we come to anaerobic digestion. Anaerobic digestion has a major end product and
+that is biogas. It is a fuel and it can be useful. However, operation and maintenance of
+biogas plants has proved to be a challenge all over the country. There are very few plants
+that have been able to operate for more than 5 years and getting skilled operators to
+maintain these plants has proved to be a major challenge. Then we come to refuse derived
+fuel based plants. Refuse-derived fuel plants are technically feasible. It is possible to
+pelletize the organic fractions of MSW and sell them as fuel and it is much easier.
+However, this has also not proved to be a popular option for many reasons these pellets
+of fuel are not acceptable to the poor who are considered to be the target consumer group.
+They are not willing to accept it for the simple reason that air pollution is out of control if
+you were to use RDF as a fuel. So the air pollution problems generated by RDF unless it
+is burned in a controlled environment is not happening in our country, and therefore there
+are no takers for this material in most cases.
+Then we come to waste to energy conversion. Now I mentioned in the very first lecture in
+this particular week that waste to energy conversion itself requires inputs of energy
+because first thing you need to do is segregate the organic fraction from the inorganic
+material. And then you can derive energy from whatever material is left in the organic
+fraction and you can derive energy in two different methods. In fact, I have put it as
+chemical processing and biological processing. The chemical processing is also called
+thermal processing. So you can burn the waste within combustion we have two types of
+combustion we have stoichiometric combustion and excess air combustion. If you
+remember the ThOD calculations that we did, you can do something very similar with
+combustion of the waste. So let us say you know the empirical chemical formula for the
+waste you can determine what amount of oxygen is required to get complete oxidation of
+the waste. So let us say you have waste with carbon, hydrogen and oxygen we will ignore
+nitrogen, phosphorus, sulfur and all of that. So, just keeping carbon, hydrogen and
+oxygen you can write a reaction and take it to CO2 and water. So that would be that will
+give you an estimate of the oxygen required to completely oxidize the waste. So that is
+called stoichiometric combustion. We know that if you provide just that amount of
+oxygen you are not going to get 100% oxidation because of the inefficiencies of the
+process. So what is generally done is excess air combustion. So combustion can be
+stoichiometric or excess air combustion. Those are our first two options. The second
+option is gasification. Gasification is done under sub-oxic conditions. So if you have your
+waste, you know the stoichiometric requirement, but you provide oxygen that is less than
+the stoichiometric requirement which means you will have partially reduced, reducing
+conditions instead of completely oxidizing conditions.
+So in that case let us come to this slide. You will have sub-stoichiometric amounts of air
+supplied. You will get endothermic and exothermic reactions which are self-sustaining
+and because you have a reduced partially reducing environment, you will get some
+reduced compounds. So you will get hydrogen gas, methane, carbon monoxide and
+carbon dioxide. This together is called synthetic gas or SYN gas, SYN gas is the short
+form.
+
+If you burn the material without air that is called pyrolysis. These are endothermic
+reactions. An external source of energy is required. You will get two outputs SYN gas or
+synthetic gas and pyrolytic oil, and if you are able to capture both these types of outputs
+and sell them as fuel, then this becomes cost-effective. I will also mention about
+combustion. Combustion is exothermic, no external energy source is required. Energy
+recovery is possible in both combustion as well as gasification. Our end products are
+completely oxidized compounds, unlike the other two processes. So, in the combustion
+process, we have CO2, nitrogen, SO2 and water. These are the types of reactors that can
+be used, incinerators or reactors that can be used for burning the material. So we have
+mass-fired incinerators, refuse-derived fuel incinerators, fluidized bed incinerators or
+combustors. Vertical fixed bed, horizontal fixed bed, multiple hearth, rotary kiln,
+fluidized bed, all these are gasification reactors and then we have fluidized bed reactors
+for pyrolysis.
+Coming back to this slide we now will take a look at biological processing. Because of
+lack of time, I am not going to go into any details. I have already mentioned that
+composting is very popular. There are two types of composting that are done in India. We
+have regular composting which relies on bacteria, fungi, and some other higher
+organisms but mainly bacteria and fungi and we have vermicomposting which relies on
+earthworms. They are both under aerobic conditions. So, both these processes are done
+under aerobic conditions. So aerobic composting is done, and most of the composting
+processes are really, they are started under aerobic conditions, and then depending on
+how often you mix the composting material they can be either aerobic or anaerobic
+because the waste will eventually become anaerobic if it is not mixed too often. And
+there are several factors which we do not have time to go into, but it is important to
+remember that it starts as an aerobic process, and depending on the amount of mixing or
+turning that is done it may become anaerobic or it may remain aerobic. Then we come to
+anaerobic digestion, and that is biogas generation. Again, I am not going to go into any
+details because again this is a very complex process and the only thing I am going to say
+here is that no air is provided, in fact, air is removed, and this entire process will result in
+the fermentation of the organic material to result in an end product which is biogas. So
+you have CO2 and methane that are produced.
+
+Other types of materials for example agricultural waste, sugarcane, what else, Jatrufa in
+India, these are crops that can be converted to ethanol, and ethanol has been used as a
+substitute for petrol or gasoline. So that is another form of biofuel that can be derived
+from agricultural waste and so on. So that is another option.
+Now given that we have at least four options in our country how do we decide which one
+to choose? So, I have made the process quite simple over here based on only two
+parameters, one is moisture content, and the other is organic content. If you know and
+you know how simple it is to measure these two parameters, moisture content and
+organic content for any waste can be measured quite easily. If you have a waste that has
+high moisture content, meaning lots of water and high organic content it has been
+segregated. So, the organic fraction has been segregated from the inorganic material and
+with food waste you can do that, with agricultural waste you can do that and so on. So
+high moisture content high organic content is best suited for anaerobic digestion because
+you will get biogas or biofuels from that. If you have high moisture content and low
+organic content, now Indian waste in general has a fairly high moisture content. It is
+basically food waste, and it does not have too much dry organic waste. So, because it has
+high moisture content, it is suitable for composting and why low organic content? I have
+already shown you results for Kharagpur and in the previous lecture I showed you that
+the organic content is not very high, it is about 20%. So, if the percentage of organic
+content is not very high, the moisture content is sufficient for composting then that is the
+ideal option, and you will find that that is another reason why most municipalities have
+gone for composting. It has proved to be effective for Indian waste.
+
+If the material is low in moisture content and low in organic content which means soil
+dirt, so when you segregate your waste let us say I am segregating my waste these days
+into biodegradable material which is the food waste and the kitchen waste and in non-
+biodegradable material. That non-biodegradable material is not fit for these two
+processes. So composting and biogas cannot be used because it is non-biodegradable.
+Can you burn it? The organic content is not sufficient for burning. So you are left with
+only one option, and that is landfilling. And then we come to the last option: low
+moisture content, high organic content. If you want to burn any material it should not
+have any moisture. You cannot have anything that is zero moisture. There is always about
+10% moisture, just a rough average. Even newspaper has about 10% moisture content,
+even dry newspaper. It can be burned. We all know that it burns very well and it will give
+you heat which can then be converted into electricity and so on. So, if you have waste
+material with low moisture content high organic content, it is best suited for incineration
+which can then be, the heat can then be utilized for generating electricity. Or it can be
+used directly. So, some of the thumb rules are also noted here. The minimum organic
+content for compost should be 12 to 18% by wet weight. You can see it is at the lower
+end. So high organic content is for anaerobic digestion and for compost it is 12 to 18%,
+so it is at the lower end. Moisture content should be 15 to 25%. I do not have the compost
+quality standards here, but you can refer to them. They are available on the internet.
+Combustion and biofuel generation, minimum organic content has to be 25 to 50%. So
+that is at the higher end. This is the bottom row of the table. You also have to meet some
+other criteria for combustion. Moisture content should be less than 50%. Minimum
+calorific value should be less than 1790 kilocalories per kilogram. And I have shown you
+in the previous slide that the average Indian municipal solid waste does not have enough
+calorific value. So what we have seen in full-scale plants in India is that they are
+insufficient and not sustainable in the long term. They also need to have high capacity. So
+you need economies of scale to make it sustainable financially in the long term. So, you
+need a minimum plant capacity of 300 tons per day. Biofuel can be generated only when
+the solids concentration is anywhere between 5 to 20%. So, 5 to 25% can result in high
+amounts of biofuel generation, and this means the moisture content has to be less than
+95%.
+Let us look at a few other points. Now what we have here is the status of municipal solid
+waste treatment and disposal in the US and Europe. If you look at the extreme left of this
+graph, you find that at least two countries Germany and Switzerland, these are the rich
+European countries, they have achieved less than 1% waste going to the landfills. The
+other countries Belgium, Sweden, Netherlands, Norway, Denmark, they are all at 1 to
+2%. And as you go from left to right, you find that depending on the income level of the
+countries, the poorer countries which have cheap land availability and at cheaper cost
+because they are poorer, landfilling remains the preferred option and in the richer
+countries incineration has become the most popular option, recycling is also popular, and
+composting is also happening in many of these countries. So this is completely related to
+income levels.
+This is the status of landfilling in Europe. Landfilling is no longer the preferred option.
+As I said as the income level increases, landfilling is no longer acceptable. Remember
+that the income level of the country is what we are looking at and when the income level
+of the country is higher, the cost of land is also higher, and at that point, incineration
+becomes cost-effective compared to landfilling. So, again you see the same data more
+recent compared to the previous graph where you see Germany, Sweden, Belgium, they
+are all at zero landfilling, and only the poorer Eastern European countries are still
+landfilling. Western Europe which is richer has moved away from landfilling and they are
+now incinerating their waste.
+What is the situation in the US? This is data all the way from 1988 to 2018. They do have
+ample land but because of our integrated solid waste management objectives, everyone is
+moving away from landfills. So in the beginning of this graph, 1988, there were close to
+8000 landfills, and in 2018, there is slightly more than 1000 landfills, and the trend is
+continuing in that direction.
+
+This is an example of a well-made landfill. First of all, in India, we have problems in
+designing a perfectly engineered sanitary landfill. So, just to show you an example of
+what a proper sanitary landfill looks like, this is an engineered landfill with one cell. This
+cell has not been used for dumping of waste, and the cell on the left has been completely
+used, and you can see most of the waste is plastic waste. All this white material is plastic
+material. All the biodegradable material has been segregated at source, it has been
+converted to compost and the remaining non-biodegradable material is being landfilled in
+India. We are not allowing biodegradable material to go to the landfill. So here we have a
+landfill where you have proper gas and leachate collection activities. I do not have time to
+go into details but there is a lot more to this than what you see here.
+
+Let us now move away from municipal solid waste. Municipal solid waste is the global
+average municipal solid waste generation rate is 0.74 kilograms per capita per day. Let us
+take a look at other streams. Industrial solid waste at the global level is 12.73 kilograms
+per capita per day. Agricultural waste is another big one, 3.35 kilograms per capita per
+day. Construction and demolition waste 1.68, hazardous waste 0.32, medical waste 0.25
+and electronic waste is another very rapidly growing stream of solid waste. And these
+again are related to the income levels of the country. Again, because of lack of time, I am
+not going to go into every detail but you can study these for yourself from the references
+provided.
+This is a list of the 10 service level benchmarks that are part of the solid waste
+management rules 2016. So, waste minimization, reduction at source, I have already
+mentioned 2 to 4; these are related to collection, and I mentioned that earlier in the
+previous lecture. Covered waste transfer and storage stations, materials recovery and
+recycling, scientific processing in compliance with the solid waste rules, scientific
+disposal of inert material again in compliance with the rules, and 100% cost recovery of
+operation and maintenance expenses from user charges is stipulated as part of the
+benchmarks. 90% collection efficiency of user charges is also required.
+What is the status of municipal solid waste management in our country in the last few
+years? So, I will be ending this lecture with this particular slide. So, how are we doing?
+Whatever is generated is the total amount of waste generated. So, by definition that is
+100. So, the blue bars from 2013 to 2019 are at 100%. How much of it is collected?
+Based on the population we use a number to come up with the amount of waste
+generated, how much of that is collected? In 2013, it was 82.5%, today it is at 98.5% or
+even higher. How much of the waste is treated? In 2013 it was 23.6%, now it is 36.7%.
+Landfilling was absent, there was no sanitary landfilling in the CPCB reports in 2013.
+Today, we have sanitary landfills for 33% of the waste. Untreated or openly dumped
+waste remains the biggest fraction. So, in 2013, that was 58.9%, and that has been
+reduced to 28.8%. So, we are definitely making progress, but very slowly.
+
+These are some of the references that I have used in this lecture. Thank you.
+

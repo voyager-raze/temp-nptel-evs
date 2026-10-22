@@ -2,7 +2,17 @@
 
 Offline-first static site for **NPTEL Environmental Science** (IIT Kharagpur).
 
-## How to open
+## Phone / tablet (GitHub Pages)
+
+Live site (after Pages is enabled):
+
+**https://voyager-raze.github.io/temp-nptel-evs/**
+
+Open that link on your phone or tablet (Chrome/Safari), then bookmark it. Needs mobile data or Wi‑Fi while practicing.
+
+PDF backup: [exports/NPTEL_EVS_Complete_Practice.pdf](exports/NPTEL_EVS_Complete_Practice.pdf)
+
+## How to open (laptop)
 
 Do **not** open `index.html` as a `file://` URL — browsers block `fetch()` for JSON.
 

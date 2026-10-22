@@ -1,0 +1,328 @@
+                                            Environmental Science
+                             Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                               Indian Institute of Technology Kharagpur
+
+                                                     Week 03
+                                       Lecture 2 ­ AIR POLLUTION
+
+                                         (Influence of Meteorology)
+Welcome to lecture 2 of week 3 of the NPTEL online certification course on Environmental
+Science.
+
+Now in the last lecture we learned what is air pollution, what are the different types of air pollution,
+what are air pollutants, what are their types, sources and so on. In this lecture, we will see what
+happens to air pollutants once they are released into the air. So, specifically in this lecture, we will
+be learning about atmospheric air pollutant dispersion with an emphasis on the impact of
+atmospheric stability. We will also learn about the correlation between temperature inversion and
+air pollution and we will also learn about what is air quality index and its importance.
+
+                                                                                                                              1
+So, at the end of this lecture, you should be able to identify what is adiabatic lapse rate, what are
+the different types of atmospheric stability that determine the dispersion of air pollutants? You
+should also be able to explain what is temperature inversion and what are its types and you should
+also be able to describe the different types of plume behaviors and finally, what is air quality index
+and how it is calculated.
+
+                                                                                                                              2
+Air pollutants originate from both natural and anthropogenic sources, with the latter primarily due
+to fossil fuel combustion. Once in the environment, these pollutants disperse through air, water,
+soil, living organisms, and food, with pathways and rates varying by emission source, pollutant
+type, and environmental conditions. Major pollutants from fossil fuels include carbon monoxide,
+sulfur dioxide, sulfur monoxide, and nitrogen dioxide, along with particulate matter that can
+penetrate deep into the lungs, causing serious health issues. Additionally, industrial activities
+release pollutants like chlorofluorocarbons into the environment.
+
+                                                                                                                              3
+.
+                                                                                                                              4
+Once in the environment, air pollutants may be dispersed via air, water, soil, living organisms and
+food. The pathways of dispersion vary greatly, depending upon both the emission source and the
+pollutant concerned. Rates and patterns of dispersion also depend to a large extent upon
+environmental conditions
+
+                                                                                                                              5
+Air pollutants emitted from anthropogenic sources must first be transported and diluted in the
+atmosphere before these undergo various physical and photochemical transformation and
+ultimately reach their receptors. Otherwise, the pollutant concentrations can reach dangerous level
+near the source of emission. Hence, it is important that we understand the natural processes that
+are responsible for their dispersion.
+
+Dispersion of air pollutants in the atmosphere is influenced by a multitude of factors, such as
+
+    ­ meteorological conditions (especially wind speed, wind direction, and atmospheric
+         stability),
+
+    ­ the emission height (e.g., ground-level sources such as road traffic or high-level sources
+         such as tall chimneys),
+
+    ­ local and regional geographical features,
+
+    ­ the source type (e.g., point source, such as a chimney, or a diffuse number of sources such
+         as cars and solvents).
+
+    Among these, meteorological parameters, such as wind direction and speed, turbulence and
+    atmospheric stability have the most important influence on the diffusion of pollutants in the
+    atmosphere. Meteorology specifies what happen to puff or plume of pollutants from the time
+    it is emitted to the time it is detected at some other location. The motion of the air causes a
+    dilution of air pollutant concentration and we must therefore understand how much dilution
+
+                                                                                                                              6
+occurs as a function of the meteorology or atmospheric condition. In this course, we will
+specifically focus on atmospheric stability. The degree of stability of the atmosphere in turn
+depends on the rate of change of ambient temperature with altitude.
+
+How do we determine stability? We determine atmospheric stability atmosphere is determined
+by comparing the actual lapse rate against the adiabatic lapse rate. Now what is lapse rate?
+See, when discussing stability in atmospheric sciences, we typically think about air parcels, or
+imaginary blobs of air that can expand and contract freely, but do not mix with the air around
+them or break apart. As a parcel of air in the Earth's atmosphere rises through the atmosphere,
+it experiences decreasing pressure and thus expands. This expansion lowers the temperature of
+the air parcel, and therefore the air cools as it rises. This is called lapse rate.
+So, the atmospheric lapse rate is the change of an atmospheric variable with a change of
+altitude, the variable being temperature unless specified otherwise (if the lapse rate is positive,
+the temperature decreases with height; conversely if negative, the temperature increases with
+height ­ temperature inversion).
+There are two types of lapse rate that we need to know when determining atmospheric stability:
+adiabatic lapse rate and environmental or actual lapse rate.
+
+                                                                                                                          7
+Imagine you have a parcel of air at the Earth's surface. The air parcel has the same temperature
+and pressure as the surrounding air, which we will call the environment. If you were to lift the
+air parcel, it would find itself in a place where the surrounding environmental air pressure is
+lower, because we know that pressure decreases with height. Because the environmental air
+pressure outside the parcel is lower than the pressure inside the parcel, the air molecules inside
+the parcel will effectively push outward on the walls of the parcel and expand adiabatically.
+An adiabatic process is a thermodynamic process in which temperature changes occur without
+the addition or removal of heat and is reversible.
+
+The air molecules inside the parcel must use some of their own energy in order to expand the
+air parcel's walls, so the temperature inside the parcel decreases as the internal energy
+decreases. To summarize, rising air parcels expand and cool adiabatically without exchanging
+heat with the environment.
+
+Now imagine that you move the same air parcel back to Earth's surface. The air parcel is
+moving into an environment with higher air pressure. The higher environmental pressure will
+push inward on the parcel walls, causing them to compress, and raise the inside temperature.
+
+The process is adiabatic, so again, no heat is exchanged with the environment. However,
+temperature changes in the air parcel can still occur, but it is not due to mixing, it is due to
+changes in the internal energy of the air parcel.
+
+So adiabatic lapse rate is the rate at which the temperature of an air parcel changes in response
+to the compression or expansion associated with altitude, under the assumption that the process
+
+                                                                                                                          8
+is adiabatic, i.e., no heat exchange occurs between the given air parcel and its surroundings. It
+is of two types: dry adiabatic lapse rate and moist adiabatic lapse rate.
+
+The dry adiabatic lapse rate or DALR is the rate at which an unsaturated parcel of air (relative
+humidity < 100%) warms or cools when moving vertically through the atmosphere. It depends
+on the specific heat capacity of air at constant pressure and the acceleration due to gravity. The
+DALR for the Earth's atmosphere is 1oC per 100 m or 10°C per kilometre; thus, the
+temperature of an air parcel that ascends or descends 5 km would fall or rise 50°C, respectively.
+The moist adiabatic lapse rate or MALR is the rate at which a saturated parcel of air (relative
+humidity of 100%) warms or cools when it moves vertically through the atmosphere. The
+MALR for the Earth's atmosphere is 0.6oC per 100 m or 6°C per kilometre.
+When an air parcel that is saturated with water vapour rises, some of the vapour will condense
+and release latent heat. This process causes the parcel to cool more slowly than it would if it
+were not saturated. The moist adiabatic lapse rate varies considerably because the amount of
+water vapour in the air is highly variable. The greater the amount of vapour, the smaller the
+adiabatic lapse rate. As an air parcel rises and cools, it may eventually lose its moisture through
+condensation; its lapse rate then increases and approaches the dry adiabatic value.
+The difference between the normal lapse rate in the atmosphere and the dry and moist adiabatic
+lapse rates determines the vertical stability of the atmosphere--that is, the tendency of an air
+
+                                                                                                                          9
+particle to return to its original position or to accelerate away from its original position after
+being given a slight vertical displacement. For this reason, the lapse rate is of prime importance
+to meteorologists in forecasting certain types of cloud formations, the incidence of
+thunderstorms, and the intensity of atmospheric turbulence.
+
+The normal, or environmental LR rate, is the lapse rate when an air parcel is stuck at a certain
+height. It is the actual rate at which the ambient temperature changes with altitude. The lapse
+rate of nonrising air -- commonly referred to as the normal, or environmental, lapse rate -- is
+highly variable, being affected by radiation, convection, and condensation; it averages about
+6.5 °C per kilometre in the lower atmosphere (troposphere). It differs from the adiabatic lapse
+rate, which involves temperature changes due to the rising or sinking of an air parcel.
+
+                                                                                                                        10
+The ability of the atmosphere to disperse the pollutants emitted in to it depends to a large extent
+on the degree of stability. A comparison of the adiabatic lapse rate with the environmental
+lapse rate gives an idea of stability of the atmosphere. When the environmental lapse rate and
+the dry adiabatic lapse rate are exactly the same, a rising parcel of air will have the same
+pressure and temperature and the density of the surroundings and would experience no buoyant
+force. Such atmosphere is said to be neutrally stable where a displaced mass of air neither tends
+to return to its original position nor tends to continue its displacement.
+
+When the environmental lapse rate is greater than the dry adiabatic lapse rate, the atmosphere
+is said to be super adiabatic. Hence a raising parcel of air, cooling at the adiabatic rate, will be
+warmer and less dense than the surrounding environment. As a result, it becomes more buoyant
+and tends to continue it's upward motion. Since vertical motion is enhanced by buoyancy, such
+an atmosphere is called unstable. In the unstable atmosphere the air from different altitudes
+mixes thoroughly. This is very desirable from the point of view of preventing pollution, since
+the effluents will be rapidly dispersed throughout atmosphere.
+
+On the other hand, when the environmental lapse rate is less than the dry adiabatic lapse rate,
+a rising air parcel becomes cooler and denser than its surroundings and tends to fall back to its
+original position. Such an atmospheric condition is called stable and the lapse rate is said to be
+sub-adiabatic. Under stable condition, their is very little vertical mixing and pollutants can only
+disperse very slowly. As a result, their levels can build up very rapidly in the environment.
+
+When the ambient lapse rate and the dry adiabatic lapse rate are exactly the same, the
+atmosphere has neutral stability. Super adiabatic condition prevails when the air temperature
+drops more than 1°C /100m; sub adiabatic condition prevail when the air temperature drops at
+the rate less than 1°C/100m.
+
+When moisture is added, everything gets more complicated. However, the concepts are still
+the same and we still compare the air parcel temperature to the environmental temperature.
+
+The atmosphere is said to be absolutely stable if the environmental lapse rate is less than the
+moist adiabatic lapse rate. This means that a rising air parcel will always cool at a faster rate
+than the environment, even after it reaches saturation. If an air parcel is cooler at all levels,
+then it will not be able to rise, even after it becomes saturated.
+
+The atmosphere is said to be absolutely unstable if the environmental lapse rate is greater than
+the dry adiabatic lapse rate. This means that a rising air parcel will always cool at a slower rate
+than the environment, even when it is unsaturated. This means that it will be warmer (and less
+dense) than the environment, and allowed to rise.
+
+                                                                                                                        11
+The atmosphere is said to be conditionally unstable if the environmental lapse rate is between
+the moist and dry adiabatic lapse rates. This means that the buoyancy (the ability of an air
+parcel to rise) of an air parcel depends on whether or not it is saturated. In a conditionally
+unstable atmosphere, an air parcel will resist vertical motion when it is unsaturated, because it
+will cool faster than the environment at the dry adiabatic lapse rate. If it is forced to rise and is
+able to become saturated, however, it will cool at the moist adiabatic lapse rate. In this case, it
+will cool slower than the environment, become warmer than the environment, and will rise.
+
+Temperature inversion, also called thermal inversion, is a reversal of the normal behaviour of
+temperature in the troposphere, in which a layer of cool air at the surface is overlain by a layer
+of warmer air. (Under normal conditions air temperature usually decreases with height.)
+An inversion acts as a cap on the upward movement of air from the layers below. As a result,
+convection produced by the heating of air from below is limited to levels below the inversion.
+Diffusion of dust, smoke, and other air pollutants is likewise limited. In regions where a
+pronounced low-level inversion is present, convective clouds cannot grow high enough to
+produce showers and, at the same time, visibility may be greatly reduced below the inversion,
+even in the absence of clouds, by the accumulation of dust and smoke particles. Because air
+near the base of an inversion tends to be cool, fog is frequently present there.
+Inversions also affect diurnal variations in air temperature. The principal heating of air during
+the day is produced by its contact with a land surface that has been heated by the Sun's
+radiation. Heat from the ground is communicated to the air by conduction and convection.
+Since an inversion will usually control the upper level to which heat is carried by convection,
+
+                                                                                                                        12
+only a shallow layer of air will be heated if the inversion is low and large, and the rise in
+temperature will be great.
+There are three kinds of inversions: radiation, subsidence, and frontal.
+
+Radiation inversion, also called ground inversion or surface temperature inversion, occurs
+when air is cooled by contact with a colder surface until it becomes cooler than the overlying
+atmosphere.
+The surface of the earth cools down at night by radiating energy toward space. On cloudy night,
+the earth's radiation tends to be absorbed by water vapor, which in turn reradiates some of that
+energy back to the ground. On the clear night, however, the surface more readily radiate energy
+to space, and thus ground cooling occurs much more rapidly. As the ground cools, the
+temperature of the air in contact with the ground also drops. As is often the case on clear winter
+nights, the temperature of this air just above the ground becomes colder than the air above it,
+creating an inversion. Radiation inversions begins to form at dusk. As the evening progresses,
+the inversion extends to a higher and higher elevation, reaching perhaps a few hundred meters
+before the morning sun warms the ground again, breaking up the inversion.
+Radiation inversion occurs close to the ground, mostly during the winter, and last for only a
+matter of hours. They often begin at about the time traffic builds up in the early evening, which
+traps auto exhaust at ground level and causes elevated concentration of pollution for
+commuters. Without sunlight, photochemical reactions cannot takes place, so the biggest
+problem is usually accumulation of carbon monoxide (CO). In the morning, as the sun warms
+
+                                                                                                                        13
+the ground and the inversion begins to the break up, pollutants that have been trapped in the
+stable air mass are suddenly brought back to earth in a process known as fumigation.
+Fumigation can cause shortlived high concentrations of pollution at ground level.
+
+A subsidence inversion develops when a widespread layer of air descends. The layer is
+compressed and heated by the resulting increase in atmospheric pressure, and as a result, the
+lapse rate of temperature is reduced. If the air mass sinks low enough, the air at higher altitudes
+becomes warmer than at lower altitudes, producing a temperature inversion.
+Subsidence inversions are common over the northern continents in winter (dry atmosphere)
+and over the subtropical oceans; these regions generally have subsiding air because they are
+located under large high-pressure centers. This temperature inversion is called upper surface
+temperature inversion or elevated because it takes place in the upper parts of the atmosphere.
+
+                                                                                                                        14
+Frontal Inversions are inversions caused by a shallow "cold front" blowing in under warmer
+air. In other words, sometimes a cold air mass, will get blown by the wind from one place to
+another warmer place, and will get blown underneath the warm air, causing an inversion.
+Sometimes you hear about a "cold front" or a "warm front" moving in from somewhere. What
+this is referring to is when wind is blowing from a cold or warm place, and causing a large
+pocket of that air to come to where you are.
+If this is a cold air mass, and it is small enough it blows under the current warmer air without
+pushing all the warm air away, this can cause an inversion.
+These inversions generally last until either the cold front blows on to somewhere else, or until
+that air is warmed up by the sun.
+
+                                                                                                                        15
+Plume refers to the path and extent in the atmosphere of the gaseous effluents released from a
+source usually a stack.
+
+The behavior of a plume emitted from any stack depends on localized air stability. The geometric
+forms of stack plumes are a function of the vertical temperature and wind profiles. By looking at
+the plume, one can state stability condition and dispersive capacity of atmosphere.
+
+There are six types of plume behavior, although five are shown in the figure here; the spread of
+the plume is directly related to the vertical temperature gradient as shown in the figure.
+
+1. Conning: It occurs under cloudy skies both during day and night, when the lapse rate is
+essentially neutral. The plume shape is vertically symmetrical about the plume line and the major
+part of the pollutant concentration is carried downwind fairly far before reaching the ground level.
+
+1. Looping: It occurs under super adiabatic conditions with light to moderate wind speeds on a hot
+summer afternoon when large scale thermal eddies (i.e., wind oscillations in a circular motion) are
+present. The eddies carry portion of a plume to the ground level for short time periods, causing
+momentary high surface concentration of pollutants near the stack. Thereafter, the plume moves
+about vertically in a spastic fashion and the exhaust gases disperse rapidly
+
+3. Fanning: occurs when the plume is dispersed in the presence of very light winds as a result of
+strong atmospheric inversions. The stable lapse rate suppresses the vertical mixing, but not the
+
+                                                                                                                             16
+horizontal mixing entirely. For high stacks, fanning is considered a favorable meteorological
+condition because the plume does not contribute to ground pollution.
+4. Lofting: When the pollutants are emitted above the inverse layer, they are dispersed vigorously
+on the upward direction since the top of the inversion layer acts as a barrier to the movement of
+the pollutants towards the ground.
+5. Fumigation: Here a stable layer of air lies a short distance above the release point of the plume
+and the unstable air layer lies below the plume. This unstable layer of air causes the pollutant to
+mix downwind toward the ground in large lumps, but fortunately this condition is usually of short
+duration lasting for about 30 minutes Fumigation is favored by clear skies and light winds, and it
+is more common in the summer seasons.
+6. Trapping: occurs when the plume effluent is caught between two inversion layers. The diffusion
+of the effluent is severely restricted to the unstable layer between the two unstable layers.
+
+The Air Quality Index (AQI) is used for reporting daily air quality. The air quality index (AQI) is
+a simple, unitless index to communicate air quality information to the general public in a timely
+manner. It tells you how clean or polluted your air is, and what associated health effects might be
+a concern for you. The AQI focuses on health effects you may experience within a few hours or
+days after breathing polluted air.
+The Air Quality Index is based on measurement of particulate matter (PM2.5 and PM10), Ozone
+(O3), Nitrogen Dioxide (NO2), Sulfur Dioxide (SO2) and Carbon Monoxide (CO) emissions. Every
+day, the concentrations of these pollutants are monitored at the desired location. Most stations
+
+                                                                                                                             17
+monitoring both PM2.5 and PM10 data, but there are few exceptions where only PM10 is available.
+The raw measurements then are converted into subindices for each pollutant using standard
+formulae. The largest sub-index across the pollutants is the AQI for that location. The higher the
+AQI value, the greater the level of air pollution and the greater the health concerns.
+All measurements are based on hourly readings: For instance, an AQI reported at 8AM means that
+the measurement was done from 7AM to 8AM.
+
+The AQI is divided into six categories. Each category corresponds to a different level of health
+concern. Each category also has a specific color. The color makes it easy for people to quickly
+determine whether air quality is reaching unhealthy levels in their communities. For example, an
+AQI value of 50 or below represents good air quality, while an AQI value over 300 represents
+hazardous air quality.
+
+                                                                                                                             18
+19
+20
+

@@ -1,0 +1,284 @@
+                        NPTEL
+               Environmental Science
+
+                         WEEK 10
+
+   1 Which of the following best defines noise pollution?
+        a) Any sound louder than 60 dB
+        b) Unwanted sound that produces undesired physiological or psychological effects in individuals
+        c) Sound produced only by industrial activities
+        d) Sound that travels faster than the speed of light
+                 ANSWER
+
+                 Noise is defined as unwanted sound that produces undesired physiological or psychological
+                 effects in individuals. It can arise from traffic, industrial/construction activities, and public
+                 events.
+
+   2 Sound waves are best described as:
+          a) Transverse electromagnetic waves
+          b) Alternating waves of compression and rarefaction that cause local changes in air pressure
+          c) Longitudinal waves that travel only through solids
+          d) Continuous waves with constant amplitude
+                      ANSWER
+
+   Sound waves are alternating waves of compression and rarefaction which result in local
+   changes in air density and therefore pressure. Unlike light, sound waves need a medium (fluid
+   or solid) to propagate. These pressure changes are detected by the human ear.
+
+3  If the speed of sound is c = 340 m/s and the frequency is f = 1000 Hz, what is the wavelength ()?
+
+   a) 0.034 m
+
+   b) 0.34 m
+
+   c) 3.4 m
+
+   d) 34 m
+
+   ANSWER
+
+   Wavelength  = c/f = 340/1000 = 0.34 m. The formula  = c/f gives the distance between two
+   peaks (or two troughs) in a sinusoidal sound wave. Period p = 1/f = 1/1000 = 0.001 s.
+ 4 The reference pressure level for sound pressure level (SPL) measurements is:
+          a) 1 Pa
+          b) 200 Pa
+          c) 20 µPa (20 × 10 Pa)
+          d) 10¹² Pa
+          ANSWER
+          The reference pressure level is 20 microPa (20 × 10 Pa), corresponding to 0 dB and
+          representing the threshold of human hearing. Sound pressure level Lp = 20 log(Prms/Prms,0)
+          where Prms,0 = 20 µPa.
+
+ 5 The formula for Sound Power Level (Lw) is:
+          a) Lw = 20 log (W/10¹²)
+          b) Lw = log (W/10¹²)
+          c) Lw = 10 log (P²/P²)
+          d) Lw = 10 log (W/10¹²)
+          ANSWER
+          Sound Power Level Lw = 10 log (W/10¹²) where the reference power level is 10¹² W.
+          Similarly, Sound Intensity Level LI = 10 log(I/10¹²) W/m². The factor of 10 (not 20) is used
+          because power is proportional to pressure squared, and when we pull out the square, we get 2
+          × 10 = 20 only for pressure-based formulas.
+
+6 If Sound A = 10 dB and Sound B = 20 dB, how many times louder is B compared to A?
+          a) 2 times
+          b) 5 times
+          c) 10 times
+          d) 20 times
+          ANSWER
+              The decibel scale is logarithmic. 10 dB = 10 log 10¹; 20 dB = 10 log 10². The difference is 10
+              dB which represents a factor of 10 in intensity. So B is 10 times louder than A. A 50 dB sound
+              would be 10,000 times louder than a 10 dB sound.
+
+     7 What is the sound pressure level (SPL) for two identical sources each at 80 dB?
+               a) 80 dB
+               b) 83 dB
+               c) 160 dB
+               d) 90 dB
+
+              ANSWER
+              When two identical sources of equal SPL are combined, the total SPL = L + 10 log(N), where
+              N = number of sources. Total = 80 + 10 log(2) = 80 + 10 × 0.301 = 80 + 3  83 dB. Adding
+              two identical sources always increases the level by approximately 3 dB, not double the SPL.
+
+ 8 For three identical sources each at 60 dB, the combined sound pressure level is approximately:
+         a) 60 dB
+         b) 63 dB
+         c) 180 dB
+        d) 64.8 dB
+              ANSWER
+              Combined SPL = L + 10 log(N) = 60 + 10 log(3) = 60 + 10 × 0.477 = 60 + 4.77  64.8 dB 
+              65 dB. Three identical sources add about 4.8 dB to the original level. As more sources are
+              added, the incremental increase diminishes.
+
+9 The A-weighting network in a sound level meter:
+     a) Approximates human response to high intensity sounds
+     b) Removes low frequencies moderately
+     c) Approximates human response to low intensity sounds with severe removal of low frequencies
+     d) Gives equal weight to all frequencies
+    ANSWER
+    There are three internationally accepted weighting scales: A-network approximates human
+    response to low intensity sound and removes low frequencies severely. B-network
+    approximates human response to medium intensity sound with moderate low frequency
+    removal. C-network approximates human response to high intensity sound with negligible
+    removal of low frequencies.
+
+    A pure tone source emits 90 dB at 100 Hz. What is the expected
+
+    reading on the A-weighting network if the A-network correction factor
+
+10  at 100 Hz is -19.1 dB?
+
+    a)  109.1 dB(A)
+
+    b)  90 dB(A)
+
+    c)  70.9 dB(A)
+
+    d)  84.4 dB(A)
+
+    ANSWER
+    At 100 Hz, the A-network subtracts 19.1 dB from the actual reading. Therefore: A-network
+    reading = 90 - 19.1 = 70.9  71 dB(A). At 1000 Hz, the correction factor for all networks is 0,
+    so the reading remains 90 dB. This illustrates how the A-filter suppresses low-frequency
+    sounds.
+
+    At 100 Hz, a source emits 90 dB. The B-network correction is -5.6 dB
+
+    and C-network correction is -0.3 dB. What are the B and C network
+
+11  readings respectively?
+
+    a)  84.4 dB(B) and 89.7 dB(C)
+
+    b)  95.6 dB(B) and 90.3 dB(C)
+
+    c)  90 dB(B) and 90 dB(C)
+
+    d)  70.9 dB(B) and 84.4 dB(C)
+
+    ANSWER
+
+    B-network reading = 90 - 5.6 = 84.4 dB(B). C-network reading = 90 - 0.3 = 89.7  90 dB(C).
+    The C-network provides the least attenuation at low frequencies, so its reading is closest to the
+    unweighted value. The A-network gives the most attenuation at low frequencies (-19.1 dB).
+12  The normal range of human hearing is approximately:
+
+    a)      20 Hz to 20,000 Hz
+
+    b)      20 Hz to 200,000 Hz
+
+    c)      200 Hz to 20,000 Hz
+
+    d)      2 Hz to 2000 Hz
+
+    ANSWER
+
+    Women and children can hear from 20 Hz to 20,000 Hz. Young healthy males typically hear
+    from 20 to 16,000 Hz. The speech range is 500 to 2000 Hz. The ear is most sensitive between
+    2000 to 5000 Hz. The threshold of hearing is 20 µPa or 0 dB.
+
+13 An octave is defined as:
+         a) 8 musical notes
+         b) The frequency interval between a given frequency and one that is triple that frequency
+         c) The frequency interval between a given frequency and the frequency double that value
+         d) A range of 1000 Hz
+         ANSWER
+         An octave is the frequency interval between a given frequency and the frequency double that
+         value. For example, 22 Hz to 44 Hz is the first octave, followed by 44 to 88 Hz, 88 to 175 Hz,
+         etc. Octave bands are used in noise analysis and control to divide noise spectra.
+
+14  The geometric mean frequency of the octave band covering 700­1400 Hz is:
+
+    a) 1000 Hz
+
+    b) 1050 Hz
+
+    c) 700 Hz
+
+    d) 1400 Hz
+
+    ANSWER
+    The geometric mean frequency = (700 × 1400) = 980,000  990 Hz  1000 Hz. This is the
+    standard octave band with geometric mean of 1000 Hz. The 1000 Hz band is the reference
+    frequency for defining the phon (loudness level).
+
+15  A 'phon' is defined as:
+
+    a) The unit of sound power
+
+    b) The sound pressure level of a 1000 Hz pure tone in decibels
+
+    c) The threshold of hearing in dB
+
+    d) The weighting factor at low frequencies
+
+    ANSWER
+
+    Phon is a psycho-acoustic unit equal to the sound pressure level (in dB) of a 1000 Hz pure tone.
+    Two pure tones at the same sound pressure level but different frequencies have different
+    loudness levels (in phons) because the ear's sensitivity varies with frequency. The Fletcher-
+    Munson equal-loudness contours represent this variation.
+
+16 Temporary Threshold Shift (TTS) in hearing:
+       a) Is permanent and cannot be recovered
+       b) Occurs only at sound levels below 40 dB
+       c) Only affects the C-weighting network response
+       d) Involves ringing, discomfort or muffling; occurs in first 2 h of exposure with recovery in 16­24 h
+
+    ANSWER
+
+    Temporary Threshold Shift (TTS) involves symptoms like ringing in the ear, discomfort or
+    muffling of sound. It occurs within the first 2 hours of exposure and recovery takes about 16 to
+    24 hours after exposure ends. Permanent Threshold Shift (PTS) is the irreversible form,
+    characterised by hearing loss between 3000­6000 Hz with a dip (notch) at 4000 Hz.
+17  Hearing loss due to aging is termed:
+
+    a)      Presbycusis
+
+    b)      Tinnitus
+
+    c)      Temporary Threshold Shift
+
+    d)      High-frequency notch
+
+    ANSWER
+
+    Age-related degeneration of hearing responses is called presbycusis. It must be distinguished
+    from noise-induced hearing loss. Other causes of hearing loss include drugs, disease, and
+    physical head injury. Noise-induced hearing loss shows a characteristic high-frequency notch
+    (dip at 4000 Hz) that broadens in both directions over time.
+
+18  The NIOSH occupational noise exposure limit for an 8-hour workday is:
+
+    a)      70 dB(A)
+
+    b)      75 dB(A)
+
+    c)      85 dB(A)
+
+    d)      100 dB(A)
+
+    ANSWER
+    Regular and prolonged exposures to noise at or above 85 dB(A) averaged over 8 hours per day
+    are considered hazardous by NIOSH. At 100 dB(A), unprotected exposure of more than 15
+    minutes per day risks permanent hearing loss. At 110 dB(A), even 1.5 minutes of unprotected
+    exposure per day risks permanent hearing loss.
+19  According to the Inverse Square Law for outdoor sound transmission,
+    if the distance from a point source doubles, the Sound Pressure Level (SPL):
+
+    a)       Increases by 6 dB
+
+    b)       Decreases by 6 dB
+
+    c)       Decreases by 3 dB
+
+    d)       Remains the same
+
+    ANSWER
+    The Inverse Square Law states that sound intensity is inversely proportional to the square of
+    distance (I  1/r²). Since SPL = 10 log(I/I), when distance doubles: L = 10 log(r²/r²) = 20
+    log(r/r) = 20 log(1/2) = -20 × 0.301 = -6 dB. So every doubling of distance reduces SPL by
+    6 dB.
+
+    Under India's Noise Pollution (Regulation and Control) Rules, 2000,
+
+    the noise level at the boundary of a public place using a loudspeaker shall not
+
+20  exceed:
+
+    a)       5 dB(A) above ambient standards or 75 dB(A), whichever is lower
+
+    b)       10 dB(A) above ambient standards or 75 dB(A), whichever is lower
+
+    c)       10 dB(A) above ambient standards or 85 dB(A), whichever is lower
+
+    d)       15 dB(A) above ambient standards regardless of zone
+
+    ANSWER
+    Under India's Noise Pollution Rules 2000: the noise level at the boundary of a public place
+    using loudspeakers/PA systems shall not exceed 10 dB(A) above the ambient noise standards
+    for the area OR 75 dB(A), whichever is lower. For privately owned sound systems at the
+    boundary of a private place, the limit is 5 dB(A) above ambient noise standards. A 100-metre
+    area around hospitals, educational institutions and courts may be declared a silence zone.
+

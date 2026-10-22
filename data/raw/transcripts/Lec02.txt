@@ -1,0 +1,352 @@
+                                       Environmental Science
+                         Prof. Samik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                Week 10
+                                               Lecture 02
+                                        Population Growth Models
+
+Welcome, everyone to lecture 2 of week 2, we are going to be covering sustainable
+development, and population growth models.
+So, as I said as mentioned in the title, we are going to look at the concept of sustainable
+development as well as three major population growth models, these are relatively simple
+models, the arithmetic growth, geometric growth, and exponential growth models.
+
+These are some of the keywords that apply to this segment. So, we will be looking at the
+tragedy of the commons, we will look at some models, these are mathematical models or
+equations that can be used for what we call curve fitting. So, we will be looking at census
+data, we will be looking at curve fitting, and we will be looking at the equations and how we
+can use them.
+
+So, let me start with the concept of sustainable development, something that all of you are
+probably familiar with is that development, there is a definition right here in the slide at the
+top that says development that meets the needs of the present without compromising the
+ability of future generations to meet their own needs. This is a very, very popular and very
+common definition of sustainable development, it comes from the Brundtland report our
+common future which was published in 1987. Now that is something that most of you have
+been learning in your high school, what does it mean for us, what does it mean in terms of a
+change in our way of living and thinking. So, what I have in the remaining part of the slide is
+that we need to think away from a destructive exploitative philosophy and instead we want
+to look at a way of living and thinking that fosters long term protection of the environment
+as well as all its inhabitants. It sounds fairly simple, but it is not, what we have seen in the
+past is that we have utilized our natural capital, natural capital means our natural resources,
+never in human history as far as we know, we have always taken whatever we need from
+nature and without much care about what the long-term consequences are of extracting
+natural resources without limit. So, if I think in terms of what the commons are, the
+commons are air and water, the most common part of the environment is air and water, it is
+nobody's property, it is not considered private property, it is generally considered public
+property. Now if we are polluting air and water, whose responsibility is it, it becomes a
+social responsibility, it becomes a societal responsibility and we are polluting it because it is
+not my problem. right? So, that is where the tragedy of the commons comes into play and
+this is the phrase tragedy of the commons has become famous after this particular paper
+was published in 1968. In 1968 this paper was actually published about the nuclear race
+and many other issues, but it is got one part in that paper is highly appropriate for us in
+understanding what sustainable development is? I will use a sort of tangential example
+from the paper using what is mentioned in the paper, I will take it a little differently just to
+make the idea clear.
+So just imagine that you have a village with a bunch of herdsmen and each of these
+herdsmen has only one sheep or goat and these sheep or goat are grazing in a pasture land
+which is common, it is nobody's private property, but each sheep or goat is the property of
+the herdsman, the individual herdsman. One particular herdsman decides that he can use
+some of his savings to go and buy another sheep or goat and he does exactly that. He finds
+that the benefit of having one additional sheep or goat is very high and therefore the utility
+in mathematical terms is very high. So, he benefits enormously from having another one.
+And when everyone realizes that he is benefiting so much they all follow in the same train of
+thought and each one starts adding over a period of time, each one starts adding more and
+more to his or her herd. In the example it is just a male, but regardless. So there then comes
+a point in time and this is sort of an abstract way of thinking about what is the consequence
+of limitless growth. So, each one of them is adding an infinite number of sheep or goat to
+their herd. Eventually the pasture land that all the sheep and goat are being reared on is
+going to be exhausted. It is not going to be able to replenish itself.
+It is now at some point in time it is going to the number of sheep and goat are going to
+exceed what is called the assimilative capacity of that particular environment. So, that is
+what we call a destructive exploitative philosophy and that is the tragedy of the commons.
+That each of us as individuals are utilizing natural resources that are common resources,
+they are public property. They are nobody's private property just like our air, water, some
+of the common lands that we use without being aware of the fact that we are benefiting
+from them. So, that is the tragedy of the commons that we are looking at limitless growth.
+We are not worried about the future. We are not thinking in terms of the long term. So, that
+has been the course of human history for the last few centuries or even longer. What we
+want is to shift from that type of thinking to one that allows us to recycle as much of our
+natural resources that we are using and I do not want to use the word recycle. I want to say
+that we conserve our resources as much as possible. We protect our environment and
+thereby we also protect the inhabitants including ourselves as well as other species from
+destruction. So, I will be talking a lot more about all these issues in the remaining lectures.
+Now, where is the conflict? Why is it seemingly easy to say, but difficult to practice? So,
+there are two conflicting objectives. Sometimes they are not in conflict, but sometimes they
+are in conflict and they have to be reconciled and that is that we want to improve the quality
+of our lives while protecting the environment. I will start with the simplest possible
+example- For many of us having a car is considered an improvement in our quality of life.
+How is it impacting the environment? It is through It is leading to air emissions, it is leading
+to usage of fossil fuel which we want to minimize, it is going to cause many other issues in
+big cities, it is a cause of congestion, it is a cause of overcrowding within big cities and their
+surrounding areas. So, this is just a very simple example of where you find that there are
+conflicts in improving the quality of life versus protecting the environment. And then there
+are several other issues where there is no conflict and that is what we want to encourage.
+So, we want to come up with solutions that will genuinely improve the quality of our life and
+also protect our environment.
+
+Now, having said that we would like to do that, how will we achieve that? What are the
+forces in society that will help us to achieve our goal of sustainable development? The first
+thing is health and safety. Why are we concerned about pollution? Why are we concerned
+about protecting our environment? I think most people even those who are not educated
+they all realize that if the environment is harmed then our health is also at stake. So, most
+people have an either basic understanding or whether they are educated whatever it is,
+human health is one of the most fundamental reasons for our concern for the environment.
+When we say air pollution we recognize in that very phrase air pollution, we recognize the
+fact that it is detrimental to our health and the health of people around us. So, health and
+safety of human beings as well as other organisms is the first and most important driving
+force towards sustainability. So, whether it is air I keep saying air pollution, but it can be
+water pollution, it can be soil pollution, it can be any type of pollution. All pollution is I will
+come to this point even more in detail in a little bit, but all pollution is about the adverse
+health effects of the pollutant on the well being of human beings and other organisms. So,
+that is our first fundamental principle. The second point is financial. I like to use an example
+from solid waste management.
+Most of us are familiar with the idea of buying a property and we all know that we want to
+buy property that is in an aesthetic surrounding. So, here I come to another point and that
+is- So, we have aesthetics and we have property values. Now, what are the property values
+based on? When you have a beautiful surrounding automatically the price of that property
+is going to be higher than the price of a property that is surrounded with let us say a solid
+waste dump. In our country we have several parts of the country where you have open
+dumping of solid waste and that contributes to making the surrounding not only poor in
+terms of aesthetics, but also unhealthy. So, the property values in those surroundings are
+going to be very poor. So, financially there is going to be a decrease in property values when
+you have visible pollution. So, this is an example of visible pollution. You can have other
+examples where pollution is not so visible and that happens in developed countries, but in
+our country the pollution is in our faces. Most of the time it is visible, it is in our faces and it
+contributes to decrease in property values.
+Why does that matter? It matters because if it is a commercial or industrial enterprise their
+profits will be impacted by the lower property values that is one aspect. And the second
+part of this is that property value and taxes, the taxes on a particular property are generally
+a percentage of the property value. So, the municipality has to provide municipal services
+based on the tax revenue whatever they collect from the property owners as taxes is what
+they have as revenue for spending on municipal services. So, if the property value goes
+down the taxes will go down and if the taxes go down the budget for the municipality goes
+down and therefore, their ability to provide municipal services will also go down. So, this is
+a very important aspect of sustainable development that if you have a beautiful
+environment automatically, financially it will be better and you will be able to generate
+adequate income to keep it at a sustainable level of operation and maintenance.
+So, like I said this third point aesthetics is closely tied to property values and of course, it is
+important to remember that human health and safety are also associated with aesthetics.
+When something is dirty or polluted or unsafe it is automatically both the property value
+and the tax revenue. So, each one of these points that is listed in this slide is actually tied to
+each other. Then we come to civic pride and values something that is often missing in our
+country is civic pride. We do not take care of what is called public property.
+We think that public property is somebody else's property it is not common property, but
+that is again poor understanding of where our money is going most of us are tax payers. If
+you are a tax payer you know that all this public property is actually being paid for from
+your taxes. Your taxes are coming from consumer products, they are coming from income
+tax, from commercial tax and property tax and all these other forms of taxation is what
+results in the creation of public property. So, if you are irresponsible towards your public
+property then that is lack of civic pride and values and it also endangers safety as well as the
+aesthetics of this property. And this is something that I find very evident when you compare
+developed countries with developing countries. Developed countries citizens have a very
+strong sense of civic pride and values. They are very careful about public property the way
+they talk about it, the way they use it, it is all evident in the way the citizens behave and that
+is something we need to keep in mind for making our development sustainable. And last
+and definitely not the least is regulations, the law. We have several regulations, several rules
+and regulations are there in our country regarding environmental protection, regarding
+sustainability and all these things. But how much of it is being implemented is often
+questioned, but regardless it is there. So, the last point is about the law. We have several
+environmental rules and regulations and these are necessary because no matter how well
+educated, I may be, all my good intentions are not going to help me to adhere to some of the
+laws. Because voluntary action has limits and it takes the law to make everyone fall in line
+and do the right thing. So, it is very important to have appropriate rules and regulations for
+making sustainable development a reality. And that is the quotation at the bottom that Kofi
+Annan who was the Secretary General of the UNO some years, some decades ago. He
+mentioned that the biggest challenge for our century is to take an abstract idea like
+sustainable development and make it a reality for everyone.
+
+We now come to another major concept. We understand what is sustainable, but how is it
+going to happen. So, before we go into sustainable development, we need to understand
+why pollution is a reality. We all realize that no matter what we do, the levels of pollution
+everywhere in the world are increasing. So, how is it happening and why is it happening is
+what we are going to look at in the next few slides. The first process that I am going to look
+at is population growth. We all know that the global population is increasing at a
+tremendous rate. So, it is basically growing exponentially. We will come to this model later.
+But let us keep in mind that population growth is increasing in our country as well as at the
+global level. So, we will be looking at that in detail in the next few slides. When you have
+more people, each one requires air, water, land in terms of food, clothes, housing and the
+number of needs that each human being has been pretty close to infinite. So, one is that as
+the population increases, you need more resources, natural resources to take care of this
+increase in population. That is one part of the resource consumption process.
+But there is a second part to it. Each human being today lives in a world where we all want a
+better standard of living. There is no, it is very rare to find a human being who is willing to
+say that I am willing to go down to a poorer standard of living. We all want a better standard
+of living. And what is that better standard of living mean? Often, it means more energy
+consumption, it means more resource consumption and so on. So, I will be talking about
+that in the next lecture. When you have two issues that are contributing to increase in
+resource consumption, so you are dealing with a double whammy literally over here. So,
+population growth is increasing, so that contributes to increase in resource consumption
+and because each individual wants a better lifestyle or a better standard of living that is
+further increasing the pressure on natural resources. When you utilize any resource
+whether it is air, water, food, no matter what resource you are using, there is always going
+to be some waste generated. From commercial and industrial processes to natural or simple
+daily processes, we are constantly generating waste and that waste can be air pollution, it
+can be water pollution, it can be waste of food, it can be throwing away of products after the
+end of their life. So, these are the different forms in which we are generating waste and that
+is the answer to the question at the top, why is pollution increasing? So, in a simple nutshell
+these are the processes that are contributing to increase in pollution at the global level and
+the local level.
+
+So, here we are going to be looking at the world population and as most of you know by now
+the world has already exceeded 8 billion. In fact, according to the United Nations population
+fund, the global population exceeded 8 billion on 15th November 2022. And India's
+population census for 2021 has not come out, so I have just noted the last census population
+which is 1.21 billion. However, many of you may be already aware of this that the UNPF in
+2023 just recently has come out with the numbers for India's population and China's
+population.
+So, India's population as of April 2023 is now more than 1.43 billion people and the same
+applies to China. So, India's population is now greater than China's population and it is
+17.82 % of the global population, while China's population is 17.78 % of the global
+population. So, together the two countries account for 35.6 % of the global population. And
+what you can see in this graph is that all the other countries are far smaller in terms of
+population compared to India and China. So, the third most populous country is the United
+States of America and they have only 4.24 % of the global population. And as I said all the
+other countries are much smaller in terms of population.
+Coming to population growth, what you see on this particular graph is the growth in the
+world population as well as the continental populations over a period of 1950 to 2050. Now
+obviously from 1950 to around 2010 we have real data; this is also from the UN and beyond
+2010 these are projections for the future. As you can see Asia mainly India and China
+account for the bulk of the world's population. So, 35 % or even more India and China
+together are 35 to 36 %.
+
+And then if I were to go back to this graph many of the top 10 countries are also part of Asia.
+So, we have Pakistan, we have Bangladesh, we have several other countries that are part of
+Asia. And you can see that the curve for Asia and the curve for the world are parallel which
+means the bulk of the world's population is in Asia. So, that is the first point that the Asian
+population is growing exponentially. Africa's population is growing at a faster rate, it is
+much lower. However, it is growing at a faster rate and what we call the exponential growth
+model which I will come to later that shows that Africa's population is the next population.
+Let me rephrase that Africa's population is growing faster than Asia's population. Asia's
+population is likely to saturate in the next few decades which means that there will be no
+further growth in the next few decades. So, we are already in 2023 and the global
+population as well as Asia's population are mostly likely to grow. So, we have seen come to a
+constant level in the next few decades.
+The only population that is likely to continue increasing is Africa and Oceania and these two
+populations are continuing to grow and right now they are small but in the next few
+decades they are likely to increase. Europe's population has started going down, it is mostly
+in decline and Latin America and North America are more or less at a constant level in the
+future few decades.
+Let us now come to population growth or arithmetic growth. We will start with the simplest
+model Arithmetic growth. This method is used when the population is growing by a fixed
+amount each year or decade whatever time period you want to think about and this
+happens only when growth is planned or controlled. It is not a natural process. I do not
+know of any example where natural growth has followed an arithmetic model. We also call
+it a linear growth model. So, we will start with a simple equation. If Pn, n stands for time
+increments any number of you can use months, years, decades whatever time increment
+you want you can use that in this equation. So, Pn stands for the population at the end of n
+number of increments.
+P0 is the population at time 0 whatever that time 0 is you can choose any time as the
+starting point and take it from there and then you have X. X is the fixed increment in
+population. It is generally in population growth models. We do it on an annual basis or
+decadal basis. The decadal basis is for the census reasons and we normally have census data
+that is generated on a decadal basis. So, 10 years and that is the reason for these decadal
+increments.
+
+Let us take a very simple example. We have a college which has a capacity for 1000 students
+at the present time and the plan is to add 100 students every year. So, you can calculate
+what the student intake will be at the end of either 10 years, 20 years, 50 years and so on.
+So, the calculations are shown on the slide and you can do it for yourself to understand it.
+We then come to the next population growth model and that is geometric growth. In this
+case the increment is not a fixed number, but a fixed percentage. So, there is a constant rate,
+r represents the constant rate of growth and that is a percentage. So, instead of saying 100
+students are going to be added every year, we may say that 10% students will be added
+every year.
+Now, this is a very different number. It is going to result in a very different curve. It is going
+to result in a very different number and also keep in mind that it is a discrete function. So,
+the way the equation is written
+
+                                                                 1 
+                                                = 0 [1 + 100]
+
+n is the number of increments. In the same situation, let us say the college has a capacity for
+1000 students and you want to increase the capacity by 10 % every year. When you
+calculate it using this equation you will get very different numbers as you can see on the
+slide. I will show you a graph showing the same thing.
+In this slide we are going to cover the exponential growth model for population growth.
+Now, as I said in the previous slide that we were looking at geometric growth. Geometric
+growth is a discrete function and the same idea can be used in a continuous function form
+and that form is called the exponential growth model. So, in this case the population is
+again growing at a constant rate just like the geometric model, but the equation that we are
+using is different. So, here
+
+                                                     = 0
+
+n is the number of increments, they can be monthly increments, yearly or decadal
+increments that depends on what you are trying to do.
+So, in the same problem using the same data we are now using the exponential growth
+model. So, here we have the same problem the college has a capacity for 1000 students and
+the capacity has to be increased by 10 % every year, and we have to predict the student
+intake at the end of 10 years, 20 years and 50 years. The numbers are calculated over here
+at the bottom of the slide and in the next slide
+I can show you the graphs for the 3 different population growth models. So, we have the
+linear model which has the smallest growth in population followed by the geometric
+population growth model and the exponential growth model. The only thing to note is that
+the geometric and exponential growth models are very close especially in the beginning of
+the time curve. And as time goes by as the time increment increases the deviation between
+exponential and geometric growth also increases. And exponential is always greater than
+geometric growth.
+What you see on this slide is India's population data from 1911 to 2011. So, I have used the
+census data here I have total population data as well as urban population data. And I have
+done what is called a curve fitting exercise. So, this curve fitting exercise I will talk about it a
+little more in the next slide. But what is important right now is to look at the nature of the
+data. I have used the exponential growth model the data was fit to all 3 models that I
+covered in the previous slides the linear the geometric and the exponential growth model.
+And the r square value for the total population was 0.97 and for the urban population was
+0.9899. And these 2 values are very close to 1 and that is our indicator of goodness of fit. So,
+as the r square value is close to 1 therefore, we assume that the exponential growth model
+is the best fit. The model fitting or the curve fitting exercise also gives us an equation. So, we
+have on the y axis
+
+                                              = 6  10-070.0175
+
+x is the year and y are the population of the country in this case our country.
+So, we have y for the urban population is
+
+                                              = 4  10-170.0285
+
+So, x you plug in the value for any year and you multiply it by the exponent and then solve
+this equation. So, these equations can be used to predict the populations for the near future.
+As you can also see I have made a note at the bottom of the slide the average annual
+exponential total population growth rate is 1.75 % based on 100 years of data and for the
+urban population it is 2.85 %. You can also do the same thing using only 2 decades of data.
+So, many people prefer using just 2 data points just the last 2 decades as a representation
+for the as a method for predicting the future. That is that can also be done there is no issue
+with that.
+So, just to give you a very quick example of what is called a curve fitting exercise you can
+take any data and fit it to any equation. I have given you an example of the exponential
+growth model, but you can use any other model to do the same thing. In excel these are
+some of the options that are available we have the linear option exponential polynomial
+logistic I do not think is there, but many of the other options are available. You can use the
+trendline option and under the menu that you get the drop-down menu that you get you can
+choose the value of R2 and the equation you can choose to get the values of R2 and the
+equation. It is very important not to force the curve to go through the origin which means
+that at t is equal to 0 you cannot have population equal to 0 it has to be some number
+greater than 0. Coefficient of determination is what r square stands for and it is used to test
+the goodness of fit of any model or equation.
+So, I have given the equation for determining R2,
+
+2  =  1  -  
+            
+
+what is RSS? RSS is the sum of the squared residuals and the residual itself is equal to the
+predicted minus the observed value. So, going back to this curve you will notice that there is
+a line which is the predicted value and the blue dot or the red dots are the actual observed
+or measured value. So, the residual is the distance between the blue dot and the predicted
+value. So, that is RSS versus TSS. So, it is the sum of the squared residuals for RSS and TSS is
+the sum of the squared residuals with respect to the mean of the observed values.
+How do we determine goodness of fit? If the R2 value is close to 1 it implies a good fit and if
+it is close to 0 it implies that the relationship between the two variables x and y variables is
+absent that they are randomly related there is no relationship between the two. So, when
+you look at this graph you can see the R2 values are very close to 1 R2 is 0.
+97 and 0.99 close to 0.99 in the second case. So, they are very close to 1 and this data fits the
+exponential growth curve in a very good way. So, if it is greater than 0.9 it is considered a
+reasonably good fit and if it is greater than 0.95 it is considered a very good fit. And
+anything below 0.5 for R2 values is considered to be a very poor correlation between the
+two variables.
+
+I will stop at this point and we will continue this topic in the next lecture.
+

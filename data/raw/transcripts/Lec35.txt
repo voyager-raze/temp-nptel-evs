@@ -1,0 +1,273 @@
+                                            Environmental Science
+                             Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                               Indian Institute of Technology Kharagpur
+                Week 07- (Lecture 05) : Circular Economy (Industrial Symbiosis)
+
+Welcome to lecture 5 of week 7 of the NPTEL online certification course on Environmental
+Science. Now so far in this week we have learnt what is circular economy, why the circular
+economy is important, what are the various ways through which we can make a transition towards
+a circular economy, and we also learnt about some of the circular business models. Now, in this
+lecture, we will look at another important aspect of circular economy, which is industrial
+symbiosis. So, particularly in this lecture, we will be learning what industrial ecology is, and what
+industrial symbiosis is. So, we will see how these two concepts are interrelated and then we will
+also see what are the limitations to the circular economy concept. So, at the end of this lecture,
+you should be able to explain what is industrial symbiosis and what is industrial ecology, you
+should also be able to define the various synergies that exist within the framework of industrial
+symbiosis, then you should also be able to explain the Kalundborg symbosis as well as the Kujala
+symbiosis.
+Industrial ecology studies material and energy flows in industrial systems and compares them to
+ecological systems. Since before the industrial revolution, economies have operated on the "take-
+make-dispose" paradigm--a world of unlimited resources and unlimited area to put our waste. The
+fact is, however, that we live in a limited world. In nature, materials are recycled, with one
+organism's waste becoming the food for another.
+
+Take the example of a cow pasture: Cows eat grass and drop excrement in their wake. Bacteria
+grow on the dung, breaking it down into simpler compounds. Fungi can then grow on the feces,
+while some of the nutrients return to the soil to fertilize the following year's grass crop, when the
+next generation of cows shows up again to eat.
+
+Just as ecology examines the flow of material and energy through the pasture (or other system in
+nature), industrial ecology looks at and quantifies those same flows through an industrial system.
+
+It is a multidisciplinary field concerned with shifting industrial process from linear (open-loop)
+systems, in which resource and capital investments move through the system to become waste, to
+closed-loop systems where wastes can become inputs for new processes. Along with material and
+energy flows, it focuses on product lifecycle planning, design, and assessment; eco-design;
+extended producer responsibility ("product stewardship"); co-location of industrial facilities
+("industrial symbiosis"); and eco-effectiveness.
+A business relationship focused on sharing resources: an association between two or more
+industrial facilities or companies in which the wastes or byproducts of one become the raw
+materials for another. Even simpler: "One's trash, another's treasure". Industrial symbiosis is a
+form of brokering to bring companies together in innovative collaborations, finding ways to use
+the waste from one as raw materials for another.
+
+This kind of co-operation reduces the total impact of the industry on the environment, and the
+individual businesses improve their bottom-line figures as well as their competitiveness.
+
+The concept of symbiosis is borrowed from the world of biology where a symbiotic relationship
+refers to the mutually beneficial cohabitation of individuals belonging to different species, i.e., two
+or more species exchange materials, energy, or information in a mutually beneficial manner.
+
+Industrial symbiosis is a key enabling business model for advancing the move to a circular
+economy. Local or wider co-operation in industrial symbiosis can reduce the need for virgin raw
+material and waste disposal, thereby closing the material loop ­ a fundamental feature of the
+circular economy and a driver for green growth and eco-innovative solutions. It can also reduce
+emissions and energy use and create new revenue streams.
+Now...Industrial symbiosis....
+
+Industrial Ecology (IE) emerged in the early 1990s due to concerns about the impact of industrial
+activities on the environment. IE is a discipline that takes the ecosystem as an analogy for the
+design of industrial systems with an eye on reducing their impact on the environment by closing
+energy and resource loops. The discipline of IE finds practical application in the design,
+implementation and evaluation of eco-industrial clusters, defined as physical "communities of
+manufacturing and service businesses seeking enhanced environmental and economic
+performance through collaboration in managing environmental and resource issues including
+energy, water, and materials". Again drawing on the ecosystem analogy, the functioning of eco-
+industrial clusters is labeled Industrial Symbiosis, which we already defined as the interaction of
+separate businesses entities that create a cooperative network to achieve competitive advantage by
+physical exchange of materials, energy, water, and/or by-products as well as services and
+infrastructures.
+
+The Circular Economy (CE), on the other hand, is a concept based on ideas that date back decades
+and refers to an industrial system that is restorative or regenerative by intention and design. The
+CE may be defined as "a regenerative system in which resource input and waste, emission, and
+energy leakage are minimized by slowing, closing, and narrowing material and energy loops. This
+can be achieved through long-lasting design, maintenance, repair, reuse, remanufacturing,
+refurbishing, and recycling"
+
+Going a layer deeper, we find that the transition to a Circular Economy can be achieved through a
+framework based on three strategies, namely narrowing, slowing, closing resource loops and three
+pillars, namely technical innovation, business model innovation and collaboration. Narrowing
+loops means using less material input for production in order to have less waste output at the end
+of life. Slowing loops means lengthening the use phase. Closing loops can be understood as
+recycling.
+Circular innovations always entail technical, collaborative and business model aspects, therefore
+the three pillars should be taken into consideration simultaneously.
+Zooming in further into the business model innovation niche of CE, we find circular business
+models, namely business models aiming to drive the sustainability of a business network through
+the circular strategies. Amongst several archetypes of circular business models we find Industrial
+Symbiosis, framed as an archetype to create value from waste.
+
+Although industrial symbiosis may appear to have leapt fully grown onto the sustainability stage,
+notions of trading and resource exchange are as ancient as primitive peoples sharing animal parts.
+Scrap dealers, charities organizing clothing drives, and companies buying and selling residual
+materials on line are engaging in resource exchange.
+To distinguish industrial symbiosis from other types of exchanges, a "3­2 heuristic" has been
+adopted as a minimum criterion. Thus, at least three different entities must be involved in
+exchanging at least two different resources to be counted as a basic type of industrial symbiosis.
+By involving three entities, none of which is primarily engaged in a recycling-oriented business,
+the 3­2 heuristic begins to recognize complex relationships rather than linear one-way exchanges.
+A simple version of this is a wastewater treatment plant providing cooling water for a power station
+and the power station, in turn, supplying steam to an industrial user.
+These symbiotic relationships are presumed to provide environmental benefits, although these
+benefits have seldom been carefully measured. They occur in single-industry dominated clusters
+such as petrochemical complexes as well as multi-industry ones.
+In general, three primary opportunities for resource exchange are considered:
+(1) By-product reuse-- the exchange of firm-specific materials between two or more parties for
+use as substitutes for commercial products or raw materials.
+(2) Utility/infrastructure sharing--the pooled use and management of commonly used resources
+such as energy, water, and wastewater. It can also involve meeting common needs across firms for
+ancillary activities such as fire suppression, transportation, and food provision.
+(3) Knowledge synergies are also key to industrial symbiosis networks, which involve the
+development and deployment of knowledge for processes to create and manage new products,
+services and markets.
+
+The first case of an industrial ecosystem was in Kalundorg, Denmark. It is an Eco- Industrial Park
+in Kalundborg, Denmark, pioneering as a successful industrial symbiosis network. The industrial
+operations in the region involve collaboration between the companies for utilisation of the
+produced by-products in between the companies and otherwise sharing of infrastructure, resources,
+etc. The network in Kalundborg has developed over the course of five decades.
+It began in 1961, when Statoil (then Esso) needed water for its refinery near Kalundborg. The first
+conduit pipes in the Kalundborg Symbiosis were laid between Statoil and the nearby lake, Tissø.
+In 1972, Statoil entered into an agreement with Gyproc, a local gypsum production enterprise, for
+the supply of excess gas from Statoil's production to Gyproc. Gyproc used the gas (today, natural
+gas) to dry the plasterboard produced in their ovens. In the following year, 1973, Dong Energy
+was connected to the Statoil water pipe. Thus, what would later come to be known as the
+Kalundborg Symbiosis then had three partners.
+
+Over the years, more businesses were linked into the Kalundborg Symbiosis, and in 1989, the term
+"industrial symbiosis" was used to describe the collaboration for the first time. The Kalundborg
+Symbiosis now has eight private and public partners and involves approximately 50 symbiotic
+exchanges. The Kalundborg Symbiosis was developed based on commercial agreements between
+the partners. The early development of the network was based on the initiatives of the companies
+themselves, especially Statoil's steps to find a solution for the water supply to its refinery. There
+are several industries located within a short distance, which made it feasible to install pipes for
+water and energy exchange. The companies are not key competitors with each other, which made
+mutual trust easier to gain. This trust was essential in the development of the network.
+
+The Symbiosis was `discovered' in the early 1990s by local high school students, who identified
+and modelled the symbiotic exchanges in Kalundborg during a school assignment on
+sustainability. The international press and then academia picked up the story through the
+multinational companies involved in the Kalundborg Symbiosis. In the following years, the
+Symbiosis received increasing international attention emerging as one of the stellar exemplars of
+industrial symbiosis followed under industrial ecology.
+Industrial symbiosis has been applied for waste management and valorisation in Lahti, Finland.
+At its Kujala Waste Centre site extending over 70 hectares , various waste related businesses
+co-exist to allow the outputs from one to be easily transferred to another for reuse or further process
+ng. Specifically, the site now has 20 interconnected operational units to store, handle, recover,
+transfer and dispose of waste.
+
+Waste is sorted and as much of the material as possible is recycled. The majority of recyclable
+waste is refined and used in the production of new material which can be utilised in industry.
+Organic material is used for biogas generation and in the composting plant. Raw biogas is
+produced from bio-waste, garden waste, and waste water sludge. This is then upgraded at
+the facility to produce high quality biogas which is transferred to the natural gas network. The
+remaining material is composted for use in agriculture and growing media. Gas produced from
+waste which is deposited in landfill is reclaimed and most is pumped to a heating station where
+it is used to generate steam used in soft drinks manufacture. Remaining landfill gas is used
+to generate energy at the Kujala site. Leachate from the landfills and dirty water from other
+waste management processes and facilities is treated at Lahti Aqua Ltd´s waste water treatment
+facility.
+Contaminated soil is stabilised and compacted into a non-toxic form at the Kujala site. It is utilised
+in embankments or as preliminary landfill cover.
+
+Faced with compelling evidence that the world is approaching climate and ecologic tipping points,
+urgent solutions and actions are a priority. Transitioning to a so-called "circular economy" (CE)
+has been put forward as a possible solution, and enthusiastically seized upon by both industry and
+policy makers. But CE is not without its critics. While praising the objectives promoted by CE,
+many question its core premises, its effectiveness, and its practicability. In particular, the ability
+of recycling, designing for durability, use of renewable production inputs, and adoption of
+alternative usage models to limit society's consumption of raw materials and energy is not
+guaranteed, given practical and environmental constraints and people's economic and quality-of-
+life expectations. Besides, there are several other limitations which must be taken into account.
+
+Thermodynamic limits
+
+     Due to the second law of thermodynamics, recycling will always require energy and will
+         always be incomplete, generating wastes and side-products (increasing entropy, decreasing
+         exergy) of its own.
+
+     Dissipated materials are lost in the ecosystem and it is impossible to recover them. The
+         search, gathering and recovery would require vast amounts of energy. Therefore, complete
+         recycling is impossible.
+
+     Like all material and energy using processes, circular economy promoted recycling, reuse,
+         remanufacturing and refurbishment processes too will ultimately lead to unsustainable
+         levels of resource depletion, pollution and waste generation if the growth of the physical
+         scale of the total economic system is not checked.
+
+System boundary limits
+
+     Approximately 75% of the global energy production is based on non-renewable and
+         emissions intensive fossil fuels, the combustion of which does not adapt to biosphere's
+         reproductive cycles; dead resources are extracted from nature, from lithosphere, processed,
+         used and dumped back to living nature, to biosphere in a harmful form.
+
+     Therefore, although sustainable development is a global goal, circular economy projects
+         that have been implemented and that will be implemented in the near future will always be
+         local or regional at most.
+
+     Each circular economy project should, therefore, be considered for its contribution to
+         global net sustainability in the long-term. This means what is left as improvement or
+         positive outcome after an individual project or action as compared to a situation before the
+         project.
+
+Physical scale of the economy
+
+     When production efficiency increases, production costs decrease and eventually the prices
+         of end-products decrease. This boosts up consumption.
+     Therefore, perhaps the most important question for circular economy in terms of long-term
+         sustainable development of the global society is how can the saved resources and money
+         generated by the circular economy model be directed to sustainable consumption practices.
+
+     If the current consumption culture will not change, circular economy will remain as a
+         technical tool that does not change the course of the current unsustainable economic
+         paradigm.
+
+Path dependency
+
+     When an economic innovation is launched at the market, immediately a process that
+         determines its influence power starts.
+
+     Usually the first accepted idea achieves the best markets and receives most awareness.
+
+     Returns to scale and learning effects make the first innovation stronger in the market than
+         innovations penetrating the market later.
+
+     This phenomenon is known as path dependency and lock-in, the `survival of the first
+         instead of the fittest'.
+
+     In the context of circular economy, this means that new innovations, models and systems
+         designed for product reuse, remanufacturing and refurbishment have to compete in the
+         market with the more conventional recycling for low quality raw materials utilization
+         systems and combustion for energy solutions.
+
+Governance and Management
+
+     The physical flows of materials and energy extracted from nature travel through many
+         different interdependent parts within the economic production-consumption system before
+         they end up as wastes and emissions in ecosystems.
+
+     The flows do not respect man-made/defined administrative, geographic, sectoral or
+         organizational borders and boundaries.
+
+     New business models including product design for multiple life cycles, leasing and renting
+         the product while maintaining its ownership and reverse logistics in the supply chain have
+         been proposed for circular economy. All of these require interorganizational sustainability
+         management.
+
+     Inter-organizational cooperation is required between the supplier firm and the customer
+         firm (business to business marketing) and between the producer and consumer, e.g., in
+         leasing or renting the product while retaining ownership.
+Social and cultural
+     The concept of waste has a strong influence on its handling, management and utilization.
+     The concept of waste is always constructed in a certain cultural, social and temporal context
+         and this context is dynamic and changing.
+
+    
+         There is a clear and real potential for circular economy to succeed in all the three
+         dimensions of sustainable development: economic, environmental and social.
+
+Circular economy highlights the importance of high value and high quality material cycles in a
+new manner. It also shows the possibilities of the sharing economy alongside sustainable
+production for a more sustainable production and consumption culture.
+
+     The shift to a circular economy can bring big opportunities and positive impacts across
+         industries, sectors and lives.
+
+     Economically and environmentally desirable symbiotic exchanges are all around us.
+         Identifying and fostering emerging industrial ecosystems offers the promise of many
+         environmental and other benefits.
+

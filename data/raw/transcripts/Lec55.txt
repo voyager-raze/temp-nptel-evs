@@ -1,0 +1,407 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                Week 11
+                                               Lecture 05
+                                           Soil Pollution ­ II
+
+Welcome everyone to the last and final lecture in week 11. So, we are now going to cover
+Soil Pollution part 2.
+So, in this lecture we are going to cover the concepts of soil degradation, soil erosion, soil
+pollution, overgrazing. We will go through the universal soil loss equation USLE and we
+will also go through nutrient cycling which is basically the bio geochemical cycles.
+
+Keywords for this lecture are soil erosion, USLE, soil pollution, deforestation,
+environmental impacts, contour ploughing, tilling, carbon cycle, nitrogen cycle, sulphur
+cycle and phosphorus cycle.
+I have already mentioned that soil erosion is a huge issue for agriculture. It is a loss of a
+precious resource that takes tens to hundreds of years to generate. Remember that soil
+formation is one of the slowest processes in nature and anything that we do to that causes
+erosion of soil is going to be extremely detrimental to agricultural productivity. So, best
+management practices are required, they are essential for preventing soil loss.
+
+Environmental impacts of erosion are also extremely important. It is not just the economic
+value of soil, but there are environmental impacts that are associated with soil erosion. So,
+you can see silting of rivers, silting of dams, reservoirs, rivers, lakes, all of these water
+bodies are subject to they are basically sinks for the soil and whatever soil is being eroded,
+it is carried off by surface runoff and it comes to these rivers, dams, reservoirs, lakes and
+so on. So, there is a change in the burden, the sediment burden in these water bodies
+increases enormously. It is going to have huge impacts on the ecosystems of these water
+bodies and also on the soil ecosystems that are being eroded.
+
+That is one thing. The second thing is pollution. Pollution of surface water bodies due to
+excess nutrients and sediments. I have already talked about eutrophication and this is an
+example of that. So, when you have high levels of soil erosion, some of the organic matter
+and the inorganic nutrients are going to be coming into these water bodies.
+
+So, this excess nutrient loading will contribute not just to the sediment load, but also result
+in eutrophication. So, you can see an example over here. There is an algal bloom as well
+as a bloom of aquatic plants. These are floating aquatic plants that are growing on the
+surface of the water body. So, this is surface water pollution.
+
+Here is a wetland. So, because of this erosion of soil, you have excessive nutrients, you
+can see another algal bloom over here. So, you can see this green scummy layer, the bright
+green color is associated with algal cells and these are leaves growing on the surface. So,
+you have a choked wetland ecosystem that has been degraded by soil pollution or rather
+soil erosion and subsequent eutrophication.
+
+Then we come to soil pollution.
+
+What is the difference between degradation and pollution? Pollution means the presence
+of certain compounds that are going to cause adverse biological effects. Now, when we
+dump solid waste on land, what you see in this photo is an example of that. All kinds of
+solid waste has been dumped on this land. This material as it degrades, as it decomposes,
+leachate will be formed and it will make the soil toxic and it will also infiltrate into the
+deeper layers of soil. When we use fertilizers, when we use pesticides, they will leach into
+the groundwater.
+
+I have already spoken about bio concentration in vegetation and higher up the trophic
+pyramid, the food pyramid or the trophic pyramid. I have covered all those ideas in the last
+lecture. So, you know that in the third lecture. So, you know that all these compounds can
+be detrimental to these ecosystems and they will cause long term impact on the health of
+these ecosystems. These compounds, fertilizers, pesticides, especially synthetic organic
+compounds, they will be present in the surface runoff and they will also cause pollution of
+streams.
+
+ Let us now take a look at overgrazing. What happens when you have a certain patch of
+land with vegetation that is used for livestock production? As long as there are a few
+animals grazing on a particular patch of land, the grass or whatever higher vegetation there
+is will be able to renew itself. So, as long as it is within the ability of the soil to renew the
+vegetation as well as itself in terms of nutrients and so on, there will be no problems.
+However, if the number of animals grazing on that same small patch of land continues to
+increase over a period of time, then that ability of the soil and the entire system to renew
+itself will be jeopardized. So, that will not happen.
+
+ So, there is an optimum level of livestock densities where the soil is enriched by nutrients
+from fecal deposits and that helps to recycle the nutrients. These grazing animals prune the
+tops, they are basically eating the tops of the vegetation most of this where it is just grass
+or even low level, low height plants. So, this pruning actually stimulates further plant
+growth under optimum conditions. But when you have too many animals and because of
+that you have too much pressure on the vegetation, it cannot renew itself, the soils get
+depleted and because this grass cover, so you can actually see patches of barren land where
+the grass is not growing. So, these are examples.
+
+Now, just imagine that the entire patch of land is barren because the grass is no longer able
+to renew itself. The pressure on the vegetation is too high for it to renew itself. And often
+what happens when you have higher pressure is that the plants are pulled up by their roots
+as well. So, because of all these reasons, anytime there is a rainfall event, the soil will get
+eroded and it will end up, the soil particles will end up in the water bodies. So, you will
+have the grass will be depleted because of soil leading to soil erosion, you will have
+excessive manure on the land and it will enter the streams as surface runoff leading to
+degradation of water quality in the streams.
+
+ What we have here is a global map of countries that are most affected by soil erosion. So,
+you can see there is a large area that has very poor conditions in terms of soil erosion that
+things are going from bad to worse. India is also subject to soil erosion, we have a serious
+problem. India, China, most of Africa, South America, all of these areas, all of these
+continents are basically subject to soil erosion. So, long term productivity, agricultural as
+well as livestock productivity is compromised in these countries.
+ What we have here is the universal soil loss equation or USLE for short. This is a very
+popular equation that is used to estimate the annual soil lost due to various climatic and
+other factors.
+
+                                               = 
+
+So, A is the annual soil lost per unit area per unit time, the unit of time is years and it is
+tons per acre per year or tons per hectare per year. R is the rainfall and runoff factor or it
+can be called rainfall erosion index. K is the erodibility factor for a unit plot.
+
+What is a unit plot? I have defined it over here. There is a unit plot concept that is used in
+this particular equation. It is a hypothetical plot of fixed dimensions. So, you have 5.5 feet
+multiplied by 72.6 feet, a slope of 9% is assumed to be regularly and continuously tilled,
+but kept fallow with. So, it is tilled but kept fallow. So, nothing is sown on that particular
+plot. And the tillage direction is up and downhill along the slope, which means this is the
+maximum possible soil erosion value. So, this serves as a baseline for comparison with
+any other type of real plot.
+
+Remember, this is an abstract concept and that is used as the baseline for comparison.
+Then we come to L times S, L stands for slope length and S stands for steepness factor. So,
+L times S will give you soil loss from the field or soil loss from the unit plot. C is the cover
+and management factor and P is the support practice factor. I will come to that in the next
+few slides.
+These values for each of these variables are going to vary enormously. So, they are
+location specific, they are specific for the nature of field management and so on. So, these
+can be accessed. I have given the web address for this particular set of values for Indian
+conditions. It is from the IASRI website that is the Indian Agricultural Statistical Research
+Institute.
+So, these values some of them representative values can be found there.
+
+So, coming to the last two factors, all the other factors are climatic factors. One is the soil
+factor and the last two are management factors. So, cover and management factor. What
+is the crop stage? Are the crops in their early growth stage, middle growth or they are
+mature? That is the first factor.
+
+The second is crop canopy. How much of the land area is covered by the crop canopy?
+Canopy meaning the vegetation cover. So, the top of the plant. So, if you see it over here,
+this area is the canopy or this volume would be the canopy and that would be the canopy
+area. So, the crop canopy you have the residual mulch. Here you have residual mulching
+right and this is decayed vegetation which is allowed to stay on the farm or the field and
+the reason for keeping it as such is to keep the moisture in the soil intact.
+
+So, that the moisture is not lost and the nutrients are also kept intact. So, nutrients from
+the decaying vegetation will be available to the soil and the moisture will also be retained.
+And then whatever residue from the previous harvest and the tillage practices all these are
+part of the cover and management factor. Then we come to support practice factor. How
+do we ensure that soil is not lost? Contour tillage.
+
+So, let me show you contour tillage. So, here we have contour tillage where you are tilling
+the land along the contours and these contours are elevation contours and you can see them
+more clearly in this terrace plantation. So, you have the contours of the land that is the
+topographical contour or the elevation contour and you can see that if you are planting or
+tilling along these contours the idea is that during a rainfall event as the rain as the water
+flows thus as the surface runoff flows along the slope it will be impeded the loss of soil
+will be impeded by these contours. So, when you have vegetation along the contours and
+when you have tilling along the contours you will be preventing loss of soil. So, you can
+see all three practices contour tillage, contour strip cropping and terracing in these photos.
+
+I have some more photos of that. So, this is contour tillage or ploughing along the contours
+of the land and this helps to prevent soil erosion and you can see this is a plain area it is not
+a hilly area. So, in the plains this becomes even more important because the slope is
+extremely gentle if at all and if this kind of tilling were not to be done then you would have
+dust storms and loss of soil because of that.
+This is terrace farming which is common in India in the hill regions and that also helps to
+prevent soil erosion because of these practices. So, you have these vegetation embankments
+so to speak at every terrace or every step.
+
+Let us now come to how to control soil pollution.
+So, up until now we are looking at soil erosion we also need to look at how to remediate
+soil pollution. So, one of the first things that people are looking at is phytoremediation. So,
+we have phytoremediation. What is phytoremediation? Phytoremediation is the use of
+plants to decontaminate polluted soil. Some plants are known to be hyper accumulators.
+
+Now these hyper accumulators especially of heavy metals can grow in the contaminated
+soil you can harvest these plants thereby removing the heavy metal contamination. The
+best examples are removal of arsenic from soil, removal of chromium. These metals have
+been removed from contaminated soil by planting these hyper accumulating plants. So,
+this has been fairly effective.
+
+Harvesting these plants is not difficult. What is difficult is managing the residue after
+harvest. So, that remains an issue and that can be taken care of, but not so easily.
+Bioremediation is another major control method. You can have certain areas can be
+provided with excess nutrients as well as acclimated consortia of bacteria, fungi and maybe
+other organisms provided they are capable of degrading the synthetic organic compounds
+that have contaminated that soil. So, that is possible and it has been done there are
+thousands of studies out there in the literature where these have been successful.
+
+ How can you improve soil quality? The first thing in soil management is to avoid
+continuous cultivation of the same crop that is to be avoided. The first that is the first point.
+Second point is land should be allowed to lie fallow for some time and crops should be
+rotated between leguminous and non-leguminous plants. Now, there is a big reason for this.
+If you do not have time for the soil to remain fallow, it will not have time to recycle the
+nutrients that were lost in the previous harvest
+So, that is one reason. The second reason for rotation between leguminous and non-
+leguminous plants, many of the leguminous plants are they have a mutualistic relation
+between nitrogen fixing bacteria and other organisms as well as the plum. They actually
+enrich the soil with nitrogen and other nutrients. So, if you rotate between leguminous and
+non-leguminous plants, you can enrich the soil. Soil moisture should be maintained by
+mulching of the crop residue.
+I have already given you an idea about that. This is an example of how soil mulching
+contributes to both nutrients as well as moisture in the soil. You can also add compost or
+peat to improve soil quality. These are soil conditioners that help to retain both moisture
+and nutrients. So, they are very useful as management methods for improving the quality
+of soil.
+Over irrigation has to be avoided. In areas that are water rich, it is often seen that farmers
+use too much water and this results in salinization of soil. So, that also has to be avoided.
+You can also grow pest resistant crop species to avoid use of pesticides. So, if you favor
+the growth of pest resistant crop species, then you can avoid the use of chemical pesticides.
+
+So, we will now come to the last topic of this week and that is nutrient cycling.
+Nutrients are cycled through the natural environment through what we call the
+biogeochemical cycles. The reason they are called biogeochemical cycles is that they
+involve biological, geological and chemical reactions and processes for the recycling of
+these environments in the natural environment. I am going to start with plants and
+remember that we are looking at soil. We are interested in understanding how soil pollution
+can happen and what are the consequences. So, these biogeochemical cycles are actually
+the cycling of the nutrients through all domains of the atmosphere of the environment.
+
+So, all the four domains of the environment include atmosphere, lithosphere, hydrosphere
+and biosphere. And soil is one of the subsets of the lithosphere. So, any disturbance to the
+nutrient cycling in soil will cause a disturbance in the biogeochemical cycling of the most
+important nutrients. Now, what are those most important nutrients? There are 16 elements
+that plants cannot grow without. These 16 elements are grouped into two categories, one
+is macronutrients and the other is micronutrients.
+
+Macronutrients are required in large amounts and micronutrients are required in trace
+amounts, trace amounts meaning very small amounts. The macronutrients include carbon,
+hydrogen, nitrogen, oxygen, phosphorus, sulphur, calcium, magnesium, potassium and
+chloride. Micronutrients include iron, manganese, zinc, copper, boron and molybdenum.
+Carbon, hydrogen and oxygen are present in the atmosphere and they are present in large
+amounts. They are generally not growth limiting factors and currently carbon in the
+atmosphere is increasing.
+
+So, it is definitely not a growth limiting factor but because it is the basis of life, we will be
+looking at the carbon cycle as well. What is growth limiting factor? What is the meaning
+of the term growth limiting factor? It comes from the law of the minimum. The law of the
+minimum states that every organism on the planet has a particular set of requirements for
+all the important growth elements. These are all the important growth elements for plants.
+For other organisms there can be small differences, but the bulk of it is more or less the
+same.
+
+Macronutrients are more or less the same. The micronutrients can differ from one
+organism to another. Coming back to the law of the minimum, the law of the minimum
+states that every organism has a particular set of requirements for each element and the
+element that is available, that is least available relative to the requirements of that organism
+is going to limit the growth of that organism. So, that organism will grow in proportion to
+the availability of the growth limiting factor and the factor is a nutrient. We use the term
+growth limiting factor or you can also say growth limiting nutrient. So, when you think
+about nutritional deficiencies, when you think about growth limiting concentrations, that
+is what we are looking at.
+We are looking at these elements that can limit the growth of any particular organism. So,
+the growth limiting factors in agricultural productivity and for plants, they are generally
+either nitrogen, phosphorus or sulphur and these are the four biogeochemical cycles that
+we are going to look at carbon, nitrogen, phosphorus and sulphur.
+
+So, let us start with the carbon cycle. We will start with carbon in the atmosphere. Carbn
+in the atmosphere is present in the form of CO2, carbon dioxide.
+
+This carbon dioxide is taken up by plants as well as algal cells. Algal cells are present in
+the hydrosphere and plants are present in the terrestrial as well as aquatic environment. So,
+they can be, they are part of the biosphere, they are spread out through the lithosphere and
+the hydrosphere as well. So, plant uptake of CO2 from the atmosphere by the process of
+photosynthesis makes carbon part of the biosphere. This organic, so CO2 from the
+atmosphere is converted to organic carbon by mainly by photosynthesis.
+
+There are other processes which I have spoken about previously. I will not go into any
+detail, but this organic carbon is converted back to CO2 by the processes of decomposition
+and respiration. So, plants respire, they convert some part of that organic matter that is part
+of their biomass is converted back to CO2, only a small part of it. When the plant dies or
+when these autotrophs die, they have to be decomposed and the organic carbon that is part
+of their biomass is converted back to CO2. This decaying vegetation as well as other
+organic carbon from other organisms either as, it can be fecal matter, it can be dead
+biomass, all of that will accumulate in the lithosphere. So, in the lithosphere, the top region
+of the lithosphere in the terrestrial environment is a layer of the soil that those are the soil
+horizons that we looked at previously.
+
+So, this decaying layer of vegetation will accumulate in the soil and it will contribute to
+what we call soil organic carbon. So, this is carbon in the lithosphere. I also should mention
+that CO2 or rather let us say carbon in the aquatic environment is in several forms. So, you
+have dissolved CO2 from the atmosphere diffuses into water, it will react with water, it
+will form carbonic acid and this carbonic acid is available for aquatic, it is there in the
+water, the CO2 is available for the plants and the algal cells for their growth and that will
+be converted to organic carbon. Now, as the aquatic plants and algal cells die, they settle
+into the sediment that is part of the hydrosphere.
+
+Over geologic timescales of millions and millions of years, this organic carbon is
+converted into calcareous rocks like calcium carbonate. So, they contribute to sedimentary
+and metamorphic rock formation and they are also converted to fossil fuels like coal, oil
+and natural gas. So, this organic carbon over geologic timescales from the sediment will
+contribute to the formation of both rocks as well as fossil fuels. When we bring up this
+material either the rock material or the fossil fuels which are part of the lithosphere now,
+we are utilizing the rock material for buildings and construction and the fossil fuels are
+burnt for generating electricity and energy and so on. This sense the organic carbon in the
+fossil fuel is sent is converted to CO2 and released back into the atmosphere. So, that brings
+me to the end of the carbon cycle.
+Let us now come to the nitrogen cycle. So, in the nitrogen cycle what is the form of nitrogen
+in the atmosphere? You are all familiar with the fact that nitrogen in the atmosphere is an
+N2 gas and this gas is inert, it is non-reactive, it is inert and therefore, it is not bio available.
+Remember what I said in the past just two slides back I said nitrogen is one of the most
+important growth limiting factors for plants and agricultural productivity. Now, if the bulk
+of the nitrogen on the planet is in the atmosphere and it is non-reactive and it is not bio
+available it has to be converted to bio available forms. How does nature do that? Nature
+converts nitrogen in the atmosphere to bio available forms either during thunderstorms
+when there is lightning you get conversion and formation of nitrates that is one method for
+bringing nitrogen into solution.
+
+So, during a thunderstorm what you get is NO2 formation and this NO2 is brought down
+by the precipitation it enters the lithosphere and the soil layers as well as into the water that
+is one method. The bigger one the bigger contribution comes from leguminous plant and
+microorganisms. So, you have a symbiotic relationship between leguminous plants and
+bacteria as well as certain groups of fungi and they are capable of converting N2 in the
+atmosphere into what we call bio available forms. The bio available forms are organic
+nitrogen, ammonia, nitrite and nitrate NO2 minus and NO3 minus.
+
+So, these forms of nitrogen are all bio available forms of nitrogen. So, now nitrogen from
+the atmosphere has entered the biosphere as well as the hydrosphere and from these two
+parts of the environment it also enters the soil and the lithosphere. So, remember that
+nitrogen is incorporated into the biomass in the form of proteins and amino acids and it is
+excreted by higher organisms in the form of fecal matter. So, you have fecal matter which
+is rich in nitrogen and you have the biomass which after carbon has huge amounts of
+nitrogen. So, nitrogen is the second most abundant element in the biomass of almost all
+organisms on the planet maybe a few exceptions, but mostly the second element that is
+most abundant is nitrogen. Now, this nitrogen which is part of the biomass has to be
+returned and there are several bacterial groups that are capable of converting these bio
+available organic forms of nitrogen through a process called denitrification they will
+convert it back to N2 in and release it into the atmosphere.
+
+So, that is how nitrogen goes from the atmosphere into the biomass and then back into the
+atmosphere. What about whatever has entered the hydrosphere? So, these nitrogen fixing
+methods of nature will convert it to bio available forms you will find that there is a
+significant amount measurable significant quantities of nitrogen in water and they can be
+used by aquatic plants and phytoplankton. It also becomes part of the sediment and
+therefore, the fossil fuel formation and also when fossil fuels are burnt again the nitrogen
+in these fossil fuels is released back into the atmosphere. So, all those processes are also
+there. From our perspective we are interested in organic nitrogen which enters the soil
+environment and that becomes available for the growth of plants.
+
+ We will now come to the third cycle and that is the sulphur cycle. Sulphur in the
+atmosphere is present in very very small amounts. It is most often present as hydrogen
+sulphide that is just like ammonia stinks so does hydrogen sulphide and these two gases
+are often smelt from wastewater and so on. So, there are trace amounts of both ammonia
+and hydrogen sulphide in the atmosphere when you smell it you know it is present. When
+it rains you have what we call wet deposition otherwise we have dry deposition of whatever
+sulphur is there in the atmosphere.
+
+So, that is one process by which sulphur in the atmosphere enters the hydrosphere. The
+hydrosphere has higher quantities more significant amounts of sulphur are present in the
+hydrosphere compared to the atmosphere. Sea spray and the decomposition of aquatic
+biomass will result in the formation of hydrogen sulphide and sea spray contains elemental
+sulphur, hydrogen sulphide maybe even sulphate particles and so on and that will be
+released back into the atmosphere. So, this is the circle between the atmosphere and the
+hydrosphere. Organic sulphur after it is incorporated into the biomass from all other three
+parts of the environment. It is taken up by plants it is a necessary element and whatever I
+said for carbon and nitrogen applies to sulphur as well it is incorporated into the biomass.
+When the biomass dies it decomposes and, in the respiration, process it is released back
+into the atmosphere as well as into the lithosphere. So, you have decaying vegetation that
+will result in organic sulphur becoming part of the soil horizons and soil organic sulphur is
+again available for plants to take up as part of their growth. So, these are almost complete
+cycles. Okay, so wet and dry deposition from the atmosphere will bring sulphur into not
+just the hydrosphere but also the lithosphere. It also gets incorporated into the sediment
+because of the dead biomass that enters the sediment.
+
+It becomes part of the geologic processes of rock formation as well as fossil fuel formation.
+So, again when these fossil fuels are burnt again sulphur, organic sulphur which is part of
+the fossil fuels is released back into the atmosphere. That is not shown in the slide over
+here since fossil fuel burning is an anthropogenic activity and these cycles that I am
+showing you are based mainly on natural processes and only fossil fuel burning is
+anthropogenic and, in all cases, it releases the organic form of these elements back into the
+atmosphere.
+
+So, here we are going to look at the phosphorus cycle. Now, as you can see one of the
+domains of the environment has been removed and that is the atmosphere.
+
+ The amount of phosphorus present in the atmosphere is too minute to be of any
+significance. So, we are not going to look at that. We are going to look at the fact that
+phosphorus in the environment is cycled through these three domains the biosphere, the
+hydrosphere and the lithosphere. Another important point to remember is that phosphorus
+in the environment is found mainly in one form only or rather in one oxidation state only
+and that is phosphate. There is one more oxidation state that exists and that is phosphite
+and a very specific group of bacteria are responsible for producing phosphite.
+We are not going to go into any details about that. We are going to look at the fact that the
+bulk of the phosphorus on the planet is in the form of phosphate. This we will start with
+phosphorus that is present in the biomass of organisms. Now, phosphorus is a very very
+important element. It is part of the nucleic acids, it is part of ATP which is the energy
+currency for all living organisms.
+
+ATP stands for adenosine triphosphate and it is also I have already mentioned nucleic
+acids. So, it is one of the most important elements that is necessary for any organism to
+grow and survive. So, it is part of all the biological processes and we will start with that.
+Now, phosphorus as I said is present both in water and the soil and it is taken up by plants,
+the primary producers, the autotrophs all of them will take up whatever phosphorus is
+available whether it is coming from water or from soil that will be taken up, it will be
+incorporated in the biomass and when the biomass dies you have decomposition and
+respiration and again it is released back into the lithosphere or the hydrosphere depending
+on where the organisms are present. The phosphorus that is present in the lithosphere
+comes from fecal deposits from sea birds. So, basically gulls and their fecal matter is rich
+in phosphate and that forms what are called guano deposits these are part of the lithosphere
+and from there it can enter either into the hydrosphere or into the soil and also weathering
+and mining activities will result in these guano deposits from it will result in the dissolution
+of phosphorus from these rock deposits and bring them into the hydrosphere or into the
+biosphere as well as the lithosphere.
+
+ So, that is about it this is the simplest cycle in fact and there are very few sources of
+phosphate in the environment most of them are the guano deposits.
+So, I will stop at this point these are the references. Thank you.
+

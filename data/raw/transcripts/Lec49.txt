@@ -1,0 +1,263 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                Week 10
+                                               Lecture 04
+                                Noise rating systems and modeling
+
+Welcome everyone to our fourth lecture in this week on noise pollution. Our topic today
+is noise rating systems and modeling.
+So we are going to look at how we rate noise, how do we measure it, what are the
+different ways of rating it, and so on. One of the most important models that is used in
+noise pollution is the inverse square law. So, we will go through that both for point as
+well as line sources, and we will also look at how sound can be reduced, attenuated, what
+are the different methods that can be used for reducing environmental noise.
+
+The keywords for this particular lecture are limits, rating system, transmission, standards
+and day-night average.
+Now, what we see in this slide are different ways of looking at rating the sound level
+measurements. So, LN is a statistical measure of how frequently a sound level is
+exceeded. What does that mean? So let us say you have a series of instantaneous sound
+level measurements and you can note them down. You can take them at one-second
+intervals, one-minute intervals, 15-minute intervals, anything that is suitable for the
+purposes that you are doing the noise level readings or measurements for. So, all your
+data will be the sound levels will be in dBA or any other weighting network. In this
+particular case, you will then do the statistical analysis, and in this particular case 30% of
+the time the readings are greater than this particular value. So you will analyze the data
+and in this case, 30% of the time the sound levels were higher than 67 dBA. You can also
+note from these readings that all the sound level readings were greater than 55 dBA and
+they never exceeded 75 dBA. So a graph like this where you see the percentage of time
+that is greater, the percentage of time where the readings were greater than the stated
+value are easy to read from this particular graph.
+
+So this is the first thing. The second thing is a probability distribution function. Here, you
+have the frequency of occurrence. Now, in this particular case, you can create a
+histogram or a probability distribution function, a plot for the readings and you can
+classify them. So here you have classes of 5 dBA. So, in this particular case from 65 to
+67 dBA you have 35% of the total readings. Let us take it as a simple example: I take 100
+readings over any given period of time. I find that 35% of those readings or 35 of those
+readings are between 65 and 67 dBA. So you get this bar at the top. From 67 to 69 you
+have 15 readings out of 100, and similarly, you can plot all the others. So this will give
+you an idea of what is the most common set of sound levels for a given duration of
+measurement, whatever that duration may be.
+We then come to L equivalent. L equivalent is the equivalent continuous equal energy
+level. Now, this can be applied to any fluctuating noise levels. Now I can show you
+something. So we then come to our next statistical measure and that is Leq. This is the
+equivalent continuous equal energy level. For those of you who are familiar with sound
+level meters, the measurement is a, you can take a continuous measurement, but they are
+also discrete measurements. So, we will come to both of them in this slide. So, the Leq
+concept is applied to fluctuating noise levels.
+
+It is the constant noise level that over a given amount of time expends the same amount
+of energy as the fluctuating level over the same period. So how do you equalize it? How
+do you express it? So,
+
+  =  10  log  1  ()
+                    10 10  
+              
+                 0
+
+t is the time period over which you are taking your readings. You are integrating your
+readings. The sound pressure levels are 10 L(t). L(t) is your instantaneous sound pressure
+level divided by 10 and you are taking dt. So, this is the continuous function for which
+you are integrating over the period of measurement. So, this is L(t) is your time-varying
+noise level in dBA and t is your total time of measurement. Generally, there is no well-
+defined relationship between L(t) and time. So, what we normally do is we take a series
+of data points over a period of time. So whether you are doing this over 1 hour, 8 hours,
+24 hours, it depends on what your objective is. So for a discrete set of samples, you can
+modify this equation 15-14 can be modified for a discrete set of samples. Let us say you
+have instantaneous sound pressure levels or noise readings. You can take them,
+                                                                             =
+
+                                       = 10 log  10/10 
+
+                                                                             =1
+
+take 10 to the power Li divided by 10, sum it all up and multiply by the time interval.
+What is the fraction for which you took those readings? You can take it instantaneously
+in which you do not have to include ti or you can have them for 10 minutes, 15 minutes.
+For example, we have recently done a noise survey and the readings were taken for 15
+minutes. So 10 times the log of the sum of these readings are what you call L equivalent.
+n is the number of samples, Li is the noise level measured in terms of dBA for the ith
+sample and ti is the fraction of the total sample time.
+
+I have already given you an idea what the equivalent continuous equal energy level is.
+What does that mean? It is much easier to understand this concept, which is given as an
+equation in this slide. It is easier to understand that when we put it in graphical form. So
+you have your instantaneous readings that is the blue line and the area under the curve
+divided by the duration as so basically the entire area. You have the time duration on the
+x-axis, you have the sound levels on the y-axis, you divide it by the duration of the
+measurements and that will give you a single value. This red line is that single value. So
+this is L equivalent, Equivalent Continuous Equal Energy level. So, what is the total
+amount of sound energy that is being put out there and how can you represent it with a
+single value? So the single value like I said is the red line. You can choose to note these L
+equivalent levels for shorter periods of time. For example, in this particular curve you
+may feel that the first part of the curve is quite different from the remaining part of the
+curve. So, the first part and the last part, they are very different from the remaining part
+of the curve. So you may want L equivalent for shorter duration. So your time average for
+shorter durations and your L equivalent line, the red line is no longer a single value. It is
+for these shorter durations and you can see that it varies and sort of smoothens the
+instantaneous values, but it gives you that it still represents the total sound energy level.
+
+There is another measure that is used very frequently, and this is the day-night average
+noise level. So the day-night average noise level, Leq is computed accounting for
+differences between daytime and night-time and therefore this Ldn is a very common
+statistical parameter.
+
+So, Ldn is computed for a 24-hour period. It has a penalty of 10 dBA for nighttime. So it
+is a nighttime day-night average, and this is very common for airport noise. So, Ldn is
+also referred to as DNL. The night-time period is defined for 10 p.m. to 7 a.m., and Ldn is
+derived from L equivalent with a time increment of 1 second. So because Ldn is computed
+for an entire 24-day 24-hour period, the total time period is 86,400 seconds. So when you
+modify the L equivalent equation, it will become,
+
+  =  10 log[ 1            10/10    +    10(+10)/10  ]
+
+                 86400
+
+Ldn is equal to 10 log 1 divided by 86,400 sum of all the measurements in the daytime
+plus sum of all the measurements in the nighttime. That is there are two sets of
+measurements and because the total amount of time is log 86,400 that comes to 49.4. So
+you can subtract that factor over here.
+
+ = 10 log [ 10/10  +  10(+10)/10 ] ­ 49.4
+So Ldn is 10 log sum of the daytime measurements, sum of the nighttime measurements
+minus 49.4. And the point to remember which is very important is that you have a 10
+dBA addition to the nighttime noises to account for that is the penalty. So let us say you
+take a measurement at night and that is 40 dBA you have to add 10 dBA to it so you have
+50 dBA. So the weightage of nighttime noises is much higher than the daytime noise.
+
+Now let us consider a case this is again from the textbook the noise level is 90 dBA for
+10 minutes and it followed by 70 dBA for 30 minutes. So your total time duration is 40
+minutes and the sampling interval is 5 minutes. If the sampling interval is 5 minutes, then
+the total number of samples is 8 and the fraction of total sample time for each sample is 1
+by 8, and therefore that is 0.125. So here for 10 minutes you multiply 0.125 by 2 to get
+0.25 and in the next case you have 0.75. So for one-fourth of the time you have 90
+decibels and for the remaining part of the time you have 70 decibels. So you come up
+with Leq for that reason. So you have your average equivalent so your L equivalent is 84
+dBA.
+Let us now come to the inverse square law. Now if you have a point source of sound so
+you have a either a microphone or some kind of device which you can assume to be
+spherical then the sphere the sound source is assumed to be a sphere okay and it has a
+radius of Delta (). So let us assume that the sound output from this spherical speaker is
+Delta () the radius is Delta it vibrates with uniform radial expansion and contraction
+sound waves are radiated uniformly in all three directions. If the sphere is placed so that
+no sound waves are reflected in any direction, they are fully propagated no reflection you
+can also determine another parameter, and that is Kappa () Delta (). Kappa () is the
+wave number per meter, and Kappa Delta by definition becomes a dimensionless number.
+The product of Kappa and Delta should be much much less than 1 and Kappa itself is 2 pi
+divided by lambda.
+
+                                                  = 2/ 
+
+Lambda is the wavelength of the sound in meters. So this becomes like I said a
+dimensionless number and if the product is much less than 1 then the sound intensity in
+any radial direction is inversely proportional to the square of the distance.
+
+                                                        
+                                                 = 42
+
+So I is the sound intensity `w' is the sound power from the source divided by 4r2 square.
+So imagine that you have a sphere at the center it has a radius Delta and the distance let
+us say the listener is here then the distance from the source of the listener is `r' and the
+sphere of propagation of sound is 4r2. So this for obvious reasons is the inverse square
+law. As the distance of the listener from the source increases the intensity of sound is
+decreasing by a square of the distance therefore it is called the inverse square law. So as
+the distance between the listener and the sound source becomes double in this case the
+intensity of sound is going to be reduced by r square. So 1 over r square yes 1 over r
+square.
+
+I have mentioned in a previous lecture that most of the environmental noise in normal
+activities is associated with different modes of transportation. So, we know that if you are
+living close to a highway if you are living close to a railroad or an airport, then the noise
+levels in that neighborhood are going to be very high compared to other places. So, for
+line sources such as roadway or railroad the reduction of sound intensity is inversely
+proportionate to r rather than r square. This is a simplification it is not because the inverse
+square law does not apply, but it is just simpler to make it is just a simplification of the
+problem. So, from a practical point, it is difficult if not impossible to measure the sound
+power of such moving sources. We generally when you think of the inverse square law it
+applies to stationary spherical point sources, and in this case, we are dealing with mobile
+sources that are traveling in a straight line. So it becomes very difficult to apply the same
+model. If we measure the sound pressure level at some distance from the source and then
+use the inverse square law or radial dependence relationship to measure or to estimate the
+SPL the sound pressure level. So let us take the inverse square law. The inverse square
+law would say that the sound pressure level at a distance let us say some location 2 and
+the source is 1 if this is 1 and the listener is 2 then Lp2 at a distance r2 from the source can
+be determined if Lp1 at some point r1 let us say r1 is the edge of the road where you are
+taking your measurement. So you can take a measurement at the edge of the road and
+maybe 10 meters 20 meters or some distance away from the road. So in that case you
+have two measurements one at r1 at the edge of the road and another one at the at some
+distance away. So you can measure,
+
+                                      2 = 1 - 10 log (12)2
+Lp2 is equal to Lp1 minus 10 log r2 divided by r1 to the square as part of the inverse square
+law. Now, for a line source, this has to be modified, and you can drop the square and
+come up with a similar with another way to estimate Lp2.
+
+                                       2 = 1 - 10 log (12)
+
+Then we come to transmission of sound in any outdoor environment. Now we know that
+in the environment we are not dealing with simple spherical sources of sound. In fact
+never is our source of sound a simple sphere. We are dealing with complex sources that
+are that can be considered point sources as long as the Kappa times Delta () is much
+less than one we can consider them to be point sources. So, to determine whether a
+particular source of sound is a point source or a different type of source these are the
+criteria that have to be met. So, the first thing is Kappa times Delta () has to be much
+less than one, r divided by Delta (r/) has to be much greater than one, r being the
+distance between the source and the listener and Delta () as I said is the radius of the
+sound source. Delta divided by Lambda (/) what is the wavelength and is that less than
+r by Delta (r/). So for r by Delta greater than three, Delta by Lambda will be much less
+than three. So at that point the conditions for point sources are met. So the empirical
+equation for measuring the sound pressure level at some distance away from such a
+source is equal to Lw minus 20 log r minus 11 and minus Ae.
+
+                                     - 20  log  - 11 - 
+So Lp is the desired SPL at some angle theta and distance r from the source in decibels.
+Lw is the measured reference level. So the reference level at the same angle theta which
+is assumed to be 10 to the power minus 12 watts. We also have another term and that is
+Ae. Ae stands for attenuation at a particular distance r. There are several methods for
+determining attenuation. How is sound attenuated as a function of r. So the first one you
+can sum it all up. So Ae is equal to the sum of Ae 1 2 3 4 5. These are the five examples
+that are given here, and maybe others can be included. So Ae1 is attenuation due to
+absorption by air. So simply because of distance as the distance increases you get
+attenuation because of adsorption of sound by air. Ae2 attenuation by ground. Ae 3
+attenuation by barriers. You may have metal barriers, you may have wooden barriers, you
+may have some other material that is in between. So those barriers will cause attenuation
+of sound. If you have vegetation many times you see that there is an entire barrier some
+kind of fence some kind of foliage is there and that leads to absorption of sound. So Ae4
+and then you have buildings very often by the sides of roads and railroads you find that
+there are buildings all along. You may have a wall in all cases there will be attenuation of
+sound by these buildings and walls and whatever other structures are built.
+
+The sound power level of a compressor is given over here. You have to determine the
+sound pressure level 200 meters downwind on a clear summer afternoon if the wind
+speed is 5 meters per second. Temperature taken is 20 degrees, relative humidity is 50%,
+parametric pressure is 101.3 kilopascals and at this under these conditions the attenuation
+by air is 0.94 decibels, total ground attenuation is minus 2.21 decibels and we know that
+the ground is attenuating the noise by reflection. So the equation here is modified this
+particular equation is modified to include all these factors. So you have your compressor
+noise that is the first one minus 20 log of 200 to account that is your r value minus 11 for
+the reference value minus 0.94 attenuation by air absorption and minus off minus ground
+level attenuation. So it is actually going to add up because of reflection, and that will give
+you a positive value of 2.21. So your total noise level is going to be 69 decibels at 1000
+Hertz.
+
+Then we come to the noise standards for construction. Now all construction activities are
+going to result in noise. Depending on the land use category there are standards these are
+the US standards for noise depending on the land use category. So, you have land use
+category A where serenity quiet conditions are important these can be amphitheaters,
+parks, open spaces which are dedicated for quiet conditions. So over there L equivalent
+value is 57, L10 value similar to the L30 that we looked at in the previous slides that was
+60. So here it is L10 of 60 decibel A. For residential areas, residences, hotels, schools,
+churches, libraries, hospitals, recreational areas, playgrounds, parks, land use category is
+B. The standards are L equivalent of 67 and L10 of 70. Developed lands, properties,
+activities not included in category A and B. So you have L equivalent of 72 and L10 of 75.
+For category D which is undeveloped lands there is no limit. So it is unlimited there are
+no standards and for category E public rooms, schools, churches, libraries you have the
+interior. This is for all the other standards are for the exterior or outdoors and for the
+interior the standards L equivalent is 52 and the same L10 for the interior.
+These are my references for this particular lecture. Thank you.
+

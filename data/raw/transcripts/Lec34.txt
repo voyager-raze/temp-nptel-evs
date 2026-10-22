@@ -1,0 +1,395 @@
+                                            Environmental Science
+                             Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                               Indian Institute of Technology Kharagpur
+Week 07- (Lecture 04) : Circular Economy (Circular Business Models
+
+Welcome to lecture 4 of week 7 of the NPTEL online certification course on Environmental
+Science. In the last two lectures, we have seen the 9 R framework in its totality and how it can
+contribute to make a transition towards a circular economy. In today's lecture, we will see how
+organizations can contribute to the emerging circular economic concept by adopting circular
+business models. So, specifically today we will be learning about the following 5 business models
+of circularity that is the circular supply chain, product as a service, product life extension, sharing
+platforms, recovery and recycle. So, at the end of this lecture, you should be able to explain about
+these 5 models of circular economy and how they can contribute towards the emerging circular
+economic concept for any organization in a holistic manner.
+The Circular economy (CE) is a system that is designed to be restorative and regenerative in order
+to transition current linear production and consumption patterns to cyclical ones that remove waste
+from the system. CE is increasingly seen as way to contribute to sustainable development.
+
+The shift to the circular economy requires companies to rethink more than just their use of
+renewable energy and toxic chemicals and their resource footprint to capitalize on the benefits the
+circular economy offers. It requires a redesign and adoption of innovative business models based
+on dematerialization, longevity, remanufacturing, refurbishment, capacity sharing, and eventual
+recycling.
+
+One way for organizations to contribute to the CE is through circular economy business models
+(CEBM). CEBMs work to reduce resource use and waste within production, but also to extend
+product life cycles and employ strategies that allow the consumer to do more than buy, use and
+dispose.
+
+To this end, five circular business models have been proposed which companies can leverage--
+singly or in combination--to generate resource productivity improvements in innovative ways that
+also cut costs, generate revenue, and enhance customer value and differentiation. Let's take a
+closer look at these models and some of the corporate leaders who are on the forefront of the
+transition to the circular economy.
+At its core, the Circular Supply-Chain business model offers access to fully renewable, recyclable
+or biodegradable inputs as substitutes for linear ones. For example: renewable energy is an
+essential resource input for almost any product's circular value chain, replacing nonrenewable
+energy and reducing greenhouse gas emissions. Bio-based material such as biochemicals or
+bioplastics ­ referred to as "biological nutrients" ­ can replace nonrenewable and toxic inputs and
+will safely degrade in a natural environment after use. Recyclable inputs such as metals or minerals
+­ or "technical nutrients" ­ can be infinitely recycled and reused as long as a return chain is
+functional, there is no resource leakage along the value chain and the resource is not contaminated.
+
+The Circular Supply-Chain model is critical in our world of finite resources. As a provider weans
+itself from increasingly scarce and sometimes toxic commodities, it develops a more predictable,
+long-term, cost-effective source for the energy or materials it sells to manufacturers. This model
+also offers providers a competitive edge on demand: Customers looking to reduce risk, secure
+stable pricing, comply with regulations, ensure long-term supply and make more good than harm
+are likely to become long-term partners. In fact, a large majority of consumers would choose a
+sustainable alternative over a conventional if comparable one on price and quality. This is the
+market-share power of circular supply chains.
+AkzoNobel, the Dutch multinational company which creates paints and performance coatings for
+both industry and consumers worldwide, is increasingly committed to deliver sustainable and
+innovative solutions that its customers, communities ­ and the planet ­ can increasingly rely on.
+AkzoNobel focuses on product innovation in many different ways, to meet customers' growing
+needs and expectations, without compromising on quality.
+
+Recent examples include Dulux Weathershield solar reflective paint, that reduces surface
+temperature by up to 5 degree celsius.
+
+Rediset additives that allow asphalt to be mixed at lower temperatures
+
+and Intersleek marine coatings that help ships to reduce fuel consumption and cut emissions.
+
+AkzoNobel also purchase steam from a local waste incinerator in the Netherlands and have entered
+into a major partnership to explore the possibility of extracting chemicals from waste.
+Since 2004, AeroFarms has envisioned a new, innovative method of farming­one that produces
+high-quality greens year-round, uses less water, and yields higher levels of produce.
+
+The technology behind AeroFarms utilizes aeroponics in a fully controlled indoor environment
+inside of an old steel warehouse. Produce is grown using aeroponic mist and a cloth medium to
+imitate soil and LED lighting to mimic sunlight. The aeroponic mist works on a closed-loop system
+that uses 95% less water than traditional farming. Similarly, the macro- and micronutrients are
+closely and continuously monitored to produce at a rate of 390 times more productivity per square
+foot than a conventional farm. Because these plants are grown indoors, pest infestations are
+immediately mitigated, and pesticides are never required. These innovations collectively help
+contribute to greens of superior quality, high food safety, faster harvest cycles, and environmental
+efficiency.
+All around the world, across industries and products, customers are forsaking ownership of a range
+of items they used to purchase: cars, bikes, strollers, smartphones, clothes, printers, solar panels,
+art, and tires, just to name a few. They're opting instead to buy access to ­ and the performance of
+­ these items on either a short- or long-term basis. Helping companies capitalize on this new mind-
+set is the Product as a Service (PaaS) business model.
+
+Companies leveraging the PaaS model retain ownership of a product and offer it to one or many
+customers in a "Product Service System." Under this model, companies offer the physical product
+and services to maintain a product's use through design, use, maintenance, reuse, remanufacture,
+and recycling. All that is done in close collaboration with the customer, who becomes more of a
+"user" of the service as opposed to a "consumer" of a product.
+
+Research has shown that variations of this business model can, if managed correctly, yield
+environmental footprint reductions of 20 percent to 50 percent and, in some cases, upward of 90
+percent.
+
+The PaaS business model can take several forms:
+
+Pay for use: Customers buy output rather than a product and pay based on use metrics such as
+miles driven, hours used, pages printed, or data transferred.
+
+Leasing: Customers buy contractual rights to use a product over a longer period of time, typically
+with rights to exclusive and individual access.
+
+Rental: Customers buy the rights to use a product for a short period of time, typically less than 30
+days. A rental setup is generally more flexible than a lease agreement and customers might not
+have guaranteed unlimited access.
+Performance agreement: Customers buy a pre-defined service and quality level and companies
+commit to guaranteeing a specific result. For example, it could be a "clean and snow-free street,"
+a "healthy indoor climate," or a "well-lit city street."
+Companies that offer this circular business model can establish longer and stronger relationships
+with customers. They also achieve more value out of each product by charging for its multiple uses
+and incented to design products that recover and reutilize the materials back into production as
+they maintain ownership.
+
+Back in the day, when an airliner's engine approached end-of-life (based on flight hours) or failed
+abruptly, the airlines would purchase a replacement engine from vendors like Rolls Royce, install
+them and maintain them. An unexpected engine failure could cost the airlines millions in engine
+replacement costs, lost flight revenue, need to reschedule stranded passengers, need for back-up
+aircraft, buffer engine inventory, crew over-time, etc.
+But given the multiple models of planes in a typical fleet, there were often multiple engine models
+to keep track of and monitor. It became apparent that airline service departments were not qualified
+or equipped to maximize the life of it's jet engines, often replacing them prematurely or letting
+them run until they failed unexpectedly.
+Rolls Royce realized that airlines didn't want to be in the "jet engine business", the airlines wanted
+to focus on flying passengers from point A to B. So Rolls Royce developed a new "subscription"
+model called "power-by-the-hour." Basically, it was Engine-as-a-Service (EaaS).
+For a flat hourly rate per engine, Rolls Royce would handle installations, check-ups, maintenance
+and decommissioning. From the standpoint of the airlines, this was perfect. The finance
+department loved the predictability of the subscription payments, as opposed to the "lumpiness"
+of engine purchases and overhauls. The airlines loved not having to spend resources on engine
+inventory, repair facilities, technicians and engine liability insurance.
+The advantage for Rolls Royce was economies of scale. Since they were now managing the
+lifecycle of hundreds or thousands of aircraft engines, they could invest heavily into studying how
+engines performed, how to keep detect potential failure points, what types of preventative
+maintenance was most effective, etc. Rolls Royce became the experts in, not only designing and
+building jet engines, but also operating and repairing engines.
+
+Hilti is a leading provider of technology to the global construction industry. Through its Tool Fleet
+Management Program, Hilti's products, services and system solutions address professional
+construction and building maintenance activities: measuring and opening (such as drilling and
+demolition), executing cutting and grinding work, and finally, fastening and closing after the work
+has been completed.
+For companies with medium to large tool fleets, tool acquisition, maintenance and management
+can be costly and time-consuming. With the Hilti Tool Fleet Management Program a business
+benefits from a new tool fleet, less downtime, more reliability, greater protection and an improved
+monthly cash flow without a large up-front capital investment.
+
+Hilti's Tool Fleet Management Program, the first of its kind, covers every aspect of tool
+management. The full-service program includes a comprehensive review of a business's current
+tool fleet and recommendations based on its tool usage intensity and tool age. Hilti then provides
+tools that include the latest in safety and technology to increase the business's tool reliability and
+productivity.
+
+With Hilti Tool Fleet Management, there is no huge up-front cash outlay for fleet upgrades and
+costs are limited to one payment and invoice per month, which helps reduce administrative costs.
+
+The all-inclusive program includes tool purchases, repairs and replacement. If a tool should fail, it
+can be sent in for repairs immediately. This means no more estimates, purchase orders or internal
+delays, saving both time and money. When a tool is sent in for repair, it will receive priority
+treatment to make sure it is repaired and returned to the owner as soon as possible. All annual
+service, including regular maintenance, calibration and shipping, is covered meaning less
+administration for a company.
+
+At the request of its customer base, Hilti recently added another service i.e., theft coverage to Tool
+Fleet Management. Theft coverage offers a cost-effective solution in the event that a tool is stolen.
+For a small monthly fee, a company can cover its entire tool fleet and minimize its financial
+exposure. Several theft deterrent features, including customized tool labels and the Hilti Theft
+Protection System, are built into Hilti Tool Fleet Management.
+
+Hilti Tool Fleet Management is a usage model with no hidden costs. Simply put, you pay for the
+use of the tools with a low monthly rate that covers everything to keep those tools where they
+belong -- on the job and working.
+The Product Life Extension model helps companies extend the lifecycle of their products and
+assets to ensure that they remain economically useful. Material that would otherwise be wasted is
+maintained or even improved, such as through remanufacturing, repairing, upgrading, or
+remarketing. By extending the lifespan of the product for as long as possible, companies can keep
+material out of the landfill and discover new sources of revenue.
+Outdoor clothing manufacturer Patagonia has strived to remain true to its eco-friendly ethos by
+using organic cotton and recycled polyester in its products and by urging consumers to consider
+the environmental effect of their purchases.
+
+In the 2011 Black Friday edition of The New York Times, Patagonia published an audacious full-
+page ad telling viewers not to buy their jacket. Below the jacket's image was a message detailing
+why customers shouldn't buy the product. Among the listed factors were 36 gallons of water
+required to produce the jacket (enough to fill the daily needs of 45 people), 20 pounds of carbon
+dioxide emitted (24 times the weight of the jacket), and the amount of waste produced (two-thirds
+of its weight in waste).
+
+The message behind the campaign was to encourage people to consider the effect on the
+environment and to only purchase what they need. The idea behind it was all about not buying
+what you want, but what you need, and inspiring consumers to think twice before buying.
+
+The campaign also encouraged the idea of reduces, repairs and recycling their old clothing.
+
+Reduce: To reduce the amount of clothing customers buy and reuse old clothing
+
+Repair: Patagonia will help repair any Patagonia products which in tun will encourage customers
+to fix what's broken instead of re-buying.
+
+Reuse: Instead of sending old clothing to landfills, Patagonia will also recycle any old Patagonia
+clothing they have
+
+Recycle: Telling consumers not to send their clothes to landfills and that they can recycle it
+responsibly.
+Reimagine: Asking customers to imagine a world where they can only take what nature can replace
+
+In today's digital world, we all use a lot of electronic devices and gadgets. Personal electronics,
+such as mobile phones, tablets, and MP3 players, contain toxic and hazardous materials. These
+include arsenic, lead, and mercury, which are all very harmful to human and environmental health.
+The improper disposal of these electronics creates e-waste, which can pose a threat to the
+environment and the health of ourselves and loved ones.
+In order to combat the growing problem of e-waste, EcoATM is a safe, convenient and easy way
+to recycle or sell used devices for cash. If your cell phone can't be refurbished and reused, it'll be
+recycled.
+Automated ecoATM kiosks are located at a variety of retailers across the United States. These
+kiosks pay consumers on the spot for used smart devices. You can get an estimated quote online
+to see what your device is worth. You can also visit a nearby kiosk in person to get an immediate
+offer.
+Unlike a lot of other companies that buy used cell phones, ecoATM accepts phones, MP3 players
+and tablets in any condition.
+The company's goal is to reduce electronic waste, so even if your phone is completely unusable
+and the offer you receive is low, the kiosk will accept and recycle it.
+The fourth business model of the circular economy is Sharing Platform. This business model
+provides a platform to connect product owners with individuals or organizations that would like
+to use them. Rather than accepting that products sit idle, the platform boosts their productivity by
+allowing co-access or co-ownership.
+
+The Sharing Platform model lets multiple customers use the same resources, reducing demand for
+new manufacturing. It also allows for consumption growth without the need to produce anything
+new from scratch. The benefits to users include increased flexibility and availability: Customers
+can access thousands of products at various price points and locations, instead of being limited to
+a more narrow range of products served from a central site (such as the traditional store).
+
+The Sharing Platform business model facilitates the renting, sharing, swapping, lending, gifting,
+or bartering of resources. The platform owner does not offer any products itself, but creates a
+revenue stream from matching supply with demand for idle resource capacity. Companies make
+money by charging a percentage fee over all transactions that happen on the platform. Uber, for
+instance, takes 20 percent of all fares paid by customers. Other innovative revenue models include
+selling the user data that is collected, using analytics to market complementary products, or
+supplying insurance.
+
+Sharing platforms reduce the need to own a product or depreciating asset, and reduces waste and
+cost associated with its management throughout the entire lifecycle. This model can be leveraged
+by companies who want to want to increase the use and maximize value of products they sell.
+Online platforms are changing our daily life to make everything is easier by providing innovative
+services. As a typical example, Deliveroo is one of the biggest food-delivery platforms which
+provide the take-out services. Launched in London in 2013, it aims to bring great restaurants closer
+to their customers. Since it is difficult to get great quantity food delivered quickly in London,
+Deliveroo offers a platform to transform the way people think about food delivery by offering fast,
+transparent and reliable delivery from premium restaurants. Especially, the covid-19 pandemic has
+heightened its importance of takeaway delivered services to an incredible extent. In fact, after
+pandemic, more than 8 out of 10 UK customers ordered deliveries more frequently in December
+2021 than they did the year before. There is 110% increase of online orders in UK in the first of
+2020. The consumers can place orders on Deliveroo without contact and get takeaway meals from
+riders.
+
+Another attractive feature of Deliveroo is delivering by cycle. Delivering millions of orders from
+thousands of restaurants to consumers with self-employed couriers equipped with smartphones is
+a complex vehicle routing problem. Consumers want hot food within 30 minutes, restaurants want
+meals picked up when cooked, riders want multiple deliveries per hour, and Deliveroo needs to
+make money.
+
+To meet these challenges, delivery is done by cycles than by car. In one-way streets, cycles can
+bypass roundabouts and there is hindrance from congestion. Circling to find a free parking space
+adds precious time for cars; time that cyclists use to pedal to their destinations. Also, it reduced
+CO2 emissions, which in turn contributes to environmental sustainability.
+
+Such platforms have transformed the way people consume restaurant or street food. To put short,
+apps like Deliveroo have enabled:
+    · Ease of ordering food.
+    · The convenience of online payments.
+    · Contactless food deliveries.
+    · Real-time tracking of orders.
+    · Enhanced food ordering & delivery experience.
+
+FLOOW2 is the first business-to-business sharing marketplace that enables companies and
+institutions to share overcapacity of equipment, knowledge and skills of personnel. Users can
+register on the platform for free and participants pay a subscription to advertise their equipment
+on the platform, providing a revenue stream for FLOOW2.
+FLOOW2 facilitates the sharing of overcapacity of business equipment and the skills & knowledge
+of personnel that are under-utilised for half of the time, by making it transparent and tradable on
+their platform. The platform is currently operational worldwide with a rapid global expansion plan
+envisaged.
+FLOOW2 sees its platform as a win-win for businesses because companies who have committed
+the upfront capital investment on equipment can increase their revenue through using the platform
+to rent out any equipment and personnel not being deployed at full capacity. It also gives other
+companies access to equipment they need at rental prices that make it worthwhile as an alternative
+to investing in and owning the equipment.
+Advances in information and communication technology and social media have contributed to
+collaborative consumption's viability and FLOOW2 have designed an offering that enables
+businesses to take advantage of this trend. The key to a collaborative consumption business
+model's success is its ability to demonstrate to potential clients that the convenience of having
+access to equipment has more or equal benefits to owning the goods themselves. FLOOW2 has
+designed the customer interface of their platform bearing this in mind.
+Registration on the platform is free, enabling users to access an online planning tool for project
+managing equipment requirements and availability. The company also provide additional services,
+like online payments services, credit checks, tracking and trace service on assets and insurance
+through partnerships with other businesses. Participants pay a subscription to advertise their
+equipment on the platform, providing a revenue stream for FLOOW2.
+
+With global competition intensifying and resources becoming more costly, businesses are looking
+for ways to protect, recapture, and reuse the sources hiding in their production outputs and
+discarded products. That pursuit drives the Recovery & Recycling business model.
+With this model, a company looks for value not just when considering its end products, but all
+material streams that run through its business. In other words, every by-product and waste stream
+is optimized to maximize its revenue potential.
+Under the Recovery & Recycling model, everything previously considered waste is revived for
+other uses, effectively eliminating not only waste but the concept of waste altogether. Resource
+return chains transform waste into value through recycling and upcycling. (Upcycling means
+converting an old product or material into something more valuable.) By using new technologies
+and operating a two-way supply chain (i.e., moving products to customers and bringing end-of-
+life goods back), companies can recover almost any resource output to a level that's at least
+equivalent to their initial investment. Solutions range from sharing by-product resources among
+industries ­ to integrated closed-loop recycling and cradle-to-cradle designs, where disposed
+products can be reprocessed into something else without any resource loss.
+This model eliminates material leakage and maximizes the economic value of product return flows,
+making it attractive to companies producing large volumes of by-product that can be reclaimed
+and reprocessed at a reasonable cost. It is often possible to keep costs low when material flows are
+relatively pure and not locked into complex product designs.
+For customers, the benefit is clear: new and convenient ways to get rid of unwanted products,
+including pick-up services, drop-off points, buy-back, and send-back schemes. Companies actually
+compete for dead products, offering in-kind and cash compensation.
+The Recovery & Recycling model has a long history and, in a sense, is the latest effort to manage
+modern society's excess waste. Early waste-management initiatives concentrated on basic needs
+for removing waste from city streets to reduce health risks and improve quality of life. Focus
+eventually moved to creating landfills and, as landfills became crowded, to recycling waste. The
+Recovery & Recycling model takes the next logical step: working to make waste itself obsolete.
+In that regard, Recovery & Recycling is very different from recycling: It views waste not as an
+external problem to be dealt with only by legislation or waste-management entities, but as a
+resource that is fully integrated into the business model. Companies using this model think it is as
+natural to maximize profits on waste as it is on the products they make and sell.
+
+Timberland, widely known for its wheat-colored nubuck boots, launched Timberloop ­ a product
+take-back program. Through this program, consumers are encouraged to return any used
+Timberland footwear, clothing, or accessories so they can be given a new life. Returned products
+will either be disassembled and some parts will be reused, recycled/upcycled into new products,
+or refurbished for sale on a dedicated web site.
+
+The TimberloopTM program enables Timberland and its community to work together to "close the
+loop," keeping products and materials in circulation for as long as possible. Disassembling used
+products and putting materials back into their respective recycling streams translates into reduced
+waste and environmental impact. Timberland aims for 100% of its products to be designed for full
+circularity by 2030.
+
+To get the products to their next life, Timberland has partnered with ReCircled, a resource recovery
+enterprise working towards a sustainable future by means of preventing all resources from getting
+wasted into landfills and oceans.
+
+When ReCircled receives the returned products, each item is inspected and repaired for resale.
+Returned items that are beyond repair are disassembled. Reusable components such as zippers and
+buttons are used to repair damaged products while all other materials are ground down and put
+into respective recycling streams, for future uses. Examples of those uses include recycled leather,
+insulation and playground mulch.
+
+By making an account on the Timberland website, curious customers are able to track their
+products along the journey and know if they were repaired for resale or disassembled so the
+component parts can be reused or recycled.
+
+While Timberloop has been launched in the U.S., the company plans to expand the program to the
+Europe, Middle East and Africa (EMEA), and Asia-Pacific (APAC) region by 2023.
+Sportswear brand PUMA has launched its first "closed loop" range of products making it one of
+the first major brands to embrace the sustainable production practice.
+
+Closed loop products are designed and manufactured with their reuse and disposal built in from
+the start. The biodegradable components of the InCycle line include materials that can be broken
+down by microorganisms into biological nutrients. The recyclable components, in turn, are made
+with metals, textiles and plastic than can be reused to make other products.
+
+PUMA's InCycle range includes compostable t-shirts, a backpack that can be dismantled to create
+new backpacks and a jacket made from recycled plastic bottles that can itself be turned back into
+the raw material for polyester and reused, all of which reduce the need for crude oil, energy and
+the amount of waste created.
+
+To aid in the product collection and recycling process, PUMA has launched the "Bring Me Back"
+program globally within PUMA Stores and PUMA Outlets. PUMA has installed recycling bins
+instore where customers can return used shoes, clothing and accessories of any brand. The "Bring
+Me Back" program is designed to give consumers a convenient means of recycling products and
+lessening their environmental impact.
+
+Clearly, as important as technologies are to implementing circular business models, the success of
+these models hinges on capabilities that support the new ways of working. Without them,
+companies attempting to adopt circular business models face substantial risks of racking up
+additional or higher costs without reaping new benefits. Without the right capabilities, companies
+may face unnecessarily high costs to recover and reprocess used goods or delayed time to market
+as internal and external network governance fails to pull in one direction.
+
+Despite growing support for the circular economy, several barriers threaten to slow the pace of
+change. These obstacles include inconsistent quality of recycled materials, product designs that
+lack circular thinking, value chains that rely on products to become obsolete, linear ways of
+measuring and encouraging growth, limited tools to track and control products throughout the
+value chain, and a lack of good infrastructure to efficiently recover resources from markets. To
+scale at speed, the circular economy will clearly require a systems approach spanning areas
+including policy, technology, investment, and consumers.
+

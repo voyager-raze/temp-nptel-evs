@@ -1,0 +1,314 @@
+                                           Environmental Science
+                             Prof. Samik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                              Indian Institute of Technology Kharagpur
+
+                                                     Week 12
+                                                   Lecture 02
+                                Environmental Law and Rules in India
+
+Okay. So, welcome everyone to week 12 on environmental policy and legislation. Our
+next lecture, lecture 2 is going to be about environmental laws and rules in India.
+In this slide, you have a list of all the different environmental rules as well as laws that
+we are going to look at in this particular lecture.
+
+Our keywords for this lecture are act, rule, environment, CPCB, e-waste, battery,
+biomedical waste, municipal solid waste, plastic and construction.
+Let us start with one fundamental concept. Very often you will find that in
+environmental legislation you use we have the word act versus rule. So, what is the
+difference between an act versus a rule? An act is a law. Rules are the procedure that
+is required to follow that law. So, we will be looking at certain acts and the rules that
+come out of those acts. So, an act also means what should be done. It provides a basic
+framework for the law. Rules are guidelines. They can be modified. The act is more
+difficult to modify. The act contains substantive provisions and the rules specify the
+procedure for implementing the provisions of the act. The act is the statute which
+prescribes the action in terms of its provisions and the rules come from the act that is
+part of the statute to enable the provisions to be implemented. The act contains main
+legal provisions on a particular subject. Rules are mainly procedural. Passing an act
+through parliament is a very time-consuming exercise. Making rules is fairly easy.
+They have been amended several times and we will be looking at that briefly in the
+next few slides.
+So, these are the laws that we are going to look at, the laws as well as the rules that
+come from the acts. We are going to be spending some time in this lecture on each
+one of them and they are arranged here in chronological order. So, we will start with
+the Water Prevention and Control of Pollution Act, Air Prevention and Control of
+Pollution Act, Environmental Protection Act. These are the three acts. All other
+regulations are basically rules. We have the Hazardous Waste Management Handling
+and Transboundary Movement Rules, Biomedical Waste Handling Rules, Flyash
+Rules, Municipal Solid Waste Management and Handling Rules, Battery Management
+and Handling Rules, Plastic Waste Management and Handling Rules, E-Waste
+Management and Handling Rules and then Construction and Demolition Waste
+Management Rules.
+So let us start with the first one. What is the Water Act? The Water Act was passed in
+1974. It was in response to India signing the decision taken at the UN Conference on
+Human Environment in Stockholm in 1972. So, this act was enacted in India in 1974
+and it was last amended. It has gone through several amendments. It was last
+amended in 2003. The main objective of the Water Act was to provide for prevention,
+control and abatement of water pollution and maintenance and restoration of the
+water quality. One of the biggest points about this act was that central and state
+pollution control boards were established in the country to enforce these regulations,
+to collect and analyse samples, to impose penalties. If needed, industrial units could
+be closed by the Pollution Control Boards and they could publish the names of the
+offending industrial units. This particular act applies to all wastewater discharges,
+both municipal and industrial.
+We then come to the Air Prevention and Control of Pollution Act in 1981. The main
+objectives of the act were to prevent, control and abate air pollution. Again, the
+powers of the central and state pollution boards were increased to allow them to take
+samples, air quality samples. Remember in the first act, in the Water Act, it was only
+water samples. This act helped to broaden the scope of activities of CPCB and the
+SPCBs to take air samples as well and to ensure that they met air quality standards,
+discharge standards as well as ambient standards. The Air Prevention and Control of
+Pollution Act was enacted in 1981. It was amended in 1987. According to this act, no
+person can operate industries that include asbestos, cement, fertilizer and petroleum
+without consent of the state board. In fact, I think this list is much longer now. It also
+states that sources of air pollution such as industry vehicles, power plants are not
+permitted to release particulate matter, lead, carbon monoxide, sulphur dioxide,
+nitrogen oxide, volatile organic compounds and other toxic substances beyond a
+prescribed level. So, the discharge standards, the emission standards are decided by
+CPCB. The actual values and the parameters are given on the internet website. You
+can refer to them and all this is mainly under the Water Act and the Air Act. So, these
+two acts were designed to provide CPCB and SPCB the powers to implement the
+provisions of the two acts and to take samples and to determine who the offenders
+are.
+It was soon realized that simply having an Air Act and a Water Act is not sufficient.
+You need something more holistic that will take care of every part of the environment
+and not just air and water. And there were several other issues that came into the
+limelight and because of that, the Environment Protection Act was enacted in 1986
+with the objective of providing protection and improvement of the environment. The
+act was last amended in 1991. It allows the central government to establish
+authorities with the mandate to prevent environmental pollution in all its forms and
+to tackle environmental problems that are peculiar to different parts of the country.
+According to this act, environment word includes air, water, land and the internal
+relationship between all of these and human beings, other living creatures, plants,
+microorganisms and property. So, you can see that it has an overriding scope as
+against Air and Water Act which have a limited scope. As part of the Environment
+Protection Act, it became mandatory to have environmental impact assessments for
+all large projects that are proposed by any agency within the country. In the last
+lecture in this series, I will be talking about one case study based on the
+environmental impact assessment.
+So, we come to the first set of rules after the Environmental Protection Act was
+passed. These are the Hazardous Waste Management, Handling and Transboundary
+Movement Rules. They were first passed in 1989. There have been several
+amendments since then in 2000, in 2003 and perhaps in between and the latest
+amendment is in 2022. The current notifications supersede all former notifications.
+What is hazardous waste? According to the rules, hazardous waste implies that any
+waste because of its physical, chemical, reactive, toxic, flammable, explosive or
+corrosive characteristics causes danger or is likely to cause danger to the health of
+human beings or to the health of human beings and other organisms or to the
+environment either by itself or when it is in contact with other hazardous waste
+materials or substances. So, you can see some of the symbols that are used on many
+chemicals and compounds and containers. You will often find these kinds of symbols
+to make everyone aware of the fact that these are hazardous materials. The
+Hazardous Waste Management Rules were notified to ensure safe handling,
+generation, processing, treatment, packaging, storage, transportation, use,
+reprocessing, collection, conversion and finally offering this waste for sale,
+destruction and disposal. So one of the most important things that has happened after
+the passage of these rules is that we now have treatment, storage and disposal
+facilities for hazardous waste in different states. So, these TSDF facilities have been
+created in many different locations. The rules are also important because they define
+the duties of various authorities including the Ministry of Environment, Forests and
+Climate Change, the Central Pollution Control Board, the State and Union Territory
+governments, the State Pollution Control Boards, the Foreign Trade, DGFT stands for
+the Directorate General of Foreign Trade, Port Authorities, Custom Authorities all of
+them have been given clear responsibilities and duties wherever hazardous waste
+generation, handling and disposal is part of their work. Another important point in
+the latest notification is that waste rubber tires have now been included in this and
+the extended producer responsibility which started with e-waste, I will be talking
+about that later, but something that came into effect in the rules with e-waste is now
+part of hazardous waste, it is part of batteries waste or rather waste batteries as well
+as e-waste and this is as of 2022.
+
+So here we have the Biomedical Waste Handling Rules, these rules were notified in
+1998 by the Ministry of Environment and Forests as part of the Environmental
+Protection Act. These rules apply to all persons who generate, collect, receive, store,
+transport, treat, dispose or handle biomedical waste in any form. Keep in mind that
+biomedical waste comes from several different sources. So, you have hospitals,
+nursing homes, laboratories, pathology labs, any other possible source of research
+labs all of them can be the generators of biomedical waste. So, any of these sources
+are under the purview of this particular set of rules. The prescribed authority for
+enforcement of these rules in respect of all healthcare facilities located in any state or
+union territory is under the State Pollution Control Board. They were recently revised
+in March of 2016.
+There are several biomedical waste categories. There are four major categories that
+are shown in this slide and the next. So, the yellow category includes human, animal
+and anatomical waste, waste contaminated with blood or body fluids, expired or
+discarded medicines, microbiological, biotechnical and clinical lab waste and
+discarded disinfectants. That is in the yellow category. And remember these three
+intersecting circles are also the symbol that is used for biomedical waste. The color
+code red is for contaminated waste. So, waste from disposable items, tubings, bottles,
+intravenous tubes, catheters, urine bags, syringes, all these come under the red
+category.
+The blue category is for sharps, anything that is sharp material, metallic sharp
+material. So, needles, syringes, needle cutters, scalpels, blades, contaminated sharp
+objects that can cause cuts and punctures and so on.
+So they all come in the blue category. And the white category is for glassware, broken,
+discarded or contaminated glass, including medicine vials, ampoules, anything
+contaminated with cytotoxic waste and metallic body implants. All of that comes in
+the white category.
+
+Then we have the fly ash rules in 1999. Now it is very important for everyone to
+understand where this fly ash is coming from. So here you see a photo of a thermal
+power plant. In a thermal power plant, there are two parts. There is a furnace inside
+where the coal is burnt for generating electricity. There will be some amount of ash
+that will fall to the bottom of the furnace. And as the name suggests, it is called bottom
+ash. There is another part to the thermal power plant and that is the flue gases. So,
+you have your chimney stacks. These are the smoke stacks or the chimneys through
+which the hot gases will rise and go into the atmosphere. Now they may pass through
+air pollution control equipment. In any case, whether the air pollution control
+equipment is there or not, you will get very fine particulate matter will also go along
+with the hot gases into the atmosphere. So if there is air pollution control equipment,
+it will capture the fine particulate matter. And if there is no equipment, it will go into
+the atmosphere. Now assuming that there is sufficient capture of this fine particulate
+matter by the air pollution control equipment, that fine particulate matter is called fly
+ash. Fly for the simple reason that is flying out of the chimney or the smoke stack. And
+this material has cementaceous or pozzolanic properties. So, it was found that one of
+the best reuse and recycling applications of fly ash is to use it for making bricks. So,
+the central government issued directions for restricting the excavation of topsoil for
+manufacture of bricks, promoting the utilization of fly ash in the manufacture of
+building materials and in construction activities within a radius of 100 km from a coal
+or lignite based thermal power plant. The amendment notification came on 3rd
+November 2009. It set a timeline for achieving the target of 100% utilization of fly
+ash. It was observed that the thermal power plants have not yet achieved 100%
+utilization. In the next slide, you will see some statistics regarding this and they have
+achieved about 92% in 2020-21. It has also been observed that construction agencies
+are not using fly ash and fly ash-based products in their construction projects. There
+is an urgent need to provide additional measures for utilization of fly ash and fly ash-
+based products in the country. There is also some fear of the presence of toxic heavy
+metals in the fly ash. Remember that when coal is being burnt, all of the combustible
+material will be burnt. But what is left behind in the ash is heavy metal content
+including certain radioactive elements and so on. And therefore, there is an
+enrichment in the ash of toxic heavy metals as well as radioactive elements. How
+much enrichment there is and whether it is significant enough to cause health
+problems, these questions are very important and they need to be answered. And
+another point, keeping these questions in mind and clear answers to these questions,
+it is important to understand that fly ash-based products are best used in outdoor
+environments and not in indoor environments. Recently, fly ash management and
+utilization mission was constituted by the National Green Tribunal. The aim of the
+mission was to coordinate and monitor issues relating to the handling and disposal
+of fly ash. At this point, what is the situation in terms of utilization of fly ash? As of
+2020-21, number of thermal power plants from which the central electrical authority
+was able to get data was 202 thermal power plants, there are perhaps 1000s in the
+country. The installed capacity in terms of megawatts was approximately 2 lakh
+megawatts or 2.1 lakh megawatts. The coal consumed in terms of millions of tons was
+686. The percentage of ash in the coal on average was 33 to 34%. Fly ash generation
+in millions of tons therefore is 232.56 million tons and the utilization is about 92.4%.
+These are the statistics from the Central Electricity Authority. From the Central
+Electricity Authority, these are their statistics, which shows that fly ash utilization is
+pretty high, it is almost 92%. And there are some issues that we have to be aware of
+that it is okay to use fly ash bricks in the outdoor environment, but not in the indoor
+environment.
+
+We then come to the municipal solid waste law. The first box over here shows a court
+case. This was a very famous court case between Almitra Patel, who is an
+environmentalist versus the Union of India. She took the government to court and the
+whole point of this case was to improve the solid waste management level. And I will
+be talking more about that in the next lecture. This case was like I said a landmark
+case and it led to the formulation of the municipal solid waste management and
+handling rules in 2000. These rules were then amended, given a new name, solid
+waste management rules in 2016. There are several ancillary rules that are
+mentioned here as well as in previous slides. I will not go through all of them, but they
+are all related in some manner to the solid waste issues.
+So let us come to the municipal solid waste management and handling rules of 2000
+and their revision in 2016. These rules apply to every municipal authority. The
+municipal authority of a given area is held responsible for collection, segregation,
+storage, transportation, processing, and disposal of municipal solid waste. What are
+the main points? Main features are the vision for solid waste management for the
+country is aligned in the revised rules with the Swachh Bharat Mission. One of the
+biggest changes in the revised rule is segregation of waste. Segregation of waste at
+the source is now mandatory as part of the revised rules. Waste generators have to
+segregate waste into three fractions, biodegradable, non-biodegradable, and
+domestic hazardous waste. And this has to be given to the waste collection team.
+Door-to-door collection is also mandatory as part of the new solid waste management
+rules. Sanitary waste has to be wrapped separately and included in non-
+biodegradable waste. Biodegradable waste can be converted to compost and it has to
+be co-marketed by the Department of Fertilizers with the fertilizers. The Ministry of
+New and Renewable Energy will also facilitate creation of waste to energy
+infrastructure for managing the biodegradable waste. So, supposing somebody wants
+to set up a biogas plant, the Ministry of New and Renewable Energy will help with
+that.
+We then come to the batteries management and handling rules of which were first
+enacted in 2001. They have been amended recently in 2022. These rules were initially
+for lead acid batteries which are used in motor vehicles and inverters. Now the scope
+of the batteries management and handling rules has been widened to include all types
+of batteries regardless of their chemistry, shape, volume, weight, material
+composition and use. There are some exceptions, batteries that are used for security
+equipment or in space exploration missions. They are outside the purview of these
+rules. All other batteries, whatever you use in your mobile phone versus whatever is
+used in motor vehicles, industries and so many other applications, they are all under
+the purview of these rules. Under the latest amendment, EPR has been brought into
+effect. So EPR is extended producer responsibility. In this case, the producer is now
+solely responsible for the collection, recycling and refurbishing of obligations and
+targets that have been specified for different years in specific schedules attached to
+the rules. These waste batteries have to be recycled or refurbished. They cannot be
+landfilled and they cannot be incinerated. There is an online centralized portal that
+has to be maintained by CPCB. All recyclers, refurbishers, producers, all involved in
+the entire collection and disposal chain have to register on this online centralized
+portal. They have to update this information and if there is any change, they have to
+keep CPCB informed about it. The collection of waste batteries is the producer's
+responsibility. Remember as part of the circular economy, the producer is now
+responsible for the product to the end of its life and literally beyond because they
+have to collect the waste batteries, they have to recycle or refurbish these batteries
+and they can outsource this work to other agencies and so on, but it remains their
+responsibility. The producer may operate any scheme that they deem fit including the
+deposit refund scheme, buyback scheme or any other business model that helps them
+to recover waste batteries.
+
+Let us now come to the e-waste management and handling rules of 2011. They came
+into effect in 2012, they were amended in 2015 and then again in 2022. These rules
+apply to all people that are engaged in any aspect of electronic waste equipment in
+terms of manufacturing, producing, refurbishing, dismantling, recycling, any aspect
+of the entire chain of collection and disposal is under the purview of these rules. This
+also includes not just the entire gadget or appliance, but its components,
+consumables, parts and spares and it does not apply to the waste batteries, packaging
+plastics, micro enterprise wherever they are involved and radioactive materials. For
+the simple reason that these four categories have their own rules and therefore they
+are exempt from the e-waste management and handling rules. In the e-waste rules of
+2011, the extended producer responsibility was not clear. It has now been defined
+very clearly in the amendment of 2022. There is a framework that is provided within
+the rules, producer responsibility organizations have to be set up and the EPR is very
+well defined. Depository fund scheme is a very popular scheme and this is part of the
+e-waste rules. This is something that is common in other countries and now it has
+been made part of the rules. A portion of the sale price will be retained by the
+producers and will be refunded to the consumer when they return the product at the
+end of its life and once the end of the life products are channelized according to the
+prescribed methods. So, this makes it easier for the producer to collect their
+electronic waste or electrical and electronic waste. Another new point in the amended
+rules is that solar photovoltaic cells and panels are now under the purview of these
+rules.
+
+So, we now come to plastic waste management rules of 2016. These rules were last
+amended on 6th July 2022. The salient features of the rule are carry-bags shall be
+made in natural shade, they will be either colorless meaning transparent or they will
+be white. They will not have any added pigments or if they are made using pigments
+and colorants, they have to be in conformity with the Indian standard that is shown
+over here. Another very important point is that carry bags have to be made of virgin
+or recycled plastic and they should not be less than 120 microns in thickness. So, the
+thickness of the carry bag is very important and they have to be extremely thick carry
+bags. If the carry bags are made from compostable plastic, they have to conform to
+the Indian standard code that is shown over here which is titled specifications for
+compostable plastics and these standards can also be amended from time to time.
+Recycled plastics or products made out of recycled plastics will not be used for
+storing, carrying, dispensing or packaging food stuff. Sachets using plastic materials
+shall not be used for storing, packing, selling gutkha, tobacco, pan masala and so on.
+So, these materials are also not to be used. Another major feature of these amended
+rules is the extended producer responsibility. If you remember the extended
+producer responsibility was part of the electronic waste management rules only. This
+has now been incorporated into the plastic waste management rules as well. It now
+applies the same concept, the same rule applies to all producers, importers and brand
+owners of plastic packaging.
+Construction and demolition waste management rules came into effect on 29th March
+2016. They apply to all waste from construction, repair and demolition activity
+associated with any civil structure of whether it belongs to an individual organization,
+authority, whatever the ownership may be and it may include any material, building
+material, debris, rubble and so on. What are the criteria for selecting the sites for
+processing of construction and demolition waste? Processing and recycling sites
+should be large enough to last for 20 to 25 years. They should be far away from human
+settlements, from forest areas, from water bodies, from monuments and places of
+historic or religious interest. A buffer zone has to be maintained, the site has to be
+fenced and separated from trespassers. Approach roads have to be made to avoid
+dust. The site should be equipped with firefighting equipment and a way bridge and
+a way bridge for monitoring of how much waste is coming in and how much is being
+sold to recyclers and so on.
+These are the references that I have used for this particular lecture. Thank you.
+

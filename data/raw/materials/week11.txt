@@ -1,0 +1,1060 @@
+Week 11: Ecology and Soil Pollution
+Lecture 01 ­ Fundamentals of Ecology - I
+§ Ecosystems - what are they and how do they work
+§ Ecological Hierarchy
+§ Ecological Niche
+§ Food chains and Food webs
+§ Trophic Pyramids
+§ Ecology
+§ Ecosystem
+§ Biome
+§ Productivity
+§ Ecological niche
+§ Trophic levels
+  Ecology and ecosystems - definitions
+
+Ecology
+
+'eco' derived from the Greek word `oikos' meaning house or place to live. Ecology literally means the study of
+  organisms `at home'.
+
+Definition:
+
+The study of the interrelationships between living organisms or groups of organisms (biotic) and their
+  environment (biotic and abiotic)
+
+Ecosystem
+
+A self-contained community of organisms (or groups of organisms) and their non-living environment
+
+Defined by flows of mass and energy in and out of the system and the impact on the abiotic (non-living) and
+  biotic (living) components of the system; and some degree of functional stability.
+
+Ecosphere or biosphere
+
+The aggregation of all ecosystems on Earth
+                   A GENERIC ECOSYSTEM
+
+Sun                 Energy flow, unidirectional
+                    Mass flow, cyclic
+                    Energy and mass flow
+
+    Producers          Herbivores            Carnivores or
+(AUTOTROPHS)        2nd trophic level          Omnivores
+1st trophic level
+                                       3rd, 4th... trophic levels
+
+     Nutrient Pool                     Decomposers
+
+Climatic factors: location, temperature, precipitation, humidity, winds, topography, soil
+            OXIDATION OF O
+
+CO2 +  H2O        SUNLIGHT  [CH2O] +                                                    O2
+            CHLOROPHYLL
+                                                                                       Productivity
+                                      REDUCTION OF C                                           &
+
+Basically, this is a redox reaction as are most biochemical reactions.                Photosynthesis
+
+Photosynthetic activity and rates of CO2 fixation, O2 production, biomass
+production can be estimated in many ways.
+
+The above reaction is an oversimplified representation of the actual
+biochemistry of photosynthesis! It provides a simple stoichiometry for C, H
+and O and can be used later to determine an ecosystem's productivity!
+
+          What's missing?
+Other inorganic nutrients like N, P, S, Ca, Mg, Fe, K ­ these nutrients are recycled
+through biogeochemical cycles.
+CLASSIFICATION OF ORGANISMS
+
+· Based on C source                                               Photosynthesis
+
+     · Autotrophs (self-feeding)                             CO2
+
+            · CO2 (inorganic C) " organic C (biomass)                             Organic C
+
+     · Heterotrophs (other-feeding)                               Autotrophs (self-          Heterotrophs (other-
+                                                                       feeding)                     feeding)
+            · Organic C " organic C (biomass)
+
+· Based on energy sources
+
+     · Phototrophs " Light
+     · Lithotrophs (chemotrophs) " Inorganic chemicals
+     · Heterotrophs " Organic chemicals
+
+                                                             Sulphur bacteria
+                                                             utilising energy
+                                                             from sulphur
+                                                             deposits are a good
+                                                             example of
+                                                             Chemotrophs
+
+Phototrophs  Morning Glory Pool, Yellowstone National Park;
+             daveynin from United States, CC BY 2.0
+TYPES OF ECOSYSTEM
+                           BIOMES
+
+Biomes are terrestrial ecosystems where the biological communities are grouped
+into categories based on the dominant plant form [Ricklefs and Miller, 2000].
+
+Sten Porsederivative work CC BY-SA 3.0 via Wikimedia Commons    Biomes based on temperature
+https://upload.wikimedia.org/wikipedia/commons/7/77/Biomes.jpg  and precipitation
+
+                                                                Navarras, CC0, via Wikimedia Commons
+                                                                https://upload.wikimedia.org/wikipedia/commons/
+                                                                6/68/Climate_influence_on_terrestrial_biome.svg
+                                                                                                Amazon rainforest     BIOMES
+
+                                                                                                Acacia, Negev Desert  Biomes based on
+                                                                                                     ­ subtropical    temperature and
+
+                                                                                                                         precipitation
+
+Navarras, CC0, via Wikimedia Commons                                                            Siberian Tundra
+https://upload.wikimedia.org/wikipedia/commons/6/68/Climate_influence_on_terrestrial_biome.svg
+                         Taxonomy
+
+· Individual: Organisms that share unique morphological, physiological, and behavioral attributes comprise a
+
+ species. These attributes often determine the ecological role or niche of a species in an ecosystem.
+
+· Taxonomy is based on the following hierarchy: Domain, kingdom, phylum, class, order, family, genus, and
+  species.
+     · Within species, the next level is strain where individuals have reproduced from the same parent cell or
+        organism
+
+                                        Taxonomic hierarchy of Red fox (Vulpes vulpes)
+
+                                                                            Annina Breen, CC BY-SA 4.0, https://upload.wikimedia.org/wikipedia/commons/7/71/Taxonomic_Rank_Graph.svg
+           ECOLOGICAL HIERARCHY
+
+· Population refers to the numbers or groups of organisms of the same species
+   that occupy a given area (or ecosystem or part of it). These populations, their
+   interrelationships, and relationship with their environment are impacted by
+   any physico-chemical changes within the ecosystem.
+
+· Communities: Populations of different species thus affected constitute
+   communities within an ecosystem. These communities (large or small-in terms
+   of diversity or area) determine the flows of mass and energy in an ecosystem,
+   and are themselves affected in terms of their dynamics, structure, growth and
+   development, adaptation, and homeostasis.
+
+· Homeostasis in ecology is the ability of an ecosystem to maintain its overall
+   stability despite any disturbances. It is a result of the combination of
+   biodiversity and the ecological interactions that occur between the species. -
+   The ecosystem is maintained as an equilibrium.
+                  ECOLOGICAL HIERARCHY
+
+· Habitat: place or set of environmental conditions in which a specific organism lives
+· Niche: Position occupied by an organism in an ecosystem ­ can be defined in an
+
+   abstract, all-encompassing sense, or more specifically as:
+     Spatial niche: physical space occupied by the organism, distribution of population,
+     habitat
+     Trophic niche: functional role in the community, trophic level, position in
+     environmental gradients of pH, light, temperature, moisture, soil,.......as shown in
+     next slide
+     Behavioural niche: its way of life, predator-prey relationship with other organisms,
+     competitor
+                               ECOLOGICAL NICHE
+
+a.                         b.
+
+                                                    Two-dimensional niche assuming that
+                                                         temperature and humidity are
+
+                                                 (a) independent variables and (b) interacting
+                                                       variables. Best example is human
+
+                                                  response/tolerance to these two variables
+
+                                                                        Kormondy, 1996
+
+A Three-Dimensional Niche      Two populations with overlapping niches
+FOOD CHAINS, FOOD WEBS AND TROPHIC LEVELS
+
+Food chain:                          Humans  Productivity: amount of biomass produced per unit
+                                             area per unit time
+   Corn                                      Food chains: unidirectional, linear flow of mass and
+                       Chicken Eggs          energy starting with producers and ending with
+                                             consumers (generally the apex predator such as a
+ Food web:                                   tiger or lion in a forest) or decomposers.
+                                             Each level of a food chain represents a trophic level
+                                             Food webs: unidirectional flow of mass and energy in
+                                             an ecosystem with interlinking between several food
+                                             chains
+          TROPHIC LEVELS AND PRODUCTIVITY PYRAMIDS
+
+            0.1                              0.1                10
+            1.18                             0.58                100
+                                              1.15
+               26.5                      15.2                       1.7 x 104
+         275
+                                  Biomass               33.7 x 1010
+  Productivity                   (Dry g/m2)
+(Dry mg/m2.day)                                         Numbers
+                     Food chain in a pond           (Individuals/m2)
+
+Producer  Herbivore
+
+(phytoplankton) (copepods and  First Carnivore      Second Carnivore
+
+                     others)
+· Kormandy EJ (1996) Concepts of Ecology, Prentice Hall of India, New Delhi.
+· Henry, JG and Heinke, GW (1996) Environmental Science and Engineering,
+
+   Prentice Hall, New York.
+Week 11: Ecology and soil pollution
+Lecture 02 ­ Fundamentals of Ecology - II
+§ Solar Radiation
+§ Earth's Energy Budget
+§ Producers and Photosynthesis
+§ Productivity
+· Solar energy
+· Irradiation
+· Gross Productivity
+· Net Productivity
+· Eutrophication
+· Water quality
+                                                                        SOLAR
+                                                                     RADIATION
+
+                                                                                                                   https://commons.wikimedia.org/
+                                                                                                                   wiki/File:Solar_Spectrum.png
+
+Solar irradiation (outside the atmosphere)
+     · Solar flux is a constant outside or above the atmosphere, ~ 1365 W/m2
+     · Varies with place (Latitude) and time of day and season (next slide)
+     · Energy is in the form of light and/or heat.; 1 Watt = 1 J/s
+     · 99% of all spectral radiation falls between 136 and 4000 nm
+     · Half of all radiation (47%) lies in the visible region ­ 380 to 770 nm
+          · 7% in the UV and 46% in the IR region of solar spectrum
+By © The World Bank, CC BY 4.0,
+https://commons.wikimedia.org/w/index.php?curid=73047797
+SOLAR RADIATION
+
+Solar irradiation at sea level
+
+     · A significant fraction of the solar flux is depleted as it passes through the
+        atmosphere
+
+          · Reflection: when reflected light has the same wavelength as incident
+             light; by earth's surface (4%), clouds (20%) and atmosphere (6%) - total
+             30%
+
+          · Radiation: when radiated energy has a different wavelength compared
+             to incident light ­ generally earth's radiation is long-wave and mainly
+             in the form of heat; to space from clouds and atmosphere (64%) and
+             earth (6%) ­ total 70%
+
+          · Absorption: when incident light is absorbed, the temperature of the
+             body rises ­ no output of energy is implied only input and
+             accumulation of energy within the object/ body; by land and oceans
+             (51%), clouds (3%) and atmosphere (16%), absorbed by atmosphere
+             (15%) ­ eventually radiated out
+                                                   EARTH'S
+                                                    ENERGY
+                                                   BUDGET
+
+http://eosweb.larc.nasa.gov/EDDOCS/images/Erb/components2.gif
+                                           Photosynthesis
+
+                                                                        § Of the solar energy incident on the Earth's
+                                                                            surface, only light in the blue and red bands is
+                                                                            utilized by plants for photosynthesis.
+
+                                                                        § Green and yellow are reflected almost entirely,
+                                                                            therefore the color of plants.
+
+                                                                        § Only about 20% of the total incident solar
+                                                                            radiation is usable by plants.
+
+Original: Daniele Pugliesi Vector: M0tty, CC BY-SA 3.0
+<https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+                                                          Radiant solar energy      Productivity
+                                                                     100%
+                                                                                          Kormondy, 1996
+      ~ 50% available at the autotrophic level
+                                                                                                          9
+                                                      Used at autotrophic level:
+                                            GPP (0.2%) = NPP (0.1%) + R (0.1%)
+
+Productivity: rate of fixation of energy into biomass
+
+Gross primary productivity (GPP) is the total amount of energy consumed per
+unit area per unit time (kcal/m2-yr); or
+the total rate of photosynthesis including organic matter consumed for respiration
+during the measurement period.
+
+Net primary productivity (NPP) is gross productivity minus respiration.
+Estimated based on the standing crop or biomass of photosynthetic organisms
+only. Represents chemical energy in the biomass generated.
+
+Respiration (R) represents energy consumed in metabolism and other activities
+without generating biomass.
+Average Annual Net plant production
+
+grand total
+
+ total land
+total ocean
+
+  oceanic algal beds a nd ree fs                                                                    Primary
+                  tropical rainforest                                                             Productivity
+
+                swamp and marsh
+          tropical seaso nal forest
+
+                             estuarie s
+    temper ate eve rgreen forest
+    temper ate deciduous forest
+
+                              savann a
+                         boreal forest
+                      cultivated land
+              temper ate grassland
+                   contine ntal sh elf
+                 lakes and streams
+                          open ocean
+extreme dese rt, rock, sand, ice
+
+                                         0  2000 4000 6000 8000 10000 12000  Kormondy 1996 (p89)
+
+                                            NPP, C/m2-y
+                                                              NET PRIMARY
+                                                             PRODUCTIVITY
+
+SEDACMaps, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons
+· Exponential Growth model is applicable when there are no limits to growth
+
+· However, resources are always finite and therefore, growth cannot exceed
+  the carrying capacity of its environment; thus, the logistic growth equation is
+  a modification of the exponential growth equation that includes the carrying
+  capacity.
+
+·     !"  =  $   1-"           Environmental resistance              LOGISTIC GROWTH CURVE
+      !#
+                        %
+
+·     Where r = $  1-"
+
+                          %
+
+· K = carrying capacity of the environment; N = population at time t
+
+· r0 = exponential rate of growth when N is very small (close to 0)
+
+When      N<<K,  N/K  can  be  ignored  and  !"  =  $
+                                             !#
+
+When N approaches K, r approaches 0
+
+   ·  &      =           '
+                ()*+,-(/0!&)
+
+   · Where b = '/2! and
+
+                          2!
+
+   N0 = population at t = 0
+   LOGISTIC GROWTH CURVE
+
+Yeast cell cultures (Kormandy from Pearl, 1925; p196)                                700
+                                                                                     600
+time, h N, cells dn/dt r                                              Number, cells  500
+                                                                                     400
+0  9.6    0                      0                                                   300
+                          0.5528                                                     200
+2  29     9.7             0.4484                                                     100
+                          0.4492
+4  71.1 21.05             0.3487                                                       0
+                          0.1905                                                          0 2 4 6 8 10 12 14 16 18 20
+6 174.6 51.75             0.0733                                                                                           time, hours
+                          0.0376
+8 350.7 88.05             0.0116
+                          0.0045
+10 513.3  81.3
+
+12 594.4 40.55
+
+14 640.8  23.2
+
+16 655.9  7.55
+
+18 661.8  2.95
+
+Growth rate is maximum at the beginning and decreases as N increases
+100rate of change, dN/dt                                                                                                                                 0.6000                                                y = -0.0008x + 0.5716
+ 90                                                                                                                                                      0.5000                                                     R² = 0.9688
+ 80                                                                                                                       exponential rate of change, r  0.4000
+ 70                                                                                                                                                      0.3000     100 200 300 400 500 600 700
+ 60       200         400       600  800                                                                                                                 0.2000                           N, cells
+ 50                                                                                                                                                      0.1000
+ 40                                                                                                                                                      0.0000
+ 30
+ 20                                                                                                                                                              0
+ 10
+   0
+
+       0
+
+                      N, cells
+
+§ All growth is exponential, but r is not constant  r0 =                                                                                                            0.5716
+                                                    slope = -r0/K                                                                                                   -0.0008
+    as in the exponential growth model              K
+§ r for each time interval is calculated based on                                                                                                                     714.5 cells
+
+the exponential equation
+
+§ As N approaches K, r starts decreasing and            LOGISTIC
+                                                    GROWTH CURVE
+    approaches 0
+§ When dN/dt is maximum, N = K/2; this point is
+
+the inflection point
+· This model is applicable to several species like yeast cells, and water fleas            LOGISTIC
+  (based on published literature) but not all species (Kormondy, 1996). It may or      GROWTH CURVE
+  may not be the best-fit model in all cases or even for the same species.
+
+· It applies only to those populations where the growth rate is maximum in the
+  beginning and decreases monotonically over an extended period of time, i.e.,
+  the population is growing exponentially at all times but with a decreasing
+  growth rate. There is no time lag or lag phase in these populations. Note: The
+  initial part of the `S' curve is not indicative of a lag phase, it is the nature of
+  the logistic growth curve. This is the fastest growth phase.....
+
+· For populations where the growth rate varies over time and non-
+  monotonically, e.g., India, it cannot be applied. It applies to Indian data only
+  from 1971 onwards.
+
+· Even for the US population where this model was used in a famous `first
+  application' paper (Pearl and Reed, 1920), it was not an accurate prediction
+  since many other factors are not accounted for.
+· Kormandy EJ (1996) Concepts of ecology, Prentice Hall of India, New Delhi.
+· Henry, JG and Heinke, GW (1996) Environmental Science and Engineering,
+
+   Prentice Hall, New York.
+· Ricklefs, RE and Miller, GL (1999) Ecology, WH Freeman, New York.
+Week 11: Ecology and soil pollution
+Lecture 03 ­ Fundamentals of Ecology-III
+§ Biodiversity
+§ Biomass
+§ Ecosystem Services
+§ Bioconcentration
+§ Bioaccumulation
+§ Biomagnification
+§ Biouptake
+· Biodiversity
+· Trophic level
+· Biomass
+· Ecosystem services
+· Bioconcentration
+· Biomagnification
+· Bioaccumulation
+BIODIVERSITY
+
+      · Genetic: within a single species there can be thousands of strains or
+         cultivars (cultivated or cultured strains).
+           · Example: varieties of mangoes (1000s), 50,000 types of rice in India.
+
+      · Species: a group of organisms comprising of similar individuals capable
+         of exchanging genes or interbreeding.
+           · Same species that inhabit different parts of the world, for example -
+              only three species of peafowl (peacock) are known in the world:
+              Indian, Indonesian or south-east Asian and Congo.
+
+      · Ecological: within a large country like India there are several types of
+         ecosystems ­ deserts, alpine, mangroves, freshwater, seawater unlike
+         smaller Scandinavian countries with fewer types of ecosystems
+ECOSYSTEM SERVICES
+
+                   Provisioning:
+                  providing food,
+
+                     wood, raw
+                 materials, genetic
+
+                   resources and
+                        water
+
+                   Supporting:
+                   recycling of
+                    nutrients,
+                 pollination and
+                  O2 generation
+                  (productivity)
+
+  Regulating:                          Cultural:
+  climate and                        Recreational
+disease control                      and spiritual
+                ECOSYSTEM SERVICES
+
+· Regulating services
+
+    · climate control, waste treatment, disease control, buffer zones,
+       air purification, flood control, population control
+
+· Provisioning services
+
+    · providing food, wood, water, marine products, raw materials,
+       biodiversity and gene pool maintenance
+
+· Cultural services
+
+    · Recreational, spiritual, tourism, science and education, source
+       of creative inspiration
+
+· Supporting services
+
+    · Biogeochemical cycling of nutrients, primary productivity and
+       oxygen generation, habitats, soil formation and renewal
+                     SOME DEFINITIONS
+
+· Bioaccumulation
+     · Increase in concentration of a chemical in the tissue of an
+        organism over time by respiratory or dermal pathways or dietary
+        ingestion
+
+· Biomagnification
+     · Increase in concentration of a chemical in the tissue of
+        organisms at higher trophic levels
+
+· Bioconcentration
+     · Increase in concentration of a contaminant in the tissue of an
+        organism by respiratory or dermal pathways or dietary ingestion
+        with respect to water
+     · Bioconcentration Factor (BCF) = Cbiota/Cwater
+     · BCF has units of (mg of contaminant/kg of tissue)/mg of
+        contaminant/L of water = L of water/kg of tissue
+              BIOCONCENTRATION
+                      FACTORS
+
+Source : US EPA 1986b
+    BIOCONCENTRATION FACTORS
+
+       KOW = Cn-octanol / Cwater
+
+         Log BCF µ log KOW
+
+Source : J. L. Schnoor et al., "Process, Coefficients, and Models for Simulating Toxic
+Organics and Heavy Metals in Surface Waters." U.S. Environmental Protection Agency,
+EPA/600/3-87/015, June 1987.
+Temperature is 20oC unless otherwise noted
+                                          and Merganser
+
+                               BIO-UPTAKE
+
+Water
+BIOCONCENTRATION OF CONTAMINANTS
+
+Food chain accumulation of DDT in a California Lake
+
+            Food Chain         DDT (ppm)  Bioconcentration
+                                             factor (BCF)
+Water                           0.00005             1
+Plankton                           0.04           800
+Silverside minnow                 0.094         18,800
+Pickerel (Predatory fish)          1.33         26,600
+Tern (feeds on small fish and
+animals)                           3.91         78,200
+Herring gull (scavenger)             6         1,20,000
+
+Merganser (fish eating duck)       22.8        4,60,000
+
+Henry and Heinke, 1996
+BIOCONCENTRATION OF CONTAMINANTS
+
+        Concentration factors in biota for various levels of cadmium in water
+                                     (based on dry weight)
+
+Cadmium level in water (mg/L)  0.001 0.0025  0.05                                 0.01
+                                                                               31,000
+Floating fern                  21,000 25,000 31,000                            48,000
+
+Duckweed                       1,20,000 1,55,000 1,40,000                      17,000
+                                                                                4,000
+Water hyacinth                 42,000 50,000 27,000                             6,000
+  Roots
+                                                                               19,000
+Leaves                         7,000 7,000 7,000                                1,000
+                                                                                  700
+Zooplankton                         2,600 16,600                                    25
+
+Snails
+
+Tissue                         22,000 22,000 6,000
+
+Shell                          800 2,000     400
+
+Fish                           600  600 26,000
+
+Sediment                       10   36       11
+
+Henry and Heinke, 1996
+Eutrophication
+
+                                           Light penetration
+   Eutrophication
+
+· Eutrophication: excessive growth of phytoplankton and plants due to
+  high nutrient concentrations in a water body
+
+· Eutrophication is a natural aging process that all lakes (and reservoirs)
+  undergo
+
+· Cultural eutrophication ® accelerated eutrophication of natural water
+  bodies due to human activities
+
+· All lakes accumulate silt and organic matter ® increase in nutrient
+  levels ® increase in primary productivity ® increase in turbidity due to
+  microbial growth (algae and bacteria)
+
+· Oligotrophic lakes ® low nutrient levels ® low primary productivity
+       Water quality and ecological impacts associated with
+
+                                 eutrophication
+
+· Noxious algal growth: leads to increase in scum, exudates that may
+    be toxic, color, taste, odor, turbidity, and NOM levels
+     · NOM leads to disinfection by-product formation during
+         disinfection with halogenated compounds like chlorine
+
+· Creates an anaerobic zone below the algal layer
+      Bacterial growth and organic decomposition:
+      ® low pH and DO levels
+      ® loss of habitat for fish and fish food
+
+· Excessive macrophyte (weeds) growth: loss of open water
+· Excessive organic matter production due to algal and bacterial
+
+    growth (smothers eggs and bugs)
+· Cyanobacteria are inedible by some zooplankton (reduced food
+
+    chain efficiency)
+     · Toxic effects of algal blooms
+· "Toxic" gases (ammonia, H2S) in bottom water (more loss of fish
+    habitat)
+· Kormandy EJ (1996) Concepts of ecology, Prentice Hall of India, New Delhi.
+· Henry, JG and Heinke, GW (1996) Environmental Science and Engineering,
+
+   Prentice Hall, New York.
+Week 11: Ecology and soil pollution
+Lecture 04 ­ Soil Pollution - I
+· Soil formation and functions
+· Soil composition, horizons
+· Relation with vegetation and climate
+· Soil degradation and conservation
+· Environmental Sustainability
+· Climate
+· Soil Horizons
+· Weathering
+· Erosion
+    Soils
+
+· Unconsolidated geologic material located at the surface of the
+  earth, generally within the top 2 m
+
+· Soil Formation - pedogenesis
+
+            SOILS
+         VEGETATION
+
+CLIMATE
+ROLE OF SOILS
+
+                 Regulates water,
+               nutrient availability
+
+                                      SOILS                     Support medium for
+                                                                 plants, agricultural
+Engineering
+ resource                                                            productivity
+
+                                             Habitat for
+                                             organisms
+         SOIL AND ITS ENVIRONMENTAL IMPACTS
+
+· Availability of nutrients and water for plant growth is
+  determined by soil texture and other soil properties
+
+· Stability of buildings, roads, and other structures are affected by
+  the nature of soils
+
+· Soil ecosystems are location-specific and often self-sustaining
+· It is an habitat for organisms (microbes and higher)
+                    PEDOGENESIS
+
+Climate
+     · Rainfall: leaching of minerals (loss) and wet deposition of particulate matter
+        and minerals from atmosphere (gain)
+     · Temperature: physical weathering ­ contraction and expansion; chemical
+        weathering ­ acids in rainwater breakdown rock
+
+Organisms
+
+     · Microbes like bacteria, fungi, and algae and small animals like earthworms,
+        snails, and insects inhabit the soil ecosystem and modify it chemically and
+        biologically
+
+     · Digestion of organic matter and breakdown of minerals by acids generated
+        during digestion
+
+Topography
+
+     · Weathering at higher altitudes is greater than that at lower altitudes due to
+        greater variations in climatic factors like temperature, and wind patterns.
+
+     · Leeward versus windward sides of hills and mountains have different soil
+        textures though the parent materials are the same
+                          PEDOGENESIS
+
+· Parent material
+    · The D or R horizon is the original source of soil material.
+      Weathering of this material results in generation of soil
+
+· Time
+    · Mature or older soils differ from young soils in terms of
+      their retention of parent material and percentage of
+      organic matter.
+    · Young soils have more parent material and older soils
+      have more organic matter
+
+· Other processes
+    · Calcification: removal of salts except Ca and Mg
+    · Salinization: accumulation of salts due to evaporation in
+      arid and semi-arid regions
+    · Laterization: accumulation of Fe and Al in humid
+      tropical environments
+                              Soil
+                         composition
+
+Based on Kormandy, 1996
+SOIL HORIZONS
+
+              O Horizon à Organic Matter
+                    O1 ­ loose leaves and organic debris
+                    O2 ­ partly decomposed organic debris
+
+              A Horizon à Zone of Leaching
+                    A1 ­ rich in organic matter
+                    A2 ­ higher in mineral content
+                    A3 ­ Transition to B Horizon
+
+              B Horizon à Zone of Accumulation
+                    B1 ­ Transition but more like B
+                    B2 ­ Maximum accumulation of colloids
+                    B3 ­ Transition to C Horizon
+
+              C Horizon à Weathered Rock
+
+              D or R Horizon à Bed Rock
+
+                       Source: EssensStrassen, CC BY-SA 4.0
+                       https://commons.wikimedia.org/wiki/File:Soil_Horizon
+                       s.svg
+          SOIL, CLIMATE AND VEGETATION
+
+Depth     Soil
+
+from                                 Parent material
+
+surface
+
+    High                                 Temperate    Arctic
+Moderate
+          Tropics  Desert
+    Low
+
+                   Amount of vegetation             Temperature
+
+Weathering of soils
+· Physical or mechanical weathering
+· Chemical weathering
+SOIL TEXTURE
+  TRIANGLE
+
+Clay                                                                                                                                                       <0.002 mm
+ Silt                                                                                                                                                   0.002 - 0.06 mm
+Sand                                                                                                                                                     0.06 ­ 2.0 mm
+
+By cmglee, Mikenorton, United States Department of Agriculture - SoilTexture USDA.pngand http://nrcs.usda.gov/Internet/FSE_MEDIA/nrcs142p2_050242.jpg,
+CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=88418567
+             SOIL DEGRADATION
+
+· Soil degradation
+· Soil pollution
+These are two different issues and we will go over both.....
+· Base for crop and livestock production
+
+    · Soil fertility: agricultural and livestock productivity
+    · Nutrients in soil determine its productivity and the nature
+
+      of produce
+    · Problems: overgrazing, soil erosion
+· Agriculture and crop production
+    · Food crops
+    · Forage crops ­ grazing, livestock production
+    · Cash crops ­ other crops like cotton, silk, jute, bamboo.......
+
+                                                                       Botkin and Keller (2012)
+                   SOIL DEGRADATION
+
+· Soil erosion (see USLE)
+
+    · Due to wind, rain, temperature variations
+    · Due to deforestation, over-grazing and change in land use-
+
+      land cover
+    · Dust storms due to plowing and drought conditions
+
+· Soil salinity
+
+    · Mainly due to excessive use of water for irrigation
+    · GW which contains more TDS than SW can lead to greater
+
+      salinization of soils
+    · Consequence is reduced soil productivity
+· Kormandy EJ (1996) Concepts of ecology, Prentice Hall of India, New Delhi.
+· Khoiyangbam RS and Gupta N (2015) Introduction to Environmental Sciences, TERI
+
+   Press, Delhi
+· Davis ML and Masten SJ (2009) Principles of Environmental Engineering and Science,
+
+   McGraw Hill Education, Indian edition.
+Week 11: Ecology and soil pollution
+Lecture 05 ­ Soil Pollution - II
+· Soil degradation
+· Soil erosion
+· Soil Pollution
+· Overgrazing
+· USLE
+· Nutrient cycling
+· Soil Erosion
+· USLE
+· Soil Pollution
+· Deforestation
+· Environmental Impacts
+· Contour ploughing
+· Tilling
+· The Carbon Cycle
+· The Nitrogen Cycle
+· The Sulfur Cycle
+· The Phosphorus Cycle
+                       SOIL EROSION
+
+· Major issue for agriculture
+     · Loss of a precious resource that takes tens to hundreds of years to build
+     · Best management practices are needed to prevent soil loss
+
+· Environmental impacts
+     · Pollution of surface water bodies due to excess nutrients and sediments
+     · Silting of dams and reservoirs
+     · Choking of wetland ecosystems
+
+                                                                                                             Surface water pollution : algal bloon
+
+                                                                                                                                                                                     Source: #, CC BY-SA 3.0 via Wikimedia Commons
+
+          Silting in Palu River                          Choked wetland ecosystem
+
+Source: Mujiono Leo, CC BY-SA 3.0 via Wikimedia Commons   Source: James Allan / Weed-choked pond, CC BY-
+
+                                                          SA2.0, via Wikimedia Commons
+                     SOIL POLLUTION
+
+· Presence of heavy metals in waste dumped on land
+· Use of fertilizers, pesticides
+
+    · Leaching into GW
+    · Bioconcentration in plants and higher up the food pyramid
+    · Present in surface runoff and pollution of streams
+
+         Julien saison, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+OVERGRAZING
+
+· Grazing for livestock production                                                  White Phenom, CC0, via Wikimedia Commons
+
+· Under optimum livestock densities,
+
+     § Soil is enriched with nutrients (fecal deposits and recycling of nutrients)
+     § Pruning by grazing animals stimulates further plant growth
+
+· In cases of overgrazing,
+
+     § Soils are depleted of nutrients
+     § The grass is depleted leading to soil erosion
+     § Excessive manure on land (pastures) enters streams as surface runoff
+
+        polluting the streams
+                                                              SOIL
+                                                           EROSION
+
+Source : FAO, United Nations, World Soil Day 2016 Poster,
+https://www.fao.org/3/i6468e/i6468e.pdf
+· A = RKLSCP where
+
+· A = soil loss per unit area, per unit time (tons/acre-year or tons/ha-y)  UNIVERSAL SOIL LOSS
+· R = rainfall and runoff factor (or rainfall erosion index)                   EQUATION - USLE
+· K = soil erodibility factor for a unit plot
+
+· L*S = slope-length (L) and steepness factor (S) = soil loss from field/ soil loss   (Wischmeier and Smith, 1978)
+  from unit plot
+
+· C = cover and management factor
+
+· P = support practice factor
+
+Unit plot concept in USLE: a hypothetical plot of 5.5' x 72.6' with a slope of 9% is
+regularly and continuously tilled but kept fallow with uphill and downhill tillage
+along the slope. Serves as a baseline for comparing all other types of plots.
+
+Values for the above factors for Indian conditions can be accessed at the
+following URL: http://ecoursesonline.iasri.res.in/mod/page/view.php?id=2122
+
+http://www.fao.org/docrep/t1765e/t1765e0e.htm
+UNIVERSAL SOIL LOSS EQUATION - USLE
+
+    (Wischmeier and Smith, 1978)                                                                    Residual Mulching
+· Cover and management factor
+
+     · Cropstage
+     · Crop canopy
+     · Residual mulch
+     · Residues and tillage
+
+· Support practice factor                                                                                              Photo credit: Christian Thierfelder/CIMMYT, by CC2.0,
+     · Contour tillage                                                                                                 https://www.flickr.com/photos/africa-rising/49267508078
+     · Contour strip cropping (wide cultivated strips with narrow protective strips)
+     · Terracing
+
+Terrace plantation                           Contour strip planting                                 Contour tilling
+
+Image by janakiramanmani19 from Pixabay.com  Pixture2016, CC BY-SA 4.0
+                                             <https://creativecommons.org/licenses/by-sa/4.0>, via
+                                             Wikimedia Commons
+                                                               Contour tillage or
+                                                                    ploughing
+
+https://livinghistoryfarm.org/farminginthe30s/crops-3/contour-plowing/
+                                               Terrace farming
+
+https://myfasal.com/terrace-farming-in-india/
+  Soil pollution control
+
+· Phytoremediation
+    · Some plants are hyperaccumulators of heavy metals and
+      can grow in contaminated soils
+    · Harvesting of these plants can be used to decontaminated
+      such sites
+
+· Bioremediation
+    · Synthetic organic compounds can be degraded by
+      bacteria, fungi and other organisms
+        Improving soil quality
+
+· Avoid continuous cultivation of same crop
+· Land should lie fallow for some time and crops should be rotated
+
+  (legumes and non-legumes)
+· Soil moisture should be maintained by mulching of crop residue;
+
+  compost or peat addition to improve soil quality
+· Over-irrigation should be avoided to prevent salinization of soil
+· Grow pest-resistant crop species
+         Nutrient Cycling
+
+· The 16 elements that plants cannot grow without
+     · Macronutrients: C H N O P S Ca Mg K Cl
+     · Micronutrients: Fe Mn Zn Cu B and Mo
+
+· Carbon, hydrogen and oxygen in the atmosphere are plenty and are not growth
+  limiting factors
+
+· Growth limiting factors are mainly N, P and S
+· Biogeochemical cycles are responsible for the availability of N, P and S
+
+     · Soil is the most important environmental media for completion of these
+        biogeochemical cycles
+
+     · Soil degradation can lead to disturbance in nutrient cycling in the
+        environment
+
+Davis ML and Masten SJ (2009) Principles of Environmental Engineering and Science, McGraw Hill Education, Indian edition.
+Decomposition and respiration
+
+C in                                   CO2 in the
+
+biosphere             Plant uptake by  atmosphere             The Carbon
+                                                                 Cycle
+                      photosynthesis
+
+           Fossil fuel burning                     Diffusion
+
+Soil Organic Carbon                    C and CO2 in
+                                       hydrosphere
+            C in the
+         lithosphere
+
+Sedimentary and metamorphic rock
+  formation, fossil fuel formation
+              Decomposition and respiration by
+                             bacteria
+
+              N in biosphere    N2 in the
+                              atmosphere
+
+                              N-fixation by lightning and   The Nitrogen
+                                leguminous plants and           Cycle
+                                        microbes
+
+Plant uptake
+
+                   N in the         N in hydrosphere
+                 lithosphere  (bioavailable forms- organic
+
+Soil Organic Nitrogen            N, NH3, NO2- and NO3-)
+
+                              Fossil fuel formation
+Decomposition and respiration
+
+S in                                     S in the
+
+biosphere               Plant uptake by  atmosphere
+
+                        photosynthesis                                  The Sulfur Cycle
+
+      Wet and dry deposition                               Wet and dry
+Soil Organic S ­ plant                                      deposition
+        uptake
+                              Sea spray and
+              S in the      decomposition of
+                            aquatic biomass
+           lithosphere
+                                   S in
+                              hydrosphere
+
+Sedimentary and metamorphic rock
+  formation, fossil fuel formation
+Decomposition and respiration
+
+P in biosphere         Plant uptake by P in hydrosphere  The Phosphorus
+                       photosynthesis                          Cycle
+
+                         Birds      Weathering
+                                    and mining
+                        Guano        activities
+                       deposits
+
+  Soil Phosphate ­       P in the
+organic and inorganic  lithosphere
+· Kormandy EJ (1996) Concepts of ecology, Prentice Hall of India, New Delhi.
+· Khoiyangbam RS and Gupta N (2015) Introduction to Environmental Sciences, TERI
+
+   Press, Delhi
+· Davis ML and Masten SJ (2009) Principles of Environmental Engineering and Science,
+
+   McGraw Hill Education, Indian edition.
+

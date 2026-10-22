@@ -1,0 +1,386 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                 Week 11
+                                               Lecture 01
+                                   Fundamentals of Ecology ­ I
+
+Welcome everyone to our next set of lectures. This is week 11. We are going to cover
+ecology and soil pollution. The first lecture in this series is going to look at the
+fundamentals of ecology. So, the first part is what we are going to start with. The
+concepts that we are going to cover are the basic concepts, ecosystems, what are they and
+how do they work? What is the ecological hierarchy? What is an ecological niche? Food
+chains, food webs and trophic pyramids.
+The keywords for this particular lecture are ecology, ecosystem, biome, productivity,
+ecological niche and trophic level.
+
+So let us start with the basic definition. What is ecology? Ecology as the name suggests,
+eco comes from the Greek word oikos which means house or place to live. So therefore,
+ecology means the study of organisms in their home.
+So, that is what we are looking at, their habitat, their living conditions, what makes a
+particular species thrive and how does it get endangered or even extinct. So those are
+some of the issues that we are going to look at. So, by definition ecology is the study of
+the interrelationships between living organisms or groups of organisms. They constitute
+the biotic part of the environment and their environment. The environment includes both
+living as well as non-living parts.
+So, the living part is biotic and the non-living part is abiotic part of the environment. Any
+ecosystem is defined as a self-contained community of organisms or groups of organisms
+and their non-living environment. So, I have a few graphics over here which show you
+that. So here we have a coral reef and you can see the different species of fish and corals
+that are inhabiting this particular ecosystem. And here is a simple drawing of a terrestrial.
+So, the one on the right is an aquatic ecosystem and the one on the left is a terrestrial
+ecosystem. Any ecosystem is defined by two things, the flow of mass and energy in and
+out of the system. So, some of you may be aware of the fact that a system has a system
+boundary. So, when you have a system boundary, this is our system boundary. This is the
+sketch of a generic ecosystem.
+
+You draw a system boundary wherever you want to define your system and then you
+define it in terms of flow of mass and energy in and out of the system. So here we have
+energy flow. Energy flow is unidirectional. Our main source of energy, there are a few
+exceptions which I will not talk about, but the bulk of the ecosystems on the planet are
+driven by sunlight. So, our energy flow, our energy is coming from the sun that is going
+to result in primary productivity.
+Primary productivity is dependent on autotrophs. Autotrophs literally means self-feeding
+organisms. These are organisms that do not have to ingest other organisms for their
+survival. So, plants as you know are autotrophic and we also have algal cells at the
+microbial level that are also primary producers. So, these are the primary producers at the
+first trophic level and our trophic means food.
+
+So, the first level of the food pyramid or the trophic pyramid is the autotrophs or the
+primary producers. They are ingested by herbivores. Herbivores are ingested by either
+omnivores or carnivores and that is the increase in the trophic level as we go up and we
+will be going through that in a little more detail later. This flow of energy and mass,
+remember that at the first level, at the level of the primary producers, the energy from
+sunlight is being converted to chemical energy and it is being converted to biomass. We
+will be looking at that also in more detail later.
+
+So, this energy along with carbon dioxide and water is going to be converted to biomass.
+So, you have mass that is also in this particular graphic we start with the primary
+producers and I said main energy is coming from sunlight that is the solid orange line. All
+the other dashed lines, the black lines are for mass and the red lines are for energy and
+mass. So, from one trophic level to the other, we have a flow of energy and mass in terms
+of chemical energy. So chemical energy as well as mass are going to be transferred from
+one trophic level to another.
+
+We will be looking at efficiency and so on a little bit in the later slides, later lectures. But
+at this point it is important to remember what a generic ecosystem looks like. So, we have
+our trophic levels at the top. Eventually, all organisms die and when they die they are
+decomposed by other organisms. So, we have bacteria, fungi, insects, higher organisms
+like birds, birds like vultures and so on.
+
+So, these are all decomposer organisms. What they are going to do is they will return this
+biomass from all the other trophic levels that biomass is going to be converted and it will
+be released as nutrients back into the nutrient pool in the environment. And this nutrient
+pool is going to help in the recycling of nutrients and that will be taken up by these
+organisms all over again. So that is how the cycle of mass and energy continues in nature
+or in the environment. These ecosystems are subject to change because of climatic
+factors.
+So, you have location, temperature, precipitation, humidity, winds, topography, soil and
+so on. So, these flows of mass and energy which I have already shown you in the generic
+ecosystem they will impact the non-living as well as the living parts of the ecosystem. It
+will also result in what we call the functional stability of the ecosystem. All components
+of the ecosystem serve certain functions and that interrelationship between different parts
+of the ecosystem results in its functional stability. So as long as those interrelationships
+are not disturbed the ecosystem can be considered functionally stable. The aggregation of
+all ecosystems on the planet is called ecosphere or biosphere.
+
+So let us take a very quick look at primary productivity and photosynthesis. You know
+that CO2 plus water in the presence of sunlight is converted by autotrophic organisms
+into organic carbon. So, this represents this is actually a carbohydrate but it represents
+organic carbon that is part of the biomass and in the process oxygen may be generated.
+It's important to remember that we have anoxygenic as well as oxygenic photosynthesis.
+I will not go into anoxygenic photosynthesis it's beyond the scope of this course but the
+bulk of the primary producers on the planet are oxygenic photosynthetic organisms and if
+you notice it's a redox reaction. So, in this redox reaction oxygen the oxidation state of
+oxygen goes from minus 2 in CO2 and water and it's converted to oxygen gas which has
+an oxidation state of 0. The reduction of carbon from a plus 4 oxidation state in carbon
+dioxide to 0 in let us say glucose or any carbohydrate for that matter at least in glucose
+the oxidation state of carbon is 0. So, it has been reduced and this happens simply
+because of the exchange of electrons. So, the transfer of electrons from oxygen in CO2
+and water and the reduction of carbon because it's taking up those electrons is mediated
+by various enzymes and so on.
+
+So we are not going to go into any of these details but it's important to remember that
+these are biochemical reactions they are all redox reactions and what is of importance for
+our purposes is to be able to measure the rate of CO2 consumption or fixation. We use the
+word CO2 fixation because it's being fixed in biomass, oxygen production and biomass
+production. So, on the left-hand side of this reaction, we can measure CO2, on the
+right-hand side we can measure the biomass produced as well as the oxygen produced.
+So, when we measure primary productivity, we rely on any one or all of these
+measurements. There are several other examples of CO2 fixation, oxygen production
+many other methods are there for measuring primary productivity.
+
+We will see if we have time to go through it. Regardless this reaction is an oversimplified
+representation of the actual chemistry of photosynthesis. It provides a very simple
+stoichiometry with only three elements carbon, hydrogen and oxygen and the fact of the
+matter is that there are several inorganic nutrients like nitrogen, phosphorus, sulfur,
+calcium, magnesium, iron, potassium all these elements are essential nutrients for all
+organisms to take up as part of their biomass and for part of their survival and so many
+other things. So, these nutrients are recycled through the environment through what we
+call biogeochemical
+cycles. So, these are very important biogeochemical cycles and just to ensure that we all
+know our terminology let us start with autotrophs and heterotrophs.
+
+So you can classify organisms on the basis of their carbon source. What is the organism
+using as its carbon source? So, if the organism is using CO2 it is not using another living
+organism. If it were to use another living organism it would be a heterotroph because it
+would be using organic carbon. So, CO2 is inorganic carbon that is taken up from the
+atmosphere and it is converted to biomass by autotrophic organisms. Heterotrophic
+organisms feed on other organisms.
+So, whether those organisms are plants, vegetation, animals whatever it is. It is all
+different forms of organic carbon and these organic materials are converted into biomass
+for the relevant organism whatever the organism may be. You can classify organisms
+based on the energy source. Where is the organism getting its energy from? The
+photosynthetic organisms are all utilizing light as their energy source because the
+conversion of CO2 to biomass is not thermodynamically favorable. So, it has to be driven
+by an external energy source and the external energy source is sunlight.
+So here you have phototrophs where you have light as the energy source. I will just give
+the example that is shown over here. We have lithotrophs, these are chemo autotrophs.
+The best example of a chemo autotroph is sulphur bacteria. These sulphur bacteria are
+capable of what we call anoxygenic photosynthesis.
+This anoxygenic photosynthesis is mediated by pigmented bacteria which instead of
+using water in this particular reaction they use H2S which is hydrogen sulphide. So,
+hydrogen sulphide is then converted to either elemental sulphur or sulphate or even
+thiosulphate and they are able to derive energy for their survival based on photosynthesis
+and the conversion of H2S to oxidized forms of sulphur. And that is called anoxygenic
+photosynthesis because oxygen is not generated by those photosynthetic organisms.
+
+The last one is heterotrophs. Heterotrophs are organic material so any organism that is
+utilizing organic carbon from any source so we have all these sources of organic carbon
+whether you are utilizing plant material or animal material they are all forms of organic
+carbon and they are converted by the heterotrophic organism into its biomass.
+So, these are all examples of autotrophs and heterotrophs. Let us now take a look at
+different types of ecosystems. You can divide different types of ecosystems either by size,
+by type or by their level of biodiversity. So let us take a look at size. The entire planet as I
+said is called the ecosphere.
+
+So, at the highest level we can say that that is the largest ecosystem. A single biome we
+will be looking at biomes in the next slide. These are terrestrial ecosystems that are
+defined on the basis of vegetation. That is a smaller level compared to the entire planet.
+Then you have a particular watershed. Any river has water coming from a large area.
+That area is called the watershed. So, this watershed is often defined by different types of
+vegetation and depending on the size of the river, depending on the nature of the
+topography and so on you will find that the vegetation varies. It can be as small, any
+ecosystem can be as small as a home aquarium, a fish bowl, a home aquarium.
+These are all very very small ecosystems. So, ecosystem based on size is what you see in
+the first graphic. I have already mentioned terrestrial versus aquatic. So, you can have
+vegetation on land that would make it a terrestrial ecosystem and all of the organisms that
+are part of any terrestrial ecosystem that is an example that is shown here. Aquatic
+ecosystems can be divided into two parts. You have freshwater ecosystems and marine
+ecosystems.
+So, they are very different from each other. Environmental versus marine ecosystems are
+extremely different and that is what you see here in this graphic. In terms of biodiversity,
+we are all aware of the fact that tropical rainforests have the highest level of biodiversity.
+So that is what you see in the first case. Then you have the temperate forests, you have
+fields, you
+have deserts, you have the arctic regions. You know that these are all declining in terms
+of their biodiversity level.
+So, I will be showing you something along those lines later. You know that an
+agricultural field has far fewer species compared to any of these natural systems.
+Remember that an agricultural field or a lab monoculture, these are designed by human
+beings. They are not natural. So, any anthropogenic system is by and large going to have
+very little biodiversity.
+So here we have thousands of species per square kilometer. In a temperate forest maybe,
+you have hundreds to thousands of species per square kilometer. In an agricultural field it
+will be reduced to around tens of species per square kilometer. So, the level of
+biodiversity is declining. In the lab we often do what is called monocultures.
+We pick a particular species of bacteria, fungi, whatever it is that we are trying to culture
+and we create pure cultures of a single species. So, when it is a pure culture or a single
+species it is called a monoculture. So, these are done in the lab or for industrial purposes
+and so on. So, you have lab monocultures as well.
+
+Let us now come to biomes. Biomes are terrestrial ecosystems where the biological
+communities are grouped in categories based on the dominant plant form. So, this is a
+global map of the different biomes. So, you see the ice sheet, tundra, the deserts, the
+tropical rainforests. So many other different types of biomes are shown over here. These
+biomes can be defined on the basis of just two parameters and that is the average annual
+temperature versus annual precipitation.
+So let us take a closer look at that. This is our definition for terrestrial ecosystems or
+biomes. So here you have a range of temperatures all the way from subzero temperatures
+to 35, 40 or even 50 . And annual precipitation in this case is 400 centimeters or even
+500 centimeters or higher. There are places on the planet which are much wetter than
+that. But for an average annual precipitation this is just a graphic that explains the nature
+of biomes.
+
+I have some photos for the three extremes that are shown in this particular graphic. So, in
+the Arctic region we have the Siberian tundra. So, this is during the summer when the
+Siberian tundra is populated by grass, shrubs and so on. So, you can see there is very
+little vegetation, it is very low-level vegetation, you do not see any trees and so on.
+
+So, this is the Siberian tundra. Then you have a sub-tropical desert where the
+temperatures, I should mention one more point here before coming to sub-tropical. One
+more point here would be that the tundra is defined by subzero temperatures and very low
+precipitation. So, this is one extreme type of biome. The sub-tropical desert is another
+extreme. So, it has high temperatures, low precipitation and that will define the nature of
+the vegetation.
+
+So here we have acacia that is growing in the Negev desert. It is a sub-tropical region.
+You can see how barren it is compared to the Amazon rainforest. Now the Amazon
+rainforest is defined by high temperature, high precipitation. So, you can see the
+difference in the level of vegetation, the coverage as well as the differences in
+precipitation as well as temperature.
+So, we come to another concept here and that is the taxonomy of species. Species is a
+very common word that we use in all biology to define a particular group of organisms or
+individuals. So, any individual organism that shares unique morphological, physiological
+and behavioral attributes comprises a particular species. Now when we think about
+individuals that belong to a particular species, we know that by definition they look alike.
+So morphological means they look alike. Physiological means how do they get their
+energy? What is the kind of food they eat? How does it get digested? For example,
+bacteria belong to a particular, to a different group of organisms and a different species
+compared to human beings.
+
+So, we are morphologically, physiologically and behaviorally very different. What is
+behavior? Behavior is related to how the organism gets its food, how it responds to
+changes in temperature, precipitation, all of that. So, these are environmental factors that
+will determine the behavior of that particular organism. And therefore, they will
+comprise, if they all share the same attributes, they comprise the same species. And
+because of this sharing of unique attributes that will determine the ecological role or
+niche of a species within an ecosystem.
+
+So that is how we define the individual species. There is a taxonomy which means a
+nomenclature that is based on the following hierarchy. So right at the top we have domain
+and under domain in this case for the red fox, Vulpus vulpus, for the domain we have
+Eukarya. It's important to remember that domain is a relatively new concept. It is part of
+the tree of life and the tree of life now has three branches, Eukarya, Bacteria and
+Archaea.
+
+So there are three domains, Eukarya, Archaea and Bacteria. Archaea and Bacteria are
+bacterial forms of life. They are both prokaryotes and the Eukarya include all the rest, all
+the
+Eukaryotes. So here we have domain, kingdom, phylum, class, order, family, genus and
+species. The name of the organism is in terms of genus and species.
+So, the first name is genus and the second name is the species. So, this together will
+define the species of that particular organism. We now come to the ecological hierarchy.
+So, you have your individuals. Those individuals if they have common traits and
+attributes with other individuals that will comprise the species. So here you have the red
+fox and you have several red foxes which are all part of the same species.
+
+So, population refers to the number or groups of organisms of the same species that
+occupy a given area or ecosystem. These populations, their interrelationship within the
+species and their relationship with other organisms as well as their environment will
+determine the stability of that ecosystem. So, any physicochemical changes within the
+ecosystem will impact their relationship as well as their relationship with the
+environment. Then we come to communities. A community of organisms is basically you
+have several species inhabiting a particular location.
+So, you have a group of different species all inhabiting the same location and that forms a
+community. So, populations of different species that affect a particular ecosystem is
+called a community. They can be large; they can be small. Within that particular
+ecosystem you will find that there are different types of dynamics based on the
+relationship whether it's predator-prey relationship, whether it's competitor, whether it's
+mutualistic. All those kinds of relationships will determine the dynamics of the
+ecosystem, the structure, the growth and development of these communities,
+their adaptation and homeostasis.
+What is homeostasis? Homeostasis is a very important term in ecology and that is the
+ability of an ecosystem to maintain its overall stability despite disturbances. We all know
+that all
+ecosystems are subject to fluctuations in temperature, precipitation and many other
+environmental factors. So, despite these fluctuations the ability of the ecosystem to
+remain stable is called homeostasis. This is a result of the combination of biodiversity
+and ecological interactions that occur between the species and that is what is required to
+maintain equilibrium within the ecosystem.
+
+More about the hierarchy. Within the hierarchy or within the community of organisms
+each species will occupy a specific habitat. It requires a specific set of environmental
+conditions and that we call the habitat of that particular species. There is also an
+ecological role that each of these species is playing in that particular ecosystem. Now this
+niche which is the ecological role that is played by that organism in any given ecosystem,
+you can define it in an abstract way which is the all-encompassing definition of niche
+would include all of these parameters or you can be more specific and say what is the
+spatial niche, what is the trophic niche and what is the behavioural niche. So, the spatial
+niche is the physical space occupied by the organism, what is the distribution of the
+population, so how much of the population is in that area, where are they distributed,
+what is the actual set of environmental conditions that they need for their survival and
+reproduction and all the other roles and functions.
+So that would be the spatial niche. The second one is trophic niche. Trophic as you know
+is related to food. So what is the functional role of that organism within the community,
+what is it utilising as food, is it food for other organisms, so what is its predator prey level
+in the ecosystem, what is its position based on environmental factors, factors like pH,
+light, temperature, moisture, soil. We will come to that in the next slide. Then we come to
+behavioural niche. What is its way of life, what is its relationship with other organisms,
+whether it is a predator, whether it is a prey, whether it is a competitor, all these
+relationships will define its behavioural niche.
+So let us take a look at the idea of ecological niche. In the first graph over here you see
+two parameters, one is temperature and the other is humidity. If we say that these two
+parameters are generally considered independent of each other and the second question
+that we have to ask is, is there any impact of these two variables on any particular
+organism? So, for example, in our case for human beings we know that we are, for us
+these two variables are not entirely independent, they are interacting variables because
+we know that our comfort level when it, let me put it in very concrete terms for human
+beings. Let us say we have a window of temperature and humidity within which we are
+comfortable. Now because this window of temperature and humidity for us is more like
+this. If I were to plot the optimum temperature and humidity values for human beings, I
+would have an irregular space as shown in the second point.
+
+So those would be interaction between the variables of temperature and humidity which
+are relatively independent of each other. However, for another organism it may not be an
+important point and you may have a space that it can occupy, that it can tolerate that is
+more like this square. So, for different organisms these two parameters may be
+independent or they may be interacting variables. So, for example, we all know that when
+the temperature is high and the humidity is high, we are uncomfortable.
+
+When the temperature is high but the humidity is low, we are not as uncomfortable.
+Similarly in very cold temperatures if the humidity is higher, it helps but if the humidity
+is low it becomes even more uncomfortable. So, it becomes difficult sometimes to
+breathe and so on. Now that is the first example of a two-dimensional niche. So simply
+looking at two parameters, two variables that helps us to understand what a
+two-dimensional niche is. Now the fact of the matter is that every organism is exposed to
+several environmental factors and that includes nutrients.
+So, in the second example shown over here we have three factors. We have temperature,
+humidity and nutrients like phosphorus. Phosphorus is a very essential nutrient for most
+organisms and in this case, there is a representation of the three-dimensional niche for all
+three factors. So, this is the window that can be tolerated by any given organism that will
+define its ecological niche. Coming to the last graph we have two populations and these
+three parameters.
+Now it may happen that two different species can have overlapping niches. So that is
+quite frequent in any ecosystem it is very frequently found that different populations of
+different species will have overlapping niches.
+
+So, what we are now going to look at is how we represent trophic levels. So, we can think
+in terms of food chains, food webs and their trophic levels of different organisms. I will
+start with the food chain. So, the food chain is a unidirectional linear flow of mass and
+energy. So here we have our primary producer, in this example our primary producer is
+corn. These corn seeds can be eaten by the chicken and it will have eggs. Both chicken
+and egg are eaten by humans. So that is a very very simple example of a food chain.
+It is a unidirectional linear flow of both mass and energy which starts with the producer.
+This is a primary producer and it ends with the consumer. In more complicated food
+chains, the food chain may end with what we call an apex predator. Apex predator can be
+a tiger or a lion in a forest or it may end with decomposer organism. So, you can have
+food chains that can end with decomposers.
+Now when now you can see in the first case it is too simple. It does not reflect reality. So,
+a better representation of reality is where you have corn that is taken by insects as well as
+birds. So, grasshoppers as well as chicken both chicken and egg are used ingested by
+human
+beings and the chicken also feed not just on the corn seed but also on the grasshoppers.
+So here you have the unidirectional flow of mass and energy with interlinking between
+several food chains and that results in what we call a food web. I also want to end this
+particular slide with a definition of productivity. What is productivity? Productivity is the
+amount of biomass produced per unit area per unit time and we will look at that here.
+
+So here we have our trophic levels and productivity pyramids. Now productivity, as I said
+is the amount of biomass produced per unit area per unit time and it is a very very
+important parameter for determining as the word says the productivity of any given eco
+system. So in the first case you have dry weight of the biomass of different organisms
+and at the bottom you have the dry weight in terms of biomass for the primary producers
+that is followed by the herbivores, carnivores, first carnivore, second carnivore and so on.
+If you put it in terms of biomass now you can there are two parameters that are used for
+productivity. You can have gross primary productivity and you can have net primary
+productivity.
+If you are looking at biomass only then that is net primary productivity. If you are
+looking at the entire amount of energy that is actually utilized within a particular eco
+system that can be considered gross primary productivity. But here we have dry weight in
+both cases so in both cases it is net primary productivity. So here the biomass is net
+primary productivity and you can see the shape of the triangle. It is always going to be
+reducing in terms of values as you go from the bottom which is the primary producers
+and as you go towards the top the amount of mass as well as energy will go down it will
+decline that is the nature of any ecosystem. So you have your producer herbivore, first
+carnivore, second carnivore and it may be more complicated with higher trophic levels.
+So here again we have food chain in a food in a pond and the producers the primary
+producers are the phytoplankton they are ingested by herbivores like copepods and other
+organisms. Then you have the first carnivores which are small fish and followed by second
+carnivores which are bigger fish.
+
+I will stop this first lecture here these are the references and thank you.
+

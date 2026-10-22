@@ -1,0 +1,284 @@
+                                            Environmental Science
+                             Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                               Indian Institute of Technology Kharagpur
+
+                                                      Week 5
+                    (Lecture 2): RENEWABLE ENERGY I (Solar Energy ­ I)
+
+         Welcome to lecture 2 of week 5 of the NPTEL online certification course on Environmental
+Science. In the last lecture, we have seen the importance of renewable energy resources,
+particularly from the perspective of climate change mitigation as well as from the viewpoint of
+sustainable development. Therefore, in the following lectures, we will be learning about the
+various aspects of renewable energy resources.
+         Today, we will be learning about solar energy. We will first familiarize ourselves with the
+basics of solar energy resource and we will also learn about the concentrating solar power
+technology. and we will also learn about the concentrating solar power technology. We will look
+into the environmental and social aspects of concentrating solar power technology and we will also
+see what is the current status and future development scenario of concentrating solar power
+technology.
+         Solar energy is the most abundant of all energy resources. Indeed, the rate at which solar
+energy is intercepted by the Earth is about 10,000 times greater than the rate at which humankind
+consumes energy.
+
+         While proven fossil reserves represent 46 years (oil), 58 years (natural gas) and almost 150
+years (coal) of consumption at current rates, the energy received by the sun in one single year, if
+entirely captured and stored, would represent more than 6000 years of total energy consumption.
+Capture and distribute one tenth of one percent of solar energy, and the energy supply problem
+disappears.
+
+         The annual amount of energy received from the sun far surpasses the total estimated fossil
+resources, including uranium fission. It also dwarfs the yearly potential of renewable energy
+deriving from solar energy: photosynthesis (i.e., biomass), hydropower and wind power. The
+important element missing is geothermal energy, which is the large renewable energy resource that
+does not derive from solar energy. Its theoretical potential is immense, but likely to be much harder
+to tap on a very large scale than solar energy.
+         Estimates of the global technical potential of renewable energy sources from a wide
+number of studies are shown here. They are shown on a logarithmic scale, due to the wide range
+of assessed data. Biomass and direct solar energy are shown as primary energy due to their multiple
+uses. Interestingly, the lowest estimate of the technical potential for direct solar energy is not only
+greater than the current global primary energy supply; it is also greater than the highest estimate
+of any other renewable energy potential.
+         Although considerable, the solar resource is not constant. It varies throughout the day and
+year, and by location. For a large part, these variations result directly from the earth's geography
+and its astronomical movements (its rotation towards the East, and its orbiting the sun). But these
+variations are accentuated and made somewhat less foreseeable from day to day by the interplay
+between geography, ocean and land masses, and the ever-changing
+
+         composition of the atmosphere, starting with cloud formation.
+         Solar irradiance is maximal when the sun is directly overhead. When the sun is lower in
+the sky, its energy is spread over a larger area, and is therefore weaker per surface area. This
+reduction of the receiving area caused by the cosine of the angle between the incident solar
+radiation and the surface normal is called the cosine effect.
+
+         When the incident ray is not perpendicular to the surface (which is often the case with
+fixed-solar collector systems), the angle of incidence is not zero, and part of the incident energy
+will be lost due to this so-called cosine effect. More specifically, supposing no atmosphere, in any
+place on a horizontal surface the direction of the sun at its zenith forms an angle with the vertical.
+The irradiance received on that surface is equal to the irradiance on a surface perpendicular to the
+direction of the sun, multiplied by the cosine of this angle.
+         The figure here shows two scenarios: on the left illustrates an ideal situation, when solar
+rays come down on the surface of solar collector (PV panel) at the 90o angle; the right image shows
+what happens when the Sun moves across the sky while the panel remains fixed.
+
+         In the second case, the sun rays come down to the surface at an angle theta, which will
+decrease the amount of energy absorbed by the surface, and thus will lower the system efficiency.
+By how much?
+         We can try to estimate this reduction due to cosine effect if we break down the G vector
+into two components: one perpendicular to the surface (G^) ­ useful component that would be
+absorbed, and one - parallel to the surface (G||) ­ non-useful component that would be reflected or
+somehow lost.
+
+         For example, if we assume incident irradiance to be 1000 W/m2, and angle of incidence
+30o, then
+
+         G^ = 1000 x cos(30o) = 866 W/m2
+
+         Thus, without considering other inefficiencies, losses due to cosine effect are expected to
+be around 13.4% at this angle, which is quite substantial.
+         Tracking can be an effective solution to minimize these performance losses. Tilting the
+panel by the angle (b) equal to the zenith angle would set the panel perpendicular to the sun rays
+once again.
+
+         The early attempts to eliminate cosine effect would involve annual adjustment of panel
+angle throughout the day. But that would be tedious, inaccurate, and too discrete, while the Sun
+stays in constant motion on its daily path. Present-day automatic trackers use algorithms that are
+able to continuously track the Sun with accuracy of ±0.0003o.
+         All places on earth have the same 4 380 hours of daylight hours per (non-leap) year, i.e.,
+half the total duration of a year. However, they receive varying yearly average amounts of energy
+from the sun. The earth's axis of rotation is tilted 23.45° with respect to the ecliptic ­ the plane
+containing the orbit of the earth around the sun. The tilting is the driver of seasons. It results in
+longer days, and the sun being higher in the sky, from the March equinox to the September equinox
+in the northern hemisphere, and from the September equinox to the March equinox in the southern
+hemisphere. Tilting also leads to definition of two imaginary lines that delineate all the areas on
+the earth where the sun reaches a point directly overhead at least once during the solar year. These
+are the tropics, situated at 23.45° latitude on either side of the equator. Tropical zones thus receive
+more radiation per surface area on yearly average than the places that are north of the Tropic of
+Cancer or south of the Tropic of Capricorn. Independent of atmospheric absorption, the amount of
+available irradiance thus declines, especially in winter, as latitudes increase.
+         There are days where the polar regions receive higher irradiance than all other places on
+earth, with about 13.5 kWh/m2/day at the December solstice for the South Pole and 12.6
+kWh/m2/day at the June solstice for the North Pole, versus about 10 kWh/m2/day at the equator.
+This gap is probably accentuated, not diminished, by differences in the transparency of the
+atmosphere in both places. Poles are the sunniest places on earth, but only for a few days per year
+because summer days within the polar circles last 24 hours, against only 12 hours at the equator.
+
+         However, this basic model is complicated by the atmosphere, and its content in water
+vapour and particles, cloud cover which also vary over time and place.
+         There are two main methods of capturing energy from the sun:
+
+         Heat: irradiative solar energy is easily transformed into heat through absorption by gases,
+liquids or solid materials.
+
+         Photoreaction such as the photovoltaic effect which is the generation of voltage and
+electric current in a material upon exposure to light.
+         Now depending on the capturing mechanisms, like whether we want to capture the heat or
+whether we want to capture the light, there are four major direct solar energy technologies. These
+are basically the concentrating solar power technology, the solar photovoltaic technology, the solar
+thermal technology and the solar fuel technology. So, in today's lecture our focus will be on
+concentrating solar power technology and we will be learning about solar photovoltaic as well as
+solar thermal and solar fuels in the next lectures.
+         Concentrating solar power (CSP) technologies produce electricity by concentrating direct-
+beam solar irradiance to heat a liquid, solid or gas that is then used in a downstream process for
+electricity generation. Specifically, mirrors concentrate sunlight and produce heat and steam to
+generate electricity via a conventional thermodynamic cycle. The majority of the world's
+electricity today--whether generated by coal, gas, nuclear, oil or biomass--comes from creating
+a hot fluid. CSP simply provides an alternative heat source. Therefore, an attraction of this
+technology is that it builds on much of the current know-how on power generation in the world
+today. And it will benefit not only from ongoing advances in solar concentrator technology, but
+also as improvements continue to be made in steam and gas turbine cycles.
+         Any concentrating solar system depends on direct-beam irradiation as opposed to global
+horizontal irradiation as for flat-plate systems, and its maximum benefit are thus restricted to high
+direct normal irradiance (DNI) areas. DNI is the amount of solar radiation received per unit area
+by a surface that is always held perpendicular (or normal) to the rays that come in a straight line
+from the direction of the sun at its current position in the sky. Thus, sites must be chosen
+accordingly, and the best sites for CSP are in near-equatorial cloud-free regions such as the are the
+deserts in Africa, Australia and the Middle East. If only 0.3% of the Sahara desert was a
+concentrated solar plant, it would power all of Europe.
+         All CSP plants currently in commercial operation rely on a synthetic oil as heat transfer
+fluid (HTF) from collector pipes to heat exchangers, where water is preheated, evaporated and
+then superheated. The superheated steam runs a turbine, which drives a generator to produce
+electricity. After being cooled and condensed, the water returns to the heat exchangers.
+         The CSP technology includes four variants; namely, Parabolic Trough (PT), Fresnel
+Reflector (FR), Solar Tower (ST) and Solar Dish (SD). In PT and FR plants, mirrors concentrate
+the sun's rays on a focal line, with maximum achievable temperatures of about 550°C. In ST and
+SD plants, mirrors concentrate the sunlight on a single focal point with operating temperatures
+(800-1000°C).
+         Parabolic Trough (PT) ­ PT is the most mature CSP technology, accounting for more than
+90% of the currently installed CSP capacity. As illustrated in Figure 2, it is based on parabolic
+mirrors that concentrate the sun's rays on heat receivers (i.e. steel tubes) placed on the focal line.
+Receivers have a special coating to maximise energy absorption and minimise infrared re-
+irradiation and work in an evacuated glass envelope to avoid convection heat losses. The solar heat
+is removed by a heat transfer fluid (e.g. synthetic oil, molten salt) fl owing in the receiver tube and
+transferred to a steam generator to produce the super-heated steam that runs the turbine.
+
+         Mirrors and receivers (i.e. the solar collectors) track the sun's path along a single axis
+(usually East to West). An array of mirrors can be up to 100 metres long with a curved aperture of
+5-6 metres. Most PT plants currently in operation have capacities between 14-80 MWe,
+efficiencies of around 14-16% (i.e. the ratio of solar irradiance power to net electric output) and
+maximum operating temperatures of 390°C, which is limited by the degradation of synthetic oil
+used for heat transfer. The use of molten salt at 550°C for either heat transfer or storage purposes
+is under demonstration and is expected to increase plant efficiency.
+         Fresnel Reflectors (FR) plants are similar to PT plants but use a series of ground-based,
+flat or slightly curved mirrors placed at different angles to concentrate the sunlight onto a fixed
+receiver located several meters above the mirror field. Each line of mirrors is equipped with a
+single axis tracking system to concentrate the sunlight onto the fixed receiver. The receiver consists
+of a long, selectively-coated tube where flowing water is converted into saturated steam. While
+the optical efficiency of the FR system is lower than that of the PT systems (i.e., higher optical
+losses), the relative simplicity of the plant translates into lower manufacturing and installation
+costs compared to PT plants.
+         In the ST plants, a large number of computer assisted mirrors (heliostats) track the sun
+individually over two axes and concentrate the solar irradiation onto a single receiver mounted on
+top of a central tower where the solar heat drives a thermodynamic cycle and generates electricity.
+Heliostats can vary greatly in size, from about 1 m2 to 160 m2. Whatever the size, field size seems
+to be limited to a thermal power of about 600 MW, for which heliostats are located about 1.5 km
+from a tower of about 160 m height. The choice of heliostat size creates a significant trade-off in
+benefits: large heliostats have a relatively high power output, but require stronger and more rigid
+structures; small heliostats are lighter and have smaller motors, but more of them are required to
+generate the same amount of electricity. There is no clear trend towards either option.
+
+         The ST plants can use water-steam, synthetic oil or molten salt as the primary heat transfer
+fluid. The use of high-temperature gas is also being considered. Depending on the primary heat
+transfer fluid and the receiver design, maximum operating temperatures may range from 250-
+300°C (using water-steam) to 390°C (using synthetic oil) and up to 565°C (using molten salt).
+Temperatures above 800°C can be obtained using gases.
+         Heliostats need to be distanced from each other to reduce shading but also blocking, which
+takes place when a heliostat intercepts part of the flux reflected by another. Field design
+optimisation also depends on the desired power. Typical heliostat fields in low latitudes tend to be
+circular and surround the central receiver, while in higher latitudes they tend to be semi-circular,
+to reduce cosine losses. Small fields will be more concentrated to the polar side of the tower, larger
+ones more circular, as atmospheric attenuation reduces the efficiency of far-field heliostats.
+         Parabolic dishes concentrate the sun's rays at a focal point propped above the center of the
+dish. The entire apparatus tracks the sun, with the dish and receiver moving in tandem.
+
+         Most dishes have an independent engine/generator at the focal point, which eliminates the
+need for a heat transfer fluid and cooling water. Dishes require two-axis sun tracking systems and
+offer very high operating temperatures. Unlike other CSP options, SD systems do not need cooling
+systems for the exhaust heat. This makes SDs suitable for use in water-constrained regions, though
+at relatively high electricity generation costs compared to other CSP options. Dishes offer the
+highest solar-to-electric conversion performance of any CSP system, while having a low
+environmental footprint (land use & water requirement). However, they have yet to be deployed
+on any significant commercial scale.
+         Thermal storage is a critical component in achieving high penetration levels with solar
+energy technologies. It needs to compensate for the variability of the solar resource and increase
+the capacity factors or value of the solar systems. There are several ways to store the heat collected
+from the sun. One, "sensible heat," works by modifying the temperature of some medium. Another
+is "latent heat," in which the phase of some medium is changed ­ from solid to liquid, or from
+liquid to gaseous states ­ when the heat is being stored and in the opposite direction when the heat
+is extracted.
+
+         Thermal storage in CSP plants can be used for a variety of purposes. The first objective is
+to make the capacities "firm" despite possible variations in the solar input. Thermal storage also
+allows shifting the production in time, usually on a daily scale. The idea is to produce electricity
+when it is most valued by utilities. This concept is all the more important when peak demand does
+not coincide, or coincides only partially, with the sunniest hours. This figure illustrates the daily
+resource variations (DNI) and the flows from the solar field to the turbine and storage and from
+the field and storage to the turbine, in a CSP plant generating electricity from noon to 11 pm.
+         Thermal storage could also increase the capacity factor (i.e., how often a plant is running
+at maximum power.) and achieve base load electricity generation, at least during most of the year.
+Alternatively, it could be used to concentrate the generation of electricity on demand peak hours.
+
+         Depending on its operating requirements, the solar field needs to be sized so that enough
+heat can be supplied both to operate the turbine during the day and charge the thermal storage
+system.
+         Let us look into the applications of CSP technology apart from electricity generation. So
+on addition to electric conventional electricity generation, CSP can also be applied to desalinize
+water, it can also be used to support enhanced oil recovery options which we have already learned
+about in our last week and it can also be used for full remote facilities.
+
+         In addition to these types of applications, concentrating solar power technology can also
+be used to generate process heat or cooling with thermally driven refrigerators, particularly for the
+industry and they can also operate in a combined heat and power mode.
+         CSP does not directly emit GHGs or other pollutants when producing electricity.
+
+         CSP emits fewer GHGs over its lifecycle than Solar Photovoltaic (PV) and Wind. If
+thermal storage is included, CSP also has the advantage of not incurring emissions from the back-
+up plants that would otherwise be needed to balance intermittency.
+
+         The manufacturing and disposal processes associated with CSP generate pollutants. CSP
+makes much more intense use of materials than other technologies. However, the main materials
+used are commonplace commodities such as steel, glass and concrete, for which recycling rates
+are high.
+
+         Few toxic substances are used in CSP plants. The synthetic organic heat transfer fluids
+used in parabolic troughs present the greatest risks. They can catch fire and contaminate soils. One
+goal of research is to replace toxic heat transfer fluids with water or molten salts.
+
+         Finally, CSP's land requirement averages 50 MW per km², which is intermediate between
+solar PV and Wind. Visual impact should be limited if CSP plants are to be built in arid,
+uninhabited areas.
+         Like fossil fuels in thermal power generation plants, CSP -except dish system - requires
+water for cooling & condensing processes (wet cooling process). The impact and accessibility of
+large quantities of water are important challenges in arid and semi-arid regions. Technologies
+derived from conventional power plants avoid or reduce water consumption for cooling: Dry
+cooling technologies use air instead of water to cool the system, but require very large fans; Hybrid
+air/water cooling technologies help reduce water consumption. Dry cooling is likely to increase
+the electricity generation costs.
+         In 2021, the global market for concentrating solar thermal power (CSP) contracted for the
+first time since the commercial establishment of the industry in the 1980s, to reach a total
+cumulative capacity of 6 gigawatts (GW). This contraction occurred as the launch of the long-
+awaited 110 megawatt (MW) Cerro Dominador plant in Chile was offset by the decommissioning
+of nearly 300 MW of older CSP units in the United States.
+
+         Growth in the global CSP market has trended downwards since 2015, despite consistent
+cost declines during this period. Prior to 2015, the market grew just under 40% annually on average
+for eight years. The recent decline is due largely to inactivity in the two countries with the most
+CSP installations, Spain and the United States, which added no new capacity for eight and six
+years, respectively, because of policy changes, project failures and competition from solar PV.
+Some market recovery is expected in the coming years with the addition of 750 MW of new
+capacity in China and the United Arab Emirates. Around 70% of the CSP capacity under
+construction in 2021 was based on parabolic trough technology, with the rest based on tower
+systems.
+         By the end of 2021, an estimated 23 GWh of thermal energy storage, based almost entirely
+on molten salts, was operating in conjunction with CSP plants across five continents. Other hybrid
+concepts emerged in 2021, some of which combine CSP and TES with other forms of storage to
+create longer-duration storage, enhance flexibility or produce clean fuels. Photon Energy (Sweden)
+and RayGen (Australia) announced plans to implement a 300 MW solar plant with 3.6 GWh of
+energy storage using CSP, solar PV, TES and long-duration thermal-hydro storage. In addition to
+these novel combinations, a range of other research and development (R&D) activities were under
+way to improve the costs, reliability and flexibility of CSP and TES systems. Many were supported
+by public funds.
+         With that, I end this lecture on the basics of solar energy as well as the concentrating solar
+power technology. Thank you.
+

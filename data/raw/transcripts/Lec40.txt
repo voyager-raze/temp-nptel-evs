@@ -1,0 +1,275 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                Week 08
+                                               Lecture 05
+                      NGT, WQI and reuse and recycling of wastewater
+
+Welcome, everyone to lecture number 5 of week. Today, we are going to look at National
+Green Tribunal issues, Water Quality Index and the reuse and recycling of wastewater.
+The concepts that we are going to cover in lecture 5 are the National Green Tribunal,
+what it means, where it started, what is the goal, the wastewater discharge standards,
+Water Quality Index, Zero Discharge Goal and Reuse and Recycling of Wastewater.
+
+The keywords for this particular lecture are natural justice, irrigation, sewers, water
+bodies, marine environment, secondary wastewater treatment, tertiary wastewater
+treatment.
+So, let us start with the National Green Tribunal. The National Green Tribunal was
+established on 18th of October 2010 under the National Green Tribunal Act. The goal of
+this particular organization is to provide effective and expeditious disposal of cases
+relating to environmental protection and conservation of forest and other natural
+resources. This includes the enforcement of any legal right relating to the environment
+and providing relief and compensation for damages to persons, property and for matters
+connected to that. It is a specialized body that is equipped with the necessary expertise. It
+is not bound by the code of civil procedure, but it is guided by the principles of natural
+justice. The tribunal tries to dispose of applications or appeals within months of their
+being filed. The principal place of sitting of the tribunal is New Delhi. There are four
+other locations in the country where the NGT sits and that is Bhopal, Pune, Kolkata, and
+Chennai.
+I will come to the revised standards after I talk about the CPCB standards for wastewater
+discharges in our country. So, here we have the standards for the wastewater discharges
+that have been enforced by CPCB for several decades now. And only some of the
+standards, some of the major parameters are shown in this slide and the next and let me
+also add a few more points here. One is that wastewater, especially municipal wastewater
+can be discharged in four different locations and that is what you see in this table. So, you
+have inland surface water, public sewers, land for irrigation, and marine and coastal
+environments. So, these are the four discharge points into which either municipal
+wastewater or even industrial wastewater can be discharged, and I am not giving the
+entire list of standards. It is a very long list. It is there on CPCB's website and anytime
+any industry or municipality needs to discharge wastewater, they have to adhere to these
+standards. So, starting with just a representative example of some of these parameters, the
+most important ones are suspended solids. In milligrams per liter, it is 100 milligrams per
+liter maximum for inland surface water bodies. For the sewer, it can be up to 600
+milligrams per liter. For irrigation, it can be 200 milligrams per liter, and there are several
+other points that are mentioned here for marine environments.
+
+The particle size for the suspended solids has been mentioned. For inland surface water
+bodies, it is 850 microns through the Indian standard sieve, and there are floatable solids
+as well as settleable solids that are mentioned for the marine environments. The pH for
+inland surface water bodies is 5.5 to 9 for all environments. So, in all four cases it is 5.5
+to 9. Temperature of the discharge water, the wastewater that is discharged should not be
+more than 5 degrees above the surface water body receiving temperature. So, what is the
+temperature of the surface water body it should not be more than 5 degrees above that.
+There are some more examples here of water quality parameters that are of importance.
+So, we have oil and grease, we have total residual chlorine, we have ammonical nitrogen,
+total gel dull nitrogen, free ammonia, BOD3 at 27 degrees centigrade, and COD. So, these
+are some of the most important parameters that are listed in this particular slide.
+
+So, what we have on this slide are the revised sewage discharge standards as per an NGT
+order in 2018. As I said in the CPCB standards there are four possible locations for the
+wastewater to be discharged that is no longer applicable for municipal sewage treatment
+plants. Now, the set based on NGT's order, it is now based on the classification of cities.
+So, we have mega and metropolitan cities.
+
+Let us look at the classification of cities. So, metropolitan cities have a population of 1
+million people, and there are 35 of them in India in 2001 which has grown to 53 in 2011.
+We will not go through each one of them. Class 1 has a population of greater than 1 lakh.
+All other classes we have statutory towns, we have census towns, and more details are
+provided in the slide for you as per your interest. It is not applicable to our standards. It is
+just additional information.
+Coming back to the standards. So, for mega and metropolitan cities with populations
+greater than 1 million, we have one set of standards. Class 1 cities have greater than 1
+lakh population, and that is another set of standards, and for other towns and cities we
+have different standards. So, these are the major parameters: pH, BOD 3 at 27 degree
+centigrade, TSS, COD, total nitrogen, total phosphorus, and fecal coliforms. So, by now
+you are familiar with each one of these parameters and their importance as per
+wastewater discharge standards.
+
+This is the classification of cities. More details are provided over here like I said for your
+information. It is not directly relevant, but somewhat relevant to what we are talking
+about here.
+We now come to the next major topic for this lecture and that is the water quality index.
+Now, water quality indices are used by different groups, different countries for providing
+a uniform scale of comparison of water quality. The advantage of using a single number,
+water quality index means it is a single number that represents water quality. We have
+already seen that water quality cannot be measured in one way only. We have far more
+than 10 parameters. I have covered only the 10 most important parameters in previous
+lectures, but we know they are not adequate.
+
+So, because we do not have a single measure that can be used to represent water quality,
+this index is proposed by different groups, research groups in different countries and
+there are so many indices that are available in the literature, but we are going to stick to
+one of the earliest ones. So, coming back to this point, water quality indices provide a
+uniform scale of comparison for water quality in any part of the world with a single
+number value because it is difficult to compare so many different parameters for different
+water sources at the same time. Now, when you have a water quality index, it is a single
+value. You can compare across both time and space. So, I can look at a particular river,
+and I can say 10 years ago the water quality index was 100, and today it is 50. So, that I
+am comparing temporally. So, that is temporal variation. I can also say this river at its
+upstream end has a water quality index of 70 and at its downstream end it has come down
+to 20. So, that is a comparison of the spatial change in water quality and this happens all
+the time. Rivers, streams, they have severe changes happen in their water quality both
+over time and space.
+
+So, this helps to compare it on a single uniform scale. As I said, there are several water
+quality indices that are available in the literature. The earliest publication is by Horton in
+1965 and what we are going to use for our purposes is the USA National Sanitation
+Foundation Index in 1970. This was published in 1970. The NSF WQI was based on the
+Delphi approach where a panel of 142 experts from all over the US with expertise in
+different aspects of water quality management came up with a list of the most important
+water quality parameters and their relationship with water quality.
+This entire description comes from one of the references and that is Canter 1999. Canter's
+book provides charts that correlate each of the important water quality parameters. So,
+there are 9 water quality parameters, and there are graphics that correlate each of these 9
+water quality parameters with a quality index, and this is how the quality index was
+created. And this was generated by averaging the response of the experts and you can
+look for this information on the either in the textbook or on different websites.
+
+What I have done is listed those 9 parameters and their weights on this slide. So, in the
+first table, these are the water quality parameters and the weights that are given to each
+one of these parameters. And you can see that dissolved oxygen as a percentage of DO
+saturation has a weightage of 17 percent. This is the most important parameter. Fecal
+coliforms is the next one it has 16 percent of the total weight. So, whether you put it on a
+scale of 0 to 100 or from 0 to 1 this is what it is and we have pH, we have biochemical
+oxygen demand again BOD5 at 20 degree centigrade. Temperature change now at the
+point of discharge or at the point of measurement you have a particular temperature. Is it
+varying in a significant way from the upstream and from the upstream of that point or the
+downstream of that point. So, what is the temperature change that is 10 percent, total
+phosphate another 10 percent, nitrates another 10 percent, turbidity 8 percent, and total
+solids 7 percent. So, overall you can call it 100 or in this case I have written it on a scale
+of 0 to 1.
+
+When you have your measurements let us take a look at the measurements and how to get
+there. So, for every parameter you need a Q value and these are the parameters and their
+Q values are given. Now, these Q values are noted from the charts which I said are
+available in Canter's textbook as well as on the internet. So, you can interpolate for any
+values in between. So, you have the Q values for each of these 9 parameters listed in this
+table. So, that is the first step is to determine the Q value.
+The second step is to multiply Qi by Wi and determine the overall WQI and two problems
+have been solved or rather data for two locations on the Ganga are shown over here. So,
+we have the observed values at Gangotri and Allahabad or Prayagraj in the second point.
+So, we have two points, point 1 is Ganga 3, second point is Prayagraj or Allahabad
+downstream of the confluence of Ganga and Yamuna. So, this is based on CPCB data and
+the Qi values are taken from this table. So, Wi multiplied by Qi, Wi are the weighted
+weights for the individual parameters and Qi is given. So, that is going to give you, you
+have to do the calculations and you will get an overall WQI value. So, for Gangotri, we
+get a value of 90.48, and for the water downstream of Sangam we get a value of 62.56.
+
+We then have this table which allows us to say whether the water quality is good, bad or
+excellent. So, for Gangotri which is relatively unpolluted, almost devoid of any human
+influence, so it is excellent water quality at that point. It is not 100, it is just barely within
+the 90 to 100 range because there is some impact of human activities over there. And the
+next one Prayagraj is at between 50 to 70 and that is medium water quality. And as the
+river flows further downstream it picks up more and more load in terms of pollution from
+both natural as well as anthropogenic sources, and therefore, it can be really bad in
+certain stretches. So, in either case what you see is an example of how to calculate WQI
+and then use it for comparing water quality over time and space.
+So, we now come to the last part of this week as well as this particular topic and that is
+reuse and recycling of waste water. It is very important for everyone to realize that our
+goal today in today's world is zero discharge of wastewater. We want to ensure that no
+wastewater is discharged to any surface water body or even groundwater. Now, how to
+achieve such a tremendous goal? So zero discharge goal can be achieved only if
+conventional and advanced wastewater treatment is done. So that means it requires a lot
+of effort, additional effort may be required.
+
+This treated waste water effluent can be used for many different purposes. The most
+common, the oldest use of waste water traditionally it has been used for irrigation or
+horticulture. So, if you are using wastewater for irrigation or horticulture that is after
+conventional treatment, I will come to more details in the next few slides. It can also be
+used for aquaculture and eco-restoration. It can be used for groundwater recharge and
+what is becoming increasingly evident is that in water-scarce regions people are realizing
+that waste water can be treated to the level of drinking water and it can be used as such.
+The best documented cases of wastewater to drinking water are in Namibia since 1968
+and in Singapore since 1998.
+So what I have over here on this slide is a very simple schematic that explains waste
+water treatment. So, what we are going to look at is a very quick review of how we treat
+wastewater. So, let us say we have municipal wastewater. It contains large numbers of
+different types of solids. You will have plastic bags, you will have branches, twigs,
+leaves, stones, pebbles, all kinds of things end up in municipal sewage. So, our first
+objective is primary waste water treatment which will remove these objectionable solids.
+And we use screening, we use grid chambers, all these kinds of processes are used for
+removing these objectionable solids. Then we come to secondary wastewater treatment.
+So after these solids have been removed, we are now left with dissolved biodegradable
+material and that is represented by BOD. So our second objective or rather secondary
+wastewater treatment objective is removal of BOD, and that is done by biological
+processes. So we have activated sludge process, we have trickling filters, we have so
+many other types of biological processes that are used at the secondary stage. Primary
+plus secondary is considered as conventional wastewater treatment. After conventional
+wastewater treatment we disinfect the wastewater prior to discharge. Why is it
+disinfected? Because here in the secondary stage, we have encouraged biological
+processes which means the number the concentration of microbial organisms including
+bacteria is very very high and there may be pathogenic bacteria present in this water.
+
+So, to ensure that there is no possibility of pathogens being present in the effluent of the
+secondary wastewater treatment process we disinfect it prior to discharge. The
+disinfection can be either ozonation, UV treatment, so many other possibilities exist.
+Now, this waste water when it is used or reused it can be reused for irrigation, and it is
+generally used for irrigation of non-food crops because we still do not want any bacteria
+to be present in the effluent that is in contact with food crops that is one part. Now, this
+effluent also contains high levels of nitrogen and phosphorous. If this water is discharged
+into any receiving water body it will cause eutrophication in that water body and
+eutrophication is again degradation of water quality which is not acceptable. So it is
+much better to treat it further and use it for either irrigation of food crops directly. That
+means at the secondary stage it can be used after further treatment for food crop irrigation
+or it can be used for other purposes and I will come to that in the next slides. Where there
+is a possibility of using wastewater for levels maybe to the level of drinking water or
+even other uses we may have to go for higher levels of wastewater treatment. So, we need
+to remove contaminants like heavy metals, pesticides, micropollutants and so on. So, I
+will be talking about that in the next few slides.
+
+So, let us take the first set. What are the possible reuse applications? Like I said the oldest
+set of reuse applications is irrigation or horticulture and the effluent from conventional
+wastewater treatment plants is high in nutrients like nitrogen and phosphorous. So, this is
+absolutely appropriate for landscape irrigation. You can have irrigation of parks, golf
+courses, playgrounds, landscape areas around offices and residences. I have seen road
+dividers which have vegetation being irrigated using conventionally treated wastewater.
+So these are good reuse applications. Treated conventionally treated wastewater can be
+used for housekeeping, for cooling as well as process needs by industries. It can be used
+for recharging groundwater aquifers, for development of marshes, man-made lakes, golf
+courses, storage ponds. It can be used for fire protection. You may have to treat it further
+for fire protection as well as for toilet flushing. People think about using it after tertiary
+treatment for toilet flushing, for car washing, for air conditioning and so on. So some
+level of higher treatment is required for these levels of reuse applications. In water-scarce
+areas, secondary treated water has to be taken much further. So like I said, removal of
+nutrients, heavy metals, pesticides, any other micropollutants that are there in the water
+have to be removed until it becomes fit for drinking purposes. It can also be used to
+replenish stream flows. So secondary wastewater can be used for replenishing stream
+flows, for conserving ecosystems, for recreational uses after further treatment, for tertiary
+treatment and for improving stream navigability.
+
+Remember that in many parts of the world stream flows are severely affected because of
+how much water we are extracting from them. So after treating it, you can return the
+water back to the stream to ensure that it remains navigable. So, let us take the secondary
+treated wastewater. I have already mentioned that it can be used for non-food crops and
+restricted landscape irrigation because of the microbial content of the wastewater. So,
+food and fiber crops can be grown with secondary treated wastewater.
+Surface irrigation of orchards and vineyards is acceptable according to US EPA
+recommendations. Groundwater recharge of non-portable drinking water sources. So, if
+you have a groundwater aquifer which is not going to be used for drinking water, then
+that can be recharged using secondary treated wastewater. You can have constructed
+wetlands, you can have habitat conservation, stream augmentation, industrial wastewater
+use for cooling water, for boiler feed water that can be, these are some of the reuse
+applications.
+For tertiary and higher treated wastewater. If I want to use wastewater for food crop
+irrigation, it has to be treated further. Now these are US EPA regulations where they are
+not removing the nutrients, but they are providing further treatment. It may be
+coagulation, chemical or biological nutrient removal, filtration, and disinfection. So, they
+are providing this level of treatment. We have toilet flushing, vehicle washing,
+unrestricted recreational uses and landscape irrigation for golf courses and other areas.
+
+How do we apply the wastewater for irrigation to land areas? So we have the most
+common methods are the first two methods. We have surface irrigation or overland flow.
+You can have your ridge and furrow irrigation where you have a higher part where the
+plant is sown and a lower part where the water is allowed to flow. So that is called ridge
+and furrow irrigation or sheet flow and in that case, the land has to have a gentle slope,
+excess water flows down the slope into a cross ditch for collection and disposal. Flooding
+is a simple method where you flood the entire field with the wastewater, the land is flat, it
+is enclosed by dikes which means higher areas which form a boundary around the land.
+The water is spread over a depth of 2.5 to 60 centimeters. You can have drains below the
+surface for collecting excess water. You can use rapid infiltration for recharging the local
+groundwater table and you can have constructed wetlands where the aquatic plants that
+are put in place with a substratum. Now what will happen in these constructed wetlands is
+that you will have a substratum below in the root zone where you will get microbial
+growth and you will also get generation of oxygen again in the root zone for the aerobic
+decomposition of organic matter that is present in wastewater. So that is how the
+constructed wetland function where the oxygen in the root zone is generated and the
+microbes are going to utilize that oxygen and decompose the organic matter. Nutrients
+from the wastewater are utilized by the plants and microbes for their growth. The plants
+will need to be harvested periodically.
+
+That brings me to the end of this week's last lecture, and these are the references. Thank
+you.
+

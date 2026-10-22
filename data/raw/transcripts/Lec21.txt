@@ -1,0 +1,394 @@
+                                            Environmental Science
+                             Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                               Indian Institute of Technology Kharagpur
+
+                                                      Week 5
+                         (Lecture 1): RENEWABLE ENERGY I (Overview)
+
+         Welcome to week 5 of the NPTEL online certification course on Environmental Science.
+In the last week, we have seen that climate crisis is upon us and that a prudent shift towards
+renewable energy resources is necessary to negate climate change in the long term.
+         Therefore this week, as well as the week after we will be learning about renewable energy
+resources. So at the end of this lecture, you should be having an understanding of the following
+terminologies, that is what is global energy trilemma, what is resource potential, technical
+potential. You should also be able to understand the intermittent nature of renewable energy and
+energy storage.
+         Renewable energy is any form of energy from solar, geophysical or biological sources that
+is replenished by natural processes at a rate that equals or exceeds its rate of use. RE can supply
+electricity, thermal energy, and mechanical energy, as well as produce fuels that are able to satisfy
+multiple energy service needs.
+
+         Renewable energy is obtained from the continuing or repetitive flows of energy occurring
+in the natural environment and includes resources such as biomass, solar energy, geothermal heat,
+hydropower, tide and waves and ocean thermal energy, and wind energy.
+
+         However, it is possible to utilize biomass at a greater rate than it can grow, or to draw heat
+from a geothermal field at a faster rate than heat flows can replenish it. On the other hand, the rate
+of utilization of solar energy has no bearing on the rate at which it reaches the Earth. Fossil fuels
+(coal, oil, natural gas) do not fall under this definition, as they are not replenished within a time
+frame that is short relative to their rate of utilization.
+         All societies require energy services to meet basic human needs (e.g., lighting, cooking,
+space comfort, mobility, communication) and to serve productive processes. Energy transcends all
+sectors and contributes towards the development of world economies and is the lifeline of modern
+society. However, with ever-mounting global population, it is becoming increasingly challenging
+for the energy industry to ensure secure, affordable, and sustainable energy supply. To balance
+these dimensions of what has become known as the "energy trilemma" or the `impossible trinity',
+swift, yet fundamental, changes are needed in energy production, delivery, and consumption, and
+renewable energy sources can play a key role in this regard.
+
+SECURITY
+
+         Security refers to whether we are able to access enough energy when and where we need
+it. This means being able to have uninterrupted availability of energy. In the short term this could
+mean an energy system that is able to respond to sudden changes in supply and demand. For
+example, energy demand spikes around 7 AM and again, between 4 and 7 PM which is usually
+when people get up in the morning and when they return home from school or work!
+
+         Another aspect of energy security is security in the long term. With fossil fuels like oil, gas
+and coal, there is a limited supply and eventually these sources of energy will run out. Using
+renewable energy sources like wind, solar and hydro power can improve energy security in the
+long term.
+
+AFFORDABILITY
+
+         We need energy to live our everyday lives: to heat our homes, run our cars and public
+transport and power the lights in buildings. It is important that the energy that we use is affordable
+and accessible to everyone. According to the International Energy Agency, solar power is the
+cheapest source of electricity in history, with wind power not too far behind. This is partly down
+to more efficient solar plants and wind turbines to allow for better energy generation.
+
+         We can also improve energy affordability by making more energy efficient products.
+Gadgets that take less energy to power can help drive down energy costs by lessening demand.
+
+SUSTAINABILITY
+
+         Globally, we draw most of our energy from oil, coal, and natural gas. These fossil fuels
+account for 80% of the world's energy mix. These sources of energy have negative effects on our
+planet by releasing hazardous air pollutants. Sustainable energy focuses on meeting the energy
+demands of today without negatively impacting future generations. Hydro, solar, and wind power
+are all considered more sustainable sources of energy as they come from renewable sources. Other
+clean options, such as nuclear power, may be a big part of our energy mix in the future but there
+are still ongoing debates about its sustainability when it comes to nuclear waste.
+
+         So what we need to do is important to find a balance between all three vectors of the
+trilemma without sacrificing one to achieve another. Say, if we decide to generate energy for
+Greenland only from solar power energy it would be very affordable but it would not be as secure.
+Greenland is not a sunny country and there would not be enough energy for everyone to access
+when they need it. But in the future we may find it easier to balance security, affordability and
+sustainability with a mix of different renewable energy sources.
+         Climate change has become a major concern of this century. The urgent response to that
+concern is an energy transformation that swiftly reduces the carbon emissions that cause climate
+change. The Paris Agreement establishes a clear goal to limit the increase of global temperature to
+"well below" 2 degrees Celsius (°C), and ideally to 1.5 °C, compared to pre-industrial levels, by
+this century.
+
+         To realize this climate target, a profound transformation of the global energy landscape is
+essential. Rapidly shifting the world away from the consumption of fossil fuels and towards cleaner
+renewable forms of energy is critical to reach the climate goals agreed upon in Paris. Such a
+transformation is possible with the rapid replacement of conventional fossil fuel generation and
+uses with low-carbon renewable energy technologies. But the reduction of carbon emissions and
+balancing the Energy Trilemma are not the only reasons why the world should embrace renewable
+energy. There are many other drivers behind it.
+         Global weighted average costs for electricity from all of the commercially available
+technologies for renewable power generation have kept falling in recent years. As renewable
+technologies become more affordable, more and more countries will undoubtedly benefit from
+reduced fuel import dependence.
+
+         Air quality improvements: Air pollution is a major public health crisis, caused mainly by
+unregulated, inefficient and highly polluting energy sources (e.g., fossil fuel combustion and
+chemical-related emissions). The switch to clean renewable energy sources, along with cost
+reductions and developments in electromobility, would improve the air quality in cities and bring
+greater prosperity by reducing ill health. It would also bring modern energy access to rural areas
+and increase productivity.
+
+         Universalization of energy access: Transforming the global energy system would help lead
+to clean energy access for everyone. The current lack of energy access for millions of people is a
+cause of great inequality. Renewable energy technologies can be applied to rural areas where the
+grid has yet to reach, bringing rural electrification, community energy initiatives and distributed
+energy resources that can greatly improve people's lives and stimulate local economies.
+         Enhancement of energy security: For countries heavily dependent on imported fossil
+fuels, energy security is a significant issue. Renewables can provide a more secure alternative to
+fossil fuels by increasing the diversity of energy sources through local generation, thus
+contributing to the flexibility of the system and improving resistance to shocks.
+
+         Transforming the global energy system would also bring large socioeconomic benefits.
+The development of a local renewable energy industry has the potential to create jobs that can be
+filled by people of all genders and from all disciplines and backgrounds, thereby contributing to
+the achievement of the SDGs.
+
+         To summarize, RE can not only address climate change mitigation but may also address
+sustainable and equitable economic development, energy access, secure energy supply and local
+environmental and health impacts.
+         RE comprises a heterogeneous class of resources, including solar energy...
+
+         Solar energy is the most abundant of all energy resources and can even be harnessed in
+cloudy weather. The rate at which solar energy is intercepted by the Earth is about 10,000 times
+greater than the rate at which humankind consumes energy. Solar technologies can deliver heat,
+cooling, natural lighting, electricity, and fuels for a host of applications. Solar technologies convert
+sunlight into electrical energy either through photovoltaic panels or through mirrors that
+concentrate solar radiation. Although not all countries are equally endowed with solar energy, a
+significant contribution to the energy mix from direct solar energy is possible for every country.
+
+         Wind energy harnesses the kinetic energy of moving air by using large wind turbines
+located on land (onshore) or in sea- or freshwater (offshore). Wind energy has been used for
+millennia, but have evolved over the last few years to maximize the electricity produced. Though
+average wind speeds vary considerably by location, the world's technical potential for wind energy
+exceeds global electricity production, and ample potential exists in most regions of the world to
+enable significant wind energy deployment.
+         Geothermal energy utilizes the accessible thermal energy from the Earth's interior. The
+Earth's core, 4,000 miles below the surface, can reach temperatures of up to 5000 oC. This heat--
+geothermal energy--flows outward from the core, heating the surrounding area, which can form
+underground reservoirs of hot water and steam. These reservoirs can be tapped for a variety of
+uses, such as to generate electricity or heat buildings. In fact, the technology for electricity
+generation from geothermal reservoirs is mature and reliable, and has been operating for more than
+100 years.
+
+         Ocean energy derives from technologies that use the potential, kinetic, thermal and
+chemical energy of seawater to produce electricity or heat. Ocean energy systems are still at an
+early stage of development, with a number of prototype wave and tidal current devices being
+explored. The theoretical potential for ocean energy easily exceeds present human energy
+requirements.
+
+         Hydropower is our most mature and largest source of renewable power. Hydropower
+harnesses the energy of water moving from higher to lower elevations. The most common form of
+hydropower uses a dam on a river to retain a large reservoir of water. Water is released through
+turbines to generate power. Dams often have multiple uses - providing drinking water, water for
+irrigation, flood and drought control, navigation services, as well as energy supply. Hydropower
+currently is the largest source of renewable energy in the electricity sector. It relies on generally
+stable rainfall patterns, and can be negatively impacted by climate-induced droughts or changes to
+ecosystems which impact rainfall patterns.
+
+         Bioenergy is the energy derived from biomass (organic matter), such as plants. If you've
+ever burned wood in a fireplace or campfire, you've used bioenergy. But we don't get all of our
+biomass resources directly from trees or other plants. Many industries, such as those involved in
+construction or the processing of agricultural products, can create large quantities of unused or
+residual biomass, which can serve as a bioenergy source. Energy created by burning biomass
+creates greenhouse gas emissions, but at lower levels than burning fossil fuels like coal, oil or gas.
+However, bioenergy should only be used in limited applications, given potential negative
+environmental impacts related to large-scale increases in forest and bioenergy plantations, and
+resulting deforestation and land-use change.
+         The various forms of renewable energy depend primarily on incoming solar radiation,
+which totals around 5.4 million Exajoules (EJ) per year. Of this, approximately 30% is reflected
+back into space. The remaining 70% is in principle available for use on Earth, and amounts to
+approximately 3.8 million EJ. This is around 10,000 times the current rate of consumption of fossil
+and nuclear fuels. All renewable energy sources, except Geothermal power and Tidal power,
+derive their energy either directly or indirectly from the Sun.
+
+         Wind is the result of temperature differences in different places. Uneven heating results in
+a difference in atmospheric pressure, which causes the air to move. When energy has been
+transferred from the wind to the ocean, waves are formed. So, wave energy does indirectly depends
+on solar radiation.
+
+         Hydropower is also an indirect form of solar energy because the sun plays a major role in
+driving the water cycle and keeping the natural process in its uniformity.
+
+         And bioenergy is basically carbon absorbed by plants through photosynthesis.
+
+         In contrast, the motion of the ocean tides, is caused principally by the moon's gravitational
+pull (with a small contribution from the sun's gravity); and geothermal heat originates from two
+principal sources: (i) primordial heat from when the Earth was formed, and (ii) heat generated by
+the continuous decay of radioactive isotopes in the Earth's crust. A small fraction of solar radiation
+is absorbed by the ground and distributed via natural groundwater systems and artificial structures
+such as flooded coal mines.
+         Although there are vast renewable energy resources across the globe, it is not technically
+feasible to develop all available resources. According to international experience, the potential of
+renewable energy sources is assessed in four different categories to characterize the viability of
+renewable energy technologies.
+
+         Total (resource) potential is the theoretical amount of energy that can be obtained during
+full and efficient use of renewable energy sources available in a location without taking into
+account physical limitations (mountains, valleys, forests, cities, roads, etc.) and the losses in energy
+transformations.
+
+         Technical potential is the amount of renewable energy that is feasible to obtain at a certain
+level of technological development as part of the total potential, while taking into account system
+performance, topographic, environmental, and land-use constraints. Technical potential may not
+reflect the developable potential because it does not incorporate technology costs; competing land
+uses; transmission and infrastructure availability; or the policy, investor, or energy competitive
+environments.
+
+         Economic potential is the part of the technical potential that can be economically realized.
+When calculating the economic potential, all costs and socio-economic factors are considered and
+this potential includes directions that are economically viable for implementation.
+         Market potential is the potential of RE which generates more revenue than other
+renewable energy projects.
+
+         Assessment of resource potential is a prerequisite for deployment of renewable energy.
+This information can be used to understand where to best build renewable energy infrastructure,
+but also to inform policy makers and project developers.
+         There is a multi-step process whereby primary energy is converted into an energy carrier
+(heat, electricity or mechanical work), and then into an energy service (such as space and water
+heating, cooling, lighting, cooking, etc). RE technologies are diverse and can serve the full range
+of energy service needs. Various types of RE can supply electricity, thermal energy and mechanical
+energy, as well as produce fuels that are able to satisfy multiple energy service needs.
+
+         Since it is energy services and not energy that people need, the goal is to meet those needs
+in an efficient manner that requires less primary energy consumption with low-carbon technologies
+that minimize CO2 emissions. Thermal conversion processes to produce electricity (including
+from biomass and geothermal) suffer losses of approximately 40 to 90%, and losses of around 80%
+occur when supplying the mechanical energy needed for transport based on internal combustion
+engines. These conversion losses raise the share of primary energy from fossil fuels, and the
+primary energy required from fossil fuels to produce electricity and mechanical energy from heat.
+
+         Direct energy conversions from solar, hydro, ocean, and wind energy to electricity do not
+suffer thermodynamic power cycle (heat to work) losses although they do experience other
+conversion inefficiencies in extracting energy from natural energy flows that may also be relatively
+large and irreducible
+         Further, some RE technologies can be deployed at the point of use (decentralized) in rural
+and urban environments, whereas others are primarily employed within large (centralized) energy
+networks. Though many RE technologies are technically mature and are being deployed at
+significant scale, others are in an earlier phase of technical maturity and commercial deployment.
+         There are multiple pathways for increasing the share of RE through integration across the
+transport, building, industry and primary production end-use sectors, but the ease and additional
+costs of integration vary depending on the specific region, sector and technology.
+
+         The characteristics of different RE sources can also influence the scale of integration. Some
+RE resources are widely distributed geographically. Others, such as large-scale hydropower, can
+be more centralized but have integration options constrained by geographic location. Some RE
+resources are variable with limited predictability. Some have lower physical energy densities and
+different technical specifications from fossil fuels. Such characteristics can constrain ease of
+integration and invoke additional system costs particularly when reaching higher shares of RE.
+
+         However, as the penetration of variable RE sources increases, renewable energy resources,
+such as wind and solar, that are inherently intermittent in nature, will create entirely new challenges
+for the power grid management in the future. After all, when the wind blows strongly or the sun
+shines bright, a surplus of electricity is produced that cannot be fed into the grid because of voltage
+instability. This is all the more regrettable as the unused electricity can no longer be regained when
+it is actually needed (e.g., during low winds or at night). Needless to say, renewable energy that
+fails to reach the grid is a missed opportunity to protect the climate and an expensive one, too. This
+unmet need for flexibility in the power network may be fulfilled through greater deployment of
+enhanced electricity storage technologies.
+
+         Electricity storage allows electricity to be generated when renewable sources (i.e., wind,
+sunlight) are available and to be consumed on demand. However, electricity storage is technically
+challenging because electricity can only be stored after conversion into other forms of energy,
+(such as potential, mechanical, thermal, chemical, electrostatic or magnetic energy) and this
+involves expensive equipment and energy losses.
+         At present, the only commercial storage option is pumped hydro power where surplus
+electricity is used to pump water from a lower to an upper reservoir. The stored energy is then used
+to produce hydropower during daily high-demand periods. Pumped hydro plants are large-scale
+storage systems with a typical efficiency between 70% and 80%, which means that a quarter of
+the energy is lost in the process.
+
+         Other storage technologies with different characteristics (i.e., storage process and capacity,
+conversion back to electricity and response to power demand, energy losses and costs) are
+currently in demonstration or pre-commercial stages:
+
+          Compressed air energy storage (CAES) systems store energy by compressing air. They
+require large, low-cost natural buffers (e.g. caverns) to store compressed air, which is then used in
+gas-fired turbines to generate electricity on demand.
+
+          Flywheels store electricity as mechanical energy, which is then converted back to
+electricity.
+
+          Electrical batteries store electricity as chemical energy. In particular, traditional lead-
+acid batteries offer low costs but short-lifetimes; Li-ion batteries offer higher efficiency and
+lifetime and are widely used for portable devices, but they require further R&D and cost reduction
+for application to solar and wind plants.
+
+          Supercapacitors store electricity as electrostatic energy and are often combined with
+batteries.
+
+          Superconducting magnetic storage use superconducting technology to store electricity
+efficiently but need more research to be developed.
+
+          Thermal energy storage involves heating or cooling a storage medium so that the stored
+energy can be used at a later time for power generation; heating and cooling application, and so
+on. Thermal energy storage is under demonstration in solar power plants where excess daily solar
+heat is stored and used to generate electricity at sunset.
+         From an energy demand perspective, TES is capable of providing solutions for the overall
+energy system rather than focusing on individual vectors, such as power, heat or cold. Energy
+demand in end-use sectors such as buildings is strongly affected by seasonality. Thermal storage
+can store energy for hours, days, weeks or even months, helping to address seasonal variability in
+supply and demand. TES technologies such as thermal tanks (using water), solid state (using
+storage media such as rocks, concrete and ceramic bricks) and underground TES (UTES) can store
+excess power generation in summer and then supply space heating during the colder seasons. Also,
+the other way around, chilled water tanks and UTES can be used on a seasonal basis to provide
+district cooling. This helps to cover electricity demand peaks when consumers require the most
+heating or cooling.
+         There are a wide range of thermal energy storage technologies available that can be
+classified into four groups based upon the underlying principle of their operation.
+
+         Sensible heat storage is the most commonly deployed and commercially advanced type of
+TES. It stores thermal energy by heating or cooling a storage medium (liquid or solid) without
+changing its phase. The amount of stored energy is proportional to the temperature change (rise or
+fall) on charging, within the operational temperature range, and the thermal capacity of the
+material.
+
+         Latent energy storage makes use of the heat involved in phase changes, mainly solid-liquid
+phase transitions. Materials used for LHS are known as phase change materials (PCM).
+
+         Thermochemical heat storage (TCS) is based on storing chemical energy making use of
+reversible chemical reactions. In the simplest case, heat is stored by transforming reactant A into
+the products B and C in an endothermic reaction. B and C compounds are normally stored
+separately, but are recombined during peak demand, releasing thermal energy. Examples of this
+general process include gas-gas reactions, such as ammonia dissociation, in which NH3 gas is
+split into N2 and H2; and gas-solid reaction, such as the decomposition of carbonates like CaCO3
+into a solid oxide, CaO and CO2.
+         Additionally, coupling TES systems with mechanical energy storage technologies provides
+complementary capabilities from both technologies.
+         Among all these TES options, sensible heat storage in the form of molten salts is the
+simplest and often cheapest form of storage and are therefore widely considered in solar power
+plants. Salts are inorganic chemical compounds. When used for thermal storage, salts that would
+normally be solid at ambient temperatures are maintained at temperatures above their melting
+points so that they are in liquid form.
+
+         Molten salts are used for the storage of high-grade heat. However, they are vulnerable to
+solidifying, which can cause considerable damage to auxiliary equipment. As such, their use is
+limited to highly controlled environments where high temperatures are required, such as in the
+power sector. Molten salts are used almost exclusively to help integrate CSP, where heat can be
+stored during the day and discharged at night to drive a turbine and maintain continuous electricity
+production.
+
+         The main disadvantages of sensible technologies include their large physical footprint, the
+need for further thermal insulation with higher temperature or storage time demands, and the
+potential need for (energy) inputs to maintain storage at target temperatures. In spite of these
+drawbacks, thermal energy storage is the key to bring about stability in the electricity grid arising
+from the intermittent nature of renewable energy resources.
+         In 2021, renewable energy continued to be impacted by the COVID-19 pandemic and was
+further influenced by economic and geopolitical developments. Aftershocks from the pandemic
+and a rise in commodity prices upset renewable energy supply chains and delayed projects. Amid
+these events, renewables experienced yet another year of record growth in power capacity.
+Investment in renewable power and fuels rose for the fourth consecutive year, and the record
+increase in global electricity generation led to solar and wind power providing more than 10% of
+the world's electricity for the first time ever. In addition, renewable energy accounted for an
+estimated 12.6% of total final energy consumption in 2020, up modestly from 8.7% in 2009. This
+share was nearly one percentage point higher than in 2019 (11.7%), as the temporary reduction in
+energy demand during 2020 favoured higher shares of renewables.
+         As in previous years, in 2019 the penetration of renewables was lowest in those sectors that
+consume the greatest amount of energy. The highest penetration was in the general use of
+electricity (such as for lighting and appliances but excluding electricity for heating, cooling and
+transport), which accounted for around 28% of TFEC. Energy use for transport represented around
+32% of TFEC and had the lowest share of renewables (3.7%). The remaining thermal energy uses,
+which include space and water heating, space cooling, and industrial process heat, accounted for
+more than half (51%) of TFEC; of this, around 11.2% was supplied by renewables.
+         Meanwhile in 2019, the renewable share fell in 18 countries, although 9 countries, mostly
+in Europe, have achieved high growth and large net increases in their renewable shares in TFEC.
+Only 3 countries ­ Iceland, Norway and Sweden ­ had renewable shares above 50% in 2019, and
+20 countries, mostly in Europe and Latin America, met at least a quarter of their total final energy
+consumption with renewables.
+
+         The main structural reasons for the slow uptake of renewables in meeting global energy
+demand include:
+
+             · consistent increases in energy demand, despite the temporary decline in 2020
+                  related to the COVID-19 pandemic;
+
+             · continued use of and investment in new fossil fuels, particularly coal; and
+             · the adoption of mainly fossil fuels to replace the declining use of traditional
+
+                  biomass in developing economies.
+         However, these trends remain far from the deployment needed to keep the world on track
+to reach net zero emissions by 2050. In order to attain net zero emission, the world would need to
+add 825 GW of renewables each year until 2050.
+
+         To summarize,
+
+         An energy-efficient and renewable-based economy is a game changer for a more secure,
+resilient, low-cost ­ and sustainable ­ energy future. But a structural shift in the energy system is
+increasingly urgent.
+         In the next lecture as well as in the week thereafter, we will be focusing our discussion on
+the various renewable energy resources. So on that, I end this lecture. Thank you.
+

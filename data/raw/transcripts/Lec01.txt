@@ -1,0 +1,310 @@
+                                       Environmental Science
+                         Prof. Samik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                Week 01
+                                               Lecture 01
+                        Major Environmental Concerns and Pollution
+
+Welcome, everyone, to our NPTEL online certification course on Environmental Science. I
+am Sudha Goel from the Department of Civil Engineering in IIT Kharagpur and I will be
+teaching this course along with my colleague, Professor Shamik Chaudhary from the School
+of Environmental Science and Engineering also from IIT Kharagpur. What we are going to do
+today is we will start with our first introductory topic that is Environmental Concerns-
+Population Growth and Resource Consumption. So, in today's lecture, in our first lecture, we
+are going to look at some of the major concerns of our time and how they are related to
+pollution.
+Some of the concepts that we are going to cover in this entire week are listed in this particular
+
+slide. So, as I said in lecture 1, we will look at some major environmental concerns. In the next
+
+lecture, we will look at the concept of sustainable development. We will look at some
+
+population growth models. We are going to go through some very simple models, arithmetic,
+
+geometric and exponential models. We will also look at resource consumption and pollution
+
+and in the last two lectures, in lecture 4 and 5 of this week, we will look at the measures of
+
+environmental  impacts.
+
+So we want to be able to quantify pollution. For that we will look at the IPAT model and I will
+
+talk more about that later. We will also look at some other measures, some very common
+
+measures and I just want to point out at this point that this is not an exhaustive list of all
+
+methods of measuring environmental impacts. There are hundreds of different methods out
+
+there and this is just some of a few methods are shown over here and we will be covering
+
+them in this lecture. So, we will look at the ecological footprint and the earth overshoot day.
+
+We will also look at the energy performance index as well as the life cycle assessment method.
+Some of the keywords for this particular lecture, lecture 1, we will look at our course
+objectives, learning objectives. We are going to look at different parts of the environment,
+air, water, waste water, solid waste. We will look at the urban heat island effect and we will
+also look at the differences between pollution and contamination or you can say pollutant
+versus contaminant.
+
+So, coming to our course objective, if you are here as a student of this course, then you may
+be wondering what we are going to achieve in this course. So, our course objective is to ensure
+that all students who take this course will incorporate the concept of sustainable
+development in their lives, which means both at the professional as well as personal level.
+We want these ideas, these concepts to become a part of our daily lives, they should be part
+of our decision-making processes and we should be sensitive to diverse environmental issues
+as well as the impact of pollution. It is also important for all of us to remember that there is
+another motivation behind this particular course. You may all be aware of the fact that in
+1991, the Supreme Court had given a directive to all educational institutions as part of this
+particular court case. MC Mehta is a very famous environmental lawyer in our country and
+the directive requires that all educational institutions should offer a course in environmental
+subject at all levels of education. So anytime you are getting a degree in any discipline, you
+should have some environmental course as part of your degree requirements. The idea here
+is that as students mature in their understanding of science, technology, humanities, social
+sciences and any other part of the educational system, their understanding of environmental
+issues will also mature at the same rate and it should be part of their education. So, that is
+also one of the underlying motives for this course. How will we achieve our objectives? We
+need to understand the relationship between human beings and their environment. We need
+to quantify the relationship between population growth, resource consumption and
+pollution. We need to identify the sources of pollution in the environment. What are their
+impacts on the environment and how can we remediate these problems? We will take a very
+simplistic approach in this course. We will apply the laws of conservation of mass and energy
+in understanding as well as solving some simple environmental problems.
+
+This is the syllabus for this course. So, I will be teaching week 1. My colleague will be teaching
+week 2 to 7. He will cover some principles of sustainable development. He will be covering
+air pollution, climate change, renewable energy, solar, wind, geothermal, all these topics will
+be covered by my colleague. Week 7, he will be covering industrial ecology and circular
+economy. After that we will cover in week 8, we will look at water quality, reuse and
+recycling. Week 9, we will look at solid waste management including electronic waste
+management. Week 10, we will look at noise pollution. Week 11, at ecology and soil pollution
+and in the last week we will look at environmental policies both at the national as well as
+international level and the rules and regulations that are part of environmental law.
+
+So let us start with a basic concept and that is how we talk about the environment. You have,
+most of you would know by now that the environment has different domains in it and they
+are all constantly interacting with each other. So arbitrarily we normally talk about the
+atmosphere, the lithosphere, the hydrosphere, and the biosphere. So, we will start with the
+atmosphere. The atmosphere as you know is the layer above the ground surface which
+extends to almost 100 kilometers above the ground surface and that is basically the air we
+breathe. We know we cannot live without air and most organisms on the planet are similar
+to us. They also cannot live without clean air, and we are going to look at air pollution and its
+control. We will look at climate change issues which are again related to air pollution and
+also, we will be looking at noise pollution. After air, it is water. Water is again a very basic
+necessity for the survival of human beings as well as other organisms and we will be looking
+at water quality. Very briefly we will look at how water and waste water are treated and why
+that is essential. The third part of the environment is the lithosphere. The lithosphere
+includes the ground surface. That is basically the source of all productivity. So our primary
+productivity, we are more or less dependent on terrestrial vegetation and when we look into
+the ecological aspects, you will be able to understand that for survival, for food, for clothes,
+for building materials, we are dependent on the lithosphere. And any pollution of the
+lithosphere comes from open dumping of solid waste, hazardous waste, whether it is of
+industrial or residential origin and we have soil pollution.
+All these aspects will be covered in this particular set of topics. And last but not the least is
+the biosphere. The biosphere includes all living organisms on the planet. We are concerned
+mainly about our health and then we are also concerned about the survival of ecosystems.
+Now all ecosystems together on the entire planet are called the ecosphere or the biosphere.
+So we will be looking at public health aspects as well as ecological aspects in this course.
+
+So, what we are going to look at are some of the major environmental concerns today and we
+will very rapidly I am going to go in this lecture through each one of them. And one of the
+first things that most of you would have noticed is that all of our major cities have extremely
+poor air quality and this poor air quality is related to industrial as well as vehicular emissions.
+So we will go through that very quickly. Now some of you may be knowing about agricultural
+waste burning. If you walk around in certain parts of the country especially Northern India
+after the harvest there is a significant amount of residue that is left on the fields and that it is
+traditional practice to burn it. So that is called stubble burning. And again, another very
+detrimental, it is an adverse practice, it is a traditional practice but unfortunately it is
+extremely harmful to the environment and that is burning of municipal solid waste. So that
+also is a terrible practice. It has been going on for a long time and there are rules and
+regulations for preventing it but unfortunately it still happens in quite frequently. You may
+have also noticed that when you move from a not so green area, from a paved area to a green
+area there is a significant drop in air temperature and that contributes to our comfort level.
+That is called the urban heat island effect. So, I will introduce this idea very briefly and climate
+change is another major issue of our times and my colleague will be covering that later. We
+will also be looking at water quantity and quality. In our country especially in different parts
+of our country we have an inequitable distribution of water and because of that there is lack
+of adequate drinking water in several parts of the country and in many parts of the country
+the quality of the water is also very poor. So, we will be addressing these issues in week 8 and
+then we have waste water discharges. Some of these waste water discharges are untreated
+or partially treated and because they are untreated or partially treated, they have a highly
+detrimental or adverse impact on aquatic ecosystem. So, we will be addressing these issues.
+Soil quality is another very important issue which is fundamental to the primary productivity
+of our country or state or whatever region you want to think about. So, we will be looking at
+some of the issues of soil quality which includes salinization, erosion, nutrient depletion and
+so on. And last another major set of environmental concerns is biodiversity. We are losing
+biodiversity in a significant way in many parts of the country because the stability of
+ecosystems is fully dependent on the biodiversity of that ecosystem. As the biodiversity
+decreases the stability of those ecosystems is basically in jeopardy. So extinction of species,
+we are losing species at a very rapid rate and we are also faced with another major problem
+and that is bioaccumulation of toxic compounds through the ecological pyramid. So, we are
+going to look at all these aspects.
+
+So, I will come to the first one. We have looked at air quality. We know that air quality in our
+country especially in our major urban centers is extremely poor. There are several reports,
+21 out of 30 most polluted cities in the world are in India. So, we are a country that is
+extremely polluted in terms of air quality. There are two types of pollutants. We have primary
+pollutants and secondary pollutants and that again will be addressed later in another course.
+It is also important to remember that sources of air pollution can be both natural as well as
+anthropogenic. We can control only the anthropogenic sources. It is much more difficult to
+do anything about natural sources. So natural sources like forest fires, eruptions from
+volcanoes which result in emissions of dust, ash, and gases, all these are also significant
+contributors to poor air quality and there is very little you can do about it. But with
+anthropogenic sources which come from biomass burning, as I said municipal waste burning,
+it is again traditional practice to use firewood to burn our chulas and to keep warm in winter
+and so on. Those are all examples of open biomass burning, waste burning and so on. So all
+that contributes to poor air quality. We also have industrial emissions and emissions from
+thermal power plants and vehicles. So, whether these vehicles are either air, road, rail, sea,
+whatever mode of transport it is, as long as they are fossil fuel-based vehicles, they are
+responsible for contributing to greenhouse gases as well as other air pollutants. So, all these
+are major issues of our times and they will be covered later in the course.
+
+This is an example of what difference there is in air quality due to lack of traffic as well as
+industrial emissions. So, you all know about the COVID lockdown that happened in 2020 from
+the last week of March, I think it was 24th March, 24th, 25th March 2020 to the end of May
+2020, so 31st May 2020. Now what you see here is the air quality index in Delhi, November
+2019 the air quality index was greater than 400 and it came down to 68 during the lockdown.
+So, you can see the improvement simply by shutting down vehicles as well as industrial
+activities. So, these are major contributors to poor air quality.
+I have already mentioned stubble burning. Stubble burning is a huge problem in northern
+India. This is the state of Punjab and Haryana as well as Delhi over here and what you can
+see is that the haze which is generated from the burning of agricultural residue. This is an
+image from NASA's satellite and you can see that it is travelling all the way from the northwest
+and towards the east. So this is a major contributor again to very poor air quality in winter.
+And this is just a close up of the burning of agricultural residue on the fields. As I said this is
+very common practice and it has caused enormous distress for residents in northern India.
+I have also included a slide here about the urban heat island effect. This is something that is
+again highly dramatic if you happen to notice it. When you go from a completely paved city
+area which has very little vegetation and then you go to a green area you notice that even
+though it is the same local region maybe just a few meters or maybe a couple of kilometers
+away from each other you will find that the temperature drops in the green area significantly.
+And this is called a micro climatic effect due to and it results in lower temperature and in
+some cases higher humidity and this actually contributes to a much greater comfort level for
+the residents of that area. So, this is another major issue where providing vegetation in our
+urban centers is very important for controlling these micro climatic effects.
+
+Coming to water. What are the water based environmental concerns of today? I have already
+mentioned that lack of adequate drinking water is the biggest environmental issue in many
+parts of our country. Many parts of our country do not have adequate drinking water. People
+have to travel for kilometers to get water for their daily requirement. It is common again in
+several parts of the country where women have the additional burden of bringing water from
+a few kilometers away on a daily basis. So, lack of availability of water and in some cases
+diversion of water for irrigation at the cost of residential requirements is another major issue.
+The next big issue is poor water quality. Poor water quality is becoming a significant problem
+in many parts of the country. Many of our rivers, our major rivers have become basically
+sewers because they are getting discharges of untreated wastewater or partially treated
+wastewater and this is just a photo from one of the newspapers and you can see this is
+untreated industrial wastewater and there are also issues with dumping of solid waste into
+water bodies and this kind of obnoxious scenario is very common in different parts of the
+country. They have a terrible impact on the aquatic ecosystems. You can imagine that very
+few species are capable of surviving under these conditions. So, these aquatic ecosystems are
+being eliminated because of these wastewater discharges.
+So, one of the major problems today is the quality of our soil and the fact that it is being lost
+or degraded. So there are two aspects to soil quality. One is the degradation of soil and the
+second is pollution. We are going to look at both of these aspects. So, when we talk about soil
+degradation, the first thing is erosion or the loss of soil. This happens because of deforestation
+as well as overgrazing and the second is nutrient depletion. Nutrient depletion happens when
+you have, when you are using the soil for high yield crops in quick succession. So, when the
+succession of crops is very fast, you get nutrient depletion and the long-term impact is that
+you will have poor agricultural productivity in the long term. Then we come to soil pollution.
+One of the things that is becoming a bigger problem day by day is that we are now depending
+on groundwater for irrigation in a big way and the impact of that is groundwater tends to
+have higher salt content compared to river water. As a broad generalization and this is
+contributing to salinization of soils. So, this is another problem and the second one that is
+noted here is contamination of soil by the chemicals that we use, whether they are fertilizers
+or pesticides, we are becoming more and more dependent on synthetic organic compounds.
+Some of these practices, the current day practices may also contribute to adding toxic heavy
+metals into our fields and so on. So heavy metals, synthetic organic compounds are being
+released into fields and because of that our soils are getting contaminated. So, I will be talking
+about that when we go through soil pollution.
+Coming now to the last major group of environmental concerns is the biodiversity and
+stability of ecosystems. So we are losing biodiversity, we are losing species at a fairly rapid
+rate and this is happening not just in our country, but at the global level and we will be
+looking at that in subsequent topics. So, loss of biodiversity is a major environmental issue
+today and there is an international organization it is called the International Union for
+Conservation of Nature, IUCN which is dedicated to the conservation of nature and they
+publish a red list of threatened species with different qualifiers that are shown in this figure.
+So if you see this figure you can see that most species, if you look at all species on the planet,
+first of all we do not have a comprehensive exhaustive list of all the species on the planet.
+They have not been evaluated; they do not even exist in many cases because we do not know
+of their existence. Those that have been evaluated, do they have sufficient data? So the second
+qualifier is data deficient. The first one is not evaluated, the second one is data deficient.
+Where there is adequate data, are we concerned about their survival in the long term? If there
+are high number of individuals of that species and they are not threatened by any external
+factors, then they can be considered species of least concern. So our common species that we
+see around us can be put in this category. Within the category of adequate data, we have
+several other possibilities. There are species that are near threatened, those that are
+vulnerable, endangered, critically endangered, extinct in the wild or completely gone. And
+completely gone means there is no surviving individual of that species which makes it extinct.
+So, these are the qualifiers that are used to evaluate the level of survival of different species.
+India's red list for 2021 had 199 species of plants and animals that are considered
+endangered. And several have already become extinct and there are several reports about
+that as well. Now what are the factors that result in species extinction and or endangered
+species? One is loss of habitat. So, when you have a particular species losing its habitat, that
+is one of the major reasons for it becoming either endangered or extinct. That is one reason.
+Second reason is poaching. The second reason is the illegal trapping or killing of various
+animals. This applies mainly to animals and it can result in either endangered or extinct
+species. There are several examples and we will spend some time on this topic later. Loss of
+food source and change in population dynamics. So, we will be looking at the ecological
+dynamics of the different populations within a particular ecosystem. Loss of food source for
+one species will result in a change in the population dynamics and that will have a domino
+effect on the other species. So, if one species is threatened, then all other species related to it
+in terms of whether that the first one is its food source or whether it is the predator or the
+prey and so on. So, all those changes in population dynamics can result in an impact on other
+species within that ecosystem. I have already mentioned bioaccumulation of toxic chemicals
+in the environment. This is another major factor that is contributing to species extinction or
+endangerment. I will give you a few examples when we come to this topic in greater detail.
+There are also climate change issues that are related to biodiversity and as I said my colleague
+will be covering some of those.
+
+I will end this lecture with one definition, one set of definitions and that is what is the
+difference between a pollutant or a contaminant. These two words are used very frequently
+and sometimes we think of them as synonymous and they are not really synonymous in their
+meaning, but they do have overlapping meaning. So let us take a look at that. What is a
+pollutant? A pollutant is a chemical species that causes undesirable effects on the
+environment or any of its components. It does not have to be anthropogenic in origin, it can
+be natural in origin. The keyword is undesirable. Is it causing any adverse biological effect?
+So, a simpler definition of pollutant is that any chemical or element that causes adverse
+biological effect on the resident community, that resident community may be human beings
+or other organisms. So as long as it is an adverse biological effect that chemical becomes a
+pollutant. So that is the simplest way of identifying whether a particular chemical is a
+pollutant or not. These undesirable effects like I said are primarily endangering the health of
+humans and other organisms. The broader definition includes endangering the safety as well
+as causing financial and aesthetic losses. So, you can see one is slightly narrow in terms of its
+definition, in terms of its biological effect definition and there are other people who use the
+word more broadly for anything that causes financial and aesthetic losses as well.
+
+Coming to the second word and that is contaminant or contamination. What is
+contamination? Contamination is the presence of a substance where it should not be or it may
+be at concentrations above the background level. So let us, the best way to understand this is
+by taking examples. Let us start with pollutant. I have already said a pollutant can be natural
+or anthropogenic. So, if I think about arsenic or fluoride in groundwater, these are natural
+pollutants. Both of them are detrimental or adverse. They have adverse biological effects on
+human beings if they are present at fairly, even though they may be present at fairly low
+concentrations, they can still have adverse biological effects on the residential community of
+human beings basically. Now they are natural pollutants. We can also have anthropogenic
+pollutants, we have synthetic organic compounds like DDT, like so many other pesticides that
+are present and we use them in our environment on a daily basis. So those are anthropogenic
+pollutants. Let us now come to contamination. What is contamination? Let us imagine that
+we have a river and that river, in fact all water bodies have some amount of natural organic
+matter. This comes from natural sources. It is basically coming from the decay of vegetation.
+And it is considered non-toxic. It is not considered to have any adverse biological effect. So, it
+is not pollution, but it is contamination under certain conditions. And let me finish this. Let
+me elaborate a little more on this. So when we discharge municipal wastewater into a river,
+we are also adding more natural organic matter. If we exceed the assimilative capacity of the
+river, we create what are called nuisance conditions. So, it is natural organic matter, but it is
+at concentrations much higher than the background. And because the concentrations are
+much higher than the background, they exceed the assimilative capacity of the river and
+therefore nuisance conditions are created. So that is contamination. Now we can have
+situations where you have a particular chemical that is both pollutant as well as contaminant.
+So, you can see that the two definitions are very different and, in some cases, they overlap
+and in other cases they do not overlap.
+So, I will end this particular lecture here. These are some of the references for the lecture. I
+am using mainly the first textbook, Masters and Ella, Introduction to Environmental
+Engineering and Science. Some of the other books are also very useful and most of them cover
+all these basic concepts. So, I will leave it at that.
+
+Thank you.
+

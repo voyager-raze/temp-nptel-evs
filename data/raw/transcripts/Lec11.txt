@@ -1,0 +1,387 @@
+                                            Environmental Science
+                             Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                               Indian Institute of Technology Kharagpur
+
+                                                     Week 03
+                                                    Lecture 01
+                     AIR POLLUTION (Definition, Causes, Sources & Types)
+
+Welcome to week 3 of the NPTEL online certification course on environmental science. This
+week, we will be learning about air quality and air pollution.
+Specifically, in this introductory lecture, we will be learning about what air pollution is, what are
+the different types of air pollution, what are the different sources of air pollutants, how we can
+categorize air pollutants, and what is the difference between criteria air pollutants and non-criteria
+air pollutants.
+So, at the end of this lecture, you should be able to explain what are stationary, mobile, and area
+sources of air pollution, and you should also be able to distinguish between primary pollutants and
+secondary pollutants.
+
+Air is essential for life itself; without it, we could survive for only a few minutes. It constitutes the
+immediate physical environment of living organisms. It is a mixture of various gases like nitrogen,
+oxygen and carbon dioxide, and others in traces; along with water vapor perceptible as humidity
+and suspended solids in particulate form.
+Besides sustaining life on Earth, there are several other important uses of air.
+Air is a conducting medium for sound:
+Air is an important driver of the water cycle.
+Air helps in pollination of crops.
+Air helps in maintaining the temperature on the earth's surface by circulating hot and cold air.
+Air acts as a conductor of heat.
+Air helps in transport.
+Air helps in drying wet surfaces.
+Air helps reduce friction in tires.
+Air is a source of renewable energy, i.e., wind energy.
+The air that we enjoy is at the bottom of a thin envelope of gases surrounding the earth, called the
+atmosphere. It is divided into several spherical layers, each characterized by abrupt changes in
+temperature caused by differences in the absorption of incoming solar energy.
+In short, air is a natural resource and is available abundantly.
+Air is essential for life on earth. Without it, we would all not exist. Besides breathing it in for
+survival, there are many other uses of air. Therefore, we must be conscious of the environment and
+avoid engaging in activities that pollute the air.
+
+Air pollution is the presence of one or more substances (indigenous or foreign) in the air at a
+concentration or for a duration that can potentially cause a range of adverse effects on the wellbeing
+of humans, animals, plants, and the environment, or unreasonably interferes with the comfort or
+convenience of living and/or ability to perform activities of daily living.
+Air pollution is the presence of substances in the atmosphere in concentrations high enough to
+harm organisms, ecosystems, or human-made materials. The effects of air pollution range from
+annoying to lethal.
+An air pollutant is any substance found in the air that is not part of its natural composition, or any
+substance whose concentration is higher than that in the air's natural composition.
+
+Two types ­ outdoor (ambient air) and indoor (household).
+Outdoor air pollution is the deterioration in ambient air quality due to emissions from natural and
+anthropogenic sources, including transportation, power generation, industrial activity, biomass
+burning, and domestic heating and cooking.
+
+Due to the diversity of sources and the influence of atmospheric processes, such as wind speed and
+precipitation, the concentration of pollutants in outdoor air varies widely in space and time, and
+are therefore important factors to consider when evaluating trends in outdoor air quality.
+
+Air pollution can be local. For instance, ambient concentrations of benzene tend to be greatest near
+major sources (e.g., oil refineries, chemical production facilities) and in high-traffic areas.
+
+Air pollution can also be regional or national in nature. For example, emissions sources hundreds
+of miles away can contribute to airborne fine particulate matter at a given location.
+
+A few air pollution issues are global in nature, such as intercontinental transport of particles during
+dust storms. Stratospheric ozone depletion, also, is affected by releases of ozone-depleting
+substances from countries worldwide.
+
+On the other hand, indoor air pollution is the degradation of the quality of air that is present in
+confined spaces (including homes, apartments, offices, car interiors, schools, hospitals, museums,
+public transport, and other such areas) by harmful chemicals and other materials originating mainly
+from building materials (carpets, carpet padding, paints, sealants and caulking, adhesives, floor
+and ceiling tiles, cabinets, molding, composite wood products, and other wood work), unvented
+combustion appliances (also known as ventless, vent-free, or ductless appliances those that burn
+fuels for heating, cooking, or decorative purposes and has no chimney vent such as stoves, ovens,
+and fireplaces) and lifestyle habits (like tobacco smoking, burning of incense sticks, and so on).
+
+In the last several years, a growing body of scientific evidence has indicated that the air within
+homes and other buildings can be more seriously polluted than the outdoor air in even the largest
+and most industrialized cities. Other research indicates that people spend approximately 90 percent
+of their time indoors. Thus, for many people, the risks to health may be greater due to exposure to
+air pollution indoors than outdoors.
+Air pollution has far-reaching impacts on our environment, health, and overall well-being. The
+consequences of air pollution can be seen in various aspects of our lives.
+
+First, air pollution can affect anyone's health; nevertheless, some individuals can be more
+susceptible than others. These include: children, the elderly, individuals with existing
+cardiovascular or respiratory diseases, pregnant women, communities in areas of higher pollution,
+such as close to busy roads, and low-income communities.
+Exposure to polluted air can affect the eyes, nose and throat, the heart and associated blood vessels
+and the lungs and respiratory system. Short-term exposure (over hours or days) can lead to a range
+of health impacts including lung function, coughing, wheezing and shortness of breath,
+exacerbation of asthma, increases in respiratory and cardiovascular hospital admissions and
+mortality. Over long timescales (years or lifetimes) exposure can lead to reduced life expectancy,
+due to cardiovascular diseases, respiratory diseases, and lung cancer.
+
+Indeed every year, millions of adults and children die prematurely.
+The United Nations World Health Organization estimates that:
+4.2 million die prematurely every year from outdoor (ambient) air pollution.
+3.8 million die from indoor air pollution.
+Thus, 7 million die in total from all sources of air pollution.
+You will notice that the WHO estimates the total death toll to be lower than the sum of indoor and
+outdoor pollution deaths. This is because the deaths from risk factors are not summable. "Some
+deaths may be attributed to more than one risk factor at the same time. For example, both smoking
+and ambient air pollution affect lung cancer. Some lung cancer deaths could have been averted by
+improving ambient air quality, or by reducing tobacco smoking." Similarly the death of a particular
+person could have been averted by reducing the indoor or outdoor air pollution.
+In addition, air pollutants contribute to the deterioration of buildings, monuments, and cultural
+heritage sites. They also harm vegetation, leading to reduced crop yields and damage to
+ecosystems.
+
+Further, air pollutants, including greenhouse gases, contribute to global warming and climate
+change. This leads to adverse effects such as melting glaciers, rising sea levels, and more frequent
+extreme weather events.
+
+Last but not the least, air pollution imposes economic burdens through increased healthcare costs,
+reduced agricultural productivity, and damage to infrastructure. It can also impact tourism and
+cultural heritage sites, affecting local economies.
+Air pollutants come from natural and human sources. Natural sources include dust blown by wind,
+pollutants from wildfires and volcanic eruptions, and volatile organic chemicals released by some
+plants.
+
+Human or anthropogenic inputs of outdoor air pollutants occur mostly in industrialized and urban
+areas where people, cars, and factories are concentrated. Most of these
+pollutants are generated by the burning of fossil fuels in power and industrial plants and in motor
+vehicles.
+
+Accordingly, anthropogenic sources can be subdivided into two distinct categories:
+
+Stationary sources of atmospheric air pollution are large enterprises of the fuel and energy complex
+such as power plants, steel mills, smelters, cement plants, refineries, and other industrial processes,
+autonomous heat supply sources of small enterprises, and individual households sources of air
+pollution emissions, all of which are essentially immovable.
+
+Stationary sources are further divided into two major subcategories: point and area sources. Point
+sources consist of a single emission source with an identified location point at a facility. Facilities
+could have multiple point sources located onsite. Point sources are usually associated with
+manufacturing and industrial processes, such as boilers, spray booths or degreasers.
+
+Area sources are small sources of air pollution which by themselves may not emit very much but,
+when their emissions are added together, account for a significant portion of the total emissions of
+air pollutants. Area sources are often too small or too numerous to be inventoried individually and
+includes
+
+Industrial processes such as chromium electroplating, surface coating of cans and paper, metal
+parts cleaning, metal recycling, small chemical manufacturing plants, and bakeries
+
+Consumer products, such as personal care products, household products, adhesives and sealants,
+automotive products, and coatings such as paints
+
+Residential heating and fuel use
+
+Pesticide use
+
+Prescribed burns, and forest and wildfires, and structure fires Gasoline stations
+
+Dry cleaners
+
+Institutional and commercial heating
+
+Mobile source of air pollution, on the other hand, includes any air pollution emitted by motor
+vehicles, airplanes, ships, locomotives, and other engines and equipment that can be moved from
+one location to another. Unlike stationary sources which are either a point source or area source,
+mobile source is usually considered as line source, since it emanates from a linear (one-
+dimensional) geometry. The most prominent linear sources are roadway air pollution, and aircraft
+air emissions.
+
+To better understand, for example, locomotives operating on certain linear tracks are examples of
+a line source, whereas locomotives operating within a railyard are an example of an area source of
+pollution.
+The variety and complexity of air pollutants means that they can be classified in a variety of ways
+-- such as their origin, physical composition, emission history, and so on...
+
+Based on their physical characteristics, air pollutants can be classified into one of two main
+categories.
+
+The first of these classes of air pollutants is called gaseous pollutants, which includes any
+contaminant in the gaseous or vapor state. This comprises the more ordinary "permanent" gases,
+such as sulfur dioxide, hydrogen sulfide, nitric oxide (NO), nitrogen dioxide (NO2), ozone, carbon
+monoxide, carbon dioxide (pollutant?), etc., as well as the less common ones such as hydrogen
+chloride, chlorine, and tritium. It also includes materials which are not ordinarily gases, such as
+hydrocarbon vapors, and volatile nonmetal or metal vapors (e.g., arsenic, mercury, zinc) when
+these are in the vapor state.
+
+The second class is called particulates and it includes airborne particles of various sizes. Coarse
+particulate matter (PM) comprises solid particles or liquid droplets which have an average diameter
+greater than about 10 m (103mm), (i.e., > PM10). Particles or droplets of this class of
+contaminants are large enough to fall more or less rapidly out of the air of their own accord.
+Another type of particulate air pollutants is aerosols. This can also comprise solid particles or
+liquid droplets, but they are limited to a size range generally less than about 10 m average
+diameter (e.g., a median diameter of 2.5 m, PM2 5). This class has particles or droplets small
+enough in size that there is a strong tendency for them to stay in suspension in air.
+
+This size range is also referred to as the Respirable Fraction, since these are not readily captured
+by ciliated mucous of the nasal passages and penetrate to the unciliated alveoli of the lungs.
+On the basis of their emission history, air pollutants can be classified into primary air pollutants
+and secondary air pollutants. Primary pollutants are emitted directly from their sources, while
+secondary pollutants are either formed by the atmospheric transformation of primary pollutants or
+other chemical compounds.
+
+Primary air pollutants are
+
+     found in the atmosphere in the same chemical form as it was emitted from its source.
+
+     They are usually highly reactive or unstable pollutants and affect living organisms both
+         directly and indirectly (by forming secondary pollutants)
+
+     Example: carbon monoxide, nitric oxide, nitrous oxide, hydrogen sulfide, sulfur dioxide,
+         halogen compounds such as chlorides, fluorides, bromides, and particulate matter.
+
+Secondary air pollutants are
+
+     Not directly emitted into the atmosphere but formed in the air as a result of chemical
+         transformation of other primary pollutants.
+
+     While in the atmosphere, some primary pollutants react with one another and with the basic
+         components of air to form new harmful chemicals.
+
+     They are usually stable or inert.
+
+     Secondary air pollutants not only directly affect living organisms but also severely damage
+         the environment.
+     Example: nitrogen dioxide formed from nitric oxide, peroxyacetyl nitrates and
+         tropospheric or ground level ozone formed from photochemical reactions of nitrogen
+         oxides and volatile organic compounds, sulfuric acid droplets formed from sulfur dioxide.
+
+While most air pollutants are chemical compounds, they can also be of biological origin and are
+usually called bioaerosols. Bioaerosols are airborne particles comprising of or derived from living
+organisms. A bioaerosol is an aerosol comprising particles of biological origin or activity which
+may affect living things through infectivity, allergenicity, toxicity, pharmacological or other
+processes.
+They have a broad size spectrum (~1nm to ~102µm) with highly variable number concentrations
+and include viruses, bacteria, fungi, pollens, plant or animal debris, as well as fragments and
+products of these organisms.
+Bioaerosols have a range of both natural and anthropogenic sources that may lead to unique or
+complex assemblages at a given time and space. Health effects of bioaerosol exposure in
+occupational settings, for example agricultural environments, has been long established and there
+is growing evidence that these can range in infectivity, toxicity and allergenicity depending on
+variable process specific factors related to the physicochemical nature of the bioaerosols as well
+as the receptors.
+Now, there are certain air pollutants that are ubiquitous in the ambient air and can cause adverse
+effects to public health and the environment if their concentration in ambient air is beyond a certain
+concentration. As such, emission standards have been set for these pollutants in almost all
+countries across the globe. Emission standards are governmentally promulgated limits on the
+emission of a pollutant from a process. There are limits on the emission of specific gaseous, vapor,
+and particulate pollutants from any process and on their emission from specific processes.
+
+Such pollutants are called `criteria air pollutants' because their concentration in the atmosphere is
+regulated by developing human health-based and/or environmentally-based criteria for setting
+permissible levels. It includes the following six pollutants:
+Carbon Monoxide (CO) is a poisonous gas that forms when the carbon in fuels such as gasoline,
+heating oil, natural gas, wood, and charcoal does not burn completely. Other sources include
+industrial boilers, waste incinerators, purposeful burning of forests and grasslands, tobacco smoke,
+and open fires and inefficient stoves used for cooking, and natural events such as wildfires. We
+cannot see or smell CO, but is dangerous to our health and in high concentrations, even deadly.
+
+Sulfur dioxide is a reactive gas that is produced when power plants, industrial boilers, and other
+facilities burn sulfur-containing fuels such as coal and oil. Generally, air concentrations of sulfur
+dioxide are highest near large industrial complexes.
+
+Nitrogen dioxide is one of a group of gases that contain nitrogen and oxygen in varying amounts,
+and react with other pollutants to form ground-level ozone. Known collectively as oxides of
+nitrogen, or NOx, these gases are produced when fuel is burned at high temperatures. Primary
+sources of NOx emissions include motor vehicles, electric utilities, industry, commercial
+businesses, and homes.
+
+Ozone is a highly reactive gas and can be either beneficial or harmful depending on where it
+forms:
+
+    · Good Ozone. Many miles above ground in the Earth's upper atmosphere, ozone occurs
+         naturally and shields us from the sun's harmful ultraviolet rays.
+
+     ·
+    · Bad Ozone. Near the ground, ozone is formed when heat and sunlight cause emissions
+         from cars, power plants, factories, and other sources to chemically react and form "smog."
+
+Lead is a soft and highly toxic elemental metal found naturally in the environment. It is usually
+extracted from ore deposits along with copper, silver, and zinc.
+Historically, the major sources of lead emissions have been motor vehicles and industry. There is
+dramatically less toxic lead in our air now than there was in the late 1970s, when leaded gasoline
+was started being phased out. Metal processing plants are the most significant remaining sources
+of lead in the air today.
+The terms particulate matter (PM) or aerosol particles describe condensed (solid or liquid) material
+suspended in the atmosphere. Suspended particulate matter (SPM) consists of a variety of solid
+particles and liquid droplets small and light enough to remain suspended in the air for long periods.
+It includes crustal material, soot, combustion particles, nucleating clusters and biological material
+such as spores, but not by convention raindrops, hail or other hydrometeors. The term aerosol is
+often used in reference to PM, but technically refers to both the condensed phase particles and the
+gaseous medium they are suspended in.
+
+Unlike other criteria air pollutants, PM can be both primary and secondary. Primary PM is natural
+or anthropogenic, and is released directly into the environment, such as elemental carbon derived
+primarily from fossil fuel combustion, industrial processes and power generation;
+On the other hand, secondary particulates include organic aerosols derived from volatile
+compounds; and sulfate and nitrate particles generated by conversion from primary sulfur and
+nitrogen oxide emissions.
+
+Attributing to their diverse origin, atmospheric particles have a range of shapes and morphologies.
+Their size is a somewhat elusive property. Nevertheless, a number of operationally defined metrics
+are used, perhaps most commonly aerodynamic diameter.
+The aerodynamic diameter of a particle is defined as that of a sphere, whose density is 1 g/cm3,
+which settles in still air at the same velocity as the particle in question.
+A particle with an aerodynamic diameter of 1 m will exhibit the same inertial properties as a
+sphere with a diameter of 1 m and a density of 1 g/cm3, irrespective of the actual size, shape or
+density of the particle.
+Based on the aerodynamic diameter, there are four distinct types of PM.
+Typical continental urban boundary layer PM samples include natural crustal materials
+(carbonates, silicates), inorganic constituents such as sulfate, nitrate, sodium, potassium, chloride
+and ammonium, trace quantities of group I and II metals and other species such as copper, arsenic,
+zinc and vanadium (found in fuels and derived from crustal sources and vehicle brake and tyre
+wear), and organic components.
+
+The organic fraction of PM include products of incomplete combustion (such as soot or black
+carbon), larger molecules such as polycyclic aromatic hydrocarbons (PAHs) and secondary
+organic aerosol (SOA), formed from oxidation and subsequent condensation of volatile organic
+compounds (VOCs).
+
+Sea salt is an important contributor of sodium, chlorine and other ionic components; sulfate and
+nitrate originate in sulfuric and nitric acid, which in turn are derived from the gas-phase oxidation
+of SO2 and NOx respectively.
+Inhalation of PM in an urban atmospheric context is associated with enhanced respiratory and
+cardiovascular disease and increased associated mortality.
+
+Specifically, coarse PM (PM10) causes nasal irritation and upper respiratory tract disorders.
+
+Particles in the PM2.5 size range are able to travel deeply into the respiratory tract, reaching the
+lungs. Exposure to fine particles can cause short-term health effects such as eye, nose, throat and
+lung irritation, coughing, sneezing, runny nose and shortness of breath. Exposure to fine particles
+can affect heart and lung function worsening medical conditions such as heart disease and asthma,
+and increase the risk for heart attack. People with heart and breathing and problems, children, and
+older adults may be particularly sensitive to PM2.5.
+
+Ultrafine particles (PM0.1) translocate to essentially all organs and cause even more serious health
+problems compared to fine particles
+
+Particulate matter can also impact climate in various ways. Certain types of particulate matter,
+such as sulfates, produce a cooling effect on climate by scattering sunlight back to space and
+seeding cloud formation. Therefore, while reducing sulfate pollution concentrations benefits
+human health, it can also amplify the warming effect of greenhouse gases. On the other hand, black
+carbon particles absorb sunlight and contribute to global warming, so a reduction in black carbon
+concentrations benefits both air quality and climate.
+Owing to the numerous health and environmental effects of criteria air pollutants, health-based
+regulations that define the allowable level of criteria pollutants in ambient air has been set in
+several nations across the globe, known as the National Ambient Air Quality Standard.
+
+NAAQS specifies the maximum allowable level of a pollutant, averaged over a specified period
+of time, that can be present in outdoor air without harming public health.
+
+The primary and secondary standards are based on scientific studies showing at what level
+exposure may cause harm.
+In India, Government has notified National Ambient Air Quality Standards (NAAQS) for 12
+pollutants in 2009 through Central Pollution Control Board to protect public health and
+environment from air pollution.
+
+These pollutants are as given on the slide.
+
+Review of the existing standards, criteria governing these standards as well as incorporating new
+parameters with advances in scientific research is a continuous process. With changes in fuel,
+technology and demographics as well as advances in air pollution measurement techniques, risk
+and exposure assessment, review of Air Quality Standards (NAAQS) are carried for better
+improvement in public health and are revised time to time.
+The United States Environmental Protection Agency apart from establishing national ambient air
+quality standards (NAAQS) for six outdoor criteria pollutants has also established national
+emission standards for more than 188 hazardous air pollutants (HAPs) that may cause serious
+health and ecological effects. Most of these chemicals are chlorinated hydrocarbons, volatile
+organic compounds, or compounds of toxic metals.
+
+There are several different types of air pollutants and some of these pollutants are ubiquitous and
+
+need to be regulated by setting standards. So, those are called the criteria air pollutants and besides
+
+the criteria air pollutants we also have other air pollutants that can also be a potential threat to
+
+human health. So, those we call it as the non-criteria air pollutants. Nevertheless what you need to
+
+understand is that the actual concentration of these pollutants in the atmosphere depend on the
+
+meteorological factors such as wind speed precipitation and so on. So, in the next lecture our focus
+
+will be on understanding how meteorological factors ultimately affect the concentration of various
+
+air  pollutants  ok.
+So, with that I end this lecture introductory lecture on air pollution. Thank you. .
+

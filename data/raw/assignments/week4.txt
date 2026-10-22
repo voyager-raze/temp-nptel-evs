@@ -1,0 +1,339 @@
+                            NPTEL Online Certification Courses
+                         Indian Institute of Technology Kharagpur
+
+                          Environmental Science
+
+                              Assignment - Week #4
+                         TYPE OF QUESTION: MCQ/MSQ
+
+Number of questions: 15                                            Total mark: 20
+
+                         MCQ (10 × 1 = 10)
+
+QUESTION 1:
+
+Climate is typically defined based on atmospheric observations averaged over what
+minimum time period?
+
+a. 1 year
+b. 10 years
+c. 30 years
+d. 100 years.
+
+Correct answer: c. 30 years
+
+Solution: According to the World Meteorological Organization, climate is commonly
+described using averages and variability of weather-related parameters over a period of
+at least 30 years.
+
+QUESTION 2:
+
+Which of the following methods is commonly used to reconstruct past atmospheric
+temperatures and climate conditions?
+
+    a. By relying solely on historical records and written documents
+    b. By measuring present-day ocean currents
+    c. By analyzing tiny air bubbles preserved within ice cores
+    d. By using satellite observations collected since the 1800s
+
+Correct answer: c. By analyzing tiny air bubbles preserved within ice cores
+
+Solution: Refer to Slide #13 of Lecture #1. Ice cores extracted from glaciers and ice sheets
+contain tiny air bubbles that were trapped when the ice formed. These bubbles preserve
+information about past atmospheric composition (e.g., CO2 and CH4 concentrations),
+allowing scientists to reconstruct past climate conditions and estimate historical
+temperatures over thousands of years.
+
+QUESTION 3:
+
+If global photosynthetic activity increased significantly while fossil fuel emissions
+remained unchanged, how would the atmospheric CO2 record represented by the Keeling
+Curve most likely respond?
+    a. A reduced rate of increase in atmospheric CO2 concentration
+    b. A steeper increase in atmospheric CO2 concentration
+    c. Complete disappearance of seasonal CO2 fluctuations
+    d. No measurable change in atmospheric CO2 concentration
+
+Correct answer: a. A reduced rate of increase in atmospheric CO2 concentration
+Solution: Photosynthesis removes CO2 from the atmosphere and stores it in plant
+biomass. If global photosynthetic activity increased substantially, more CO2 would be
+absorbed from the atmosphere, partially offsetting fossil fuel emissions. As a result, the
+Keeling Curve would still show rising atmospheric CO2 concentrations, but the rate of
+increase would be slower than before. Seasonal fluctuations would not disappear
+because they are primarily driven by the seasonal growth and decay cycles of vegetation.
+
+QUESTION 4:
+
+Which of the following best describes the influence of anthropogenic aerosols on Earth's
+climate?
+
+    a. They contribute only to climate warming.
+    b. They contribute only to climate cooling.
+    c. They have no significant effect on climate.
+    d. They can exert both warming and cooling effects on climate.
+
+Correct answer: d. They can exert both warming and cooling effects on climate.
+Solution: Refer to Slide #10 of Lecture #2. Different aerosols affect climate in different
+ways. Sulfate aerosols generally cool the climate by reflecting incoming solar radiation,
+whereas black carbon (soot) absorbs sunlight and contributes to warming. Aerosols can
+also modify cloud properties, leading to additional cooling or warming effects.
+Consequently, anthropogenic aerosols can have both warming and cooling influences on
+the climate system.
+
+QUESTION 5:
+
+One carbon credit represents the offset of 1 tonne of CO2 equivalent (CO2e). A coal-fired
+power plant emits 2.5 kg of CO2 per kWh of electricity generated and operates
+continuously at a capacity of 500 MW throughout the year (365 days). How many carbon
+credits would be required annually to offset 50% of the plant's CO2 emissions? How many
+would be required to offset 100% of its emissions?
+
+    a. 5,475,000 and 10,950,000
+    b. 4,765,000 and 9,850,000
+    c. 5,375,000 and 10,450,000
+    d. 4,565,000 and 9,350,0004
+
+Correct answer: a. 5,475,000 & 10,950,000
+Solution: Annual electricity generation = 500 MW × 365 days × 24 h/day = 4,380,000
+MWh = 4.38 × 109 kWh
+Annual CO2 emissions = 2.5 kg/kWh × 4.38 × 109 kWh = 1.095 × 1010 kg = 1.095 × 107
+tons
+Since 1 carbon credit = 1 tonne CO2e:
+
+    · Credits for 100% offset = 10,950,000
+    · Credits for 50% offset = 10,950,000 / 2 = 5,475,000
+
+QUESTION 6:
+
+Which of the following is a reliable indicator of climate change that is directly linked to
+rising ocean temperatures?
+
+      a. Rise in global average sea levels
+     b. Ocean acidification
+      c. Destruction of coral reefs
+      d. Increased volcanic activity on the ocean floor
+
+Correct answer: a. Rise in global average sea levels
+Solution: Refer to Slide #11 of Lecture #3. Rising ocean temperatures contribute directly
+to sea level rise through two primary mechanisms: thermal expansion ­ as seawater
+warms, it expands, increasing sea volume, and melting of glaciers and ice sheets ­
+warmer oceans accelerate the melting of ice shelves and glaciers that feed into the sea.
+As a result, the rise in global average sea levels is a direct and measurable indicator
+of climate change, closely linked to increasing ocean temperatures.
+
+QUESTION 7:
+
+Which of the following is not generally classified as a geoengineering strategy for
+mitigating climate change?
+
+      a. Ocean fertilization
+      b. Stratospheric aerosol injection
+      c. Marine cloud brightening
+      d. Deep ocean storage of CO2
+
+Correct answer: d. Deep ocean storage of CO2
+Solution: Refer to Slide #21 of Lecture #4. Geoengineering typically refers to large-scale
+deliberate interventions in the Earth's climate system, such as ocean fertilization,
+stratospheric aerosol injection, and marine cloud brightening. These are examples
+of carbon dioxide removal (CDR) or solar radiation management (SRM) approaches. In
+contrast, deep-ocean storage of CO2 is generally considered a carbon capture and
+storage (CCS) technique rather than a geoengineering strategy.
+
+QUESTION 8:
+
+Permafrost thaw and subsidence will directly lead to
+      a. addition of more greenhouse gases to the atmosphere
+     b. increased storm surge levels
+      c. ocean acidification
+      d. proliferation of invasive species
+
+Correct answer: a. addition of more greenhouse gases to the atmosphere
+
+Solution: Refer to Slide #8 of Lecture #3. In the Arctic, large amounts of organic carbon
+are stored in permafrost. The carbon in the permafrost has built up over thousands of
+years, as dead plants have been buried and accumulated within layers of frozen soil,
+where the cold prevents the organic material from decomposing. As the Arctic warms
+and soils thaw, the organic matter in these soils will decompose rapidly and return to
+the atmosphere as CO2 or CH4, both important greenhouse gases that further warm the
+Arctic.
+
+QUESTION 9:
+
+Assertion (A): The Kyoto Protocol imposed legally binding greenhouse gas (GHG)
+emission reduction targets on developing countries.
+
+Reason (R): Under the principle of common but differentiated responsibilities (CBDR),
+developing countries were exempted from binding emission reduction targets during the
+first commitment period of the Kyoto Protocol.
+
+    a. Both A and R are true, and R is the correct explanation of A
+    b. Both A and R are true, but R is not the correct explanation of A
+    c. A is true, but R is false
+    d. A is false, but R is true
+
+Correct answer: d. A is false, but R is true
+
+Solution: Refer to Slides #9 of Lecture #5. The Kyoto Protocol established binding
+emission reduction targets for developed (Annex I) countries, not developing countries.
+The exemption of developing countries was based on the CBDR principle, which
+recognizes differing historical responsibilities and capacities among nations.
+
+QUESTION 10:
+Match the concepts in List I with their correct descriptions in List II.
+
+List I (Concepts)           List II (Descriptions)
+A. Pre-combustion capture
+B. Oxyfuel combustion       1. Fuel is burned in nearly pure oxygen, producing
+C. Post-combustion capture      a flue gas consisting mainly of CO2 and H2O.
+
+                            2. A gas separation process that uses liquid
+                                solvents to selectively remove CO2.
+
+                            3. Fuel is converted into synthesis gas (syngas),
+                                and CO2 is separated before hydrogen is
+D. Absorption      combusted.
+
+               4. CO2 is removed from flue gas after the fuel has
+                   been combusted.
+
+    a. A­1, B­4, C­2, D­3
+    b. A­3, B­1, C­4, D­2
+    c. A­2, B­1, C­4, D­3
+    d. A­1, B­3, C­2, D­4
+
+Correct answer: b. A­3, B­1, C­4, D­2
+
+Solution: Refer to Slides #8­#12 of Lecture #4
+
+                                      MSQ (5 × 2 = 10)
+
+QUESTION 11:
+
+Which of the following are major greenhouse gases that occur naturally in Earth's
+atmosphere?
+
+    a. Carbon dioxide (CO2)
+    b. Methane (CH4)
+    c. Chlorofluorocarbons (CFCs)
+    d. Water vapor (H2O)
+
+Correct answer(s):
+
+    a. Carbon dioxide (CO2)
+    b. Methane (CH4)
+    d. Water vapor (H2O)
+Solution: Carbon dioxide (CO2), methane (CH4), and water vapor (H2O) are naturally
+occurring greenhouse gases that help regulate Earth's temperature.
+Chlorofluorocarbons (CFCs) are synthetic compounds produced by human activities
+and do not occur naturally in the atmosphere, although they are potent greenhouse
+gases.
+
+QUESTION 12:
+
+Which of the following statements regarding the role of the ocean in Earth's climate
+system are correct?
+
+    a. The ocean has no significant influence on atmospheric CO2 concentrations.
+    b. The ocean absorbs approximately one-quarter of anthropogenic CO2 emissions.
+    c. Thermal expansion of seawater contributes to global sea-level rise.
+    d. The ocean's large heat capacity and thermal inertia can delay surface warming
+
+         over long timescales.
+Correct answer(s):
+
+    b. The ocean absorbs approximately one-quarter of anthropogenic CO2
+         emissions.
+
+    c. Thermal expansion of seawater contributes to global sea-level rise.
+    d. The ocean's large heat capacity and thermal inertia can delay surface
+
+         warming over long timescales.
+Solution: The ocean is a major regulator of Earth's climate. It absorbs roughly 25% of
+human-generated CO2 emissions, helping to moderate atmospheric CO2 levels. As
+ocean water warms, it expands, contributing to sea-level rise. In addition, the ocean's
+enormous heat capacity gives it substantial thermal inertia, allowing it to absorb and
+store heat, which slows the rate of surface warming and causes climate responses to
+unfold over decades to centuries. Therefore, statement a is incorrect.
+
+QUESTION 13:
+
+Which of the following factors can influence Earth's energy budget?
+
+      a. Land-use changes
+      b. Anthropogenic aerosols
+      c. The extent of sea ice and seasonal snow cover
+      d. The magnitude of ocean heat uptake
+
+Correct answer(s):
+
+      a. land-use changes
+      b. anthropogenic aerosols
+      c. extent of sea ice and seasonal snow cover
+      d. magnitude of ocean heat uptake
+
+Solution: Refer to Slide #9 of Lecture #1. All four factors affect Earth's energy balance.
+Land-use changes alter surface albedo and energy fluxes. Anthropogenic aerosols
+influence the absorption and reflection of solar radiation and can modify cloud properties.
+Sea ice and snow cover affect planetary albedo, with greater coverage reflecting more
+sunlight back to space. Ocean heat uptake regulates how much excess heat is stored in
+the oceans, influencing the rate of atmospheric warming. Therefore, all the listed factors
+contribute to Earth's energy budget.
+
+QUESTION 14:
+
+Which of the following are examples of cascading climate impacts?
+
+    a. Melting ice reduces Earth's albedo, leading to additional warming and further ice
+        loss.
+
+    b. Sea-level rise increases the risk of storm-surge flooding, causing infrastructure
+        damage and economic losses.
+
+    c. Rising temperatures reduce crop yields, leading to higher food prices and adverse
+        health outcomes.
+
+    d. An isolated impact that remains confined to a single sector without triggering
+         secondary effects.
+
+Correct answer:
+
+    a. Melting ice reduces Earth's albedo, leading to additional warming and further
+         ice loss.
+
+    b. Sea-level rise increases the risk of storm-surge flooding, causing
+         infrastructure damage and economic losses.
+
+    c. Rising temperatures reduce crop yields, leading to higher food prices and
+         adverse health outcomes.
+
+Solution: Cascading climate impacts occur when an initial climate-related change triggers
+a chain of interconnected consequences across environmental, social, or economic
+systems. Options a, b, and c illustrate such cascading effects. Option d is not a cascading
+impact because it involves no secondary or downstream consequences.
+
+QUESTION 15:
+
+Which of the following are primary functions of the IPCC?
+
+      a. Reviewing and synthesizing the latest climate science data from peer-reviewed
+          literature
+
+     b. Conducting original climate research and experiments
+      c. Assessing the socioeconomic impacts of climate change
+      d. Producing reports that inform global policy on climate change adaptation and
+
+          mitigation
+
+Correct answer(s): a. Reviewing and synthesizing the latest climate science data
+                             from peer-reviewed literature
+
+                          c. Assessing the socioeconomic impacts of climate change
+                          d. Producing reports that inform global policy on climate change
+
+                             adaptation and mitigation
+
+Solution: The IPCC primarily reviews existing scientific literature (a), assesses
+climate change impacts, including socioeconomic aspects (c), and produces reports
+to guide global climate policy (d). It does not conduct original research or experiments
+(b).
+

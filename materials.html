@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Learning Materials — NPTEL EVS</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="logo" href="index.html"><span class="logo-mark">EV</span> NPTEL EVS</a>
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="assignments.html">Assignments</a>
+        <a href="materials.html" class="active">Materials</a>
+        <a href="notes.html">Notes</a>
+        <a href="transcripts.html">Transcripts</a>
+        <a href="final.html">Final Notes</a>
+        <a href="mock.html">Mock Exam</a>
+      </nav>
+      <div class="top-actions"><button class="btn btn-sm" id="themeToggle" type="button">Theme</button></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <h1>Learning materials notes</h1>
+      <p>Condensed from your week PDFs — definitions, compare tables, numbers, and exam-flag chips. Read flags first, then deepen.</p>
+    </section>
+
+    <div class="week-pills" id="weekPills"></div>
+    <div id="content"></div>
+  </main>
+
+  <script src="js/app.js"></script>
+  <script>
+    async function init() {
+      const [notes, weeks] = await Promise.all([
+        EVS.fetchJSON("data/materials-notes.json"),
+        EVS.fetchJSON("data/weeks.json"),
+      ]);
+      const params = new URLSearchParams(location.search);
+      let week = Number(params.get("week") || 1);
+
+      const pills = document.getElementById("weekPills");
+      pills.innerHTML = weeks.map(w =>
+        `<button class="week-pill ${w.week===week?"active":""}" data-w="${w.week}">W${w.week}</button>`
+      ).join("");
+
+      function show(wnum) {
+        week = wnum;
+        pills.querySelectorAll(".week-pill").forEach(b => {
+          b.classList.toggle("active", Number(b.dataset.w) === week);
+        });
+        const n = (notes.weeks || []).find(x => x.week === week);
+        const meta = weeks.find(x => x.week === week);
+        if (!n) {
+          document.getElementById("content").innerHTML = `<div class="empty">No notes for week ${week}</div>`;
+          return;
+        }
+        EVS.markNoteRead("materials", String(week));
+
+        const comparisons = (n.comparisons || []).map(c => {
+          const rows = (c.rows || []).map((r,i) =>
+            `<tr>${r.map(cell => i===0?`<th>${esc(cell)}</th>`:`<td>${esc(cell)}</td>`).join("")}</tr>`
+          ).join("");
+          return `<div class="note-block"><h4>${esc(c.title)}</h4><table class="compare">${rows}</table></div>`;
+        }).join("");
+
+        document.getElementById("content").innerHTML = `
+          <div class="card">
+            <div class="q-meta">
+              <span class="chip">Week ${n.week}</span>
+              <span class="chip">${esc(meta?.faculty || "")}</span>
+              <span class="chip">${(meta?.lectures||[]).length} lectures</span>
+            </div>
+            <h2 style="margin-top:0.25rem">${esc(n.title)}</h2>
+            <p>${esc(meta?.summary || "")}</p>
+            <div class="flag-row">${(n.examFlags||[]).map(f=>`<span class="flag">${esc(f)}</span>`).join("")}</div>
+
+            <div class="note-block">
+              <h4>Must remember</h4>
+              <ul>${(n.mustRemember||[]).map(x=>`<li>${esc(x)}</li>`).join("")}</ul>
+            </div>
+
+            <div class="note-block">
+              <h4>Key concepts</h4>
+              ${(n.concepts||[]).map(c=>`<p><strong>${esc(c.name)}.</strong> ${esc(c.note)}</p>`).join("")}
+            </div>
+
+            <div class="note-block">
+              <h4>Definitions</h4>
+              <ul>${(n.definitions||[]).map(d=>`<li><strong>${esc(d.term)}:</strong> ${esc(d.definition)}</li>`).join("")}</ul>
+            </div>
+
+            ${comparisons}
+
+            <div class="note-block">
+              <h4>Numbers &amp; standards</h4>
+              <ul>${(n.numbers||[]).map(x=>`<li><strong>${esc(x.label)}:</strong> ${esc(x.value)} <span style="color:var(--muted)">— ${esc(x.why||"")}</span></li>`).join("")}</ul>
+            </div>
+
+            <div class="actions">
+              <a class="btn btn-primary" href="notes.html?week=${week}">Full week notes</a>
+              <a class="btn" href="assignments.html?week=${week}">Practice this week</a>
+              <a class="btn" href="transcripts.html?week=${week}">Lecture one-pagers</a>
+            </div>
+          </div>`;
+      }
+
+      pills.querySelectorAll(".week-pill").forEach(b => {
+        b.onclick = () => show(Number(b.dataset.w));
+      });
+      show(week);
+    }
+
+    function esc(s) {
+      return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+    }
+
+    init().catch(e => {
+      document.getElementById("content").innerHTML = `<div class="empty">${e.message}</div>`;
+    });
+  </script>
+</body>
+</html>

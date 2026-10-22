@@ -1,0 +1,1794 @@
+{
+  "lectures": [
+    {
+      "lec": 1,
+      "week": 1,
+      "title": "Major Environmental Concerns and Pollution",
+      "objectives": [
+        "Distinguish pollutant from contaminant and list major media of concern (air, water, soil, biodiversity).",
+        "Relate urbanization and waste heat to Urban Heat Island effects.",
+        "Frame course goal: live off natural-capital interest, not the capital stock.",
+        "List principles: maximize renewables, minimize non-renewables, protect biodiversity, nutrient cycling."
+      ],
+      "keywords": [
+        "pollutant",
+        "contaminant",
+        "biodiversity",
+        "Urban Heat Island",
+        "natural capital",
+        "natural services",
+        "sustainable development",
+        "pollution",
+        "air-water-soil",
+        "MC Mehta education"
+      ],
+      "likelyFacts": [
+        "A contaminant is out of place or above background; a pollutant causes adverse effects at given concentration/duration.",
+        "MC Mehta vs UOI (1991) led to an environmental education mandate in India.",
+        "Course framing: treat environment+economy+society as capital and live on interest, not principal."
+      ],
+      "mnemonic": "Contaminant = misplaced; pollutant = harmful.",
+      "summary": "Lecture 1 opens Environmental Science by mapping major concerns—air, water, soil and biodiversity loss—to pollution. Contaminant versus pollutant is an exam staple: presence out of place versus proven harm. Urban Heat Islands show how built form and waste heat raise city temperatures above rural surrounds. Sustainable living is cast as protecting natural capital and services rather than liquidating them. The week roadmap previews population models, resource use and impact metrics (IPAT, footprint, EPI, LCA)."
+    },
+    {
+      "lec": 2,
+      "week": 1,
+      "title": "Population Growth Models",
+      "objectives": [
+        "State Brundtland (1987) definition of sustainable development.",
+        "Apply arithmetic, geometric and exponential population formulas and compare results.",
+        "Interpret R^2 for census curve-fitting (good >0.9; very good >0.95).",
+        "Connect Tragedy of the Commons to unmanaged shared resources."
+      ],
+      "keywords": [
+        "Brundtland",
+        "Our Common Future",
+        "arithmetic growth",
+        "geometric growth",
+        "exponential growth",
+        "curve fitting",
+        "R^2",
+        "Tragedy of the Commons",
+        "census",
+        "carrying capacity foreshadow"
+      ],
+      "likelyFacts": [
+        "Pn = P0 + nX (arithmetic); Pn = P0(1+r)^n (geometric); Pn = P0 e^(rn) (exponential).",
+        "For same r, exponential > geometric (e.g. r=0.1, n=10: 2718 vs 2594 from P0=1000).",
+        "India census series often fit exponential with R^2>0.95 (~1.75%/y total; urban ~2.85%/y)."
+      ],
+      "mnemonic": "Geo steps yearly; expo grows every instant.",
+      "summary": "Lecture 2 pairs Brundtland sustainable development (1987) with three growth models used for census curve-fitting. Arithmetic growth adds a fixed increment; geometric compounds discretely; exponential compounds continuously. High R^2 indicates a good fit to historical population. Tragedy of the Commons motivates why open-access resources degrade without institutions. These tools set up later IPAT and footprint lectures linking people to impacts."
+    },
+    {
+      "lec": 3,
+      "week": 1,
+      "title": "Resource Consumption and Pollution",
+      "objectives": [
+        "Classify resources as perpetual, renewable or non-renewable (incl. deep groundwater).",
+        "Define natural capital versus natural services.",
+        "Contrast Agropolis, Petropolis and Ecopolis city metaphors.",
+        "Contrast linear versus circular economy at introductory level."
+      ],
+      "keywords": [
+        "perpetual resources",
+        "renewable",
+        "non-renewable",
+        "natural capital",
+        "natural services",
+        "Agropolis",
+        "Petropolis",
+        "Ecopolis",
+        "linear economy",
+        "circular economy",
+        "green design"
+      ],
+      "likelyFacts": [
+        "Perpetual: solar, wind, tides; renewable: air, water, soil, biota; non-renewable: fossil fuels, minerals, deep groundwater.",
+        "Cities framed as Agropolis (agrarian), Petropolis (fossil-fuel), Ecopolis (ecological design).",
+        "Linear take-make-waste vs circular borrow-use-return is introduced with green/sustainable design."
+      ],
+      "mnemonic": "Sun/wind perpetual; fossils non-renewable.",
+      "summary": "Resource consumption drives pollution when throughput exceeds regeneration. Resources are perpetual (solar/wind/tides), renewable (soil, biota, water) or non-renewable (fossils, metals; deep groundwater treated as non-renewable). Natural capital is the stock; natural services are the flows supporting well-being. City types Agropolis–Petropolis–Ecopolis illustrate metabolic styles. Early circular-economy language prepares Week 7."
+    },
+    {
+      "lec": 4,
+      "week": 1,
+      "title": "Measuring Impacts - IPAT and Ecological Footprint",
+      "objectives": [
+        "Write and interpret IPAT: I = P × A × T (Ehrlich & Holdren, 1971).",
+        "Choose affluence and technology proxies (e.g. kWh/cap; kg CO2/kWh).",
+        "Define ecological footprint in global hectares and contrast with biocapacity.",
+        "Use EFproduction = P × EQF / Yw conceptually."
+      ],
+      "keywords": [
+        "IPAT",
+        "Ehrlich Holdren",
+        "affluence",
+        "technology",
+        "ecological footprint",
+        "biocapacity",
+        "global hectare",
+        "EQF",
+        "yield",
+        "impact metric"
+      ],
+      "likelyFacts": [
+        "I = P × A × T; growth rates of factors roughly add in percent terms when multiplying.",
+        "Global course figures: ~2.8 gha footprint/person vs ~1.6 gha biocapacity/person.",
+        "Footprint is demand; biocapacity is nature's supply — deficit means overshoot."
+      ],
+      "mnemonic": "I Pat the planet as P, A, T rise.",
+      "summary": "IPAT multiplies Population, Affluence and Technology to estimate environmental Impact—classic for MCQs and word problems (e.g. CO2 = pop × fossil kWh/cap × kg CO2/kWh). Ecological footprint converts resource use and waste absorption into global hectares using yields and equivalence factors. Comparing footprint to biocapacity diagnoses surplus or deficit. Lecture 4 is the quantitative heart of Week 1 impact measurement."
+    },
+    {
+      "lec": 5,
+      "week": 1,
+      "title": "Earth Overshoot Day, EPI, LCA",
+      "objectives": [
+        "Explain Earth Overshoot Day as the date demand exceeds annual biocapacity.",
+        "Compute Energy Performance Index: EPI = annual kWh / floor area (kWh/m²·y).",
+        "Outline Lifecycle Assessment stages from raw materials through disposal.",
+        "Note why multi-year utility bills stabilize campus EPI."
+      ],
+      "keywords": [
+        "Earth Overshoot Day",
+        "biocapacity",
+        "EPI",
+        "Energy Performance Index",
+        "LCA",
+        "lifecycle assessment",
+        "kWh/m2-y",
+        "campus energy",
+        "carbon footprint link",
+        "impact metrics"
+      ],
+      "likelyFacts": [
+        "Overshoot Day marks when cumulative human demand exceeds what Earth regenerates that year (often late July recently; 22 Aug 2020 COVID anomaly).",
+        "EPI = E_annual / A_floor in kWh/m²·y; use 3–5 years of bills for a stable value.",
+        "LCA inventories inputs/outputs across cradle-to-grave stages for products or systems."
+      ],
+      "mnemonic": "Overshoot = Earth's yearly paycheck spent early.",
+      "summary": "Earth Overshoot Day calendars ecological deficit: after that date humanity lives on overdraft. EPI normalizes building or campus electricity to floor area for fair comparison. Lifecycle Assessment prevents burden-shifting by tracking impacts from materials through use to end-of-life. Together with IPAT and footprints, these tools quantify sustainability performance for exams and campus projects."
+    },
+    {
+      "lec": 6,
+      "week": 2,
+      "title": "Principles of Sustainable Development",
+      "objectives": [
+        "Recall Brundtland definition and Why SD is needed (live within ecological means).",
+        "Place SD on the timeline: 1987 Brundtland → 1992 Rio.",
+        "Name three pillars: environment, economy, society.",
+        "Introduce planetary boundaries / safe operating space idea."
+      ],
+      "keywords": [
+        "sustainable development",
+        "Brundtland 1987",
+        "Rio 1992",
+        "planetary boundaries",
+        "safe operating space",
+        "three pillars",
+        "Anthropocene",
+        "ecological means",
+        "Our Common Future"
+      ],
+      "likelyFacts": [
+        "Brundtland 1987: meet present needs without compromising future generations.",
+        "Rio Earth Summit 1992 institutionalized the global sustainable development agenda.",
+        "Three interdependent pillars: environment, economy, society."
+      ],
+      "mnemonic": "1987 Brundtland → 1992 Rio.",
+      "summary": "Week 2 opens by arguing solutions require living within planetary means. Brundtland's 1987 definition anchors every MCQ on SD wording. Rio 1992 moved SD into international policy. Pillars insist environment cannot be traded away for GDP alone. Planetary-boundaries framing (safe operating space) motivates later SDG and Anthropocene content."
+    },
+    {
+      "lec": 7,
+      "week": 2,
+      "title": "Sustainable Development Goals (SDGs)",
+      "objectives": [
+        "State SDG count (17), adoption year (2015) and horizon (2030 Agenda).",
+        "Contrast MDGs (8, developing-focused) with universal SDGs.",
+        "Identify environment-heavy SDGs: 6, 7, 11, 12, 13, 14, 15.",
+        "Note 169 targets as the detailed to-do list under goals."
+      ],
+      "keywords": [
+        "SDGs",
+        "2030 Agenda",
+        "MDGs",
+        "17 goals",
+        "169 targets",
+        "UN 2015",
+        "SDG 6 water",
+        "SDG 13 climate",
+        "universal goals",
+        "indicators"
+      ],
+      "likelyFacts": [
+        "SDGs adopted 2015 by all UN Member States; 17 goals with 169 targets to 2030.",
+        "MDGs (2000) had 8 goals mainly for developing countries; SDGs are universal and broader.",
+        "Env spine often tested: SDGs 6, 7, 11, 12, 13, 14, 15."
+      ],
+      "mnemonic": "6-7-11-12-13-14-15 green spine.",
+      "summary": "Lecture 7 details the 2030 Agenda: seventeen Sustainable Development Goals replacing/expanding MDGs. Universality (every country) and climate/oceans/cities content distinguish SDGs. Targets and indicators operationalize goals for monitoring. Memorize year 2015, count 17, and environment-linked goal numbers for high-yield MCQs."
+    },
+    {
+      "lec": 8,
+      "week": 2,
+      "title": "Achieving SDGs and Sustainability Indices",
+      "objectives": [
+        "Explain six SDG transformations as cross-cutting pathways.",
+        "Define SDG Index as a composite progress score.",
+        "Link Rockström/Steffen planetary boundaries to monitoring risk.",
+        "Argue that dropping one transformation hurts multiple goals."
+      ],
+      "keywords": [
+        "SDG transformations",
+        "sustainability indices",
+        "SDG Index",
+        "Rockstrom",
+        "Steffen",
+        "planetary boundaries",
+        "monitoring",
+        "indicators 2017",
+        "Great Acceleration"
+      ],
+      "likelyFacts": [
+        "Six transformations map onto multiple SDGs—neglecting one undermines several goals.",
+        "Planetary boundaries: Rockström 2009; update Steffen 2015 — nine Earth-system processes.",
+        "SDG Index aggregates country performance across indicators for ranking/progress tracking."
+      ],
+      "mnemonic": "Transformations bridge many goals at once.",
+      "summary": "Achieving SDGs needs systemic transformations, not siloed projects. Sustainability indices (including SDG Index) turn sprawling targets into comparable scores. Planetary-boundary science supplies biophysical guardrails alongside socio-economic indicators. Anthropocene/Great Acceleration charts justify urgency. Exam focus: authors/years of boundaries papers and the transformations logic."
+    },
+    {
+      "lec": 9,
+      "week": 2,
+      "title": "Sustainable Urbanization (Case Study I)",
+      "objectives": [
+        "Explain why urbanization is central to sustainable development (SDG 11).",
+        "Identify urban challenges: density, services, emissions, inequality.",
+        "List levers for sustainable cities: transit, density, green space, resource efficiency.",
+        "Connect urban form to earlier Petropolis/Ecopolis ideas."
+      ],
+      "keywords": [
+        "sustainable urbanization",
+        "SDG 11",
+        "cities",
+        "urban density",
+        "infrastructure",
+        "urban services",
+        "emissions",
+        "case study",
+        "livability",
+        "resource efficiency"
+      ],
+      "likelyFacts": [
+        "SDG 11 targets inclusive, safe, resilient and sustainable cities.",
+        "Urbanization concentrates both impacts and solutions (efficiency of shared infrastructure).",
+        "Sustainable urbanization couples housing, mobility, water/waste and energy planning."
+      ],
+      "mnemonic": "Cities are SDG 11's battleground.",
+      "summary": "Case Study I applies SD principles to cities where most future growth occurs. Compact, well-served urban form can lower per-capita footprints if paired with clean energy and circular waste/water systems. Risks include sprawl, congestion and unequal access. The lecture bridges Week 2 theory to built-environment practice ahead of green buildings."
+    },
+    {
+      "lec": 10,
+      "week": 2,
+      "title": "Green Buildings (Case Study II)",
+      "objectives": [
+        "Define green building goals: energy, water, materials, indoor environment.",
+        "Relate EPI and LCA from Week 1 to building performance.",
+        "List typical certification themes (efficiency, daylight, recycled content).",
+        "Explain how green buildings support sustainable urbanization."
+      ],
+      "keywords": [
+        "green buildings",
+        "energy efficiency",
+        "indoor environmental quality",
+        "EPI",
+        "LCA",
+        "sustainable design",
+        "certification",
+        "water efficiency",
+        "materials",
+        "urbanization"
+      ],
+      "likelyFacts": [
+        "Green buildings cut operational energy/water and improve indoor quality while lowering lifecycle impacts.",
+        "Campus/building EPI (kWh/m²·y) is a practical performance metric from Lecture 5.",
+        "Material choices and LCA prevent shifting burdens from use phase to manufacturing."
+      ],
+      "mnemonic": "Green building = less EPI, better IEQ.",
+      "summary": "Concluding Week 2, green buildings operationalize sustainable urbanization: envelopes, HVAC, lighting, water fixtures and healthier interiors. Performance metrics like EPI and whole-building LCA link design to measurable outcomes. Certification schemes organize criteria but principles matter more for exams: reduce loads first, then supply efficiently, then verify."
+    },
+    {
+      "lec": 11,
+      "week": 3,
+      "title": "Air Pollution - Definition, Causes, Sources and Types",
+      "objectives": [
+        "Define air pollution and ambient (outdoor) air.",
+        "Classify primary vs secondary pollutants; criteria vs non-criteria.",
+        "Map sources: stationary, mobile, area.",
+        "Give examples (SO2, NO, CO, primary PM vs O3, secondary PM)."
+      ],
+      "keywords": [
+        "air pollution",
+        "ambient air",
+        "primary pollutant",
+        "secondary pollutant",
+        "criteria pollutants",
+        "stationary source",
+        "mobile source",
+        "area source",
+        "PM2.5",
+        "ozone"
+      ],
+      "likelyFacts": [
+        "Ambient air = outdoor atmospheric air supporting life.",
+        "Primary emitted directly; secondary formed in air (e.g. tropospheric O3, secondary PM).",
+        "Source inventory axes: stationary / mobile / area."
+      ],
+      "mnemonic": "Primary exits stack; secondary cooked in sunlight.",
+      "summary": "Week 3 starts with definitions: substances at harmful concentration or duration. Criteria pollutants have ambient standards; hazardous/non-criteria include many toxics. Orthogonal classifications—primary/secondary and stationary/mobile/area—structure every air-quality MCQ. Tropospheric ozone is secondary; do not confuse with stratospheric ozone depletion later."
+    },
+    {
+      "lec": 12,
+      "week": 3,
+      "title": "Air Pollution - Influence of Meteorology",
+      "objectives": [
+        "Explain how meteorology controls dilution: wind, mixing height, stability.",
+        "Relate inversions to high ground-level concentrations.",
+        "Describe plume behavior qualitatively (looping, lofting, fanning, fumigation).",
+        "State why calm, stable nights worsen urban pollution."
+      ],
+      "keywords": [
+        "meteorology",
+        "mixing height",
+        "atmospheric stability",
+        "inversion",
+        "dispersion",
+        "wind speed",
+        "plume",
+        "dilution",
+        "boundary layer",
+        "concentration"
+      ],
+      "likelyFacts": [
+        "Higher wind and deeper mixing height increase dilution and lower concentrations.",
+        "Temperature inversions trap pollutants near the surface.",
+        "Stability class strongly shapes plume rise and ground-level impact."
+      ],
+      "mnemonic": "Calm + inversion = pollution trap.",
+      "summary": "Once emitted, pollutants' fate depends on meteorology more than chemistry alone. Mixing height and wind set the dilution volume; inversions create lids. Plume types under different stability are classic short-answer material. This lecture links emission inventories to observed ambient peaks (e.g. winter nights)."
+    },
+    {
+      "lec": 13,
+      "week": 3,
+      "title": "Air Pollution - Local Effects and Mitigation",
+      "objectives": [
+        "List local effects: visibility loss, vegetation injury, materials corrosion, health.",
+        "Name particulate controls: cyclone, ESP, baghouse (~95–99% industrially).",
+        "Introduce gaseous controls including scrubbers.",
+        "Link combustion stoichiometry to SO2/ash from coal sulfur/ash content."
+      ],
+      "keywords": [
+        "local effects",
+        "ESP",
+        "baghouse",
+        "cyclone",
+        "scrubber",
+        "visibility",
+        "health effects",
+        "control technology",
+        "fly ash",
+        "SO2"
+      ],
+      "likelyFacts": [
+        "Industrial particulate controls (ESP/fabric filters) often achieve 95–99% removal.",
+        "Local impacts include smog, crop damage, building soiling/corrosion and respiratory disease.",
+        "Coal S → SO2 emission stoichiometry problems recur in assignments."
+      ],
+      "mnemonic": "ESP/baghouse catch the dust first.",
+      "summary": "Local mitigation focuses on source controls near receptors. Particulate devices and scrubbers are high-yield tech names with efficiency ranges. Health and materials damage justify standards. Stoichiometry ties fuel composition to emission rates—practice numericals alongside qualitative effects."
+    },
+    {
+      "lec": 14,
+      "week": 3,
+      "title": "Air Pollution - Regional Issues and Mitigation",
+      "objectives": [
+        "Define transboundary / regional air pollution (acid rain, haze).",
+        "Explain acid deposition from SO2/NOx precursors.",
+        "Cite ASEAN Haze Agreement (2002) as regional treaty example.",
+        "Contrast local stack control with regional precursor agreements."
+      ],
+      "keywords": [
+        "transboundary pollution",
+        "acid rain",
+        "regional haze",
+        "ASEAN Haze Agreement",
+        "SO2",
+        "NOx",
+        "long-range transport",
+        "treaty",
+        "mitigation",
+        "deposition"
+      ],
+      "likelyFacts": [
+        "Transboundary pollution crosses political borders via atmospheric transport.",
+        "ASEAN Agreement on Transboundary Haze Pollution: 2002 (ratifications progressed later).",
+        "Acid rain mitigation requires regional SO2/NOx cuts, not only local stacks."
+      ],
+      "mnemonic": "Haze ignores borders — ASEAN 2002.",
+      "summary": "Regional issues arise when pollutants travel hundreds of kilometers. Acid deposition and seasonal haze need cooperative treaties and precursor controls. FGD and NOx strategies reappear as engineering tools inside policy frameworks. Distinguish regional chemistry from global ozone and climate topics in Lecture 15–20."
+    },
+    {
+      "lec": 15,
+      "week": 3,
+      "title": "Air Pollution - Global Issues, Ozone and Indoor Air",
+      "objectives": [
+        "Explain stratospheric ozone depletion vs tropospheric ozone pollution.",
+        "State Montreal Protocol (1987) for ODS (CFCs/halons).",
+        "Describe indoor/household air pollution sources and high mortality burden.",
+        "Contrast outdoor meteorology-driven exposure with confined indoor exposure."
+      ],
+      "keywords": [
+        "Montreal Protocol",
+        "ozone depletion",
+        "CFCs",
+        "indoor air pollution",
+        "household fuels",
+        "stratosphere",
+        "ODS",
+        "3.2 million deaths",
+        "global issues",
+        "mitigation"
+      ],
+      "likelyFacts": [
+        "Montreal Protocol 1987 controls ozone-depleting substances — not a climate Kyoto/Paris substitute.",
+        "Course cites ~3.2 million deaths/year (2020) from household air pollution.",
+        "Stratospheric O3 protects from UV; tropospheric O3 is a harmful secondary pollutant."
+      ],
+      "mnemonic": "Montreal 1987 ≠ Kyoto/Paris.",
+      "summary": "Global air issues culminate in the ozone hole story and Montreal Protocol success narrative. Indoor air from cooking/heating fuels can dominate personal exposure. Keep three O3 stories separate: good stratospheric shield, bad ground-level smog, and protocol politics. This closes the air-pollution week."
+    },
+    {
+      "lec": 16,
+      "week": 4,
+      "title": "Climate Change - Definition and Evidence",
+      "objectives": [
+        "Distinguish weather (short-term) from climate (decades+ statistics).",
+        "List observational indicators: temperature, ice loss, sea level, ocean heat.",
+        "State warming rate ~0.18 °C/decade since 1981 (course).",
+        "Argue climate change evidence is multi-indicator, not one thermometer."
+      ],
+      "keywords": [
+        "weather",
+        "climate",
+        "climate change",
+        "indicators",
+        "sea level",
+        "Arctic sea ice",
+        "ocean heat",
+        "temperature anomaly",
+        "evidence",
+        "IPCC framing"
+      ],
+      "likelyFacts": [
+        "Weather = hours–days; climate = long-term averages and extremes (often ~30-year normals).",
+        "Course warming rate since 1981 ≈ 0.18 °C per decade.",
+        "Sept 2012 Arctic sea ice cited as record low (~44% below long-term)."
+      ],
+      "mnemonic": "Weather is today's outfit; climate is the wardrobe.",
+      "summary": "Climate-change week opens with definitions and evidence. Unequivocal warming appears across atmosphere, ocean, cryosphere and sea level. Multi-indicator consistency underpins IPCC-style certainty language. Memorize weather/climate contrast and the course's quantitative evidence hooks."
+    },
+    {
+      "lec": 17,
+      "week": 4,
+      "title": "Climate Change - Causes and Determinants",
+      "objectives": [
+        "Explain natural vs enhanced greenhouse effect.",
+        "List key GHGs: CO2, CH4, N2O, CFCs, H2O vapor.",
+        "Define GWP with CO2 = 1 by definition.",
+        "Describe albedo feedback from ice loss."
+      ],
+      "keywords": [
+        "greenhouse effect",
+        "GHG",
+        "GWP",
+        "CO2",
+        "CH4",
+        "N2O",
+        "albedo",
+        "climate forcing",
+        "radiative forcing",
+        "infrared"
+      ],
+      "likelyFacts": [
+        "GHGs are largely transparent to shortwave but absorb outgoing IR.",
+        "GWP(CO2) = 1; other gases scaled over a chosen time horizon.",
+        "Ice–albedo feedback: melting lowers albedo → more absorption → more warming."
+      ],
+      "mnemonic": "Carbon Methane Nitro CFC Water trap IR.",
+      "summary": "Causes lecture covers forcings and greenhouse gases that maintain (and enhance) Earth's heat balance. GWP enables apples-to-apples comparisons. Albedo and other feedbacks amplify initial warming. Exam trap: water vapor is a GHG but mainly a feedback, while CO2 is the primary anthropogenic control knob emphasized in policy."
+    },
+    {
+      "lec": 18,
+      "week": 4,
+      "title": "Climate Change - Projections and Impacts",
+      "objectives": [
+        "Summarize projected impacts on cryosphere, oceans, weather extremes, food systems.",
+        "Link ocean warming/acidification to marine life stress.",
+        "Note differential vulnerability of polar and high-mountain regions.",
+        "Separate observed trends from model-based projections."
+      ],
+      "keywords": [
+        "climate impacts",
+        "projections",
+        "cryosphere",
+        "ocean acidification",
+        "extremes",
+        "agriculture",
+        "sea level rise",
+        "coral",
+        "vulnerability",
+        "IPCC scenarios"
+      ],
+      "likelyFacts": [
+        "Impacts span ice melt, sea-level rise, marine ecosystems, extreme weather and livestock/crops.",
+        "Oceans absorb heat and CO2 → warming plus acidification risks for calcifiers.",
+        "High mountains and poles show amplified, visible changes (glaciers, permafrost, ice sheets)."
+      ],
+      "mnemonic": "Impacts hit ice, ocean, extremes, food.",
+      "summary": "Projections translate forcings into sectoral risks. Cryosphere loss and ocean change are physically linked to coastal and food-security outcomes. Extreme-event attribution language appears in modern IPCC reports. For exams, organize answers by system (ice/ocean/weather/biosphere) rather than listing unrelated calamities."
+    },
+    {
+      "lec": 19,
+      "week": 4,
+      "title": "Climate Change - Mitigation Strategies",
+      "objectives": [
+        "Define mitigation: cut emissions / enhance sinks.",
+        "List mitigation wedges: efficiency, renewables, sinks, fuel switching.",
+        "Contrast mitigation with adaptation (preview).",
+        "Connect mitigation need to renewable-energy weeks ahead."
+      ],
+      "keywords": [
+        "mitigation",
+        "emission reduction",
+        "carbon sinks",
+        "renewables",
+        "energy efficiency",
+        "decarbonization",
+        "afforestation",
+        "fuel switching",
+        "climate action"
+      ],
+      "likelyFacts": [
+        "Mitigation reduces sources or enhances sinks of GHGs.",
+        "Major levers: demand reduction, clean electricity, electrification, land sinks.",
+        "Mitigation addresses the cause; adaptation manages residual risk."
+      ],
+      "mnemonic": "Mitigation turns down the stove.",
+      "summary": "Mitigation strategies operationalize 'avoid unmanageable' climate change. Technology and behavior packages appear as portfolios, not silver bullets. This lecture foreshadows Weeks 5–6 renewables and Week 7 circularity as mitigation-compatible pathways. Keep definition crisp for short answers."
+    },
+    {
+      "lec": 20,
+      "week": 4,
+      "title": "Climate Change - International Treaties and Adaptation",
+      "objectives": [
+        "Timeline: UNFCCC 1992 → Kyoto 1997 (force 2005) → Paris 2015.",
+        "Contrast Kyoto Annex I binding targets vs Paris NDCs for all parties.",
+        "Recall Kyoto ~5.2% below 1990; Doha ≥18% by 2020.",
+        "Define adaptation and note IPCC/Nobel 2007 context."
+      ],
+      "keywords": [
+        "UNFCCC",
+        "Kyoto Protocol",
+        "Paris Agreement",
+        "NDC",
+        "COP21",
+        "adaptation",
+        "Annex I",
+        "IPCC",
+        "Nobel 2007",
+        "Doha Amendment"
+      ],
+      "likelyFacts": [
+        "UNFCCC opened 1992 at Rio; Kyoto 1997 entered force 2005; Paris 2015 (COP21).",
+        "Kyoto bound Annex I (~5.2% below 1990); Paris uses nationally determined contributions toward well-below-2 °C / 1.5 °C.",
+        "IPCC and Al Gore shared Nobel Peace Prize 2007."
+      ],
+      "mnemonic": "Kyoto bound Annex I; Paris asks all for NDCs.",
+      "summary": "Governance lecture closes climate week: science meets treaties. Kyoto's gas list and Annex I logic differ from Paris's universal NDC architecture. Adaptation reduces vulnerability to locked-in impacts alongside mitigation. Timeline years are among the highest-frequency MCQs in the course."
+    },
+    {
+      "lec": 21,
+      "week": 5,
+      "title": "Renewable Energy I - Overview",
+      "objectives": [
+        "Define renewable energy (replenished ≥ rate of use).",
+        "State energy trilemma SEE: Security, Equity, Environmental sustainability.",
+        "Cite course stats: solar input ~5.4M EJ/y; renewables ~12.6% TFEC (2020).",
+        "Argue renewables for climate mitigation and SDG 7."
+      ],
+      "keywords": [
+        "renewable energy",
+        "energy trilemma",
+        "SEE",
+        "SDG 7",
+        "technical potential",
+        "capacity factor",
+        "intermittency",
+        "final energy",
+        "climate mitigation",
+        "overview"
+      ],
+      "likelyFacts": [
+        "Renewable = replenished at least as fast as consumed.",
+        "Energy trilemma: Security, Equity, Environmental sustainability (SEE).",
+        "Course: incoming solar ~5.4 million EJ/year; renewables ~12.6% of TFEC (2020)."
+      ],
+      "mnemonic": "Healthy grids must SEE clearly.",
+      "summary": "Overview frames why renewables matter: climate, energy access and security. Trilemma SEE organizes trade-offs on exams. Distinctions among resource, technical potential and capacity factor prevent confusion with nameplate capacity. Intermittency foreshadows storage needs before solar and wind deep-dives."
+    },
+    {
+      "lec": 22,
+      "week": 5,
+      "title": "Renewable Energy I - Solar Energy I (CSP)",
+      "objectives": [
+        "Explain concentrating solar power (CSP) using mirrors to raise temperature.",
+        "Contrast CSP thermal generation with later PV electricity.",
+        "Note thermal storage advantage of some CSP designs.",
+        "List typical CSP optics: troughs, towers, dishes (conceptually)."
+      ],
+      "keywords": [
+        "CSP",
+        "concentrating solar",
+        "mirrors",
+        "solar thermal power",
+        "heliostat",
+        "thermal storage",
+        "direct normal irradiance",
+        "solar field",
+        "heat transfer fluid"
+      ],
+      "likelyFacts": [
+        "CSP concentrates sunlight with mirrors to drive heat engines / steam turbines.",
+        "Some CSP plants integrate thermal storage for after-sunset generation.",
+        "CSP needs strong direct normal irradiance — geography matters."
+      ],
+      "mnemonic": "CSP = mirrors make heat, then power.",
+      "summary": "Solar Energy I emphasizes concentration pathways. Unlike PV, CSP is a thermal power plant with optical fields. Storage in molten salt systems is a frequent comparison point versus battery-backed PV. Site quality (DNI) is as important as collector efficiency."
+    },
+    {
+      "lec": 23,
+      "week": 5,
+      "title": "Renewable Energy I - Solar Energy II (Photovoltaics)",
+      "objectives": [
+        "Describe photovoltaic conversion of light to DC electricity.",
+        "Contrast PV with CSP (photons→electrons vs heat→turbine).",
+        "Note modularity and distributed generation strengths of PV.",
+        "Mention inverter role and capacity-factor dependence on irradiance."
+      ],
+      "keywords": [
+        "photovoltaics",
+        "PV",
+        "solar cell",
+        "semiconductor",
+        "inverter",
+        "distributed generation",
+        "irradiance",
+        "module",
+        "DC to AC",
+        "solar energy"
+      ],
+      "likelyFacts": [
+        "PV converts sunlight directly to electricity via semiconductor junctions.",
+        "PV is modular from rooftop to utility scale; CSP is typically utility thermal.",
+        "Output tracks irradiance; capacity factor is climate- and tilt-dependent."
+      ],
+      "mnemonic": "PV: light in, electrons out.",
+      "summary": "Solar Energy II centers on photovoltaics as the rapidly scaling solar pathway. Exam answers should contrast energy conversion physics and suitable applications versus CSP. Balance-of-system (inverters, mounting) and intermittency remain practical constraints linking to storage discussion."
+    },
+    {
+      "lec": 24,
+      "week": 5,
+      "title": "Renewable Energy I - Solar Energy III (Thermal and Fuels)",
+      "objectives": [
+        "Differentiate active solar thermal systems (collectors, pumps) for heat.",
+        "Introduce solar fuels / solar-driven chemical pathways conceptually.",
+        "Relate low-grade solar heat to buildings and process heat.",
+        "Position solar thermal heat as distinct from CSP electricity."
+      ],
+      "keywords": [
+        "solar thermal",
+        "active solar",
+        "solar collectors",
+        "solar fuels",
+        "process heat",
+        "domestic hot water",
+        "passive vs active",
+        "thermal energy",
+        "solar chemistry"
+      ],
+      "likelyFacts": [
+        "Active solar thermal uses collectors and often pumps/controls to deliver heat.",
+        "Solar fuels aim to store solar energy in chemical form for later use.",
+        "Building/process heat can be a higher-efficiency use of sunlight than electricity alone."
+      ],
+      "mnemonic": "Thermal solar heats; fuels store sunshine chemically.",
+      "summary": "Solar Energy III widens the portfolio beyond electricity: water heating, industrial heat and emerging solar fuels. Active systems contrast with passive building design. For exams, keep three solar buckets clear—CSP power, PV power, and thermal/fuel pathways."
+    },
+    {
+      "lec": 25,
+      "week": 5,
+      "title": "Renewable Energy I - Wind Energy",
+      "objectives": [
+        "Write wind power P = ½ ρ A v³ and Betz limit CP,max = 16/27 ≈ 59.3%.",
+        "Derive Pmax = (8/27) ρ A v³.",
+        "Explain why velocity cubed dominates siting.",
+        "Note intermittency and capacity factor for wind farms."
+      ],
+      "keywords": [
+        "wind energy",
+        "Betz limit",
+        "power coefficient",
+        "air density",
+        "rotor area",
+        "v cubed",
+        "capacity factor",
+        "turbine",
+        "intermittency",
+        "storage"
+      ],
+      "likelyFacts": [
+        "Available power ∝ ρ A v³; double v → ~8× power.",
+        "Betz limit: CP,max = 16/27 ≈ 59.3%; Pwind,max = (8/27) ρ A v³.",
+        "Real turbines operate below Betz; capacity factor << 100% due to wind variability."
+      ],
+      "mnemonic": "Sixteen over twenty-seven — wind hard ceiling.",
+      "summary": "Wind lecture is formula-heavy: kinetic flux through the rotor, Betz ceiling, and cubic speed dependence. Siting beats blade diameter for many projects because of v³. Pair with storage/grid flexibility from the overview. Numerical drills using ρ, A, v and capacity factor are exam favorites."
+    },
+    {
+      "lec": 26,
+      "week": 6,
+      "title": "Renewable Energy II - Geothermal Energy",
+      "objectives": [
+        "Identify geothermal heat sources: primordial, radiogenic, shallow solar-heated ground.",
+        "Define EGS: stimulate permeability in hot dry rock.",
+        "Apply Q = ṁ cp ΔT for direct-use heat.",
+        "Note low lifecycle GHG for many geothermal plants (course <50 g CO2eq/kWh flash)."
+      ],
+      "keywords": [
+        "geothermal",
+        "EGS",
+        "hot dry rock",
+        "GSHP",
+        "direct use",
+        "flash steam",
+        "radiogenic heat",
+        "district heating",
+        "permeability",
+        "DeltaT"
+      ],
+      "likelyFacts": [
+        "EGS engineers connectivity where natural hydrothermal productivity is poor.",
+        "Heat extraction example pattern: Q = ṁ cp ΔT (course ~42 TJ/y worked example).",
+        "Shallow ground-source heat pumps exploit stable near-surface temperatures."
+      ],
+      "mnemonic": "EGS = crack hot rock, circulate fluid.",
+      "summary": "Geothermal taps Earth's internal heat for electricity or direct heating. Hydrothermal systems cluster tectonically; EGS expands the map. Open- vs closed-loop and GSHP distinctions matter. Lifecycle emissions are typically low versus fossils—useful comparison fact."
+    },
+    {
+      "lec": 27,
+      "week": 6,
+      "title": "Renewable Energy II - Ocean Energy I (Tidal and Wave)",
+      "objectives": [
+        "Distinguish tidal range (barrage) vs tidal stream (kinetic) technologies.",
+        "State tidal theoretical potential ~1200 TWh/y (smallest ocean class in course).",
+        "Give tidal stream useful speeds ~≥1.5–2 m/s; spring vs neap tides.",
+        "Use wave energy density E = (1/8) ρ g H² and deep-water power ∝ H² T."
+      ],
+      "keywords": [
+        "tidal energy",
+        "tidal barrage",
+        "tidal stream",
+        "wave energy",
+        "spring tide",
+        "neap tide",
+        "wave height",
+        "energy density",
+        "ocean energy",
+        "1200 TWh"
+      ],
+      "likelyFacts": [
+        "Course ocean potentials: tidal ~1200, wave ~29500, OTEC ~44000 TWh/y.",
+        "Spring tides: Sun–Moon–Earth aligned; neap when ~90° apart.",
+        "Deep-water wave power per unit crest ≈ (ρ g² H² T)/32."
+      ],
+      "mnemonic": "OTEC titan; tide tiny (as taught).",
+      "summary": "Ocean Energy I covers tides and waves. Barrages use head; streams use current KE. Wave formulas reward careful H and T. Ranking potentials (tidal smallest) is a repeated MCQ. Environmental/social siting constraints are as important as theoretical TWh."
+    },
+    {
+      "lec": 28,
+      "week": 6,
+      "title": "Renewable Energy II - Ocean Energy II (OTEC and Others)",
+      "objectives": [
+        "Define OTEC: power from warm surface vs cold deep water ΔT.",
+        "Contrast open-cycle (seawater vapor) vs closed-cycle (e.g. ammonia).",
+        "Mention salinity gradient and ocean current energy briefly.",
+        "Note OTEC's large technical potential but geographic limits (tropics)."
+      ],
+      "keywords": [
+        "OTEC",
+        "open cycle",
+        "closed cycle",
+        "salinity gradient",
+        "ocean current",
+        "thermal gradient",
+        "ammonia working fluid",
+        "tropical oceans",
+        "44000 TWh",
+        "hybrid OTEC"
+      ],
+      "likelyFacts": [
+        "OTEC technical potential ~44000 TWh/y (largest in course ranking).",
+        "Open boils/flashes seawater; closed evaporates a low-BP secondary fluid.",
+        "Needs sustained vertical temperature difference — mainly tropical waters."
+      ],
+      "mnemonic": "Open boils seawater; closed boils ammonia-like fluid.",
+      "summary": "Ocean Energy II emphasizes OTEC and other ocean pathways beyond tide/wave. Cycle choice and cold-water pipe engineering dominate feasibility. Environmental concerns (nutrient upwelling, marine life) appear alongside resource estimates. Keep open/closed contrast ready for compare questions."
+    },
+    {
+      "lec": 29,
+      "week": 6,
+      "title": "Renewable Energy II - Hydropower",
+      "objectives": [
+        "Classify hydro: storage dam, run-of-river, pumped storage; multipurpose dams.",
+        "Use PE = m g z and e_hydro = P_elec / (ṁ g z).",
+        "Explain operating head z as the key elevation difference.",
+        "Discuss environmental/social impacts of large reservoirs."
+      ],
+      "keywords": [
+        "hydropower",
+        "operating head",
+        "run-of-river",
+        "pumped storage",
+        "multipurpose dam",
+        "efficiency",
+        "reservoir",
+        "fish passage",
+        "flood control",
+        "PE = mgz"
+      ],
+      "likelyFacts": [
+        "Hydropower energy is primarily potential energy of head z, not free-river kinetic alone.",
+        "Efficiency e_hydro = electric power / (ṁ g z); course example pattern 150 MW, z=35 m, Q=500 m³/s.",
+        "Pumped storage is grid storage using two reservoirs, not a primary energy source."
+      ],
+      "mnemonic": "Hydro lives on head z.",
+      "summary": "Hydropower remains the largest established renewable electricity source globally. Plant types and multipurpose benefits (irrigation, flood control) are definitional. Head-and-flow numericals test PE and efficiency. Social displacement and ecological alteration balance the 'clean energy' narrative on exams."
+    },
+    {
+      "lec": 30,
+      "week": 6,
+      "title": "Renewable Energy II - Bioenergy",
+      "objectives": [
+        "Assess when bioenergy is sustainable (feedstock, land, lifecycle).",
+        "List conversion pathways: combustion, gasification, pyrolysis, anaerobic digestion.",
+        "Define fast pyrolysis: ~400–600 °C, near-absent O2 → bio-oil, gas, char.",
+        "Contrast pyrolysis with combustion in excess air."
+      ],
+      "keywords": [
+        "bioenergy",
+        "biomass",
+        "feedstock",
+        "pyrolysis",
+        "gasification",
+        "bio-oil",
+        "anaerobic digestion",
+        "sustainability",
+        "land use",
+        "syngas"
+      ],
+      "likelyFacts": [
+        "Fast pyrolysis: 400–600 °C without oxygen favoring liquid bio-oil plus gas and char.",
+        "If oxygen is plentiful, the process is combustion, not classical pyrolysis.",
+        "Sustainability hinges on feedstock origin, competition with food, and full lifecycle GHG."
+      ],
+      "mnemonic": "Pyrolysis = heat, no O2; combustion = burn with air.",
+      "summary": "Bioenergy closes the renewable series with chemistry and land-use caveats. Pathway identification (especially pyrolysis temperature/atmosphere) is high-yield. Sustainability is conditional—not automatic carbon neutrality. Link to circular use of residues versus dedicated energy crops."
+    },
+    {
+      "lec": 31,
+      "week": 7,
+      "title": "Circular Economy - Introduction and Urban Metabolism",
+      "objectives": [
+        "Define urban metabolism (anabolism + catabolism of cities).",
+        "Contrast linear Take-Make-Waste with circular Borrow-Use-Return.",
+        "Explain limits of linear throughput for natural capital.",
+        "List circular-economy benefits: less extraction, waste, emissions."
+      ],
+      "keywords": [
+        "circular economy",
+        "urban metabolism",
+        "linear economy",
+        "take-make-waste",
+        "borrow-use-return",
+        "material flows",
+        "closing loops",
+        "natural capital",
+        "SDG 12"
+      ],
+      "likelyFacts": [
+        "Urban metabolism maps city material/energy inflows and waste outflows.",
+        "Linear slogan: Take-Make-Waste; circular: Borrow-Use-Return.",
+        "Circular economy supports responsible consumption/production (SDG 12)."
+      ],
+      "mnemonic": "Do not take forever — borrow and bring back.",
+      "summary": "Introduction frames cities as metabolic systems whose linear throughput depletes ecosystems. Circular economy redesigns flows to keep materials circulating. Benefits are environmental and economic (new models). This conceptual base supports 9R strategies and industrial symbiosis later in the week."
+    },
+    {
+      "lec": 32,
+      "week": 7,
+      "title": "Circular Economy Strategies I (9R Framework)",
+      "objectives": [
+        "State purpose of the 9R framework for circularity.",
+        "Prioritize smarter Rs (refuse/rethink/reduce) over downstream recycling.",
+        "Give examples of early-R strategies in product/service design.",
+        "Explain how 9R changes business and consumer behavior."
+      ],
+      "keywords": [
+        "9R framework",
+        "refuse",
+        "rethink",
+        "reduce",
+        "reuse",
+        "circular strategies",
+        "design",
+        "priority order",
+        "resource efficiency",
+        "waste prevention"
+      ],
+      "likelyFacts": [
+        "9R strategies ladder from smarter product use to useful end-of-life application.",
+        "Upstream strategies (refuse/rethink/reduce) generally beat end-of-pipe recycling.",
+        "Framework is a practical checklist for transitioning from linear models."
+      ],
+      "mnemonic": "Refuse/Rethink before Recycle.",
+      "summary": "Strategies I introduces building a circular economy via the 9R model. Hierarchy among Rs mirrors waste hierarchy logic: prevention first. Examples show redesign and dematerialization. Exam answers should order strategies by preference, not list them randomly."
+    },
+    {
+      "lec": 33,
+      "week": 7,
+      "title": "Circular Economy Strategies II (Remaining Rs)",
+      "objectives": [
+        "Complete remaining R strategies with examples (repair, remanufacture, recycle, recover).",
+        "Show how cascading Rs keep value in the economy longer.",
+        "Relate 9R totality to measurable sustainability outcomes.",
+        "Warn that recycling alone is not a full circular transition."
+      ],
+      "keywords": [
+        "repair",
+        "refurbish",
+        "remanufacture",
+        "repurpose",
+        "recycle",
+        "recover",
+        "9R",
+        "value retention",
+        "cascading use",
+        "circularity"
+      ],
+      "likelyFacts": [
+        "Downstream Rs still matter but sit below refuse/reduce in preference.",
+        "Remanufacturing retains more embodied energy than material recycling.",
+        "Full 9R set is needed to illustrate a complete circular strategy story on exams."
+      ],
+      "mnemonic": "Repair beats recycle when possible.",
+      "summary": "Strategies II finishes the 9R ladder with life-extension and end-of-life options. Value retention hierarchy is the conceptual prize: keep products whole before shredding materials. Combined with Lecture 32, students should narrate a coherent refuse→recover pathway."
+    },
+    {
+      "lec": 34,
+      "week": 7,
+      "title": "Circular Business Models",
+      "objectives": [
+        "Name five circular business models: circular supply, product-as-service, life extension, sharing, recover/recycle.",
+        "Explain product-as-service shifting ownership incentives to durability.",
+        "Link sharing platforms to higher utilization of assets.",
+        "Show how firms operationalize 9R via business model choice."
+      ],
+      "keywords": [
+        "circular supply chain",
+        "product as a service",
+        "product life extension",
+        "sharing platform",
+        "recovery recycle",
+        "business model",
+        "servitization",
+        "utilization",
+        "EPR link"
+      ],
+      "likelyFacts": [
+        "Five models: circular supply chain; product-as-service; life extension; sharing platforms; recovery & recycle.",
+        "Product-as-service aligns producer profit with longevity and take-back.",
+        "Sharing raises asset utilization, reducing demand for new production."
+      ],
+      "mnemonic": "Own the service, not the stuff.",
+      "summary": "Business-model lecture translates circular principles into firm strategy. Servitization and sharing change incentives versus selling disposable units. Recovery models close loops commercially. Useful for application/case MCQs connecting theory to practice."
+    },
+    {
+      "lec": 35,
+      "week": 7,
+      "title": "Industrial Symbiosis and Industrial Ecology",
+      "objectives": [
+        "Define industrial ecology and industrial symbiosis.",
+        "Explain waste-of-one = feedstock-of-another networks.",
+        "Relate symbiosis to closing loops at park/regional scale.",
+        "Give conceptual benefits: cost, resource, emission reductions."
+      ],
+      "keywords": [
+        "industrial ecology",
+        "industrial symbiosis",
+        "eco-industrial park",
+        "byproduct exchange",
+        "closing loops",
+        "Kalundborg-type",
+        "material cascade",
+        "system design"
+      ],
+      "likelyFacts": [
+        "Industrial ecology designs industry like ecosystems with cyclic flows.",
+        "Industrial symbiosis: firms exchange byproducts, energy and water.",
+        "Symbiosis is circular economy at inter-firm scale."
+      ],
+      "mnemonic": "One plant's waste is another's feedstock.",
+      "summary": "Week 7 closes with industrial ecology/symbiosis—classic eco-industrial park logic. It complements product-level 9R and firm-level business models with network-level exchanges. Exam definition: symbiotic byproduct exchange mimicking food webs."
+    },
+    {
+      "lec": 36,
+      "week": 8,
+      "title": "Hydrologic Cycle, Water Sources and Pollution",
+      "objectives": [
+        "State global water split ~97.5% salt / ~2.5% fresh; usable freshwater tiny.",
+        "Define withdrawal vs consumption; returns to environment.",
+        "Outline hydrologic cycle stocks and fluxes.",
+        "Introduce point vs non-point water pollution sources."
+      ],
+      "keywords": [
+        "hydrologic cycle",
+        "freshwater",
+        "withdrawal",
+        "consumption",
+        "water pollution",
+        "point source",
+        "non-point source",
+        "groundwater",
+        "environmental flows",
+        "scarcity"
+      ],
+      "likelyFacts": [
+        "Salt water ~97.5%; freshwater ~2.5% of global water.",
+        "Withdrawals = consumption + returns; consumption is not returned.",
+        "Municipal wastewater often ~80% of urban water use (India cities ~87% cited)."
+      ],
+      "mnemonic": "Withdrawal ≠ consumption.",
+      "summary": "Water week begins with quantity and cycle literacy. Scarcity is about accessible freshwater, not ocean volume. Withdrawal/consumption accounting underpins reuse lectures. Pollution framing (point/non-point) sets up quality parameters next."
+    },
+    {
+      "lec": 37,
+      "week": 8,
+      "title": "Water Quality Parameters - General",
+      "objectives": [
+        "List general WQ parameters: pH, SS, temperature, oil & grease, residual Cl2, nutrients.",
+        "Explain why multiple parameters are needed (no single 'pollution number').",
+        "Connect parameters to uses (drinking, irrigation, ecology).",
+        "Preview oxygen and nitrogen focus of later lectures."
+      ],
+      "keywords": [
+        "water quality",
+        "pH",
+        "suspended solids",
+        "temperature",
+        "oil and grease",
+        "residual chlorine",
+        "nutrients",
+        "standards",
+        "monitoring",
+        "parameters"
+      ],
+      "likelyFacts": [
+        "Water quality is multi-parameter: physical, chemical, biological.",
+        "Standards depend on designated best use of the water body.",
+        "Temperature and SS affect DO and aquatic life even without toxins."
+      ],
+      "mnemonic": "Many dials, not one pollution meter.",
+      "summary": "General parameters lecture builds the monitoring toolkit. Students should know what each parameter indicates and why context (use class) matters. This sets baseline before BOD/COD and DO-sag theory."
+    },
+    {
+      "lec": 38,
+      "week": 8,
+      "title": "Oxygen-Demanding Wastes and Microbial Indicators",
+      "objectives": [
+        "Define BOD (India often BOD3 @ 27 °C) vs COD.",
+        "Explain oxygen-demanding wastes and microbial indicators (e.g. fecal coliform).",
+        "State COD usually ≥ BOD for a sample.",
+        "Link organic loading to downstream oxygen stress."
+      ],
+      "keywords": [
+        "BOD",
+        "COD",
+        "BOD3",
+        "27 C",
+        "fecal coliform",
+        "oxygen demand",
+        "organic pollution",
+        "microbial indicators",
+        "wastewater",
+        "stabilization"
+      ],
+      "likelyFacts": [
+        "BOD = oxygen microbes use to stabilize organics; Indian convention often BOD3 at 27 °C.",
+        "COD uses chemical oxidant; typically COD ≥ BOD.",
+        "Fecal coliform indicates possible pathogen contamination from sewage."
+      ],
+      "mnemonic": "BOD = bugs' appetite; COD = chemical oxidant appetite.",
+      "summary": "Oxygen-demanding wastes are central to river pollution exams. BOD/COD definitions, Indian test conditions and microbial indicators are high-frequency facts. Organic load without treatment drives the DO sag developed next."
+    },
+    {
+      "lec": 39,
+      "week": 8,
+      "title": "Nitrogen Species and the DO Sag Curve",
+      "objectives": [
+        "Describe DO sag curve: deficit downstream of BOD load then recovery.",
+        "Name nitrogen species: NH3/NH4+, NO2-, NO3-, organic N / TKN.",
+        "Link nitrification to additional oxygen demand.",
+        "Explain eutrophication risk from excess N (and P)."
+      ],
+      "keywords": [
+        "DO sag",
+        "oxygen deficit",
+        "ammonia",
+        "nitrate",
+        "nitrite",
+        "TKN",
+        "nitrification",
+        "eutrophication",
+        "Streeter-Phelps idea",
+        "re-aeration"
+      ],
+      "likelyFacts": [
+        "DO sag: DO falls after organic load, then rises with re-aeration/decay of BOD.",
+        "Nitrogen species transformations affect toxicity (ammonia) and oxygen demand.",
+        "Nutrient enrichment drives algal blooms and secondary DO problems."
+      ],
+      "mnemonic": "Sag: dump BOD → DO dips → river recovers.",
+      "summary": "Nitrogen and DO-sag lecture is conceptual/quantitative. Sketch the sag, mark critical deficit, and discuss nitrification. Nutrient species connect wastewater treatment goals to ecological outcomes. Strong short-answer territory."
+    },
+    {
+      "lec": 40,
+      "week": 8,
+      "title": "NGT, WQI and Wastewater Reuse/Recycling",
+      "objectives": [
+        "Compute NSF-WQI idea: Σ Qi Wi; DO weight 0.17 highest; FC 0.16.",
+        "Recall WQI bands: 90–100 Excellent … 0–25 Very Bad.",
+        "State NGT established 18 Oct 2010; aim dispose in 6 months; benches.",
+        "Explain reuse/recycling and discharge standards by destination."
+      ],
+      "keywords": [
+        "WQI",
+        "NSF-WQI",
+        "NGT",
+        "reuse",
+        "recycling",
+        "discharge standards",
+        "DO weight 0.17",
+        "zero liquid discharge",
+        "STP standards",
+        "18.10.2010"
+      ],
+      "likelyFacts": [
+        "NSF-WQI DO weight 0.17 (highest); fecal coliform 0.16.",
+        "NGT: 18.10.2010; principal bench New Delhi; also Bhopal, Pune, Kolkata, Chennai.",
+        "Effluent limits differ for inland surface, sewers, irrigation, marine (e.g. BOD 30 vs 350 vs 100 mg/L)."
+      ],
+      "mnemonic": "Dissolved Oxygen Dominates the index.",
+      "summary": "Capstone water lecture joins index math, tribunal context and reuse policy. WQI enables comparison; NGT enforces standards; reuse closes urban water loops. Memorize DO weight, NGT date/seats and destination-specific BOD/SS limits."
+    },
+    {
+      "lec": 41,
+      "week": 9,
+      "title": "Importance and Integrated Solid Waste Management",
+      "objectives": [
+        "Define solid waste (incl. containerized liquids/gases in regulatory sense).",
+        "State waste hierarchy: Prevent > Reuse > Recycle > Recover > Dispose.",
+        "List 4Rs with source reduction first.",
+        "Explain ISWM as coordinated system across the waste chain."
+      ],
+      "keywords": [
+        "ISWM",
+        "waste hierarchy",
+        "4Rs",
+        "reduce",
+        "reuse",
+        "recycle",
+        "recover",
+        "solid waste",
+        "prevention",
+        "source reduction"
+      ],
+      "likelyFacts": [
+        "Hierarchy: Prevent > Reuse > Recycle > Recover > Dispose.",
+        "4Rs: Reduce, Reuse, Recycle, Recover — reduce sits at the top.",
+        "Solid waste definition can include containerized liquid/gaseous wastes."
+      ],
+      "mnemonic": "Please Reduce Really Revolting Dumps (PRRRD).",
+      "summary": "ISWM lecture sets philosophy before technology. Hierarchy and 4Rs beat incinerator name-dropping on exams. Integration means matching collection, treatment and disposal to composition and goals. Open dumps are explicitly rejected later—prevention is cheaper than remediation."
+    },
+    {
+      "lec": 42,
+      "week": 9,
+      "title": "MSW Sources, Generation Rates and Composition",
+      "objectives": [
+        "Relate MSW generation rates to income and urbanization.",
+        "Describe typical composition categories (organics, paper, plastic, metal, inert).",
+        "Note organics often dominate Indian city MSW.",
+        "Explain why composition drives technology choice."
+      ],
+      "keywords": [
+        "MSW",
+        "generation rate",
+        "composition",
+        "organics",
+        "urbanization",
+        "per capita waste",
+        "characterization",
+        "income",
+        "plastics",
+        "moisture"
+      ],
+      "likelyFacts": [
+        "Generation rates generally rise with affluence and urban lifestyles.",
+        "Indian MSW often has high biodegradable organic fraction.",
+        "Composition determines suitability of composting, recycling, RDF, landfill design."
+      ],
+      "mnemonic": "Wealthier cities usually waste more per capita.",
+      "summary": "Sources and rates lecture quantifies the problem. Per-capita figures and composition pie charts are exam visuals. High moisture organics favor biological treatment; dry recyclables favor sorting. Data quality in characterization studies matters for planning."
+    },
+    {
+      "lec": 43,
+      "week": 9,
+      "title": "MSW Composition and Collection",
+      "objectives": [
+        "Detail collection systems: storage, segregation, transport frequency.",
+        "Emphasize source segregation for recycling/organics.",
+        "Connect collection efficiency to public health and dumping.",
+        "Discuss informal sector role conceptually in Indian cities."
+      ],
+      "keywords": [
+        "collection",
+        "segregation",
+        "storage bins",
+        "transport",
+        "door-to-door",
+        "transfer station",
+        "informal recycling",
+        "MSW composition",
+        "primary collection",
+        "secondary transport"
+      ],
+      "likelyFacts": [
+        "Source segregation multiplies recycling success and compost quality.",
+        "Poor collection leads to open dumping and drain clogging.",
+        "Collection is often the costliest visible part of MSW systems."
+      ],
+      "mnemonic": "Segregate at source or suffer at dump.",
+      "summary": "Composition/collection lecture bridges characterization to logistics. Without reliable collection and segregation, downstream plants fail. Public participation and informal recyclers shape real Indian systems—acknowledge both in answers."
+    },
+    {
+      "lec": 44,
+      "week": 9,
+      "title": "MSW Treatment and Disposal",
+      "objectives": [
+        "Compare open dump vs sanitary landfill (leachate, LFG, cover).",
+        "List treatment options: biological, thermal, recycling, landfill.",
+        "Compute moisture/TS/VS relationships for characterization maths.",
+        "Name twin landfill hazards: methane and leachate."
+      ],
+      "keywords": [
+        "sanitary landfill",
+        "open dump",
+        "leachate",
+        "landfill gas",
+        "composting",
+        "incineration",
+        "volatile solids",
+        "total solids",
+        "moisture content",
+        "treatment"
+      ],
+      "likelyFacts": [
+        "Open dumps uncontrolled; sanitary landfills use liners, cover, leachate/LFG management.",
+        "Example: 40% moisture → TS=60%; if 50/60 lost on ignition → VS=83.3% of TS.",
+        "Hierarchy still places landfill as last resort even when engineered."
+      ],
+      "mnemonic": "Methane + leachate = twin landfill hazards.",
+      "summary": "Treatment/disposal lecture is technology + safety. Characterization maths (moisture, TS, VS) appear in numericals. Contrasting dumps vs sanitary landfills is mandatory. Biological and thermal options depend on wet/dry fractions from earlier lectures."
+    },
+    {
+      "lec": 45,
+      "week": 9,
+      "title": "E-Waste Management",
+      "objectives": [
+        "Define e-waste and why it grows rapidly.",
+        "Identify toxic and valuable fractions (Pb, Hg, Au, Cu, rare earths).",
+        "State India E-waste Rules 2011 and EPR concept.",
+        "Require authorized recyclers; avoid informal burning/acid baths."
+      ],
+      "keywords": [
+        "e-waste",
+        "EPR",
+        "E-waste Rules 2011",
+        "authorized recycler",
+        "heavy metals",
+        "WEEE",
+        "take-back",
+        "informal sector hazards",
+        "precious metals",
+        "circular electronics"
+      ],
+      "likelyFacts": [
+        "India E-waste Rules 2011 introduced formal EPR-oriented management.",
+        "E-waste holds both toxics and recoverable valuables — improper recycling poisons workers/environment.",
+        "Authorized channels and producer take-back beat backyard smelting."
+      ],
+      "mnemonic": "E-waste: toxic treasure — recycle right.",
+      "summary": "Dedicated e-waste lecture highlights a fast-growing hazardous stream. Rules, EPR and authorized recycling are legal-technical musts. Links forward to Week 12 rules timeline and back to circular business models (take-back)."
+    },
+    {
+      "lec": 46,
+      "week": 10,
+      "title": "Sound, Noise and Characteristics",
+      "objectives": [
+        "Define noise as unwanted sound with adverse effects.",
+        "Use λ = c/f and p = 1/f; c ≈ 20.05√T (T in K).",
+        "Write Lp = 20 log(Prms/P0) with P0 = 20 μPa = 0 dB.",
+        "Note human hearing span many orders of magnitude → dB scale."
+      ],
+      "keywords": [
+        "noise",
+        "sound",
+        "wavelength",
+        "frequency",
+        "SPL",
+        "decibel",
+        "20 uPa",
+        "speed of sound",
+        "compression rarefaction",
+        "threshold of hearing"
+      ],
+      "likelyFacts": [
+        "λ = c/f; reference pressure P0 = 20 μPa defines 0 dB SPL.",
+        "Lp = 20 log10(Prms/P0); 10× pressure → +20 dB.",
+        "Noise = unwanted sound causing physiological/psychological harm or interference."
+      ],
+      "mnemonic": "0 dB is hearing threshold, not silence.",
+      "summary": "Fundamentals lecture builds physics for all noise MCQs. Wavelength, frequency, SPL and the log scale are non-negotiable. Distinguish sound power, intensity and pressure conceptually even if instruments read pressure."
+    },
+    {
+      "lec": 47,
+      "week": 10,
+      "title": "Audiometry",
+      "objectives": [
+        "Explain audiometry as hearing-threshold testing by frequency.",
+        "Interpret audiograms for hearing loss patterns.",
+        "Relate frequency bands to speech intelligibility.",
+        "Connect occupational monitoring to baseline audiograms."
+      ],
+      "keywords": [
+        "audiometry",
+        "audiogram",
+        "hearing threshold",
+        "frequency",
+        "Hearing Level",
+        "speech frequencies",
+        "sensorineural",
+        "occupational health",
+        "baseline test"
+      ],
+      "likelyFacts": [
+        "Audiometry maps quietest audible tones across frequencies.",
+        "Occupational programs use periodic audiograms to detect noise-induced loss early.",
+        "Speech frequencies are critical for communication disability assessment."
+      ],
+      "mnemonic": "Audiogram = hearing map by frequency.",
+      "summary": "Audiometry provides the clinical measurement bridge between physical dB and human hearing damage. Pattern recognition on audiograms (notch losses) appears in applied questions. Ties to 85 dB(A) occupational caution in later lectures."
+    },
+    {
+      "lec": 48,
+      "week": 10,
+      "title": "Effects of Noise",
+      "objectives": [
+        "List health effects: TTS, PTS, annoyance, sleep loss, cardiovascular stress.",
+        "State ≥85 dB(A) over 8 h as occupational risk threshold (course).",
+        "Differentiate temporary vs permanent threshold shift.",
+        "Note non-auditory effects matter for environmental noise standards."
+      ],
+      "keywords": [
+        "TTS",
+        "PTS",
+        "hearing loss",
+        "annoyance",
+        "sleep disturbance",
+        "85 dBA",
+        "occupational noise",
+        "non-auditory effects",
+        "stress",
+        "NIHL"
+      ],
+      "likelyFacts": [
+        "≥85 dB(A) for 8 h is a key occupational caution level in the course.",
+        "TTS may recover; PTS is permanent noise-induced hearing loss.",
+        "Environmental noise also drives sleep and stress outcomes beyond hearing."
+      ],
+      "mnemonic": "TTS temporary; PTS permanent.",
+      "summary": "Effects lecture justifies regulations. Dose (level × time) drives NIHL risk. Non-auditory impacts support ambient standards even below occupational limits. Use TTS/PTS vocabulary precisely in answers."
+    },
+    {
+      "lec": 49,
+      "week": 10,
+      "title": "Noise Rating Systems and Modeling",
+      "objectives": [
+        "Define Leq as energy-equivalent continuous level.",
+        "Explain Ldn night penalty and LN percentile levels.",
+        "Apply inverse square: point source −6 dB per distance doubling; line ~−3 dB.",
+        "Combine levels: two equal sources → +3 dB; energy sum formula."
+      ],
+      "keywords": [
+        "Leq",
+        "Ldn",
+        "LN",
+        "A-weighting",
+        "inverse square",
+        "point source",
+        "line source",
+        "decibel addition",
+        "+3 dB",
+        "noise modeling"
+      ],
+      "likelyFacts": [
+        "Point source free field: ΔLp ≈ −20 log(r2/r1) → −6 dB when distance doubles.",
+        "Line sources (roads): ~−3 dB per doubling; intensity ∝ 1/r.",
+        "Two equal incoherent sources: L + 3 dB; if ΔL ≥ 10 dB, total ≈ louder source."
+      ],
+      "mnemonic": "Twice as far, six dB quieter (point).",
+      "summary": "Rating/modeling lecture is calculation central. Leq/Ldn/A-weighting appear in standards. Propagation laws and dB arithmetic are weekly numerical staples. Know when −6 vs −3 dB applies."
+    },
+    {
+      "lec": 50,
+      "week": 10,
+      "title": "Noise Control and Regulations",
+      "objectives": [
+        "Structure control: source, path (barriers), receiver (PPE).",
+        "Recall CPCB ambient zone standards concept.",
+        "Prefer engineering/admin controls before PPE.",
+        "Link regulations to earlier Leq metrics."
+      ],
+      "keywords": [
+        "noise control",
+        "barrier",
+        "PPE",
+        "CPCB",
+        "zoning",
+        "source control",
+        "path control",
+        "receiver protection",
+        "regulations",
+        "silencer"
+      ],
+      "likelyFacts": [
+        "Control hierarchy: reduce at source → interrupt path → protect receiver.",
+        "Ambient standards vary by zone (silence, residential, commercial, industrial) in Indian practice.",
+        "Ear protection is last line, not first, for occupational programs."
+      ],
+      "mnemonic": "Source, path, then ear muffs.",
+      "summary": "Control and regulations close noise week with practical hierarchy and legal limits. Barriers, enclosures, quieter machinery and land-use buffers are path/source tools. Cite CPCB zoning and metric (often dB(A)/Leq) in policy answers."
+    },
+    {
+      "lec": 51,
+      "week": 11,
+      "title": "Fundamentals of Ecology I",
+      "objectives": [
+        "Define ecology (oikos = house) and ecosystem = community + abiotic environment.",
+        "State energy flows one-way; nutrients cycle.",
+        "Introduce producers and photosynthesis as foundational energy capture.",
+        "Place biosphere as aggregate of ecosystems."
+      ],
+      "keywords": [
+        "ecology",
+        "ecosystem",
+        "biosphere",
+        "abiotic",
+        "biotic",
+        "energy flow",
+        "nutrient cycling",
+        "photosynthesis",
+        "producers",
+        "oikos"
+      ],
+      "likelyFacts": [
+        "Ecology studies organisms 'at home' with environment; oikos = house.",
+        "Energy flow is unidirectional; mass/nutrients cycle.",
+        "Ecosystem = biotic community + abiotic environment with functional stability."
+      ],
+      "mnemonic": "Energy one-way; nutrients loop.",
+      "summary": "Ecology I builds vocabulary and system boundaries. Distinguishing energy versus nutrient pathways prevents conceptual errors in food-web lectures. Photosynthesis links solar energy to all trophic structure."
+    },
+    {
+      "lec": 52,
+      "week": 11,
+      "title": "Fundamentals of Ecology II",
+      "objectives": [
+        "Define ecological niche as species' functional role/position.",
+        "Describe food chains vs food webs and trophic levels.",
+        "Interpret pyramids of numbers, biomass and energy.",
+        "Introduce competition and niche differentiation conceptually."
+      ],
+      "keywords": [
+        "ecological niche",
+        "food chain",
+        "food web",
+        "trophic level",
+        "pyramid of energy",
+        "herbivore",
+        "carnivore",
+        "producer",
+        "consumer",
+        "decomposer"
+      ],
+      "likelyFacts": [
+        "Niche = functional role including resources and interactions.",
+        "Trophic levels: producers → herbivores → carnivores (then higher predators).",
+        "Energy pyramids always narrow upward due to transfer losses."
+      ],
+      "mnemonic": "Niche is the job; habitat is the address.",
+      "summary": "Ecology II focuses on structure of feeding relationships. Niche vs habitat wording is a classic trap. Pyramid types and why energy pyramids cannot invert like some number pyramids are exam favorites."
+    },
+    {
+      "lec": 53,
+      "week": 11,
+      "title": "Fundamentals of Ecology III",
+      "objectives": [
+        "Write logistic growth dN/dt = rN(1 − N/K) vs unlimited exponential.",
+        "Define carrying capacity K.",
+        "Explain biomagnification with classic DDT-style examples.",
+        "Preview BCF linkage to chemistry in soil lectures."
+      ],
+      "keywords": [
+        "logistic growth",
+        "carrying capacity",
+        "exponential growth",
+        "biomagnification",
+        "food chain concentration",
+        "J-curve",
+        "S-curve",
+        "population ecology",
+        "DDT"
+      ],
+      "likelyFacts": [
+        "Logistic: dN/dt = rN(1 − N/K); S-curve approaches K.",
+        "When N ≪ K, logistic ≈ exponential.",
+        "Biomagnification raises contaminant concentrations up trophic levels."
+      ],
+      "mnemonic": "J-curve unlimited; S-curve hits K.",
+      "summary": "Ecology III adds population dynamics and contaminant transfer up food webs. Logistic vs exponential pairs with Week 1 human population models. Biomagnification sets up BCF/Kow quantitative treatment in soil pollution."
+    },
+    {
+      "lec": 54,
+      "week": 11,
+      "title": "Soil Pollution I",
+      "objectives": [
+        "Define soil pollution pathways: chemicals, salts, wastes, deposition.",
+        "Introduce BCF = C_biota / C_water; link to Kow hydrophobicity.",
+        "Distinguish bioconcentration, bioaccumulation, biomagnification.",
+        "Cite extreme BCF examples (e.g. DDT ~10^5)."
+      ],
+      "keywords": [
+        "soil pollution",
+        "BCF",
+        "Kow",
+        "bioconcentration",
+        "bioaccumulation",
+        "biomagnification",
+        "hydrophobic organics",
+        "heavy metals",
+        "adsorption",
+        "contamination"
+      ],
+      "likelyFacts": [
+        "BCF = Cbiota/Cwater (L/kg); often rises with log Kow.",
+        "Bioconcentration vs water; bioaccumulation all routes; biomagnification across trophic levels.",
+        "DDT gull example up to ~120,000× versus water (course)."
+      ],
+      "mnemonic": "Water → Body → Bigger predators (BBB).",
+      "summary": "Soil Pollution I emphasizes contaminant behavior and biological uptake metrics. BBB trio definitions are mandatory. Kow–BCF correlation explains why oily organics haunt fatty tissues and food chains."
+    },
+    {
+      "lec": 55,
+      "week": 11,
+      "title": "Soil Pollution II",
+      "objectives": [
+        "Write USLE: A = R K L S C P and name each factor.",
+        "Recall unit plot 72.6 ft × 5.5 ft, 9% slope.",
+        "Identify management levers mainly C (cover) and P (practice).",
+        "List soil degradation forms: erosion, salinization, contamination."
+      ],
+      "keywords": [
+        "USLE",
+        "soil erosion",
+        "rainfall erosivity",
+        "erodibility",
+        "LS factor",
+        "cover factor",
+        "practice factor",
+        "unit plot",
+        "soil conservation",
+        "A=RKLSCP"
+      ],
+      "likelyFacts": [
+        "USLE: A = R K L S C P for average annual sheet/rill soil loss.",
+        "Unit plot defining factors: 5.5 ft × 72.6 ft on 9% slope.",
+        "Cover (C) and conservation practice (P) are primary management controls."
+      ],
+      "mnemonic": "Rain Kills Loose Soil; Cover and Practice save it.",
+      "summary": "Soil Pollution II foregrounds erosion estimation via USLE. Factor names and unit-plot definition are pure MCQ bait. Conservation practices reconnect ecology (cover) to engineering (terraces, contours)."
+    },
+    {
+      "lec": 56,
+      "week": 12,
+      "title": "The Environmental Movement - Global and Local Impacts",
+      "objectives": [
+        "Trace movements: Bishnoi/Khejri, Chipko 1973, Appiko 1982–83, Jungle Bachao.",
+        "Link movements to later statutes and public consciousness.",
+        "Note Chipko/Bahuguna and Right Livelihood Award 1987.",
+        "Frame local action preceding national environmental law."
+      ],
+      "keywords": [
+        "Chipko",
+        "Appiko",
+        "Bishnoi",
+        "Khejri",
+        "Jungle Bachao",
+        "Bahuguna",
+        "environmental movement",
+        "forest protection",
+        "Right Livelihood Award",
+        "people's movements"
+      ],
+      "likelyFacts": [
+        "Chipko movement ~1973 Himalayan tree protection; Appiko 1982–83 in Western Ghats.",
+        "Bishnoi community ethos includes historic sacrifice for Khejri trees.",
+        "Movements shaped opinion before Water/Air/EPA statutes matured."
+      ],
+      "mnemonic": "Hug trees (Chipko) before writing Acts.",
+      "summary": "Policy week opens with social history. Movements demonstrate that Indian environmentalism is not only post-Bhopal legislation. Dates and regional tags (Himalaya vs Western Ghats) are tested. Connect grassroots ethics to later NGT/PIL enforcement culture."
+    },
+    {
+      "lec": 57,
+      "week": 12,
+      "title": "Environmental Law and Rules in India",
+      "objectives": [
+        "Timeline Acts: Water 1974, Air 1981 (am. 1987), EPA 1986 (am. 1991).",
+        "Distinguish Act (what) vs Rules (how).",
+        "List key Rules: HW 1989, BMW 1998, MSW 2000/2016, Batteries 2001, Plastic/E-waste 2011, C&D 2016.",
+        "Explain CPCB/SPCB institutional role under Water Act."
+      ],
+      "keywords": [
+        "Water Act 1974",
+        "Air Act 1981",
+        "EPA 1986",
+        "Rules",
+        "CPCB",
+        "SPCB",
+        "Hazardous Waste Rules",
+        "MSW Rules 2016",
+        "E-waste Rules 2011",
+        "umbrella law"
+      ],
+      "likelyFacts": [
+        "Water 1974 → Air 1981 → EPA 1986 umbrella after Bhopal-era urgency.",
+        "Act = substantive law; Rules = procedural subordinate legislation.",
+        "Sectoral Rules update faster than parent Acts as new waste streams emerge."
+      ],
+      "mnemonic": "Wet Air envelops Environment (W-A-E).",
+      "summary": "Law-and-rules lecture is timeline memorization gold. Water/Air/EPA purposes and institutions (boards) plus Rules ecosystem (HW, BMW, MSW, e-waste…) form checklist answers. Emphasize EPA as umbrella enabling diverse Rules."
+    },
+    {
+      "lec": 58,
+      "week": 12,
+      "title": "Important Legal Judgments on the Environment",
+      "objectives": [
+        "Explain PIL role in Indian environmental jurisprudence.",
+        "Recall M.C. Mehta line of cases (incl. education mandate link).",
+        "State how judgments drive policy beyond statutes alone.",
+        "Note absolute liability / polluter-pays themes in landmark holdings."
+      ],
+      "keywords": [
+        "PIL",
+        "M.C. Mehta",
+        "Supreme Court",
+        "landmark judgments",
+        "polluter pays",
+        "absolute liability",
+        "environmental education",
+        "judicial activism",
+        "fundamental rights",
+        "public interest"
+      ],
+      "likelyFacts": [
+        "Public Interest Litigation expanded access to environmental remedies.",
+        "M.C. Mehta cases reshaped industrial siting, pollution control and education mandates.",
+        "Judgments operationalize constitutional rights into concrete environmental duties."
+      ],
+      "mnemonic": "Courts wrote green chapters via PIL.",
+      "summary": "Judgments lecture shows judiciary as policy engine. Named case families and doctrines (polluter pays, absolute liability) matter more than endless citations. Tie education mandate back to Lecture 1 framing."
+    },
+    {
+      "lec": 59,
+      "week": 12,
+      "title": "NGT and Important Judgments",
+      "objectives": [
+        "State NGT Act 2010; natural justice; endeavor to dispose in 6 months.",
+        "List benches: Principal New Delhi; Bhopal, Pune, Kolkata, Chennai.",
+        "Explain NGT's specialized role vs general courts.",
+        "Summarize types of orders: penalties, restoration, compliance directions."
+      ],
+      "keywords": [
+        "NGT",
+        "National Green Tribunal",
+        "2010",
+        "natural justice",
+        "six months",
+        "principal bench",
+        "environmental adjudication",
+        "restoration",
+        "expert members",
+        "appeals"
+      ],
+      "likelyFacts": [
+        "NGT established under 2010 Act; guided by principles of natural justice.",
+        "Seats: New Delhi (principal) plus Bhopal, Pune, Kolkata, Chennai.",
+        "Aim to dispose cases expeditiously (statutory endeavor within 6 months)."
+      ],
+      "mnemonic": "Green Tribunal 2010 — six-month sprint.",
+      "summary": "NGT lecture institutionalizes speedy, expert environmental adjudication. Bench geography and natural-justice principle are standard MCQs. Orders often blend science (restoration plans) with compliance timelines—bridge to EIA conditioning."
+    },
+    {
+      "lec": 60,
+      "week": 12,
+      "title": "Rapid EIA - River Ib Barrage Case Study",
+      "objectives": [
+        "Define rapid EIA purpose: predict impacts before decision.",
+        "Outline steps: baseline, impact prediction, mitigation, public consult, clearance conditions.",
+        "Apply to River Ib Barrage case (submergence, DEM, alternatives).",
+        "Argue EIA as preventive policy tool linked to NGT/clearances."
+      ],
+      "keywords": [
+        "rapid EIA",
+        "River Ib",
+        "barrage",
+        "submergence",
+        "digital elevation model",
+        "impact prediction",
+        "public consultation",
+        "clearance",
+        "mitigation measures",
+        "case study"
+      ],
+      "likelyFacts": [
+        "EIA systematically predicts and evaluates project impacts before approval.",
+        "Rapid EIA case study: River Ib Barrage (Odisha) — submergence analysis using DEM etc.",
+        "Clearance conditions convert predicted mitigations into enforceable requirements."
+      ],
+      "mnemonic": "Predict, consult, condition — then build.",
+      "summary": "Final lecture applies EIA to a real barrage proposal: flooding extent, alternatives and safeguards. Rapid EIA compresses study time but must still cover key impacts. Caps the course: science metrics + law + participatory decision-making for sustainable projects."
+    }
+  ]
+}

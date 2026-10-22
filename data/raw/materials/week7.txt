@@ -1,0 +1,999 @@
+   NPTEL
+
+Week 7, Lecture 1 ­ Circular Economy
+                             (Introduction to the Concept)
+ Natural resource flows in urban areas
+
+EL  Limits to linear consumption
+NPT  Closing the loop ­ towards a circular economy
+
+ Benefits of a circular economy
+
+                                                                                                                              02
+ Urban metabolism
+
+ Urban anabolism   NPTEL
+ Urban catabolism
+ Linear economy
+
+ Circular economy
+
+                          03
+From natural resource to urban life source
+
+                                                                  Societies rely on natural resources to survive.
+
+                                                                                    Over the past several decades, over-exploitation
+                                                                                    of resources has been a significant stressor in
+                                                                                    many regions across the globe.
+
+                       NPTEL
+
+                                                                                                                                     04
+
+(Image courtesy of US Environmental Protection Agency)
+Urban metabolism                            An urban center, like an ecosystem,
+                                            is composed of multiple
+  Anabolism                 Catabolism      components (e.g., sectors such as
+                                            the manufacturing industry and
+                  NPTEL                     agriculture) that resemble living
+                                            organisms because they exchange
+                                            materials, energy, and information,
+                                            both with each other and with the
+                                            environment.
+
+                                                                                                                                     05
+
+(Image courtesy of The Urban Planet, DOI. 10.1017/9781316647554)
+Linear metabolism of inputs and outputs
+
+`Take, Make and Waste' approach to production and consumption   The urban subsystem operating
+
+                       NPTEL                                        within the parent ecosystem uses
+                                                                    physical flows of materials and
+                                                                    energy in a linear fashion. The linear
+                                                                    (one way) throughput flow of matter
+                                                                    and energy is resulting in the current
+                                                                    unsustainable development of the
+                                                                    global economy.
+
+                                                                                                                                     06
+
+(Image courtesy of Bob Willard)
+Linear metabolism of inputs and outputs
+
+                                                                  The linear throughput flow of materials and
+
+                                                                                    energy between nature and human economy is
+                                                                                    `running down' the system in which it operates,
+                                                                                    from which it sources and to which it releases its
+
+                       NPTELwastes and emissions.
+
+                                                                                                                                     07
+
+(Image courtesy of Ecological Economics, 2018, 143, 37­46)
+Closing the loop on take, make, waste
+
+`Borrow, Use and Return' approach to production and consumption  A simple and logical answer to the
+
+                                       problem of the linear flow model is
+
+                                       its reverse; a cyclical flow of
+
+                                       materials and energy. A sustainable
+
+NPTEL                                  economy `borrows' resources with
+                                       the intention of replacing them,
+                                       which in turn benefits both society
+                                       and environment.
+
+                                                                                                                                     08
+
+(Image courtesy of Bob Willard)
+From a linear to a circular economy
+
+ A linear economy focuses on mining raw materials and processing them
+
+     into a final product, while any waste from the production process and the
+     product itself are thrown away after use. The circular economy model, on
+     the other hand, recycles the wastes thrown away and reuse them in the
+     production process.
+
+                       NPTEL
+
+                                                                                                                                     09
+
+      (Image courtesy of Circular Innovation Council)
+How a circular economy works
+
+                                                            A circular economy is a model of production and
+
+                                                                            consumption that aims at keeping products and
+                                                                            materials at their highest utility and value throughout
+                                                                            their life-cycle and recirculating them at the end of their
+                                                                            life.
+
+                        L  It entails a gradual decoupling of economic activities
+                          Efrom the consumption of finite resources and designing
+                          Twaste out of the system, fueled by renewable energy
+
+                       NPsources.
+
+                                                                                                                                     10
+
+(Image courtesy of Visual Capitalist)
+Elements of a circular economy
+
+ A circular economy focuses on three core element: (i) closed cycles, (ii)
+
+     renewable energy, and (iii) systems thinking.
+      Key elements of a circular economy
+
+                       NPTEL
+
+                                                                                                                                     11
+
+      (Image courtesy of Het Groene Brien)
+Benefits of a circular economy
+
+                                                                    The benefits of the circular economy model
+
+                                                                                       stretch out to three key dimensions --
+                                                                                       environmental, social, and economic -- that
+                                                                                       make it a superior choice to the linear one.
+
+                       NPTEL
+
+                                                                                                                                     12
+
+(Image courtesy of World Economic Forum)
+NPTEL
+   NPTEL
+
+Week 7, Lecture 2 ­ Circular Economy
+                             (Circular Economy Strategies ­ I)
+ How to build a circular economy?
+
+L  What are the core principles of circular economy?
+NPTE  How the 9R framework can change our economy?
+
+                                                                                                                              02
+ Butterfly diagram
+
+ Refuse             NPTEL
+ Rethink
+ Reduce
+
+ Reuse
+
+                           03
+Transitioning to a circular economy
+
+Visualizing the circular economy: The Butterfly Diagram    The primary goal of a circular economy
+                                                           is to keep products, components and
+NPTEL                                                      materials at their highest utility and
+                                                           value, at all times. This means both
+                                                           natural (biological) and man-made
+                                                           (technical) materials or resources
+                                                           circulate in infinite production cycles
+                                                           which is facilitated at the design and
+                                                           manufacturing stage of products.
+
+                                                                                                                                    04
+
+(Image courtesy of Ellen Macarthur Foundation)
+How we can achieve a circular economy?
+
+                                                                In a circular economy, products must be designed
+
+                                                                                 to be more durable, reusable, repairable and
+                                                                                 recyclable, and businesses should look for ways to
+                                                                                 eliminate waste in their operations. Consumers
+                                                                                 must rethink the way they purchase, use and
+                                                                                 dispose of things ­ sharing, renting, repairing and
+
+                       NPTELrepurposing items to prevent waste.
+
+                                                                                                                                     05
+
+(Image courtesy of The Regional Municipality of York, Ontario, Canada)
+Core principles of circular economy
+
+NPTEL                                 The circular economy is based on
+
+                                          three principles, driven by design:
+                                          eliminate waste and pollution;
+                                          circulate products and materials (at
+                                          their highest value); and regenerate
+                                          nature.
+
+                                                                                                                                    06
+
+(Materials Circular Economy, 2020, 2, 7)
+Sustainability vs. Circularity
+
+ Sustainability is focused on the long-term period and assumes that our
+
+     actions bring environmental, economic, and social benefits without polluting
+     the environment or spending too many resources.
+
+  Striving for sustainable development, businesses need to adapt their way of
+
+  L operating. This includes the implementation of circular value chains and the
+  E reduction of their carbon footprint as part of a holistic sustainability strategy.
+  NPT Circularity is about the practices which lead to sustainability.
+
+ It aims to tackle climate change and other global challenges like biodiversity
+
+     loss, waste, and pollution, by decoupling economic activity from the
+
+     consumption of finite resources and maximizing the reuse of resources.
+
+                                                                                                                                     07
+9R framework of circular economy
+
+                                                               The 9R framework is an environmentally preferred
+
+                                                                                hierarchical approach for closing material loops. The
+                                                                                tighter the loop (lower R), the lesser external inputs
+                                                                                are needed to close it, and the more circular the
+                                                                                strategy. The longer the loop (higher R), the less
+
+                       NPTELcircular it is, and the less we prefer it.
+
+                                                                                                                                     08
+
+(Image courtesy of PBL Netherlands Environmental Assessment Agency)
+#0 Refuse
+
+ Refuse involves saying "no" to promotional samples, junk mail, single-use
+
+     disposables, such as plastic bags, straws, cups, and cutlery, or any short-
+     lived form of unnecessary items.
+
+ In refusing to purchase wasteful or non-recyclable products, and instead
+
+     select reusable items not only minimizes waste but sends a message to the
+
+  NPTEL companies on what the consumer is most interested in.
+
+                                       (Image courtesy of Outlook India)          09
+
+(Image courtesy of The United Indian)
+#1 Rethink
+
+ Rethinking is changing the fixed mindset of consumers towards the way
+
+     they use products. Such changes include redefining a different way to use a
+     product and how long a product can be used, without replacing with
+     alternatives.
+
+                       NPTEL
+
+                                                                                                                                     10
+#2 Reduce
+
+ Lessening the use of dangerous, wasteful, or non-recyclable products not
+
+     only reduces the amount of waste generated and their impact on the
+     environment, but also reduces the dependency upon them. When people
+     create less waste, they consume fewer resources.
+
+Food loss and waste along the value chain
+
+                                           NPTEL
+
+                                                                                                                               11
+
+(Image courtesy of World Resources Institute)
+#2 Reduce
+
+ Food loss and waste can occur at each stage of the food value chain.
+
+     Environmentally, food loss and waste represent unnecessary greenhouse
+     gas emissions and wasted water and land.
+
+                       NPTEL
+
+(Image courtesy of Umweltbundesamt)                                         12
+#2 Reduce
+
+ The approach to reducing food loss and waste is embedded in the broader
+
+     concept of promoting sustainable food systems, which encompasses
+     sustainable food production on the one hand, and sustainable diets and
+     consumption (such as through the reduction of food waste) on the other.
+      Possible approaches for reducing food loss and waste
+
+                       NPTEL
+
+                                                                                                                                     13
+
+      (Image courtesy of World Resources Institute)
+#3 Reuse
+
+ Reuse is the action or practice of using an item, whether for its original
+
+     purpose or to fulfill a different function, therefore re-functioning the item.
+     Reuse ­ by directly using, but not reprocessing, previously used items ­
+     helps save time, money, energy, and resources.
+
+  Some everyday items that can be reused many times over
+
+  L ­ Plastic bottles, jugs, and containers
+  E ­ Glass bottles and jars
+  PT ­ Paper and plastic bags
+  N ­ Newspaper, office paper, scrap paper
+
+  ­ Clothing and bedding
+
+                                                                                     14
+NPTEL
+   NPTEL
+
+Week 7, Lecture 3 ­ Circular Economy
+                             (Circular Economy Strategies ­ II)
+ How the 9R framework can change our
+
+   economy?
+
+NPTEL  How we can achieve sustainability by
+   embracing the 9R's of circularity?
+
+                                                                                                                              02
+ Repair
+
+ Refurbish      NPTEL
+ Remanufacture
+ Repurpose
+ Recycle
+
+ Recover
+
+                                                                                                                              03
+9R framework of circular economy
+
+ The circular economy is governed           NPTEL
+
+     by the 9Rs. These Rs define the
+     major strategies to utilize resources
+     at their highest value while
+     minimizing waste and environmental
+     destruction.
+
+                                                                                                        04
+
+(Image courtesy of PBL Netherlands Environmental Assessment Agency)
+#4 Repair
+
+ Repair involves retaining or restoring a product to its desired level of
+
+     performance. It allows prolonging of the product lifetime, which, in turn,
+     leads to the postponement of replacement, and the reduction of
+     replacement-associated waste generation and resource usage.
+
+The repair process  NPTEL
+
+                                                                                                                               05
+
+(Circular Economy and Sustainability, 2022, DOI. 10.1007/s43615-022-00226-1)
+#5 Refurbish
+
+ Refurbishment is the process of life-extending a component in a second life
+
+     cycle, thereby moving away from the first life cycle and initial production
+     purpose. It sometimes involves utilizing a component in a role it was not
+     originally designed for.
+
+Increasing consumer acceptance of refurbished products
+
+              L approach is necessary to stimulate
+              To increase consumer acceptance of
+
+              refurbished products, an integral
+              E consumers'
+              T understanding of refurbishment and      and
+                           awareness
+
+              P unique and suitable alternative for new
+              position refurbished products as a
+              N products.
+
+                                                                                                                                06
+
+(Journal of Cleaner Production, 2016, 113, 743­754)
+#6 Remanufacture                        Remanufacturing is a comprehensive
+
+A typical remanufacturing scheme               and rigorous industrial process by
+                                               which a previously sold, worn, or non-
+                                               functional product or component is
+                                               converted into a "like-new" or "better-
+                                               than-new" condition, with a warranty
+
+                                      Lthat guarantees a level of
+                                  NPTEperformance and quality.
+
+                                                                                                                                     07
+
+(Information, 2021, 12, 489)
+#6 Remanufacture
+
+ Various sectors that can benefit from the remanufacturing process, such as
+
+     aerospace, automotive, or electronics.
+      Remanufacturing automotive engine
+
+                       NPTEL
+
+                                                                                                                                     08
+
+       (Image courtesy of MCTReMan Ltd.)
+#7 Repurpose
+
+ Repurposing is the use of a product or material for a different function than
+
+     it was originally intended for. By repurposing discarded goods or
+     components and adapting them for another function, the material gets a
+     distinct new use-cycle.
+
+                       NPTEL
+
+                                                                                                                                     09
+
+       (Image courtesy of Bored Panda)
+#8 Recycle
+
+ Recycling is the process of converting waste materials into new materials
+
+     and objects. It can prevent the waste of potentially useful materials and
+     reduce the consumption of fresh raw materials, thereby reducing energy
+     usage, air pollution, and water pollution.
+
+  NPTEL Wastewater reuse, as part of natural water cycles
+
+                                                                                                                                     10
+
+       (Image courtesy of UN Environment Programme)
+#8 Recycle
+
+ In Singapore, NEWater process recycles treated used water into ultra-
+
+     clean, high-grade reclaimed water, cushioning water supply against dry
+     weather.
+      The NEWater process
+
+                       NPTEL
+
+                                                                                                                                     11
+
+       (Image courtesy of Public Utilities Board, Singapore)
+#8 Recycle
+
+ Growing PV panel waste presents a significant environmental challenge.
+
+      Overview of global PV panel waste projections, 2016-2050
+
+                       NPTEL
+
+(Image courtesy of IRENA)                                                12
+#8 Recycle
+
+ Recycling is crucial in ensuring the PV industry is sustainable.
+
+      Recycling scheme for PV module
+
+                       NPTEL
+
+(Image courtesy of IRENA)                                          13
+#9 Recover
+
+ Recover is about recovering every resource possible, to reduce what is
+
+     disposed of as waste. It delays the need to use raw materials in the
+     manufacturing process.
+      Overview of waste resources and potentials for recovery
+
+                       NPTEL
+
+                                                                                                                                     14
+
+       (Image courtesy of UN Environment Programme)
+NPTEL
+   NPTEL
+
+Week 7, Lecture 4 ­ Circular Economy
+                             (Circular Business Models)
+ Five business models of circularity
+    ­ circular supply chain
+
+  EL ­ product as a service
+  NPT ­ product life extension
+
+    ­ sharing platforms
+    ­ recovery and recycling
+
+                                                                                                                              02
+ Circular supplies
+
+ Product as service      NPTEL
+ Product life extension
+ Sharing platforms
+
+ Resource recovery
+
+                                03
+Five business models of circularity
+
+ The five circular business models not only prepare companies for a
+
+     resource constrained future, but they also help companies understand
+     customer behavior and preferences in entirely new ways and provide
+     competitive advantage in the short term.
+
+                       NPTEL
+
+                                                                                                                                     03
+
+       (Image courtesy of Circular Innovation Council)
+Circular supplies
+
+ Based on products that are designed to use material inputs that are fully
+
+     renewable, recyclable, or biodegradable so they can be used in
+     consecutive production and consumption cycles. It replaces the traditional
+     linear resource approach by phasing out non-renewable resources or
+     single-use products that end up as waste.
+
+                       NPTEL
+
+                                                                                                                                     05
+
+       (Image courtesy of `Waste to Wealth ­ The Circular Economy Advantage')
+Circular supplies ­ Example #1
+
+WHAT ?
+
+   AkzoNobel change the way its customers use
+
+       chemicals to a more sustainable way
+
+WHY ?
+
+   To enable a healthier planet
+
+EL HOW ?
+ NPT  Purchasing steam from a local waste incinerator
+
+   Dulux Weathershield solar reflective paint
+
+ Rediset additives that allow asphalt to be mixed at
+
+   lower temperatures
+
+ Intersleek marine coatings that help ships to reduce
+
+fuel consumption and cut emissions                     06
+Circular supplies ­ Example #2
+
+WHAT ?
+
+   AeroFarms enable commercial scale farming near
+
+       population centres
+
+WHY ?                                     NPTEL(Image courtesy of AeroFarms)
+
+   To enable local production at scale
+   To nourish communities with safe food
+   To provide dependable and food supply
+
+HOW ?
+
+ Technology enabled farming techniques leveraging
+
+   modern biotechnologies to develop augmented
+   farming capabilities
+
+                                                                              07
+Product as service
+
+ A shift from the conventional model of buy-to-own to lease or pay-for-use
+
+     arrangement. Rather than a one-time sell, the product or asset is
+     transitioned as a service where value is based on outcomes and
+     performance rather than the physical asset. The costs and risks of
+     ownership and waste management rest with the provider.
+
+                       NPTEL
+
+                                                                                                                                     08
+
+       (Image courtesy of `Waste to Wealth ­ The Circular Economy Advantage')
+Product as service ­ Example #1
+
+WHAT ?
+
+   Rolls-Royce offer customers a "power by the hour"
+
+       service in a pay per use contract
+
+WHY ?
+
+   Commitment to produce high quality products             (Image courtesy of Rolls-Royce)
+
+ EL  Capture more value in client relationships by offering
+  T additional maintenance services of products
+NP HOW ?
+
+ Today's "power by the hour" programs are highly
+
+   sustained by use of internet of things and
+   connectivity to detect usage, performance and
+   defaults.
+
+                                                                                                                                 09
+Product as service ­ Example #2
+
+WHAT ?
+
+   Hilti to shift entire enterprise business model
+
+       towards a leasing model
+
+WHY ?
+
+   To turn around an ailing business and differentiate(Image courtesy of Hilti)
+
+  L the customer value proposition to customers
+TE HOW ?
+ NP  Development of a "tool fleet management" service
+
+as a new value proposition for customers.
+
+                                                                                 10
+Product life extension
+
+ Prolongs the life of products or assets to retain as much of their value as
+
+     possible so they continue to be useful. This model is grounded on the ability
+     of products or assets to be designed to last and be remanufactured,
+     repaired, upgraded, or re-marketed.
+
+                       NPTEL
+
+                                                                                                                                     11
+
+       (Image courtesy of `Waste to Wealth ­ The Circular Economy Advantage')
+Product life extension ­ Example #1
+
+WHAT ?
+
+   "Don't buy this Jacket" campaign incentivizing the
+
+       repair of damaged Patagonia products
+
+WHY ?
+
+ To support its commitment to environmental            (Image courtesy of Patagonia)
+
+ L sustainability
+TE  To differentiate itself from mainstream consumption
+ NP patters and reduce consumption across clothing
+value chain
+
+HOW ?
+
+ Provide a repair service for damaged Patagonia
+
+goods to extend product life
+
+ Host an online trading/market platform                                               12
+Product life extension ­ Example #2
+
+WHAT ?
+
+   Create a low-cost return channel for e-waste
+
+WHY ?
+
+   Improve availability and accessibility of drop-off sites(Image courtesy of Recycling Today)
+
+ L  Engage consumers to increase return rates and
+  E extend life of electronic devices
+NPT HOW ?
+ Provide an automated, self-serve kiosk that quickly
+
+evaluates and buys back used consumer electronics
+
+for cash
+
+                                                                                                13
+Sharing platform
+
+ Collaboration amongst individuals, organizations, or combination of both, to
+
+     acquire the greatest productivity or value from a product that could
+     otherwise be underutilized. Sharing platforms reduce the need to own a
+     product or depreciating asset, and reduces waste and cost associated with
+     its management throughout the entire lifecycle.
+
+                       NPTEL
+
+                                                                                                                                     14
+
+       (Image courtesy of `Waste to Wealth ­ The Circular Economy Advantage')
+Sharing platform ­ Example #1
+
+WHAT ?
+
+ Business-to-consumer (B2C) food delivery service,
+
+   pooling offerings from various restaurant services.
+   Leverage of carbon free cycle delivery (Deliveroo)
+
+WHY ?                                                   (Image courtesy of Inc42)
+
+ EL  Respond to consumer pains of multiple foods
+  T delivery offerings
+ NP  Contextualization of value proposition to urban
+settings of high density and congestion
+
+ Offering to Hotel/Restaurant/Café businesses to
+
+   maximize revenue from kitchen assets
+
+HOW ?
+
+ Create a marketplace offering of various restaurants                              15
+Sharing platform ­ Example #2
+
+WHAT ?
+
+ Facilitate sharing of over capacity of business
+
+   equipment, skills and knowledge of FLOOW2 that
+   are often underutilized
+
+WHY ?                                              (Image courtesy of FLOOW2)
+
+ EL  To maximize utility of resources
+ T  To offer an improved return on investment to
+  NP customers
+ To lower the operating costs of customers
+
+HOW ?
+
+   Create a business-to-business (B2B) marketplace
+
+       for businesses to advertise offers or post need
+
+                                                                                                                                    16
+
+       requests
+Recovery and recycling
+
+ Designed as a closed-loop system where materials that were traditionally
+
+considered waste are recovered or reused as new resources back into the
+
+production cycle. This model maximizes economic value by eliminating
+
+material leakage and useful for companies that produce large quantities of
+
+by-product, or where waste from products can be captured and
+
+reprocessed.            NPTEL
+
+                                                                                                                               17
+
+(Image courtesy of `Waste to Wealth ­ The Circular Economy Advantage')
+Recovery and recycling ­ Example #1
+
+WHAT ?
+
+   Reduce the environmental impacts of Timberland's
+
+       products throughout the whole product life cycle
+
+WHY ?
+
+ To influence the environmental impact of shoes after    (Image courtesy of The Robin Report)
+
+ L the point of purchase
+TE  To produce the most environmentally friendly shows
+ NP possible
+ Increase consumer engagement and loyalty
+
+HOW ?
+
+ Product designed entirely for disassembly
+
+ Enable in-store return                                                                        18
+Recovery and recycling ­ Example #2
+
+WHAT ?
+
+   Reduce the environmental impacts of Puma's
+
+       products and the end of life product disposal
+
+WHY ?
+
+ Puma understood sustainability as a mega trend       (Image courtesy of Climate Home News)
+
+ L that was embedded into the enterprise as a
+ TE competitive advantage and social corporate
+ NP responsibility
+HOW ?
+
+ Development of biodegradable apparel to minimize
+
+   the environment impact at the end of life
+
+                                                                                             20
+NPTEL
+   NPTEL
+
+Week 7, Lecture 5 ­ Circular Economy
+                             (Industrial Symbiosis)
+ What is industrial ecology?
+
+L  What is industrial symbiosis?
+NPTE  What are the limitations of circular economy?
+
+                                                                                                                              02
+ Industrial symbiosis
+
+ Industrial ecology    NPTEL
+ Synergies
+ Kalundborg symbiosis
+
+ Kujala symbiosis
+
+                              03
+Industrial ecology
+
+                         Industrial ecology studies the use and cycling of
+
+                               materials and energy in industrial systems and their
+                               exchanges (extraction and emissions) with nature. Such
+                               analyses focus on different levels and scales, from eco-
+                               industrial parks and cities to nations and the global
+
+                    NPTEL economy.
+
+                                                                                                                                     04
+
+(Image courtesy of US Department of Natural Resources and Parks)
+Industrial symbiosis
+
+Resource                               A business relationship focused on sharing resources:
+
+          EXCHANGE                             an association between two or more industrial facilities
+                                               or companies in which the wastes or byproducts of one
+                                               become the raw materials for another. Even simpler:
+                                               "One's trash, another's treasure".
+
+                      NPTEL Resource
+
+                            Resource
+
+                                                                                                                                     05
+
+(Image courtesy of In-Crete Innovation Alliance)
+Industrial symbiosis
+
+                           Industrial symbiosis is a subset of the academic term
+
+                                 `industrial ecology' which again is a subset of the
+                                 `circular economy' umbrella.
+
+                      NPTEL
+
+                                                                                                                                    06
+
+(Journal of Cleaner Production, 2019, 216, 446­460)
+Pursuing industrial symbiosis
+
+ By-product synergies ­ previously disposed by-products, residues and
+
+  wastes which are subsequently used as an input for another firm as
+
+  imminent raw materials, and/or additives or fillers for other firms within
+
+  different geographical boundaries (e.g., within an defined industrial park,
+
+  between entities or firms across regions).
+  EL Utility synergies involve the sharing and management of utilities, including
+  T the sharing of energy, water, electricity, heat, joint treatment of emissions as
+  NP well as recovery and treatment plants.
+
+ Knowledge synergies are also key to industrial symbiosis networks, which
+
+     involve the development and deployment of knowledge for processes to
+     create and manage new products, services and markets.
+
+                                                                                                                                     07
+Examples of industrial symbiosis   Examples of industrial symbiosis
+
+Kalundborg Eco-Industrial Park         are wide ranging and include the
+                                       use of waste heat from one
+                       NPTEL           industry to warm greenhouses
+                                       for food production, the recovery
+                                       of car tyre shavings for use in
+                                       construction materials, and the
+                                       use of sludge from fish farms as
+                                       agricultural fertiliser.
+
+                                                                                                                                     08
+
+(Image courtesy of Nordregio)
+Examples of industrial symbiosis      Examples of industrial symbiosis
+
+Kujala Waste Centre, Lahti, Finland       are wide ranging and include the
+                                          use of waste heat from one
+                       NPTEL              industry to warm greenhouses
+                                          for food production, the recovery
+                                          of car tyre shavings for use in
+                                          construction materials, and the
+                                          use of sludge from fish farms as
+                                          agricultural fertiliser.
+
+                                                                                                                                     09
+
+(Image courtesy of Salpakierto Ltd.)
+Limitations of the circular economy
+
+ Thermodynamic limits: Cyclical systems consume resources and create
+
+     wastes and emissions.
+
+ System boundary limits: Spatial (problems are shifted along the product life
+
+  cycle) and temporal (short term non-renewables use can build long-term
+
+  renewable infrastructure).
+
+  L Limits posed by physical scale of the economy: Rebound effect, boomerang
+  E effect.
+  NPT Limits posed by path-dependency and lock-in: First technologies retain their
+  market position despite of in-efficiency.
+
+                                                                                    10
+Limitations of the circular economy
+
+ Limits of governance and management: Intra-organizational and intra-
+
+     sectoral management of inter-organizational and inter-sectoral physical
+     flows of materials and energy.
+
+ Limits of social and cultural definitions: The concept of waste has a strong
+
+     influence on its handling, management and utilization The concept is
+
+  L culturally and socially constructed The concept of waste is always
+  TE constructed in a certain cultural, social and temporal context and this
+  NP context is dynamic and changing.
+
+                                                                                                                                     11
+Concluding remarks
+
+ There is a clear and real potential for circular economy
+
+    to succeed in all the three dimensions of sustainable
+    development: economic, environmental and social.
+
+  L The shift to a circular economy can bring big
+  E opportunities and positive impacts across industries,
+  NPT sectors and lives.
+
+ Economically and environmentally desirable symbiotic
+
+  exchanges are all around us. Identifying and fostering
+
+  emerging industrial ecosystems offers the promise of
+
+  many environmental and other benefits.                   12
+NPTEL
+

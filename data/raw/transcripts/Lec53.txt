@@ -1,0 +1,325 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                 Week 11
+                                                Lecture 03
+                                   Fundamentals of Ecology - III
+Welcome, everyone to lecture number 3. In our week 11 topic of ecology and soil
+pollution, we will continue with the fundamentals of ecology part 3.
+
+ The concepts that we are going to cover in this lecture are biodiversity, biomass,
+ecosystem services, bioconcentration, bioaccumulation, biomagnification and biouptake.
+Our keywords are more or less the same, biodiversity, trophic levels, biomass, ecosystem
+services, bioconcentration, biomagnification and bioaccumulation.
+
+So we will start with biodiversity. What is biodiversity? How do we define biodiversity?
+So the first thing that I have over here are three different types of methods for defining
+biodiversity.
+The first thing is genetic. Within a single species, there can be thousands of strains. And
+when you have cultivated or cultured species, we call them cultivars. So for example, in
+India, we have different varieties of mangoes, thousands of different varieties exist.
+
+We have 50,000 types of rice. So these are cultivars or cultured strains within a particular
+species. So that is genetic biodiversity. Within a species, you may have groups of
+organisms that have individuals that are capable of exchanging genes and interbreeding
+and so on. So for example, there are only three known species of peacocks or peafowl
+that are known in the world.
+
+One is in India, the other is in Indonesia, and the third is in Congo in Africa. So these are
+the same species that inhabit different parts of the world. And because they are isolated
+from each other, they have become very different. They look very different. And then we
+have ecological biodiversity.
+
+This ecological biodiversity is reflected in very large areas. So, where you have large
+countries like India, the US, Canada, China, so on, they occupy large areas and there is a
+diversity within the ecosystem. So, you have different types of ecosystems within the
+same country. But then you also have very small Scandinavian countries where the
+diversity in terms of types of ecosystems is very limited. So, for example, in India, we
+have deserts, we have alpine types of vegetation and flora and fauna in the Himalayas.
+
+You have mangroves on either side of the country, east and west. You have freshwater
+systems, you have seawater systems, which is a huge amount of biodiversity within the
+country. Other countries do not have similar levels of biodiversity. We now come to what
+are the services provided by ecosystems. And if you remember again from the first week,
+we were looking at natural capital, which is equal to natural resources plus natural
+services.
+So those natural services are associated with ecosystems and they are divided into four
+parts. So right at the top we have provisioning services, regulating services, cultural
+services, and last the supporting services, which are the center point. What are
+provisioning services? Provisioning means what are the raw materials that ecosystems
+provide to us. We get our food, our wood, our raw materials for all industrial activities,
+for in fact all activities, the genetic resources, water, all of this is part of the provisioning
+services provided by any ecosystem. Regulating services are ecosystems help to regulate
+the climate as well as help to regulate diseases.
+
+The spread of diseases as well as the control happens because of ecological factors.
+Cultural factors We know that we prize certain ecosystems for their recreational values,
+spiritual values, inspirational values. I will come to more of that in the next slide. We are
+also dependent on ecosystems for the recycling of nutrients, essential nutrients. We have
+our biogeochemical cycles where all these essential nutrients are recycled.
+In many ways the detoxification of waste and so on, which I will again come to in the
+next slide. All of that is supporting services provided by ecosystems. Pollination,
+cross-pollination that allows certain species to thrive. Oxygen generation which is
+associated with primary productivity. The oxygen we need for survival is coming from
+these primary producers.
+So all these are supporting services that are provided by ecosystems. Let us take a closer
+look at those. So, regulating services, climate control, most of us have experienced this. If
+you walk into a wooded area, the temperature and the humidity levels are far more
+comfortable compared to urban areas which are concrete jungles, the ones that we call
+concrete jungles. The temperature in these concrete jungles are literally 4 to 5 degrees
+higher than in wooded areas and so on.
+
+So that is the simplest example of climate control at the micro level. This is called
+microclimate control. Waste treatment, I have already mentioned that much of the
+detoxification of whatever waste we throw into the environment is done by natural
+ecosystems. So that is a very important service that is provided by ecosystems. Similarly,
+disease control.
+Buffer zones of vegetation are very important for maintaining the quality of water in
+certain watersheds. When you have large lakes and ponds that serve as water supply
+sources for a particular city or town, you have a buffer zone of vegetation around these
+water supply sources and that helps in regulating the quality of water in these water
+supply sources. Air purification. Again, the example that I gave of climate control is also
+associated with air purification. So here you have a simple schematic of a plant that can
+be grown either indoors or outdoors.
+They are taking up CO2. CO2 itself is not of any use to human beings. So it is taking up
+CO2, converting it to biomass. In the process it is generating much needed oxygen and it
+is also taking up volatile organic compounds that are present in the air. Many of them are
+absorbed either by the soil or by the vegetation directly and that helps in purifying the air.
+Humidity control is also dependent on vegetation. Flood control, population control,
+many of these services are provided by ecosystems. I have already mentioned
+provisioning services are food, wood, water, fish, raw materials, biodiversity The genetic
+biodiversity, you can put under the provisioning services, provided by ecosystem Cultural
+services, we use ecosystems for recreation, for spiritual reasons, for tourism, for science
+and education, as sources of creativity and inspiration. All of these are the cultural
+services. These are defined as the cultural services provided by ecosystems.
+Last but not the least, supporting services. The biogeochemical recycling of nutrients is
+fundamental to the survival of not just that ecosystem but of literally life in general. And
+then we have primary productivity, oxygen generation, habitat stability and maintenance,
+soil formation, renewal of soils, all of these are related to the supporting services
+provided by ecosystems. Some more definitions. There are three definitions over here
+which we are going to look at in detail in the next few slides.
+
+The first one is bioaccumulation. Let us imagine that you have an ecosystem where there
+is a toxic compound or contaminant in the environment. This contaminant is going to
+over a period of time, the organisms that are exposed to that contaminant will find that it
+is building up in the tissue of various organisms within that ecosystem, the contaminant
+level is building up over a period of time. And because it is building up over a period of
+time, we call it bioaccumulation. So, increase in concentration of a chemical in the tissue
+of an organism over time, it can happen by three different exposure pathways.
+It can be through inhalation, it can be through the skin, dermal pathway or through
+dietary ingestion. It all depends on the nature of the organism, how it obtains its food and
+what are the roots of exposure. These are the roots of exposure. Then we come to
+biomagnification. When you have an increase in the contaminant level in the tissue as
+you go up the trophic pyramid.
+
+So I will show you examples in the next few slides of exactly that. So here you have not
+the primary producers, but you have the first consumer over here. And from the first
+consumer to the second consumer, third and fourth consumer, you find that the
+contaminant level in the tissue of that series of organisms is increasing. And why does
+that happen? We will take a look at that in the next few slides. The third definition is
+bioconcentration.
+
+Let us say you have a particular contaminant in water. And there are several organisms
+within that ecosystem that are exposed to that water. The nature of that contaminant will
+result in accumulation, which we have already seen over a period of time. But the
+increase in concentration compared to the concentration in water is what we call
+bioconcentration factor. So, C is the concentration in the tissue of that organism.
+
+It can be fish, it can be any higher organism or even lower organism. It can be some kind
+
+of insect, whatever it is. That concentration in the tissue of that particular organism
+
+divided by the concentration in water is what we define as the bioconcentration factor.
+
+                                                                              
+                                                                               , it 
+So, looking at the equation for bioconcentration factor (BCF), which is    =
+                                                                              
+                                                                              
+
+has units of L of water/ kg of tissue. Now this may seem very complicated, but if you
+
+think about the concentration in biota, the concentration in biota means the mg of the
+
+contaminant/ kg of the tissue of that particular organism.
+
+And Cwater is your normal mg/L and that mg/L is mg of the contaminant/L of water. So,
+when you work on it, you will find that your BCF has units of L of water/ kg of tissue. So
+here we have some bioconcentration factors for a few compounds. They are both
+inorganic as well as organic compounds in this list. Aldrin is a pesticide which has units
+of L/kg
+
+Arsenic and compounds have 44 L/kg. Let us look at the heavy metals. We have
+cadmium, we have chromium 3, 6 and several other chromium-based compounds. We
+have copper and we have nickel. So, these are some heavy metals which are also prone to
+bioaccumulation and bioconcentration.
+And then we have organic compounds which have much higher bioconcentration factors.
+So you have aldrin, chlordane, chlordane is another pesticide, DDT, DDE, all of them are
+organic compounds, they are pesticides and the bioconcentration factors are very high.
+And let us take a look at why that is the case. The one at the towards the bottom is
+polychlorinated biphenyls PCBs and that has a bioconcentration factor of 1 lakh. So why
+does that happen is what we are going to look at here.
+What you see here are three different lists halogenated aliphatics, aromatics and some
+
+other compounds. The point to note is the water solubility and Kow value. What is Kow?
+
+Kow is the concentration or rather the soluble concentration of that compound in n-octanol
+
+                                                                                                               ]. So, K is -
+
+divided by the concentration in water, the water solubility [ =                                                    ow
+
+                                                                                                                 
+
+what we call the octanol water partitioning coefficient. Now this octanol water
+
+partitioning coefficient tells you about the hydrophobicity versus hydrophilicity of the
+
+compound.
+
+Let us take DDT as an example. It is very poorly soluble in water. The log Kow value, this
+Kow value if it is very high, we write it in terms of log Kow. This log Kow is 6.9 for DDT.
+Let us compare it with phenol. Phenol is something that we use very regularly around the
+house. In comparison it has a log Kow value of 1.48. It is highly soluble in water. It is also
+toxic, but it is regularly used and it is highly soluble in water.
+
+There are several uses of phenol for cleaning and other things. We have some other
+compounds hexachlorobenzene. We have benzoylpyrine which is a polycyclic aromatic
+hydrocarbon. We have hexachloroethane 3.34, benzoylpyrine PAH which is 6.06. Now
+what does this tell us? When the log Kow value is very high, it means that compound is
+highly soluble in N-octanol or in alcohol compared to water. So, it is a hydrophobic
+compound. It does not like water. It prefers organic solvent and because it prefers organic
+solvent that means it is likely to accumulate in the tissue of the organism. Remember the
+tissues of organisms are organic compounds.
+
+So, it will prefer organic tissue of the organism compared to water. So, something that
+prefers water is not going to accumulate to the same extent as something that prefers
+organic solvents. So, the tissue of organisms are organic. They serve as organic solvents
+and therefore you get bioaccumulation, biomagnification, bioconcentration in these
+organisms including humans. So, log    log  
+
+                                                                                                       
+
+That has been found in several studies in the literature with several different compounds,
+different species of organisms and so on. So, we will take a couple of examples. Here we
+have an example of bio uptake. Let us first look at the trophic pyramid.
+We have water at the bottom. The primary producers are phytoplankton. So, you have
+algae and aquatic plants. These phytoplankton are ingested by zooplankton like insects,
+worms, larvae. These zooplankton or zooplankton are called are eaten by small fish,
+minnows. These are fingerlings, very small sized fish which are in turn eaten by
+predatory fish like pickerel.
+
+Then you have fish eating birds. So, you have birds like the tern which eats minnows and
+you have larger birds, herring gull, merganser which are eating medium sized or larger
+sized fish. So, this is our trophic pyramid and what we are going to see in this particular
+table is how DDT has gone from water into the tissue of all the organisms at the different
+trophic levels of this pyramid. So, this is a California lake where a study was done and
+DDT levels in the tissue of different organisms were measured. So, water concentration
+was 5 times 10 to the power minus 5 ppm, ppm or milligrams per liter. Using that as a
+bioconcentration factor of 1, we can compare the concentration in the tissue of all the
+remaining organisms.
+So, we have phytoplankton and zooplankton 0.04, the bioconcentration factor went up to
+800, the minnows have a bioconcentration factor of 18,800, predatory fish like pickerel
+26,600, terns, the birds that feed on small fish and animals 78,200, herring gull 1,20,000,
+merganser 4,60,000. These are the bioconcentration factors for DDT. Here we have
+bioconcentration factors for a heavy metal like cadmium. Cadmium is a heavy metal
+which is completely toxic, it serves no beneficial purpose and for different levels of
+cadmium in water you can see the bioconcentration factors. So you have aquatic
+vegetation like floating fern, duckweed, water hyacinth, the concentration factors in the
+roots and leaves are also different and that means that different parts of the body of that
+organism is also going to have different bioconcentration factors and you can see
+zooplankton, snails, fish and sediment.
+So all this is data that has been published in the literature, it is freely available and it tells
+us a lot about the bio-uptake of different types of contaminants whether they are
+inorganic or organic they are all not all, but many of them are accumulating in the tissue
+of higher organisms. We then come to the last part of this lecture and that is
+eutrophication. You are all familiar with a site like this, you have a pond or a lake and it
+is covered with a green layer. This green layer is an algal layer, it is a layer of algal cells.
+This is a common site in our country and many other places. So why does that happen?
+Why does this water body become degraded in terms of its water quality? And that is you
+have surface runoff, this surface runoff carries with its nutrients, nitrogen, phosphorus,
+sulfur, heavy metals, other trace nutrients, calcium, magnesium, iron, potassium, all these
+different nutrients are brought along with surface runoff into this water body. It also has
+soil and organic matter. And what do algal cells need for growing? They need only
+nutrients. They get CO2, CO2 from the atmosphere is going to equilibrate with the water.
+So, some of the CO2 is available from the water, the water is available as such.
+
+Sunlight plus nutrients is the only set of requirements for the algal cells to grow. So you
+get this layer at the top where algal blooms happen very frequently. So, you get this scum
+layer. This is green in the photo that I just showed you. But there are several different
+algal cells that have different colors.
+You have red and pink and so many other colors. So, depending on the algal species,
+most of them are green. So, we will just talk about that. And you get this layer of algal
+cells at the top. These algal cells are going to generate oxygen. They are primary
+producers, they are photosynthetic organisms. They are generating oxygen. So, this
+oxygen that is generated by the algal biomass will help the bacteria that are present in the
+water column to utilize organic carbon, whatever is there in the water column, along with
+oxygen can be utilized to convert it back to CO2 and water. So that is why I have shown it
+here. Carbon dioxide from the atmosphere is used by algal cells. You have dead algae and
+bacteria that will settle to the bottom of the water body and that will become part of the
+sediment.
+This dead matter will be converted back to CO2 and water in the water column by
+bacteria. This layer that is formed at the top, is mainly because of algal cells and that will
+form only up to a depth that light is able to penetrate. So, it is not going to go very deep.
+In general, once the layer is formed, light will not be able to penetrate below it. So, what
+you find is that very low penetration of light into the rest of the water column.
+
+So, this is called eutrophication. So, eutrophication is defined as the excessive growth of
+phytoplankton like algal cells and aquatic plants due to high nutrient concentrations in
+water bodies. Eutrophication is a natural aging process that all lakes and reservoirs
+undergo. This is cultural eutrophication that is what we see around us is cultural
+eutrophication because it is an accelerated natural eutrophication process because human
+activities are causing more nutrients to go into these natural water bodies. So there is an
+acceleration of the water quality decline.
+All these lakes accumulate silt and organic matter. It leads to increase in nutrient levels. It
+results in increase in primary productivity, increase in turbidity due to microbial growth.
+And that is the final point is that the water quality gets completely degraded and it cannot
+be used definitely not for drinking water purposes. We have another term that is
+mentioned here and that is oligotrophic which is the opposite of eutrophic. Oligotrophic
+means high nutrient content and oligotrophic or the other extreme means low nutrient
+content which means low primary productivity.
+So, when you are looking at a lake as a possible drinking water source then you want it to
+be an oligotrophic lake. And when I was talking about the buffer zones, a buffer zone of
+vegetation around any lake will help to prevent these nutrients from going into the lake
+and it will improve the water quality of these lakes. So, in terms of water quality and the
+ecological impacts associated with eutrophication, the first one is the decline in water
+quality. So, these noxious algal growth problems they lead to increase in scum turbidity.
+The exudates are known to be toxic. Many of these algal cells are neurotoxins. They
+contribute to colour, taste, odour in water. If you smell water, it is not water that is
+smelling, it is these exudates from the algal cells which may be contributing to the odour
+of water. Turbidity, if you look at it against light, you find that it is not clear. It may be
+because of algal cells. Algal cells being natural in origin that is also contributing to
+natural organic matter.
+Now this natural organic matter will react with chlorine to form disinfection by-products
+and these disinfection by-products are also known to be toxic. So, it causes many
+problems in terms of water quality. Then we come to an anaerobic zone. The zone below
+this algal layer becomes completely anaerobic.
+
+There is going to be very little oxygen. So here we have oxygen that is coming from two
+sources, one from algal cells and one from the atmosphere. When this layer covers the
+entire surface of the water body, there is no equilibrium with the atmospheric oxygen.
+The bacteria are limited to whatever oxygen is generated by these algal cells and
+generally that is not sufficient. So, you end up with an anaerobic zone below the scum
+layer.
+So bacterial growth and organic decomposition results in low pH and low DO levels.
+This low DO level means that fish and fish food are not going to be available to the same
+extent as in a better-quality water body. You will also have excessive growth of aquatic
+weeds. So macrophytes or weeds will also grow. There will be loss of open water.
+
+So, this kind of open water you can see vegetation on the side of this photo. So, this
+vegetation will encroach into the open water within this water body and that itself will
+cause degradation of the water quality. Excessive organic matter production because of
+algal and bacterial growth will smother the eggs and larvae of other higher organisms. So
+algal and bacterial cells are microbial cells and these microbial cells will prevent the eggs
+and larvae of higher organisms from growing. Cyanobacteria are inedible by certain
+zooplankton.
+
+ So that is also part of the toxic effect of algal blooms. Toxic gases like ammonia and
+hydrogen sulfide will be generated at the bottom from the sediment because it is
+completely anoxic and that will also result in degradation of water quality and loss of fish
+habitat. That brings me to the end of this lecture as well as the fundamentals of ecology
+lectures. These are our references. Thank you.
+

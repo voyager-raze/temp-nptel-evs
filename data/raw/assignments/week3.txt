@@ -1,0 +1,297 @@
+                            NPTEL Online Certification Courses
+                         Indian Institute of Technology Kharagpur
+
+                          Environmental Science
+
+                              Assignment - Week #3
+
+                         TYPE OF QUESTION: MCQ/MSQ
+
+Number of questions: 15                                            Total mark: 20
+
+                         MCQ (10 × 1 = 10)
+
+QUESTION 1:
+
+Which of the following is an example of a secondary air pollutant, formed in the
+atmosphere through chemical reactions involving primary pollutants?
+
+a. Volatile organic compounds
+b. Sulphur dioxide
+c. Ground-level ozone
+d. Carbon monoxide
+
+Correct answer: c. Ground-level ozone
+
+Solution: Refer to Slide #14 of Lecture #1. Ground-level ozone (O3) is a secondary air
+pollutant because it is formed in the atmosphere through reactions between nitrogen
+oxides (NO) and volatile organic compounds (VOCs) in the presence of sunlight. The
+other options are primary pollutants emitted directly from sources.
+
+QUESTION 2:
+
+Which of the following atmospheric conditions is most conducive to the formation of a
+radiation inversion?
+
+    a. Cloudy conditions that limit nighttime heat loss
+    b. Intense daytime heating of the Earth's surface
+    c. Rainfall associated with monsoon weather systems
+    d. Clear, calm nights that promote rapid surface cooling.
+
+Correct answer: d. Clear, calm nights that promote rapid surface cooling.
+
+Solution: Refer to Slide #15 of Lecture #2. Radiation inversions commonly occur on clear,
+calm nights when the ground loses heat rapidly through radiation. This cools the air near
+the surface more than the air above, creating a temperature inversion in which
+temperature increases with height.
+QUESTION 3:
+
+Which fraction of particulate matter can penetrate deepest into the human body?
+
+    a. PM10
+    b. PM2.5
+    c. PM0.1
+    d. Total Suspended Particle
+
+Correct answer: c. PM0.1
+Solution: Refer to Slide #21 of Lecture #1. Ultrafine particles (PM0.1) can translocate to
+multiple organs and cause severe health impacts.
+
+QUESTION 4:
+
+Which characteristic of fine particulate matter (PM2.5) enables it to be the dominant
+component of transboundary haze?
+
+      a. They are largely insoluble in water.
+      b. They can remain suspended in the atmosphere for extended periods and be
+
+          transported over long distances.
+      c. They have a short atmospheric residence time.
+      d. They are transported only under conditions of strong winds.
+
+Correct answer: b. They can remain suspended in the atmosphere for extended
+periods and be transported over long distances.
+Solution: Refer to Slide #9 of Lecture #4. Fine particles (PM2.5) have very low settling
+velocities, allowing them to remain airborne for days to weeks. As a result, they can be
+carried over hundreds or even thousands of kilometers by atmospheric circulation,
+making them a major contributor to transboundary haze.
+
+QUESTION 5:
+
+In a dry atmosphere, under which condition is the atmosphere considered unstable?
+
+    a. The dry adiabatic lapse rate is greater than the environmental lapse rate.
+    b. The dry adiabatic lapse rate is equal to the environmental lapse rate.
+    c. The dry adiabatic lapse rate is less than the environmental lapse rate.
+    d. The moist adiabatic lapse rate is equal to the environmental lapse rate.
+
+Correct answer: c. The dry adiabatic lapse rate is less than the environmental lapse
+rate.
+Solution: Refer to Slide #13 of Lecture #2. An atmosphere is unstable when the
+environmental lapse rate (ELR) exceeds the dry adiabatic lapse rate (DALR). In this
+case, a rising air parcel remains warmer and less dense than its surroundings, causing it
+to continue rising. Therefore, atmospheric instability occurs when the DALR is less than
+the ELR.
+QUESTION 6:
+
+Selective Catalytic Reduction (SCR) technology is an air pollution control technology
+primarily used to reduce emissions of ______, converting them into harmless ______ and
+______.
+
+    a. SOx, S2, and H2
+    b. NOx , N2, and H2O
+    c. CO2 , C, and H2
+    d. VOCs, N2, and H2O
+
+Correct answer: b. NOx, N2 and H2O
+
+Solution: Refer to Slide #18 of Lecture #3. Selective catalytic reduction (SCR) is an
+advanced technology used to control nitrogen oxide (NO) emissions from diesel
+engines. In this process, a diesel exhaust fluid (DEF), typically a urea-based solution, is
+injected into the exhaust stream upstream of a catalyst. The heat of the exhaust converts
+the DEF into ammonia (NH3), which then reacts with nitric oxide (NO) and nitrogen
+dioxide (NO2) on the surface of the catalyst. These reactions convert NO into nitrogen
+gas (N2) and water vapor (H2O), both of which are harmless and released through the
+vehicle's tailpipe.
+
+QUESTION 7:
+
+A region is exposed to severe acid deposition over an extended period. Which of the
+following environmental impacts is most likely to occur first?
+
+    a. Complete disappearance of forest vegetation.
+    b. Increase in atmospheric ozone concentration.
+    c. Depletion of soil buffering capacity due to the loss of Ca2 and Mg2 ion.
+    d. Enhanced carbon sequestration in terrestrial ecosystems.
+
+Correct answer: c. Depletion of soil buffering capacity due to the loss of Ca2 and
+Mg2 ion.
+
+Solution: Refer to Slide #15 of Lecture #4. Acid deposition leaches essential base cations
+such as calcium (Ca2) and magnesium (Mg2) from soils, reducing their ability to
+neutralize acidity. This loss of buffering capacity is typically one of the earliest
+environmental effects and can eventually lead to soil degradation, forest decline, and
+aquatic ecosystem damage.
+QUESTION 8:
+
+Which of the following compounds is not considered an ozone-depleting substance
+(ODS)?
+
+      a. Methyl fluoride
+      b. Methyl chloride
+      c. Methyl bromide
+      d. Methyl chloroform
+
+Correct answer: a. Methyl fluoride
+Solution: Refer to Slide #11 of Lecture #5. Ozone depletion is primarily caused by
+compounds containing chlorine or bromine, which release reactive halogen radicals in
+the stratosphere. Methyl fluoride (CH3F) contains fluorine but no chlorine or bromine and
+has negligible ozone-depleting potential. In contrast, methyl chloride, methyl bromide,
+and methyl chloroform are recognized ozone-depleting substances.
+
+QUESTION 9:
+
+A dry air parcel with an initial temperature of 30°C rises 1 km in the atmosphere. Assuming
+a dry adiabatic lapse rate (DALR) of 9.8°C km­1 and an environmental temperature of
+22°C at 1 km altitude, what will most likely happen to the parcel?
+
+    a. It will continue rising.
+    b. It will become neutrally buoyant.
+    c. It will sink back toward the surface.
+    d. It will form a temperature inversion.
+
+Correct answer: c. It will sink back toward the surface.
+Solution: Refer to Slide #13 of Lecture #2. The parcel cools at the DALR as it rises:
+
+                                          Tparcel = 30-9.8 = 20.2°C
+At 1 km, the surrounding air temperature is 22°C, which is warmer than the parcel
+(20.2°C). Since the parcel is cooler and therefore denser than its surroundings, it
+experiences negative buoyancy and tends to sink back toward the surface. Thus, the
+atmosphere is stable under these conditions.
+
+QUESTION 10:
+
+The sub-index values of NO, SO2, and PM10 are 60, 90, and 40, respectively. According
+to the National Air Quality Index (NAQI) released by the Government of India in the year
+2015, the overall NAQI is
+
+    a. 80
+    b. 200
+    c. 67
+    d. 70
+Correct answer: a. 90
+Solution: Refer to Slide #22 of Lecture #2. According to the NAQI framework, the overall
+AQI is determined by the highest sub-index among all monitored pollutants, as the
+pollutant with the greatest health risk dictates the overall air quality category. Since the
+sub-index values are NO = 60, SO2 = 90, and PM10 = 40, the highest sub-index is 90.
+Therefore, the overall NAQI = 90.
+
+                                      MSQ (5 × 2 = 10)
+
+Question 11:
+
+Which of the following factors directly influence the atmospheric dispersion of pollutants?
+
+    a. Wind speed
+    b. Atmospheric stability
+    c. Relative humidity
+    d. Emission height
+
+Correct answer(s):
+    a. Wind speed
+    b. Atmospheric stability
+    d. Emission height
+
+Solution: Refer to Slide #8 of Lecture #2. Atmospheric dispersion is affected by several
+meteorological and source-related factors. Wind speed controls the rate of pollutant
+transport and dilution, atmospheric stability determines the extent of vertical mixing,
+and emission height influences the distance pollutants travel before reaching ground
+level.
+
+Question 12:
+
+Which of the following statements about ozone-depleting substances (ODSs) are
+correct?
+
+      a. Chlorofluorocarbons (CFCs) are ODSs.
+      b. ODSs are highly reactive in the troposphere.
+      c. Halons are ODSs.
+      d. ODSs contribute to the destruction of stratospheric ozone.
+
+Correct answer(s):
+     a. Chlorofluorocarbons (CFCs) are ODSs
+     c. Halons are ODSs
+     d. ODSs contribute to the destruction of stratospheric ozone.
+Solution: Refer to Slide #10 of Lecture #5. CFCs and halons are well-known ODSs. After
+reaching the stratosphere, they release chlorine and bromine radicals that catalytically
+destroy ozone. Most ODSs are actually chemically stable in the troposphere, which
+allows them to persist long enough to reach the stratosphere. Therefore, statement b is
+incorrect, while a, c, and d are correct.
+
+Question 13:
+
+Which of the following are the primary precursors involved in the formation of
+photochemical smog?
+
+      a. aldehydes
+      b. nitrogen oxides
+      c. peroxyacetyl nitrate
+     d. volatile organic compounds
+
+Correct answer(s):
+     b. nitrogen oxides
+     d. volatile organic compounds
+
+Solution: Refer to Slide #14 of Lecture #3. Photochemical smog forms when nitrogen
+oxides (NO) and volatile organic compounds react in the presence of sunlight.
+Aldehydes and PAN are secondary pollutants produced during these photochemical
+reactions.
+
+Question 14:
+
+Which of the following health effects may result from prolonged exposure to indoor air
+pollution?
+
+      a. Asthma exacerbation
+      b. Chronic obstructive pulmonary disease (COPD)
+      c. Lung cancer
+     d. Cardiovascular diseases
+
+Correct answer(s):
+      a. Asthma exacerbation
+      b. Chronic obstructive pulmonary disease (COPD)
+      c. Lung cancer
+     d. Cardiovascular diseases
+
+Solution: Refer to Slide #22 of Lecture #3.
+Question 15:
+A pollutant is emitted at the same rate from two stacks:
+
+    · Stack A: 80 m height
+    · Stack B: 250 m height
+
+An atmospheric temperature inversion extends from the ground surface up to 200 m.
+Which of the following statements are most likely correct?
+
+    a. Pollutants from Stack A are more likely to be trapped below the inversion.
+    b. Pollutants from Stack B may disperse more effectively.
+    c. Pollutants from Stack B are more likely to be trapped below the inversion.
+    d. Pollutants from Stack A may disperse more effectively.
+
+Correct answer(s):
+    a. Pollutants from Stack A are more likely to be trapped below the inversion.
+    b. Pollutants from Stack B may disperse more effectively.
+
+Solution: Refer to Slide #18 of Lecture #2.
+
+The inversion layer extends from the surface to 200 m, so pollutants released below 200
+m tend to remain trapped near the ground.
+
+    · Stack A = 80 m: It releases pollutants within/below the inversion layer, so
+         pollutants are more likely to be trapped. Hence, a is correct.
+
+    · Stack B = 250 m: It releases pollutants above the inversion layer, so pollutants
+         may disperse more effectively. Hence, b is correct.
+
+Therefore, c and d are incorrect.
+

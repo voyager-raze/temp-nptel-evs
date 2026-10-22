@@ -1,0 +1,311 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                Week 10
+                                               Lecture 01
+                               Sound, noise and its characteristics
+
+ Welcome everyone. This is week 10. We are going to be covering noise pollution in this
+week. So, in the first lecture, I will be talking about sound, noise and its characteristics.
+As I said this is the title of the first lecture, we will be looking at the characteristics of noise
+and sound. How do we measure it, meaning what are the units, what is the range of human
+hearing, what are sound pressure levels, the decibel scale and sound levels.
+
+ Keywords for this lecture are hearing, decibels, sound pressure, frequency and hertz.
+What is noise? We all know that noise means unwanted sound. So, when something is
+pleasant to our ears, we call it music and if it is unpleasant, we call it noise. So, we know
+that it has two parts to it.
+
+ One is a physiological response. Very often we cover our ears and that is a physiological,
+it is an effect as well as an experience. So that is our first response to very loud noise and
+so on. But there is also a psychological aspect to it. So, noise has two parts to it.
+
+ You can call it physical or physiological and psychological. There are several examples
+of what we call noise, traffic noise, industrial activities, construction activities, public
+events where you have very large groups of people together. So, anything that interferes
+with the social activities of individuals or groups of individuals is considered noise. Let us
+go back to a little bit of the physics. Sound is a form of energy.
+
+ It is not like other pollutants. Other pollutants that we are going to be looking at in this
+entire course are all mass-based pollutants. Noise is important because if there is continued
+loud noise for a long period of time or if the intensity of noise is very high even for a very
+short period of time, it can result in permanent or temporary deafness. So that we call
+hearing loss. So, because of this particular reason, noise pollution is a very important part
+of the environment.
+
+ It is a major occupational hazard for industrial workers as well as construction workers.
+Environmental noise comes from many different activities. Most of them are related to
+transportation. We all know that all forms of transportation, road, rail, air, all of them are
+major contributors to environmental noise. People who live in the vicinity of roads, railway
+lines, airports, all of them have to either spend money on soundproofing their homes if they
+are in the vicinity of these areas.
+ They may have to do some other activities. Sometimes people have vegetation barriers
+and so many other ways of preventing noise from entering the home. For the case of
+airports, sometimes air fleets are replaced. Old planes are replaced with new ones to reduce
+noise pollution. So, there are restrictions on flight timings and so on.
+ So, I will be covering more about these aspects later in the week.
+
+Let's take a look at sound. What is the nature of sound? Sound has, it's an entire spectrum.
+It goes all the way from very low frequencies to very high frequencies. The human ear is
+capable of hearing 20 hertz to 20 kilohertz.
+ So, we have a fairly wide range of hearing, but there are several animals that have a wider
+range of hearing. Birds, animals and so on, bats, dogs, cats, many of them have a range of
+hearing far beyond human capability. Low frequency, we know that bass notes, the low
+notes, low frequency notes, they are at the lower end. So, you have them on the scale, they
+are towards the infrasound. Animals have an ability to hear ultrasound.
+ They can hear very high frequencies, which the human ear is not capable of hearing at.
+So, you have animals and also most of us are familiar with ultrasound diagnostic
+techniques. These have become extremely common in the medical world. Very often you
+may have a stomach problem or some other problem within the body and the doctor
+recommends that you go for ultrasonography. So, ultrasonography is done at high
+frequencies of sound and they are used for imaging to create either 2D or 3D images of the
+internal parts of the body.
+
+ So, one of the most common applications of ultrasound are in the medical field. So, it is
+used for diagnostics as well as for destruction. In microbiology, we use ultrasound or high
+frequency sonication for either separating bacterial cells or for even killing them with very
+high frequency. So, it can be destructive. You can have targeted destruction of cells using
+ultrasound and you can also use it for diagnostic purposes.
+
+ This is NDE stands for non-destructive examination of structures and materials. So, in
+civil engineering, we have non-destructive evaluation of different materials and structures
+that can also be done using ultrasound.
+
+Let's just revise a little bit about the physics of sound. What is sound? Sound we know is
+something that's very different from light. Light does not need a medium for passing
+through, but sound requires a medium.
+ You need mass, you need a medium to pass through that medium. So, it can pass through
+solids, liquids and gases and you will get rarefaction or compression of waves. So that is
+the first point. So, these are vibrations that are passing through either fluids, they may be
+gases or liquids or solids. So sound can pass through any material, whether it's solid, liquid
+or gas and that is done because of these alternating waves of compression and rarefaction
+and these waves when they come to the ear, they cause vibrations in the tympanic
+membrane, which is deep inside the ear and these pressure changes, these changes in air
+density, rarefaction and compression is change in the air density and therefore, these are
+micro scale changes in air pressure and these small changes in air pressure are detected by
+the tympanic membrane in the human ear.
+
+ C as you know is the speed of sound in meters per second, f is the frequency and if you
+look at the diagram at the bottom, this is a sinusoidal curve that represents the rarefaction
+and compression of air molecules. Let's say most of us are used to listening to sound
+through air. So, this is the rarefaction and compression of the air molecules shown over
+here. So, the frequency is the number of times either a peak, this is our peak and this is our
+trough, the number of times a peak or trough arrives in one second of oscillations that is
+also called hertz or it has units of number per second. So, period is 1 by f, 1 by f for
+frequency and that is the time between two successive troughs or two successive peaks.
+
+                                                  p = 1/f
+
+ Amplitude is the height of the peak or the depth of the trough with respect to the zero-
+pressure level. So, in this diagram, the solid black line in the middle is the zero-pressure
+level. So, you have positive pressure, negative pressure on either side and we also have
+another term and that is wavelength. Wavelength is lambda and that is c by f and that is
+equal to the distance between two peaks or two troughs in a sinusoidal sound wave. Now
+if I were to take a simple arithmetic average of any of the points on this curve, what will
+happen? Let us say I am taking the arithmetic average of a random number of points on
+this curve.
+The sum total will be zero because they are positive and negative and when you take the
+average, it will also be zero. So, what is the usefulness of that? Absolutely of no use. So
+instead, we take what we call root mean square sound pressure and we represent that by
+Prms. So, root mean square sound pressure is also time weighted average and the equation
+for that is shown over here. So, Prms is 1 divided by tm, tm is the time period of measurement,
+p2 is the instantaneous sound pressure level at any time T and you are integrating it over
+the time period of interest.
+
+Prms  =  [1                    1/2
+
+               2()]
+
+ You have to take the square root of this entire term. Work as we know is the magnitude
+of displacement multiplied by the component of force in the direction of displacement.
+Sound power or energy is the rate at which work is done. The units are watts. Most of you
+are familiar that when you go to buy a speaker, most people are buying sound systems or
+music systems these days and you have speakers and the speakers are rated on the basis of
+the wattage.
+
+ So, the sound power or sound energy that is going to be out, that will be the output of the
+speakers is what you rate it and that is the loudness, how loud can the speaker blare
+whatever music you want to play. So that is our very common unit. Then we come to
+sound intensity. Intensity is given as work divided by area. So, this work is in terms of
+watts, so you will get units of watts per square meter.
+ In other words, it is also Prms2 divided by the density of the medium row and the speed of
+sound C. A as I said is the unit area perpendicular to the propagation of the sound wave
+and it has units of square meter. The speed of sound is subject to change depending on the
+absolute temperature. So, C is equal to 20.05 , where T is the absolute temperature in
+degree Kelvin.
+
+                                         I = W/A = (Prms)2/c
+                                              c = 20.05 
+
+So, when we think about human hearing and how to measure sound, there are many
+different aspects to it and there are several different units for measuring sound. So, let us
+take a look at some of these things. The range of human hearing is 2 times 10 to the minus
+5 Pascal's which comes down to 20 micro Pascal's to 200 Pascal's. The range of hearing
+therefore is about 7 to 8 orders of magnitude. So, when you think about sound pressure
+levels, you have to think in terms of the fact that we have a huge range of sound pressure
+levels.
+
+ And this cannot be expressed on an arithmetic scale. So, you need a log scale for
+measuring these variations. The unit of measurement that we use for sound is called Bell
+in honor of Alexander Graham Bell and L' over here is log Q by Q0. Now Q by Q0, Q is
+the measured quantity and I will talk a little bit more about that in a few minutes and Q0 is
+your reference quantity. So, our L' is the sound level measured in Bell's and that is equal
+to log Q by Q0.
+
+                                             L' = log (Q/Q0)
+
+ Now Bell itself is divided for practical purposes, Bell is divided by 10 to give decibels.
+For measuring sound, we have at least 3 different units for measuring sound. So sound
+power level Lw that is equal to 10 log W divided by 10 to the power minus 12. 10 to the
+power minus 12 is our reference power level. So, if you think about the power output of a
+speaker, that is the power level and W is your watts.
+
+                                         Lw = 10log (W/10-12)
+
+ So, this is 10 log whatever the wattage is divided by 10 to the power minus 12. Sound
+intensity level is LI that is 10 log I divided by 10 minus 12 where the reference intensity
+level is again 10 to the power minus 12 watts per square meter. So here the only thing that
+we are doing is dividing the power unit by the area and this is the area perpendicular to the
+propagation of the sound wave and so on.
+
+                                           LI = 10log(I/10-12)
+
+The third metric or the third unit is sound pressure level which is measured by instruments.
+So that is shown as Lp that is 10 log Prms squared divided by Prms,0 squared and remember
+that Prms,0 is our reference pressure level and for human hearing, the threshold of human
+hearing is defined as 0 decibels which is equivalent to 20 micro pascals and because we
+have a square in the parentheses that 2 can be taken out and you can rewrite this equation
+as 20 log Prms divided by Prms,0.
+
+                           Lp = 10log (P2rms/P2rms,0) = 20log (Prms/Prms,0)
+
+ So that these are the units that we use for measuring sound.
+Let us take a little closer look at the decibel scale. I have already mentioned that the decibel
+scale is a logarithmic scale. So, when you talk about 1 decibel, 10 decibels, 20 decibels
+and so on, it is not doubling. For example, 10 to 20 is not doubling of the sound intensity
+or sound power.
+
+ It actually means 10 times higher. So, a change from 10 decibels to 20, 30, 50 means it
+is a change of 10 times, 100 times and 10,000 times higher sound level, intensity, power,
+pressure, whatever you are measuring. Okay, so let us take a look at some more details
+about the decibel scale. The decibel scale is a logarithmic scale and when we think about
+the difference in sound levels, for example, we say 10 dB, 20 dB, 30 dB, all that. Now
+going from 10 dB to 20 dB is not doubling.
+
+ It is actually 10 times higher. So, a change from 10 decibels to 20, 30 or 50 decibels
+means that the sound pressure level is increasing by 10 times, 100 times or 10,000 times.
+So, the way to think about it is let us say we have 4 sources, A, B, C, D. A is the sound
+output from A is 10 decibels. There is 20, 30 and 50 dB. So, if we put it in terms of sound
+pressure levels, it will be 10 log 10 to the power 1.
+
+ How about 20? 20 can be expressed as, this 20 decibels has to be expressed as 2 times
+10 log to the base 10. Okay, this is the second part of the equation is how you would
+convert 20 decibels to the same log base 10 scale. So, if it is 2 times 10 log base 10, when
+you take 2 back into the parentheses, you will find that this is 10 to the power 2, which
+means so we have a sound pressure level here and then for 20 decibels, this will be 100.
+Now 100 divided by 10 for source A, that means B is 10 times louder than source A.
+Similarly, for 30 dB, we can write it in the same way, 3 times 10 to the power log base 10,
+this will be 1000, 10 to the power 3 divided by 10, which means source C is 100 times
+louder than A.
+
+50 decibels will be 5 times 10 to the power log base 10, which means you can write it as
+log 10 to the power 5, which is 10,000 times louder than A.
+
+Here are some examples of how you can convert sound pressure levels in micro pascals to
+decibels and how do we perceive these sound levels. So, whether you call it sound pressure
+level SPL or whether you call it sound level. There is a simple formula that is used for
+converting sound pressure levels to decibels. So, Lp is your sound level in decibels that is
+equal to 20 log, your pressure level, you can call it SPL or just Prms and you divide that by
+20 micro pascals.
+
+                                 Lp(dB) = 20log (SPL-rms/SPL-rms0)
+
+ 20 micropascals is our reference sound level or sound pressure level. So, this is the
+formula that is used to convert 0 decibels, we start that is our baseline 0 is equal to 20
+micropascals. So, what is 100 equal to? 100 is equal to 14 decibels, 1000 is equal to 34.
+You have to do this calculation using this formula and come up with these numbers.
+ You can do it yourself. 10,000 is 54, 20,000 corresponds to 60, 100,000 corresponds to
+74 and you can see the entire list. Zero is our ability to hear. This is sound pressure level
+below this we cannot hear. Anything above this we find it audible. In a study room very
+very, quiet environment which is sound proof there is no there may be only one person
+sitting there.
+
+ So that may be having a background noise level of 14 decibels. A library may have a
+background noise level of 34 decibels. What is the conversational level? If two people are
+talking to each other that is around 54, 50 to 60 decibels. A room with an air conditioner
+is around 60 to 65 decibels.
+
+ Air conditioners vary quite a bit. A business office where you have a large number of
+people all talking to each other for various reasons. It goes from 60 to 70 decibels. There
+are situations where it is very difficult to have a normal conversation. You have to scream
+or you have to speak very loudly because the background is noisy.
+
+ So that would be around 70 or above in terms of decibels. Street traffic, a busy street
+would have about 85 decibels. Heavy trucks they generate noise which is around 90
+decibels. A lawn mower, a power-based lawn mower would have around would result in
+100 decibels. Work concerts commonly have 110 decibels. A jet plane taking off at
+100meter distance that would be 125 decibels.
+
+ At what point do we physically say I cannot bear this sound. There is pain, there is actual
+pain in the ear that is 130 decibels. So that is the threshold of pain. Beyond that, due to
+occupational exposure many people are exposed to jet engine noise at a distance of 25
+meters. So, they are exposed to 140 decibels.
+
+ This is the range of noise or sound that we are familiar with.
+If you are trying to add different sources, for example, the simplest example that I can give
+you is that let's say you are in a room and you may have two speakers, three speakers, more
+than that and so on. So how do you add the decibel levels of these individual sources? So,
+if you have two decibels of 50, I am sorry, if you have two sources of 50 decibels each,
+then how will you add them together? I can give you the formulae, we will come to that
+later, but this is a graphical method for doing the same thing. So, we have two sources,
+both of them are emitting at 50 decibels. So, the difference between the two sources is zero
+and therefore the increment that you need to add to the, that is three decibels. So, for two
+sources, both of 50 decibels, the addition of the two will give you 53 decibels.
+
+ Similarly, if you have 60, if you have a speaker that is playing at 60 decibels, two speakers
+playing at 60 decibels, the addition will result in 63 decibels. Now supposing you have
+two speakers, one at 40 and another at 50, what is the addition going to be? The difference
+between 40 and 50 is 10. So, on this graph, I look at 10, the increment has to be close to
+0.3. So, to the higher number, as mentioned in the y axis increment to be added to the
+higher level.
+
+ So, 50 plus 0.3 is the total output from the two sources. Similarly, if you have two sources
+with 45 decibels and 50 decibels, here we have the difference in decibels that is five. So,
+the difference between them is 1.3. So here we have one on the y axis and 1.3,
+approximately 1.2, 1.3. It's actually 1.3 and your sum total will be 50 plus 1.3. So that is
+51.3.
+NIOSH is, NIOSH stands for National Institute for Occupational Safety and Health. So,
+there are free apps on the internet. There are several commercial as well as free apps. This
+is a free app.
+
+ NIOSH is the National Institute for Occupational Safety and Health. They have a sound
+level meter app for iPhones. You can download it if possible and you will find that they
+give instantaneous sound pressure levels can be measured, sound levels can be measured
+in decibels and so on. So, you have to remember that the phone has all the ingredients of
+a sound level meter. So, you can take, you can use it for that purpose. Now what noise
+can cause damage? And when is hearing protection required? So, 85 decibel A, this A is
+called the A-waiting network.
+
+ We will come to this point in a little bit. So, 85 decibel A is regular and prolonged
+exposure to noise above 85 decibel A averaged over 8 hours per day is hazardous to the
+health of the person exposed. 100 decibel A for more than 15 minutes per day may result
+in permanent hearing loss. 110 decibel A may for more than 1.5 minutes per day can result
+in permanent hearing loss.
+
+ So, there are several examples that are shown in this slide. 60 decibels is normal
+conversation. 80 decibels may be a ringing telephone. I have already given you several
+examples in the previous slide and you can see the entire range especially of loud noises.
+So, what is loud and how is it impacting the health of the person exposed, all that you get
+some idea from this list and we will be spending more time on this later.
+So, this brings me to the end of this particular lecture. The entire week all the lectures are
+based on material from these two textbooks and a few other sources. The main textbook
+that I am using has a chapter, has a very good chapter on noise pollution and this is the
+book by Davison Mastin 2009, Principles of Environmental Engineering and Science
+McGraw Hill. I have another textbook which is older and that is Sincero and Sincero 1996.
+That is Environmental Engineering, a design approach and that is also, it also covers noise
+pollution, sound measurements, all these aspects are covered in that book but the first one
+is easier to deal with compared to the second one. Thank you.
+

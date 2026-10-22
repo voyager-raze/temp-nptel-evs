@@ -1,0 +1,219 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+       Week 06- (Lecture 02) : RENEWABLE ENERGY II (Ocean Energy ­ I)
+
+Welcome to lecture 2 of week 6 of the NPTEL online certification course on
+Environmental Science. So, we will continue our discussion on Renewable Energy, but
+today, our focus will be on Ocean Energy. Now, given the vastness of the topic, I have
+split it into two parts. So, in today's lecture we will first familiarize ourselves with the
+various energy resources that lies in our oceans with an emphasis on tidal energy and wave
+energy. So, we will learn about the various technologies that are available to harvest energy
+from tides as well as waves and we will also learn about the basic design principles of tidal
+energy and wave energy. All the other aspects of ocean energy we will covering it in the
+next lecture.
+So, at the end of this lecture, you should have an understanding of the following ocean
+energy technologies that is tidal barrage, tidal stream technologies, oscillating water
+columns, oscillating bodies and overtopping devices.
+Now, with nearly 2 and a half billion people or almost 40 per cent of the global population
+living within 100 kilometres of the coast, ocean energy represents a convenient solution
+to tackle climate change while contributing to sustainable development. In fact, the
+importance of ocean energy has been recognized by the Intergovernmental Panel on
+Climate Change or the IPCC as a means of mitigating climate change. Apart from that,
+ocean energy can also be an important key to advancing numerous United Nations
+sustainable development goals that go beyond SDG 7, that are affordable and clean energy
+and SDG 13, that is, climate action.
+
+In fact, ocean energy can actually impact a wide array of SDGs, particularly SDG 1, that
+is, no poverty; SDG 2, that is, zero hunger; and SDG 14, that is, life below water. Now,
+the renewable energy in our oceans, as you can see here it comes from 5 distinct sources.
+Each of these sources has different origins, and they require different technologies for
+conversion. So, what are these sources? So, they are basically ocean tides, ocean waves,
+marine currents, temperature gradients and salinity gradients. So, ocean tides is basically
+the potential energy that is associated with the tides.
+
+When discussing ocean tides, the focus is on harvesting the potential energy within the
+tides. For ocean waves, the goal is to harness the energy contained in both the potential and
+kinetic energy of the waves. Marine kinetic energy involves capturing the kinetic energy
+associated with tidal or marine currents. Additionally, temperature gradient energy refers
+to exploiting the temperature difference between the sea surface and deep water to generate
+energy
+
+Another source of energy is the salinity gradient, which occurs where freshwater from a
+river mixes with seawater. The energy associated with this salinity gradient can be
+harnessed using specific technologies. Today, our focus will be on ocean tides and ocean
+waves, us first see why we should be interested in ocean energy.
+
+Ocean energy offers several key advantages over other renewable sources like solar, wind,
+or geothermal energy, primarily due to its vast theoretical resource potential, which could
+meet both current and future global electricity demands. According to the International
+Renewable Energy Agency (IRENA), the combined potential of all ocean energy
+technologies ranges between 45,000 terawatt-hours to well over 1,300,000 terawatt-hours
+of electricity per year, enough to cover more than twice the current global demand.
+Additionally, ocean energy is more predictable than other variable renewable resources,
+such as solar photovoltaics and wind energy, due to the consistent influence of the moon's
+movement. This predictability provides a technical edge and allows for continuous
+electricity generation, especially when coupled with offshore wind energy, as waves persist
+even after wind speeds decrease. The socio-economic benefits of ocean energy are also
+significant, including job creation in research, development, deployment, and the operation
+and maintenance of ocean energy power plants. Unlike wind energy, ocean energy
+technologies are submerged and do not disrupt the natural landscape, leading to increased
+social acceptance. Furthermore, as a renewable resource, ocean energy helps reduce
+greenhouse gas emissions from conventional electricity generation, contributing to climate
+change mitigation. It also addresses specific needs of small island developing states, such
+as providing reliable electricity, sustainable transportation, and freshwater through
+desalination. Due to these numerous benefits, ocean energy is gaining popularity alongside
+wind and geothermal energy.
+Tides occur as a result of the interaction between the gravitational forces of the moon and
+the sun, leading to a natural rise and fall in seawater levels, which we refer to as tides.
+These tidal movements can be harnessed to generate electricity. Tidal energy can be
+exploited by capturing the potential energy created by the difference in water levels or by
+utilizing the kinetic energy in the flow of incoming and outgoing water, particularly when
+the flow speed is at least 1.5 to 2 meters per second.
+Although the typical sea level difference between high and low tide is usually below 1
+meter, the tidal range can exceed 20 meters in some locations. The potential for tidal energy
+increases with the tidal range, but it can only be harnessed in a limited number of countries
+with the necessary geographic conditions. Due to this geographic limitation, the theoretical
+potential of tidal energy is the smallest among ocean energy technologies, estimated at
+1,200 terawatt-hours per year. While tidal energy has a much lower potential compared to
+other renewable resources like solar radiation or wind, its main advantage is that tides are
+predictable and not influenced by weather, but rather by cyclical constellations.
+
+Tidal energy technologies can be broadly categorized into two groups: tidal barrage and
+tidal stream technologies. Tidal barrage technologies harness the potential energy from the
+tidal range, which is the difference in height between high and low tides. On the other hand,
+tidal stream technologies utilize the kinetic energy from the direct flow of incoming and
+outgoing tides in open water. Tidal barrage systems are relatively more mature compared
+to other ocean energy technologies, with power plants in operation since the 1960s. The
+development of tidal range hydropower is often associated with estuarine developments.
+Tidal stream technologies, on the other hand, harness the kinetic energy from the direct
+flow of incoming and outgoing tides in open water. While tidal barrage systems utilize the
+tidal range to capture potential energy, tidal stream technologies focus on the movement of
+water itself. Tidal barrage technology is more mature compared to other ocean energy
+technologies, with power plants having been in operation since the 1960s. The
+development of tidal range hydropower is often linked to estuarine developments, where
+the tidal range is significant enough to generate power efficiently.
+
+As illustrated in the figure, tidal barrage development typically involves estuarine areas
+where a barrage is constructed to enclose an estuary, creating a single reservoir behind it.
+This reservoir is crucial to the operation of the system and incorporates conventional low-
+head hydro turbines. The process works by filling the basin with water during high tides.
+The sluice gates, represented by the ash-colored bars in the figure, manage the flow of
+water into the basin, which is then released through the turbines to generate electricity.
+
+The ash-colored bars represent the sluice gates. These gates are shut when the basin is filled
+with water during high tide. Then, during low tide, the gates are opened, allowing water to
+flow from the tidal basin through the turbines inside the barrage, generating electricity.
+After several hours, the gates close again, and the process repeats.
+
+Tidal stream technologies, unlike tidal barrages, directly utilize the incoming and outgoing
+flow in open water to generate electricity. Tidal streams are currents in the sea that flow as
+tides move in and out. Tidal stream turbines, which resemble wind turbines, use fast-
+moving tidal streams instead of wind to generate electricity. These turbines are approaching
+maturity and are expected to become more prominent than tidal barrages in the near future.
+
+Tidal stream turbines come in various designs. For example, horizontal-axis turbines have
+blades radially attached to a horizontal shaft. As the tidal current flows past the blades, it
+causes rotation, generating power much like a wind turbine, but underwater. Vertical-axis
+turbines have blades parallel to a rotating shaft, allowing them to generate power regardless
+of the direction of the tidal flow.
+
+Another design, known as the enclosed tips or open center turbine, increases the velocity
+of tidal streams by concentrating the flow in a funnel or duct where a turbine is placed to
+generate electricity. Reciprocating devices or oscillating hydrofoils work by lifting an
+oscillating hydrofoil attached to an arm with the tidal flow. The up-and-down movement
+of the foil drives a shaft or pistons to generate electricity.
+The Archimedes screw or spiral design uses a helical-shaped impeller that turns when the
+tidal stream passes through it, converting the rotation into electricity. Tidal kites, which are
+connected to the seabed or a floating platform, move through the tidal stream in a figure-
+eight or linear trajectory, increasing the relative velocity and electricity output.
+In addition to these seven technologies, other designs have been investigated, though they
+do not exclusively fit into the category of tidal technology. Now, let's consider how much
+power can be generated from a tidal barrage. In this setup, water enters an enclosed tidal
+basin at high tide and is released at low tide, generating electricity as it passes through
+turbines.
+
+To understand the potential energy available from a tidal barrage, consider a rectangular
+tidal basin with an area A. The total mass of water in the tidal basin above the low tide
+level is given by m=AH, where  is the density of water, and H is the tidal range, or the
+difference in height between high tide and low tide. This total mass is calculated by
+multiplying the water density , the area of the tidal basin A, and the tidal range H. The
+centre of gravity of this water mass is located at the height of ½H above the low tide level.
+Therefore, the maximum potential energy available per tide, assuming all the waterfalls
+through this height, is given by ½gAH2, where g is the acceleration due to gravity. The
+average power generated by the tidal barrage can be calculated by dividing this potential
+energy by the tidal period T, resulting in the expression (gAH2)/2T, which represents the
+average potential power that can be extracted from the tidal barrage.
+Wave energy converters are devices designed to harvest the energy contained in ocean
+waves and convert it into electricity. When wind blows over the ocean, it transmits some
+of its kinetic energy to the ocean's surface, creating wave energy, which comprises both
+kinetic energy and gravitational potential energy. Wave energy converters can be designed
+to absorb kinetic energy, typically through moving bodies, or potential energy, often
+through overtopping devices or attenuators, or both, as in the case of point absorbers. These
+devices are specifically designed to capture either kinetic energy, potential energy, or a
+combination of both.
+
+The highest part of a wave is called the crest, while the lowest part is known as the trough.
+The vertical distance between the crest and the trough is referred to as the wave height. The
+distance between two successive crests or two successive troughs is called the wavelength.
+The amplitude of a wave is the distance from the crest to the flat water level of the sea, and
+it is essentially half the wave height. The time it takes for successive crests or troughs to
+pass a fixed point is known as the period T. Another important concept is group velocity,
+which is the speed at which a wave packet travels. A wave packet occurs when two or more
+waves exist simultaneously, which is typically the case in the ocean.
+Wave height is influenced by several factors, including wind speed, wind duration (how
+long the wind is blowing), and the fetch, which is the distance over water that the wind
+blows in a single direction. If the wind speed is low, only small waves will form. If the
+wind speed is high but lasts only for a few minutes, large waves will not develop. Similarly,
+if strong winds blow for a long time but over a short fetch, large waves will not form. Large
+waves only occur when wind speed, wind duration, and fetch all align favorably.
+The global theoretical potential of wave energy is approximately 29,500 terawatt-hours per
+year, meaning that wave energy alone could meet the entire global energy demand. Despite
+seasonal variations and short-term fluctuations, wave energy can be reliably forecasted,
+making it a widely considered dependable energy resource. The global distribution of wave
+power levels, as shown in the accompanying figure, indicates that mid-latitude regions
+have lower resource levels, while latitudes between 30 and 60 degrees, particularly in the
+southern hemisphere, experience more powerful waves.
+Unlike tidal energy, wave energy technologies have not yet converged on a single design
+approach, similar to what we've seen in wind energy. Over the years, three main working
+principles have emerged for harnessing energy from waves: oscillating water columns,
+oscillating bodies, and overtopping devices. Oscillating water columns use wave motion to
+compress air and drive a turbine, generating electricity. Oscillating bodies transform the
+motion between bodies caused by waves into electricity, while overtopping devices capture
+the potential energy of water that spills into a closed reservoir, subsequently driving a
+hydraulic turbine.
+
+Oscillating water column systems work by inducing varying pressure levels between an
+air-filled chamber and the atmosphere, with high-velocity air exhausting through a turbine
+coupled to an electrical generator as waves rise, and reversing airflow when waves fall,
+generating continuous electricity. Overtopping devices capture passing waves in a
+reservoir, releasing water through a shaft where a turbine generates energy. Attenuators
+consist of connected segments or a flexible part that extracts energy by following the
+parallel motion of waves, while point absorbers use a buoy that moves with the waves to
+generate energy. Oscillating water surge columns capture the back-and-forth motion of
+waves in an oscillating arm, and submerged pressure differential systems use the pressure
+changes caused by passing waves to trigger pumps that generate electricity.
+
+Additional technologies include bulge wave devices, which capture energy from wave
+surges through a flexible device with water passing through a turbine, and rotating mass
+systems, where the heaving and swaying of waves cause a weight to rotate within the
+device, driving a generator. Oscillating water column technology was one of the earliest
+wave energy technologies researched, and while it remains in use, fewer companies are
+currently focusing on it. In the oscillating body category, 5 projects and 14 devices are
+operational globally, with point absorbers being the most widely tested and deployed due
+to their scalability.
+
+Overtopping devices have only been tested in subscale models and are not widely pursued.
+In summary, tidal stream and wave energy technologies are rapidly advancing, with
+numerous projects being scaled up to units of 1 megawatt or higher worldwide. Tidal
+stream technology is more advanced and nearing commercialization, with several tidal
+arrays in development, while wave energy, though advancing quickly, remains less mature
+and is primarily in the prototype and demonstration phase.
+
+The next lecture will continue exploring ocean energy, focusing on ocean thermal energy
+conversion, salinity gradient energy, and marine current energy, as well as the social and
+environmental aspects and the current status and future development of these technologies.
+Thank you.
+

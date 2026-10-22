@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Final Notes & Predicted MCQs — NPTEL EVS</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="logo" href="index.html"><span class="logo-mark">EV</span> NPTEL EVS</a>
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="assignments.html">Assignments</a>
+        <a href="materials.html">Materials</a>
+        <a href="notes.html">Notes</a>
+        <a href="transcripts.html">Transcripts</a>
+        <a href="final.html" class="active">Final Notes</a>
+        <a href="mock.html">Mock Exam</a>
+      </nav>
+      <div class="top-actions"><button class="btn btn-sm" id="themeToggle" type="button">Theme</button></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <h1>Final notes · Predicted MCQs · Memory Lab</h1>
+      <p>High-chance <strong>MCQ + MSQ</strong> practice from assignment patterns, formulas, and Week 12 law. Use Memory Lab for 2-day speed recall.</p>
+      <div class="hero-meta">
+        <span class="chip ok">Assignments elsewhere = PDF-verified</span>
+        <span class="chip">This page predicted bank = practice (not official keys)</span>
+        <span class="chip hot" id="predMixInfo">Loading…</span>
+      </div>
+    </section>
+
+    <div class="tabs" id="tabs">
+      <button class="tab active" data-tab="predicted">Predicted MCQs</button>
+      <button class="tab" data-tab="cheat">Master cheat sheet</button>
+      <button class="tab" data-tab="formulas">Formulas</button>
+      <button class="tab" data-tab="flash">Flashcards</button>
+      <button class="tab" data-tab="palace">Law memory palace</button>
+    </div>
+
+    <section id="panel-predicted">
+      <div class="toolbar">
+        <select id="predWeek">
+          <option value="0">All weeks</option>
+        </select>
+        <select id="predCat">
+          <option value="">All categories</option>
+          <option value="definition">Definition</option>
+          <option value="formula">Formula</option>
+          <option value="law">Law</option>
+          <option value="numerical">Numerical</option>
+          <option value="concept">Concept</option>
+        </select>
+        <select id="predType">
+          <option value="">MCQ + MSQ</option>
+          <option value="mcq">MCQ only</option>
+          <option value="msq">MSQ only</option>
+        </select>
+        <select id="predLike">
+          <option value="">Any likelihood</option>
+          <option value="high">High chance</option>
+          <option value="medium">Medium</option>
+        </select>
+        <button class="btn btn-primary" id="predStart">Start practice</button>
+        <button class="btn btn-accent" id="predRapid">Rapid 10 high</button>
+        <span class="chip" id="predInfo"></span>
+      </div>
+      <div id="predQuiz"></div>
+    </section>
+
+    <section id="panel-cheat" hidden>
+      <div class="card" id="cheatRoot"></div>
+    </section>
+
+    <section id="panel-formulas" hidden>
+      <div class="formula-grid" id="formulaRoot"></div>
+    </section>
+
+    <section id="panel-flash" hidden>
+      <div class="toolbar">
+        <select id="flashWeek"><option value="0">All weeks</option></select>
+        <button class="btn" id="flashDue">Due only</button>
+        <button class="btn btn-primary" id="flashAll">Full deck</button>
+      </div>
+      <div id="flashRoot"></div>
+    </section>
+
+    <section id="panel-palace" hidden>
+      <div class="grid grid-2">
+        <div class="card">
+          <h2 style="margin-top:0">Week 12 law path</h2>
+          <p>Walk the story in order — say each cue aloud, then the doctrine.</p>
+          <div class="palace" id="palaceRoot"></div>
+        </div>
+        <div class="card">
+          <h2 style="margin-top:0">Mnemonics &amp; compare hooks</h2>
+          <div id="mnemRoot"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="js/app.js"></script>
+  <script src="js/quiz.js"></script>
+  <script src="js/flashcards.js"></script>
+  <script>
+    let predicted = [];
+    let formulas = [];
+    let flashcards = [];
+    let mnemonics = null;
+    let materials = null;
+    let predEngine = null;
+    let flashEngine = null;
+
+    async function init() {
+      const [pred, form, flash, mnem, mats, weeks] = await Promise.all([
+        EVS.fetchJSON("data/predicted.json"),
+        EVS.fetchJSON("data/formulas.json"),
+        EVS.fetchJSON("data/flashcards.json"),
+        EVS.fetchJSON("data/mnemonics.json"),
+        EVS.fetchJSON("data/materials-notes.json"),
+        EVS.fetchJSON("data/weeks.json"),
+      ]);
+      predicted = pred.questions || [];
+      formulas = Array.isArray(form) ? form : (form.formulas || []);
+      flashcards = flash.cards || [];
+      mnemonics = mnem;
+      materials = mats;
+
+      const weekOpts = weeks.map(w => `<option value="${w.week}">Week ${w.week}</option>`).join("");
+      document.getElementById("predWeek").innerHTML += weekOpts;
+      document.getElementById("flashWeek").innerHTML += weekOpts;
+
+      document.getElementById("tabs").addEventListener("click", (e) => {
+        const t = e.target.closest(".tab");
+        if (!t) return;
+        document.querySelectorAll(".tab").forEach(x => x.classList.remove("active"));
+        t.classList.add("active");
+        ["predicted","cheat","formulas","flash","palace"].forEach(id => {
+          document.getElementById("panel-" + id).hidden = t.dataset.tab !== id;
+        });
+        if (t.dataset.tab === "cheat") renderCheat();
+        if (t.dataset.tab === "formulas") renderFormulas();
+        if (t.dataset.tab === "palace") renderPalace();
+        if (t.dataset.tab === "flash") startFlash(false);
+      });
+
+      predEngine = QuizEngine.create(document.getElementById("predQuiz"));
+      flashEngine = Flashcards.create(document.getElementById("flashRoot"), flashcards);
+
+      document.getElementById("predStart").onclick = () => startPred(false);
+      document.getElementById("predRapid").onclick = () => startPred(true);
+      ["predWeek", "predCat", "predLike", "predType"].forEach((id) => {
+        document.getElementById(id).onchange = () => startPred(false);
+      });
+      document.getElementById("flashDue").onclick = () => startFlash(true);
+      document.getElementById("flashAll").onclick = () => startFlash(false);
+
+      predicted = predicted.map((q) =>
+        EVS.normalizeQuestion({ ...q, source: "predicted", trust: "predicted", verified: false })
+      );
+      const msqAll = predicted.filter(isMulti).length;
+      document.getElementById("predMixInfo").textContent =
+        `${predicted.length} questions · ${msqAll} MSQ · ${predicted.length - msqAll} MCQ`;
+      startPred(false);
+    }
+
+    function isMulti(q) {
+      return q.multi === true || q.type === "msq" || Array.isArray(q.answer);
+    }
+
+    function filterPred() {
+      const w = Number(document.getElementById("predWeek").value);
+      const cat = document.getElementById("predCat").value;
+      const like = document.getElementById("predLike").value;
+      const typ = document.getElementById("predType").value;
+      return predicted.filter(q => {
+        if (w && q.week !== w) return false;
+        if (cat && q.category !== cat) return false;
+        if (like && q.likelihood !== like) return false;
+        if (typ === "msq" && !isMulti(q)) return false;
+        if (typ === "mcq" && isMulti(q)) return false;
+        return true;
+      });
+    }
+
+    function startPred(rapidHigh) {
+      let qs = filterPred();
+      if (rapidHigh) {
+        // Mix high-chance MCQ + MSQ (at least 3 MSQ when available)
+        const high = predicted.filter((q) => q.likelihood === "high");
+        const highMsq = EVS.shuffle(high.filter(isMulti));
+        const highMcq = EVS.shuffle(high.filter((q) => !isMulti(q)));
+        const msqTake = Math.min(3, highMsq.length);
+        qs = EVS.shuffle([
+          ...highMsq.slice(0, msqTake),
+          ...highMcq.slice(0, 10 - msqTake),
+        ]).slice(0, 10);
+        // Still respect type filter if user set MSQ/MCQ only
+        const typ = document.getElementById("predType").value;
+        if (typ === "msq") qs = EVS.shuffle(highMsq).slice(0, 10);
+        if (typ === "mcq") qs = EVS.shuffle(highMcq).slice(0, 10);
+      }
+      predEngine.setMode("practice");
+      predEngine.setQuestions(qs);
+      const msqN = qs.filter(isMulti).length;
+      document.getElementById("predInfo").textContent =
+        `${qs.length} in set · ${msqN} MSQ · ${qs.length - msqN} MCQ`;
+    }
+
+    function renderCheat() {
+      const weeks = materials.weeks || [];
+      document.getElementById("cheatRoot").innerHTML = weeks.map(n => `
+        <div class="note-block" style="border-bottom:1px solid var(--line);padding-bottom:1rem;margin-bottom:1rem">
+          <h3 style="margin:0 0 0.4rem">Week ${n.week}: ${esc(n.title)}</h3>
+          <div class="flag-row">${(n.examFlags||[]).slice(0,10).map(f=>`<span class="flag">${esc(f)}</span>`).join("")}</div>
+          <ul>${(n.mustRemember||[]).map(x=>`<li>${esc(x)}</li>`).join("")}</ul>
+        </div>
+      `).join("");
+    }
+
+    function renderFormulas() {
+      document.getElementById("formulaRoot").innerHTML = formulas.map(f => `
+        <div class="formula-card">
+          <div class="chip">Week ${f.week}</div>
+          <h3 style="margin:0.4rem 0">${esc(f.name)}</h3>
+          <code>${esc(f.formula)}</code>
+          <p style="font-size:0.88rem;margin:0.35rem 0"><strong>Vars:</strong> ${esc(f.variables)}</p>
+          <p style="font-size:0.88rem;margin:0;color:var(--muted)">${esc(f.example)}</p>
+          <p style="font-size:0.85rem;margin:0.4rem 0 0;color:var(--brand)">${esc(f.tip)}</p>
+        </div>
+      `).join("");
+    }
+
+    function startFlash(dueOnly) {
+      const w = Number(document.getElementById("flashWeek").value);
+      let cards = flashcards;
+      if (w) cards = cards.filter(c => c.week === w);
+      flashEngine.setCards(cards, dueOnly);
+    }
+
+    function renderPalace() {
+      const steps = mnemonics.memoryPalace?.steps || [];
+      document.getElementById("palaceRoot").innerHTML = `
+        <p class="chip hot">${esc(mnemonics.memoryPalace?.title || "Memory palace")}</p>
+        ${steps.map(s => `
+          <div class="palace-step">
+            <div class="palace-num">${s.order}</div>
+            <div>
+              <strong>${esc(s.cue)}</strong>
+              <div style="color:var(--muted)">${esc(s.fact)}</div>
+            </div>
+          </div>
+        `).join("")}
+      `;
+      const mnems = mnemonics.mnemonics || [];
+      const hooks = mnemonics.compareHooks || [];
+      document.getElementById("mnemRoot").innerHTML = `
+        <div class="note-block">
+          <h4>Mnemonics</h4>
+          <ul>${mnems.map(m => {
+            if (typeof m === "string") return `<li>${esc(m)}</li>`;
+            const body = [m.expansion, m.hook].filter(Boolean).join(" — ");
+            return `<li><strong>${esc(m.title || m.name || "")}:</strong> ${esc(body)}</li>`;
+          }).join("")}</ul>
+        </div>
+        <div class="note-block">
+          <h4>Compare hooks</h4>
+          <ul>${hooks.map(h => {
+            if (typeof h === "string") return `<li>${esc(h)}</li>`;
+            return `<li><strong>${esc(h.pair || h.title || "")}:</strong> ${esc(h.hook || h.note || "")}</li>`;
+          }).join("")}</ul>
+        </div>
+      `;
+    }
+
+    function esc(s) {
+      return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+    }
+
+    init().catch(e => {
+      document.getElementById("predQuiz").innerHTML = `<div class="empty">${e.message}</div>`;
+    });
+  </script>
+</body>
+</html>

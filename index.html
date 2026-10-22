@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NPTEL EVS — 2-Day Practice Hub</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="logo" href="index.html"><span class="logo-mark">EV</span> NPTEL EVS</a>
+      <nav class="nav">
+        <a href="index.html" class="active">Home</a>
+        <a href="assignments.html">Assignments</a>
+        <a href="materials.html">Materials</a>
+        <a href="notes.html">Notes</a>
+        <a href="transcripts.html">Transcripts</a>
+        <a href="final.html">Final Notes</a>
+        <a href="mock.html">Mock Exam</a>
+      </nav>
+      <div class="top-actions">
+        <button class="btn btn-sm" id="themeToggle" type="button">Theme</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <div class="hero-meta">
+        <span class="chip">IIT Kharagpur</span>
+        <span class="chip">Environmental Science</span>
+        <span class="chip hot">Exam in ~2 days</span>
+      </div>
+      <h1>Practice hub for full marks</h1>
+      <p>
+        Computer-based NPTEL final: typically <strong>100 MCQs</strong>, <strong>3 hours</strong>,
+        <strong>no negative marking</strong>. Score = 25% assignments + 75% exam. Attempt everything.
+        This app turns your weekly PDFs into notes, drills, flashcards, and a CBT mock.
+      </p>
+      <div class="actions">
+        <a class="btn btn-primary" href="assignments.html">Drill assignments</a>
+        <a class="btn btn-accent" href="mock.html">Start mock exam</a>
+        <a class="btn" href="final.html">Predicted MCQs + Memory Lab</a>
+      </div>
+    </section>
+
+    <div class="grid grid-4" id="statsGrid">
+      <div class="card"><h3>Answered</h3><div class="score-big" id="statAnswered" style="font-size:1.8rem">0</div></div>
+      <div class="card"><h3>Accuracy</h3><div class="score-big" id="statAcc" style="font-size:1.8rem">0%</div></div>
+      <div class="card"><h3>Weak Qs</h3><div class="score-big" id="statWeak" style="font-size:1.8rem">0</div></div>
+      <div class="card"><h3>Mocks done</h3><div class="score-big" id="statMocks" style="font-size:1.8rem">0</div></div>
+    </div>
+
+    <div class="section-title"><h2>2-day battle plan</h2></div>
+    <div class="grid grid-2">
+      <div class="card plan-day">
+        <h3>Day 1 — Foundations + Energy</h3>
+        <p>Weeks 1–6 · Build speed on definitions, climate, renewables</p>
+        <ul>
+          <li>Read Week Notes W1–W6 (definitions + high-yield sections)</li>
+          <li>Skim Materials flags as a second pass</li>
+          <li>Practice Assignments W1–W6 (Practice mode)</li>
+          <li>Formula strip: EPI, IPAT, Betz, exponential growth</li>
+          <li>Flashcards: due cards 20 min · Rapid 10 weak set before sleep</li>
+        </ul>
+        <div class="actions">
+          <a class="btn btn-sm btn-primary" href="notes.html">Week notes</a>
+          <a class="btn btn-sm" href="assignments.html">Assignments</a>
+        </div>
+      </div>
+      <div class="card plan-day day2">
+        <h3>Day 2 — Systems + Law + Mocks</h3>
+        <p>Weeks 7–12 · Circular, water, waste, noise, ecology, legislation</p>
+        <ul>
+          <li>Week Notes W7–W12 + Week 12 Memory Palace</li>
+          <li>Assignments W7–W12 + Predicted bank</li>
+          <li>Noise &amp; WQI numericals · Law cases drill</li>
+          <li>Full 100-Q mock morning · Review wrong · 2nd mock evening</li>
+          <li>Last hour: cheat sheet + flagged only</li>
+        </ul>
+        <div class="actions">
+          <a class="btn btn-sm btn-accent" href="final.html">Final notes</a>
+          <a class="btn btn-sm" href="mock.html">Mock</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-title"><h2>Study hubs</h2></div>
+    <div class="grid grid-4">
+      <div class="card">
+        <h3>Assignments</h3>
+        <p>200 weekly MCQs/MSQs with solutions — closest to real exam style.</p>
+        <div class="actions"><a class="btn btn-primary" href="assignments.html">Open</a></div>
+      </div>
+      <div class="card">
+        <h3>Week Notes</h3>
+        <p>Full study chapters: definitions through exam checklist for each week.</p>
+        <div class="actions"><a class="btn btn-primary" href="notes.html">Open</a></div>
+      </div>
+      <div class="card">
+        <h3>Learning Materials</h3>
+        <p>Condensed week notes, compare tables, exam-flag chips.</p>
+        <div class="actions"><a class="btn btn-primary" href="materials.html">Open</a></div>
+      </div>
+      <div class="card">
+        <h3>Text Transcripts</h3>
+        <p>60 lecture one-pagers: keywords, likely facts, mnemonics.</p>
+        <div class="actions"><a class="btn btn-primary" href="transcripts.html">Open</a></div>
+      </div>
+    </div>
+
+    <div class="section-title"><h2>Weak weeks</h2><span class="chip" id="weakHint">Practice to populate</span></div>
+    <div class="week-pills" id="weakWeeks"></div>
+
+    <div class="section-title"><h2>Exam pattern cheat</h2></div>
+    <div class="card">
+      <ul>
+        <li><strong>Mode:</strong> In-person computer-based · Chrome · no tab switching</li>
+        <li><strong>Time:</strong> 180 min · can leave after 90 min</li>
+        <li><strong>Marking:</strong> Usually 1 mark/Q · no negative marking → attempt all</li>
+        <li><strong>Calculator:</strong> On-screen only · rough sheets provided</li>
+        <li><strong>Your weekly styles that repeat:</strong> MCQ, MSQ, assertion–reason, match, numericals</li>
+      </ul>
+    </div>
+
+    <p class="footer-note">
+      Course: NOC Environmental Science (Profs. Shamik Chowdhury &amp; Sudha Goel).
+      Progress saves in this browser via localStorage. Serve the <code>webapp</code> folder over HTTP (see README).
+    </p>
+  </main>
+
+  <script src="js/app.js"></script>
+  <script>
+    async function initHome() {
+      const stats = EVS.progressStats();
+      document.getElementById("statAnswered").textContent = stats.answered;
+      document.getElementById("statAcc").textContent = stats.accuracy + "%";
+      document.getElementById("statWeak").textContent = stats.weakCount;
+      document.getElementById("statMocks").textContent = stats.mocks;
+
+      const weakMap = EVS.weekWeakMap();
+      const el = document.getElementById("weakWeeks");
+      const weeks = Object.keys(weakMap).map(Number).sort((a,b)=>a-b);
+      if (!weeks.length) {
+        el.innerHTML = '<span class="chip">No weak weeks yet — start Assignments</span>';
+        return;
+      }
+      document.getElementById("weakHint").textContent = "More misses = higher priority";
+      el.innerHTML = weeks.map(w =>
+        `<a class="week-pill weak" href="assignments.html?week=${w}">W${w} · ${weakMap[w]} miss</a>`
+      ).join("");
+    }
+    initHome();
+  </script>
+</body>
+</html>

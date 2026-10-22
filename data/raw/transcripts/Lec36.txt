@@ -1,0 +1,311 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                Week 08
+                                               Lecture 01
+                   Hydrologic cycle, sources of water and water pollution
+
+Welcome everyone to week 8, we are going to start with water quality, its reuse and
+recycling. And in our first topic in week 8, we will look at the hydrologic cycle, the
+sources of water, and why water gets polluted.
+So some of the concepts that we are going to cover in today's lecture, we look at the
+hydrologic cycle, what are the water resources that we can use, how much water quantity
+is required for our daily use, what are the sources of water pollution and last point is
+environmental flows.
+
+The keywords for this particular lecture are hydrologic cycle, water resources, water
+usage, the quantity, we will look at groundwater, surface water, point sources of
+pollution, non-point sources of pollution, and environmental flow.
+You are all familiar with the hydrologic cycle, but just to make sure that every one of us
+is completely clear about the terminology, I will start with that. So, we know that water
+evaporates from both terrestrial as well as ocean water bodies. So you have terrestrial
+water bodies which are not shown in the schematic, but you have oceans and seas and so
+on. So, any surface water body is subject to evaporation. So evapotranspiration, the usage
+of water by plants that is transpiration and evaporation is happening from any surface
+water body. So that sends the water, it converts basically the water into water vapour and
+that water vapour is accumulating in the atmosphere. When the level of water vapour in
+the atmosphere becomes completely saturated, it starts condensing and it comes down as
+precipitation. Now, when it comes down as precipitation, it comes down over both
+terrestrial as well as marine environments. Now, this precipitation can be in any form, it
+can be rain, it can be hail, it can be ice, snow and so many other forms that may happen.
+So when this precipitation falls on ground surface, two things can happen to it. If the
+ground surface, the subsurface is saturated, then you get surface runoff which means a
+sheet of water is formed on the surface of the ground and all of that water will seek the
+lowest possible level. So it will run towards any low-lying area or any low-lying surface
+water body. So that surface water body can be rivers, streams, ponds, lakes or even the
+ocean and sea. So that we call surface runoff. If the subsurface is not saturated, part of the
+precipitation will go deeper into the subsurface because as long as it is not saturated,
+there will be inflow of water from the surface into the subsurface and that we call
+infiltration. Now this infiltrated water will eventually go to a groundwater aquifer. We
+are not going to go into all those details, but this infiltration will add to the groundwater
+resources. So this surface runoff is going to contribute water to surface water bodies and
+the infiltrated water will contribute water to groundwater bodies. So groundwater is not
+visible to the eye, it is there in the subsurface and these days we are becoming heavily
+dependent on groundwater. I will be talking about that in a few slides after a few slides.
+
+So what we have on this slide is the percent distribution of the world's water resources.
+We all know that the planet is a watery planet, the surface area of the planet is covered by
+water, 70% of the surface area of the planet is covered with water. However, 97% of the
+entire volume of water on the planet is locked in the seas and oceans. It is saline water. It
+has a salinity level of 35,000 milligrams per liter and it is practically of no use for human
+activities and that is where the bulk of the water is. The useful water is freshwater that is
+3%. For human activities, for drinking, cooking and so many other activities we need
+water that has a salinity that is less than 1000 milligrams per liter and that is not so
+plentiful on the planet. So freshwater constitutes 3% only of the entire globe's water
+resources. Of this 3%, 68.7% is locked in the ice caps and glaciers, 30.1% is in the
+groundwater and when you think about groundwater you have to remember that all
+groundwater is not accessible. So some of it is too deep to be taken out and therefore
+accessibility is another issue which we are not going to go into in any detail but it is an
+important point. What we are left with is 0.3% surface water and 0.9% other types of
+water resources. Let us focus on surface water. Throughout human history, civilizations
+have flourished on the banks of rivers. So out of that surface water, 2% is in the rivers,
+11% is in the swamps and 87% is in the lakes. So this is our distribution of freshwater in
+surface water bodies.
+But just to show you the numbers, the amount of usable freshwater on the planet is a very
+very small amount. So, what you see in this table on the planet we have 1.4 million cubic
+kilometers. So that is a lot of water but most of it 97.5% is saltwater. It is of no use to us.
+Freshwater is the remaining 2.5% out of which groundwater is 0.78% and useful or
+usable freshwater is 0.014%. So, the amount of usable freshwater is extremely small even
+though our planet is considered a watery planet. We have a lot of water but not much of it
+is useful.
+How do we use water? Now, whether we are using groundwater or river water, so this
+small schematic over here represents a hand pump. Hand pump is shallow groundwater.
+Today, we use deep tube wells and so on and we are using groundwater like I said in a
+big way and I will come to that later. So we have two major water resources. We have
+groundwater and surface water and most of our surface water is either from rivers or
+lakes and so on. We withdraw this water, we consume it and a significant portion of what
+we utilize goes back in the form of wastewater to these surface water bodies or to the
+land areas and so on. Now we have a general thumb rule, which you will find useful later
+when I talk about municipal wastewater treatment. We generally assume that 80 to 90%
+of the total water that is withdrawn ends up as wastewater. So 80 to 90% of the
+wastewater goes back. This is returned to either surface water bodies or to land or to sea
+and we will be spending a little more time on that. Now, this actual percentage this is a
+broad generalization. When I say 80 to 90%, it is a broad generalization. The actual range
+of values can be as much as low as 50% and as high as even greater than 100%. I will say
+a few things about this point here. Why is most of our water ending up as wastewater?
+What you need to do is a simple water calculation for yourself. You can keep a diary on a
+daily basis and think about how much water you are using and for what and where is the
+wastewater coming from. So, most of us are using water for drinking, cooking, bathing.
+We use it for cleaning our clothes, our utensils, our homes, our common areas. If you
+have a garden, you are using it for garden and horticulture. If you are doing farming, then
+you are using it for irrigation. So these are some of the common uses of water at the
+residential level. If you have a garden or a farm or you are using it for horticulture, that
+water is consumed. It does not come back. It goes into the soil, it goes into the land, into
+the crops and there is no return. That is consumptive use of water. There is zero return.
+Drinking, cooking can be considered zero return. Where is the wastewater coming from?
+It is coming from toilet use, from cleaning uses. Those are where you are utilizing the
+water. The quantity of water ends up in the wastewater drain. It loses its quality. You are
+not losing quantity, you are losing quality. So where there are no gardens and farms, for
+example, in urban areas where you have high-rise buildings, people are living in
+apartments, they do not have gardens and farms. So, the bulk of the water that they are
+using is ending up as wastewater. So it can be even 90% or even 100%. In urban areas,
+we are also using private tube wells. So sometimes the amount of municipal wastewater
+that we are discharging into the environment can be more than 100% because of the
+private water supplies. People bring water through tankers into the city. They have their
+own private tube wells. So because of all these reasons, you can have municipal
+wastewater discharges that are greater than 100%. And it is only in the suburban areas
+where people have gardens and farms that you may have 50% return of wastewater
+because whatever goes into the garden or farm is not coming back. That is non-return.
+That is consumptive use of water. Okay. So, coming back to our schematic, withdrawal is
+a single input and there are two possible outputs. We have consumption and return. And
+this applies to both groundwater and river water or any other type of water resource.
+
+So, what is withdrawal? Withdrawal is the water extracted from surface water bodies or
+groundwater. What is consumption? Consumption is water that is used but not returned.
+So like I said drinking, cooking, evaporation, utilization of water by vegetation that is
+called transpiration. All these are consumptive uses of water. Then we have returns. As I
+said cleaning, washing, bathing, all these are where the water is returned to the water
+body and can be used in the future. The important point to remember is that this water has
+been converted from good-quality water to poor-quality water. So that is what we call
+wastewater. Now let us think about the use of water first at the individual scale and then
+at the national scale. Now, scale matters and I will start with the individual scale which is
+at the bottom of this slide. I already said keep a diary if you can for at least one week. If
+you can keep a diary for a week or 10 days and make a note of how much water you are
+using on a daily basis and for what activity. You will find that in a country like ours, I did
+the same thing. What I am suggesting to you I did that and I found that I need at least 100
+liters per person per day for my individual domestic water use. Now, where is my water
+usage going? It is going into cleaning, bathing, showering, drinking, cooking, all these
+activities are daily domestic activities is where you need 100 liters minimum 100 liters
+per capita per day are required. And you should do the same exercise for yourself and
+many of us are using water using appliances. So we have clothes washing machines, we
+have dishwashing machines, we have cleaning machines for the house and so many other
+activities are there. So depending on what activities you have the area of the house, the
+number of people in the house all that will make a difference to this number. If you
+compare the number for a country like ours to a developed country, you will find a major
+difference. Developed countries where they are using more water for maybe for
+gardening, for car washing, for some of these water using appliances. So, for them, the
+individual use is 227 liters per capita per day. Why is the number at the national scale so
+much higher than the individual scale? The individual scale is domestic scale only,
+residential usage only. Where are the other uses coming from?
+
+And they are shown over here. We have domestic and residential uses which are both
+consumptive and non-consumptive. We have industrial uses, we have agricultural uses
+and we have energy development uses. What is energy development? That is basically
+thermal power plants. In all thermal power plants, you need cooling water. So, cooling
+water is one of the biggest both consumptive as well as non-consumptive use of water.
+And there is another word that is used over here and that is off stream. So when you
+extract water from the water body and utilize it and then whether you return it or not is
+irrelevant, but that is called off-stream usage. And in stream we have several other uses
+which are non-consumptive uses. So there is no diversion or withdrawal of water. You
+can have these kinds of in-stream uses are for ecosystem maintenance, for habitat
+improvement of certain species, maintenance of water quality, recreation, navigation,
+aquaculture, and hydroelectric power production.
+But let us come to the actual numbers. When we estimate water requirement at the state
+or national level, the biggest requirement is irrigation. Agricultural use of water is the
+biggest factor and here it's shown to be 78 percent. I will show you the actual numbers
+what this is estimated water demand. The actual requirement is even higher, it is close to
+90 percent. So irrigation is taking up the bulk of the water at the national or state level
+and that is something we do not see at the individual level. Most of us live in apartments
+and because we live in apartments we do not have gardens and farms and so on, okay. So
+we do not have to account for that and that what we are using is domestic water usage
+and that is only 6 percent of the total. Industrial usage is also not so high, it is 5.3 percent.
+Power which I said from thermal power plants for cooling water that is 2.6 percent.
+Navigation 1 percent, ecological or eco conservation, habitat improvement that is 0.7
+percent and finally we have evaporation losses. Now this evaporation losses of 6 percent
+are actually very small. There are parts of our country where the evaporation losses go up
+to 30 percent. This is a huge loss in certain parts of the country and 6 percent is a national
+average.
+So, coming back to this point, a developed country like the US is utilizing 4845 liters per
+capita per day accounting for all uses. So, what you can do to calculate this number is to
+take the total amount of water used in the entire state or country and divide it by the
+population of that state or country and that gives you close to 5000 liters per capita per
+day for the US and for India it is about 1669 liters per capita per day. Now remember that
+this includes irrigation, which is the biggest user.
+What is the actual fact? Where is our water going? 90.4 percent of our water goes for
+irrigation and livestock breeding. So this combination of irrigation and livestock is where
+the bulk of our water is being used. Municipal usage is very small, 2.23 percent is used
+by municipal for domestic purposes. Now when I say municipal use, municipal use
+includes domestic use, commercial use and whatever industries there may be within
+municipal areas. They are normally small scale to medium scale industries. Actual
+industrial usage in large industries is 7.36 percent. In terms of withdrawal by water
+resource, how much of it is coming from surface water? 52 percent of our total water
+used is coming from surface water. 33 percent is coming from groundwater and about 15
+percent is reused agricultural drainage water. So some of the agricultural water which is
+draining out can be reused and that is what is happening.
+
+So let us take a look at our major water user. We are using most of our water for
+
+irrigation. Where is this irrigation water coming from? So based on a source-wise
+
+distribution of net irrigated area in India, you can see that the bulk of our irrigated area is
+
+irrigated by well water. So 61.6 percent of our irrigation irrigated area is utilizing
+
+groundwater. Some of it, one quarter is coming from canals and these canals are from
+
+surface  water                                    bodies.
+
+We also have tank irrigation, close to 3 percent is coming from tank irrigation and about
+
+11 percent is coming from other water resources.
+So let us now take a look at water use and reuse in urban areas not just in our country, but
+this is a fairly global and simple schematic of how we use and reuse water. There are two
+major water resources, one is surface water and the other is groundwater. So, we need to
+first identify our water resource. So, whether we are using a shallow groundwater well or
+a deep tube well that is one possibility. If you are using water from a surface water body,
+we have what is called a surface water intake. Now, these intakes are used for collecting
+the water from that water resource. Depending on the water quality, it has to be treated.
+The minimum level of treatment that is required in our country is disinfection. If you are
+ever going to store the water, you have to disinfect it prior to distributing it to the
+consumers.
+
+So, the first level is water treatment and then if the water quality is not very good, you
+have to treat it to a much greater extent. And then once it is treated disinfected, it is
+distributed through a distribution network. And if you think about the tap water that you
+are familiar with, you know that you open your tap and you get drinking water quality.
+Water that comes out of the tap is of drinking water quality. And yeah, and that is you as
+the consumer are withdrawing water from the tap and that is of drinking water quality.
+Now just look at the pipes that bring your water to the tap. So there is a huge network of
+small and large pipes that will bring that water to your tap. So that is the distribution
+network. After you utilize water, it goes down the drain. And this drain water is collected
+and it eventually goes to a sewer system. And these sewers, these sewers are very large
+pipes and some of them are visible in certain parts of the city. But these are very large
+pipes with diameters of perhaps a meter or even more. And these sewers will collect the
+water, the wastewater and take it to a wastewater treatment plant. There the wastewater is
+treated to a level that will not harm the aquatic ecosystems. So, these aquatic ecosystems
+into which the wastewater is likely to be discharged have to be protected from pollution
+by this wastewater. So I will talk a little bit more about that later. Now, after the
+wastewater treatment plant has treated it to what we call secondary level of treatment,
+that water can be reused for irrigation. It is rich in nutrients like nitrogen and phosphorus
+and after disinfecting it, it can be reused for irrigation. So this is a fairly common practice
+and frankly, it is an ancient practice almost people have been using wastewater in cities
+has always been reused for irrigation for time immemorial it seems. But we are now
+recommending that secondary wastewater treatment is the minimum requirement and
+then because it is rich in nutrients, it can be reused for irrigation. It can also be treated
+further. So, you can take it for tertiary treatment, you can take it for higher levels of
+treatment. And there are parts of the world where water is very scarce these days. And for
+those parts, people are now treating water beyond the secondary level and taking it back
+to drinking water quality. So, there are at least two well-documented cases for a very long
+time. Since 1968, Namibia has been recycling its wastewater back to drinking water
+levels. And in Singapore, since I think 1998, they have also started recycling wastewater
+back to drinking water levels. So that is another possibility. And the last possibility is that
+if you cannot reuse or recycle it, then you can discharge it over land into a surface water
+body or into the sea.
+
+So, what we have in this slide is a representation a graphical representation of the
+different types of pollution sources. Now, why is our water getting polluted? Now, within
+these pollution sources, we can categorize them into categories. One is point sources and
+the other is nonpoint sources. If you walk down any river bank, you will find that there
+are drains that are discharging directly into the river. You might see the same kind of
+scenario in lakes and ponds, where you have a pipe that is discharging wastewater
+directly into the water body. So those are called point sources because it is a small pipe,
+relatively small pipe that is discharging the water. So, it is a point source. Nonpoint
+sources are where you have large areas that are contributing water to the water body or
+the land and so on. So, whenever you see a Nala or a pipe that is discharging wastewater,
+it can be municipal wastewater or it can be industrial wastewater. So, these residential
+and commercial activities, industrial activities, all of these wastewaters are going to be
+discharged generally through pipelines. And these pipelines are all point sources. So, you
+can see it in this graphic over here. You have the wastewater treatment plant discharge
+after treatment. Unfortunately in our country, not all wastewater is treated, some of it is
+partially treated, some of it is completely untreated. So, we have industrial wastewater,
+we have municipal wastewater and we have treated wastewater. All of these are
+considered point sources. We then come to solid waste dumps. Now, solid waste dumps
+or even landfills, they can be either municipal or they can be industrial and you have
+leachate that comes out of these solid waste dumps. Some of these dumps occupy a small
+area and the leachate may be a small little stream that is going directly into a water body.
+In that case, it is considered a point source. But then there are certain areas that are huge.
+They are occupying acres and acres of land are occupied by these solid waste dumps.
+And you have multiple sources of leachate that are going into either the subsurface or
+into the surface water bodies.
+
+So, pollution in these cases happens because of leachate from solid waste dumps and it
+pollutes the groundwater as well as the surface water. So, that is something that is not
+mentioned in the slide. It is not shown over here, but that is also a major issue in many
+parts of the world including our own country.
+So, just the last part of it, when we think about nonpoint sources, we have surface runoff
+from urban areas as well as rural areas. In urban areas, we have paved areas. These paved
+areas include roads, pavements, parking lots as well as the built-up area. Now, when
+precipitation falls on these paved areas, it takes with it the dust, soil, and chemicals that
+are basically lying on the dry paved areas and then they are picked up by the
+precipitation. These dry materials come from traffic emissions from commercial and
+industrial activities. And when there is a storms on rainstorms and so on, all this ends up
+in the surface water body as surface runoff. So, these are considered nonpoint sources.
+In rural areas, we have agricultural fields and feed lots. Now these agricultural fields and
+feed lots have, you have pesticide use, you have fertilizer use, you have so many other
+chemicals that are being used these days and you also have wastewater coming from the
+feed lots. So, from rural areas, the surface runoff is polluted by these chemicals and these
+chemicals will eventually end up in the surface water bodies as well as groundwater if it
+infiltrates into the groundwater.
+
+So now we come to one of the last concepts which is a relatively new concept and that is
+environmental flows. Now, it is standard practice now to maintain environmental flows in
+perennial rivers. This is a requirement for all major and minor perennial rivers and the
+reason is that we do not want these rivers to lose their water, to lose any or rather to put it
+in another way, no section of these rivers should be completely dry. What is happening in
+certain parts of the world including our own is that water from these perennial rivers is
+being diverted for irrigation. We have already seen that irrigation is the biggest water
+user. So, if all, not just 90 percent but if almost 100 percent of the water is diverted to
+canals for irrigation, there will be nothing left in the river for the aquatic ecosystems to
+survive. So, e-flows is now the norm, it has to be followed to ensure that all rivers
+continue to have healthy aquatic ecosystems and all of the water is not diverted for
+irrigation. So, to maintain the flora and fauna at a healthy level in all these aquatic
+ecosystems, especially in riverine ecosystems, it is now essential to maintain what is
+called environmental flow. So, this environmental flow is the minimum flow required to
+be maintained throughout the length of the river.
+
+Some of the references that I have used for this particular lecture are listed over here and
+that brings me to the end of this particular lecture. Thank you.
+

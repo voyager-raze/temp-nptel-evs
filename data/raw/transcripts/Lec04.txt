@@ -1,0 +1,389 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                Week 01
+                                               Lecture 04
+   Measuring Environmental Impacts ­ the IPAT Model and Ecological Footprint
+
+Alright, welcome everyone to lecture 4 in week 1. In this particular lecture, we will be
+looking at how to measure environmental impacts.
+So, in this particular lecture, we are going to look at some models, basically two models,
+one is called the IPAT model. I will now go through the details of how we calculate the
+ecological footprint.
+
+Some of the keywords in this lecture are pillars of sustainable development, the capital
+stock model, principles of sustainability, the IPAT model, the earth overshoot day and
+biocapacity of the planet.
+So let's start with the pillars of sustainable development.
+
+You may all be familiar with the fact that sustainable development has, three major
+aspects to it or three pillars that these are called the three pillars of sustainable
+development. Because anytime you want to have sustainable development, you have to
+include all three parts of this triangle. So we have our human capital, this is the social
+part of it. At the individual level, how are human beings contributing to sustainability
+and how does society as a whole contribute to it or is affected both positively and
+negatively by different parts of different activities related to sustainability?
+
+We have our environment, our environment includes both abiotic and biotic parts of the
+environment. How are they interacting? How do they result in sustainability? How can
+we make it sustainable? How can we make sure that our natural resources remain
+protected? So whether those natural resources are either living resources, the biotic part,
+or the non-living part. So, all of that comes under environment. And finally, we also want
+to make sure that we are able to protect our financial resources. So, our economic well-
+being, our financial well-being, whether at the country level, at the regional level, all of
+that is intimately tied to these two other factors or pillars of sustainability. So you have
+social as well as environmental factors that will lead to better economic growth and
+sustainable or long-term economic growth. So these are considered the basics of
+sustainability.
+So we now come to what is called the capital stock model. This is the model that is used
+by the World Bank, to explain the nature of capital, stock, and sustainability. It's based on
+a very simple premise, that if we live off the interest and not the capital, then the basis of
+prosperity is maintained. The analogy here is with your account, let's say in a bank. If
+you have a certain capital that you deposit in the bank and you live off of the interest,
+then you will have a regular income for the long term.
+
+But if you withdraw part of that capital, then the basis of your income for the future is
+endangered. So the analogy here is that the capital is our natural resources. This is our
+natural capital and this natural capital should not be the basis of our prosperity. Instead,
+we should be living off of the interest or the surplus that we gain from this capital
+because if we deplete the capital, then the long-term existence of human beings is
+basically endangered. So our future generations are likely to face a deficit and they
+already are in many parts of the world, including our own country, we are already facing
+a deficit in terms of natural capital.
+
+So we'll be talking about that later in the next lecture. And this is the basis, this is the
+premise on which the entire idea of capital stock model is based on. So, the capital stock
+for sustainable development is the sum of the capital stock for the environment, the sum
+of the capital stock for the economy, and some of the capital stocks for the social
+environment or society at large.
+What are the principles of sustainability? One of the textbooks that I'm using for this
+course has summarized it in four principles. I have added a couple more and that is we
+would like to maximize use of renewable resources for materials as well as energy.
+
+One of the major requirements for all human beings is both mass and energy for our daily
+activities and so on. So, we want to maximize that, we want to minimize use of non-
+renewable materials and we want to maximize use of renewable sources. That is the first
+thing. We also want to ensure that our ecosystems are not destroyed. They remain stable
+and to maintain stable ecosystems we have to maintain biodiversity.
+
+How can we maintain biodiversity for these ecosystems? That is through population
+control. Not only do we have to control human population growth, but we also have to
+under certain conditions control the growth of certain other organisms which will
+otherwise cause ecosystems to become unstable. I have already mentioned several times
+that biogeochemical cycles are the foundation through which nutrient cycling happens
+throughout the environment. Without these biogeochemical cycles which are again tied to
+stable ecosystems, this nutrient cycling would not be possible. So, these are the basic
+activities that are going to form the basis of sustainable development.
+Here we are going to start with our first model. So, we are measuring environmental
+impacts and one of the oldest models that you will find in the textbooks is the IPAT
+model. So, the IPAT model or it's also called the disaggregated growth rates in another
+textbook that I am using in my core, part of the course. This IPAT model was first
+proposed by Paul Ehrlich and John Haldane in 1971. The entire reference, the first paper
+on this topic is noted over here.
+
+You can access it perhaps from the internet and we will come directly to the model.
+What is the IPAT model? I stands for environmental impact. P stands for population. A
+stands for affluence, and T stands for technology. It sounds very simple and it can be
+used for quite a few simple calculations.
+
+So let us start with an, before we come to an example, let us come to each one of these
+terms. We want to find, we want to determine the environmental impact of certain
+technologies or of certain activities. We need to know the population of that area. So, in
+general, this kind of calculation is done for either a country or a state. You can do it for
+smaller scales, but it is better to do it for larger scales. So mostly at the state or regional
+level. Then we come to affluence. What is affluence? Affluence is related to the income
+of the region or the country. So per capita energy demand, most of us realize that as
+income levels grow, the individuals and therefore society as a group is going to be using
+more energy. So the per capita energy demand, I have already shown you in previous
+lectures that our resource consumption in terms of electricity generation is growing. So as
+a country, we are increasingly using electricity. So our per capita energy demand is
+definitely increasing. You can also measure affluence in terms of how much waste is
+generated. That is another parameter that is related to the income, both of the individuals
+as well as to the region or country. So when we talk about the income of a country, we
+talk about gross domestic product or gross national product. So either of these parameters
+can be used to determine affluence at the regional or country level. What is technology?
+Technology can be measured in many different ways. In this example, I am going to use
+the example of CO2 emissions per year. So, in this case, how much CO2 is emitted in
+kilograms per unit of electricity generated that is a factor of the technology used. So, if I
+have, let's say, poor efficiency, then the amount of CO2 emitted may be higher.
+So here we have technology. The last parameter is technology and in this case, it can be
+carbon emissions per unit of energy consumed or used. So that can be kilowatt hours and
+then you can divide it by the gross domestic product of the country. That is one way to
+do it. The other way to do it is as shown in this example.
+So here we want to look at environmental impact in terms of carbon dioxide emissions
+per year. So, our environmental impact is measured in terms of CO2 emissions per year
+and how do we calculate it for any country? So, we need to know the population of the
+country. Then we need to know the per capita electricity usage from fossil fuels. So that
+also is often this kind of data is often available for most countries, including our own.
+So, this per capita electricity usage from fossil fuels per year can be found, can be used
+and then we have CO2 emissions in kilograms of CO2 per kilowatt hour generated. We
+know how much electricity is being generated in the country and it's being generated
+through fossil fuel-based thermal power plants and we can calculate the CO2 emitted in
+kilograms.
+
+So what we are going to do here is we will take a look at the IPAT model and how it can
+be used to determine CO2 emissions from fossil-based thermal power plants. We are
+going to look at coal and natural gas-based thermal power plants and we are going to
+compare data for the US as well as India. So this is basically to give us a sense about how
+developed countries like the US are emitting CO2 and how our country is doing the same
+on the same scale.
+
+So let us take a look at the data. The first thing we need to know is what is the total
+amount of electricity generated. Our units are billion kilowatt hours per year and this
+data is as of February 2023. So, in the US, they are using 4243 billion electrical units or
+kilowatt hours and in contrast, we are using 1615 billion kilowatt hours. Our populations
+estimated for 2022 in billions it's 0.333 for the US and 1.417 for India. Using these two
+sets of numbers we can determine per capita electricity consumption in both countries.
+So, what we see is that in the US, the per capita electricity consumption is 12,742
+kilowatt hours per capita per year. In contrast, we are using 1140 kilowatt hours per
+capita per year. Now this is obviously a huge difference, but how does it translate into
+CO2 emissions and that is what we are going to spend the rest of our time on.
+
+So, if we look at how much of the electricity in the US is coming from coal-based
+thermal power plants, they are using only 20 to be more accurate, 19.5% of the total
+electricity is coming from coal-based thermal power plants in the US. How about India?
+73%, we are now at 73% of our electricity is coming from coal-based thermal power
+plants. There is a CO2 emission factor per kilowatt hour electricity generated. It is not
+very different for the two countries for the US, it is 0.93 for India, it is 1.03. Given the
+fact that the two numbers are not very different, I have used the value of 1 kilogram CO2
+per kilowatt hour for both countries so that we can compare. And this comparison is
+based on an assumption that the technology factor is not very different. So, coming back
+to the IPAT model we need population data we need per capita electricity consumption
+data and we need technology factor. So the technology factor is not different it is very
+similar and therefore, I have used a value of 1 to make it comparable. So, CO2 emissions
+for the US are 828 billion kilograms of CO2 per year as against 1182 for our country,
+because we are using more electricity from coal-based thermal power plants.
+
+How about natural gas-based thermal power plants? The US is heavily dependent on
+natural gas-based thermal power plants. They are using 40 percent of their electricity is
+coming from natural gas-based thermal power plants as against 2.4 percent for India. This
+again if we look at the technology factor for these thermal power plants, it is 0.97 for the
+US and 1 for India. So again I have used for the sake of comparison, I have assumed a
+value of 1 kilogram CO2 per kilowatt hour generated for natural gas for both countries
+just to keep it comparable. And the CO2 emissions for the US are 1689 billion kilograms
+of CO2 per year as against 24 kilograms of CO2 per year. When you add up these two
+numbers and the assumption is that out of the fossil fuel-based thermal power plants,
+these are the two main sources we have coal and natural gas. There is a third source
+called diesel and diesel generators are relatively small-scale use for electricity generation,
+so they are not included here. Just using these two numbers, the US has total CO2
+emissions of 2517 billion kilograms of CO2 per year and we are about half of that at 1206
+billion kilograms of CO2 per year.
+
+So, this IPAT model can be used to predict what may happen in the future. What I have
+done is I have taken the same equation for predicting or forecasting CO2 emissions per
+year in the future, and the same factors are used. So, we have P for population, A for
+affluence. Affluence is quantified in terms of per capita electricity usage from fossil
+fuels per year and the last factor is technology and that is, CO2 emissions in kilograms of
+CO2 per kilowatt hour generated or used. The time period is 11 years from 2011 to 2022.
+We have data for India and we know that we are using 922.5 billion electrical units in
+kilowatt hours per year and that increased from 2011 from this number to 1614 or 1615 if
+you want to round it off after 11 years. I can use this data to determine the R-value for
+exponential growth. So I am assuming that exponential growth is what is the underlying
+model and I can calculate the annual growth rate. We know the annual growth rate for
+our population. This is in billions. 2011, our population was 1.2 billion and in 2022, it is
+estimated to be 1.42 billion. Again, we know our annual exponential growth rate can be
+calculated and that is 1.44. Knowing the population, knowing our entire electricity
+consumption on a national basis, the data is fairly accurate and reliable. We can calculate
+our per capita electricity usage and that is what it comes down to. So, if you look at the
+annual growth rates of the first two factors, we know population, we know our per capita
+consumption is increasing at the rate of 3.65 percent annually. These two rates can be
+added to get the net increase, that is likely to happen in the near future under business as
+usual scenario. So, if the current scenario remains the same for the next 10 years, 20
+years or so, then our CO2 emissions from electricity generation based on fossil fuel
+thermal power plants is going to increase by 5.1 percent. So it is a fairly high rate of
+increase and the only way that we can reduce this CO2 emissions, how to reduce these
+CO2 emissions is to basically move away from fossil fuel-based thermal power plants and
+focus on renewable energy sources.
+
+We then come to how can we measure environmental impacts. Now this word ecological
+footprint has been used very frequently in media and in technical publications and so on.
+So, we need to understand what it means and how can we quantify environmental
+impacts using this concept. This concept is based on a couple of fundamentals.
+Everything that we use, food, clothes, housing, anything that you can think of is coming
+from nature. So, everything that we are using comes from nature. When you think of the
+ecological pyramid, the lowest layer, the lowest trophic level is occupied by primary
+producers.
+These primary producers are responsible for our food, our clothes and even our housing
+material. So, primary productivity is the foundation on which our standard of living is
+based on. So, whatever we take from nature is based on the primary productivity and we
+are utilizing it. That is our resource consumption. So, we are extracting natural capital or
+natural resources.
+We are using it for many different activities in our daily lives and in the process we are
+generating huge amounts of waste. Some of this waste is thrown back to nature. As long
+as nature can absorb this waste, assimilate it, absorb it without losing anything
+permanently, it is considered to be within the assimilative capacity of nature. There is no
+problem as long as that happens. However, what is happening and I will spend a lot more
+time on that is that the waste we are generating is exceeding the assimilative capacity of
+nature to absorb it and that is our, this is the concept for quantifying the ecological
+footprint.
+So are we utilizing resources that can be replenished within let's say a short amount of
+time or are they permanently eliminated and so on? What is the long-term impact? So
+that is the underlying basis of the ecological footprint and we will be going into details in
+the next few slides.
+
+The global footprint network which has provided the ecological footprint calculator for
+those of you who are interested, please go to the website, they have a calculator, you can
+go through it for your own individual calculations and so on. It's a good exercise just to
+understand the process. Now as I said, human beings have a demand for natural resources
+and nature is the supplier of those resources.
+We need energy, whether that energy is fossil fuels or renewable energy. We need homes
+and houses and built-up area in our cities and so on. So, all that material, the material that
+we use for building our homes, for cities, all of that is also coming from nature. We are
+using food and fiber and so many other materials, paper, timber, whether it's for
+construction, whether it's for any other purpose. So, timber and paper as utility items,
+food and fiber for our personal usage, seafood, all these are terrestrial materials but we
+also use aquatic materials whether they are from marine environments or from freshwater
+environments.
+So, all this is coming from nature. This is our demand for natural resources. What is
+nature able to provide? So, all this is coming from nature and we are generating as I said
+the waste that has to be absorbed by nature. So, we are emitting carbon, we are using up
+land, we are using forest resources, we are breeding livestock, we are utilizing pasture
+land, we are using food resources, fisheries from aquatic environments. So, all that is,
+that is, those are the two measures. So, what we are consuming and generating as waste is
+our ecological footprint and how fast nature can absorb our waste and generate,
+regenerate these resources is our bio-capacity.
+
+As shown in the previous slide, we have seen that the ecological footprint is a measure of
+how fast we consume resources and generate waste. And the other part of it is how much
+of the waste that we generate can be absorbed by nature and how these resources can be
+regenerated. So, there are two major terms that are used in this particular slide. We have
+what is called bio-capacity per person and we have the ecological footprint per person
+and that is global hectares per person and global hectares. In all cases, it is global hectares
+per person. So, the bio-capacity for the planet in 2018 was calculated by the global
+footprint network as 1.6 global hectares. The ecological footprint for every individual
+was 2.8 global hectares. So, you can see there is a net deficit that we are utilizing
+resources beyond nature's capacity to regenerate those resources.
+So, this graph has, basically these graphs are for data from 1961 to 2018 and you can see
+the crossover at the global level. So, the crossover at the global level happened in 1971,
+where the global usage of natural resources was in excess of nature's ability to regenerate
+those resources. So that is what you see as the red area and the red line that is the deficit.
+And we will be looking at the method for calculating the ecological footprint as well as
+the bio-capacity in the next few slides.
+
+So, let's take a look at it closely. The ecological footprint measures how much nature we
+use compared to how much we have. What is the availability and what are we using? It is
+an accounting approach. Like anything, you can account for how much air, how much
+water, how much land. All these material goods can be accounted for. So, it's easy to
+account for them but they all come in different units. So, you have to create another unit
+which unifies all these other units and that is where it is a bit of a challenge and I will go
+through that. The accounting approach tracks how much biologically productive land and
+water area an individual, a population or an activity uses to produce all the resources it
+consumes, to house all the infrastructure, to absorb all the waste from the prevailing
+technology and resource management practices. So, this is the description of the
+ecological footprint. As I said this is something that is provided by the Global Footprint
+Network and they are using data from the UN for different nations. They do this exercise
+on an annual basis and they are sharing the results for individual countries on an open
+data platform.
+The results provide a comparative understanding of the ecological performance of nations
+and regions. I will be going more into that in the next few slides. Then we come to how
+do they do this? How do they come up with these numbers? The ecological footprint adds
+the competing demands for biologically productive space including the space needed to
+sequester carbon emissions from fossil fuels. The human demand is compared to
+biologically productive space that is available. So, these footprints can be calculated for
+products, individuals, cities, regions, countries or the entire globe.
+The amount of land required to produce the resources needed by an average person in a
+country. What is the ecological footprint? This is the definition of the ecological footprint
+at the national level. Global hectares please remember are productivity adjusted hectares.
+You cannot literally compare apples and oranges they are not the same right? So, the
+biological productivity of a rocky mountain slope or tundra or tropical forest are going to
+be very different.
+So that difference has to be accounted for in the very next slide I will be showing you
+how to account for that difference. The units of ecological footprint are per capita
+ecological footprint and the unit that is being used to compare the two ecological
+footprint and biocapacity is called global hectares per person. If you are doing it for a
+nation or a city you would have total global hectares.
+
+So, there are three basic equations. The first one is the ecological footprint for
+production. Production of any material. It can be food, it can be fiber, it can be timber, it
+can be any other material. So the first thing is human harvest or waste production flow is
+quantified in mass per time and it is converted to global hectares using this equation.
+
+                                                               
+                                        =   
+So, EF production is the ecological footprint for production that is equal to P. P is the
+production or harvest of that individual material it may be rice, it may be wheat, it may
+be corn in tons per year. YW is the world average yield in tons per hectare per year for
+that particular material and EQF is the equivalence factor.
+This equivalence factor is the ratio of the given land type average global productivity
+divided by the average global productivity of the entire planet's productive surfaces. So it
+is a mouthful but if you refer to some of the papers that they have provided on their
+internet site you will be able to understand it better. They have done these calculations for
+the US, for Italy and for several other countries and there are enormous amount of
+resources are available on the internet for anyone to go through. EQF allows one to
+compare the land used for a given product category with the average global bio-
+productive surface area which may be either higher or lower average productivity. For
+every country or any country, the ecological footprint of production is calculated by
+summing all products in that footprint category.
+So, rice, wheat, corn for cropland. So, all the materials, whether they are food, whether
+they are fiber they are all cropland. So, you can sum up all that data for a given country
+and come up with EF production. You can understand it is a fairly enormous amount of
+data that is utilized, and it is difficult to imagine how it can be completely exhaustive but
+they have been trying to do that. The total EFP of a country is the sum of the ecological
+footprint of each individual product category.
+
+We then come to the ecological footprint for consumption. So one is the production of
+these resources or rather no the production of different goods and materials products and
+here we have the consumption of those goods.
+                                 =  +  - 
+So EF consumption is equal to EFP, P standing for production, EFI, EFI is ecological
+footprint of imports and EFE which is the ecological footprint of exports. Now remember
+every country is importing products as well as exporting some of its products. So the net
+EF consumption, the ecological footprint of consumption within the country is basically a
+mass balance. EF production plus EF import minus EF export. So that is fairly simple
+and then we come to biocapacity.
+How can biocapacity for a country be measured? So it is measured in global hectares at
+any scale. You can do it for a single farm to the entire globe.
+
+                                =   (/)  
+The formula is An instead of population we now have area of the country where n stands
+for a particular land use category. So An is the land use category, Yn is the national
+average yield for this particular land use category in tons per hectare per year. There are
+several land use categories, cropland, grazing land, fishing grounds, forest, built up area
+and carbon footprint. So these are the six land use categories and five biocapacity
+components. So cropland, grazing land, fishing grounds, forest and built up land and
+these are all described in their publications. So please refer to them for more details.
+
+What you see here is the biocapacity of the eight different countries. So eight different
+countries are shown. If you look at the ones on the right these four are developing
+countries and the ones on the left are developed countries. You can see that India has the
+lowest biocapacity. The green line represents the biocapacity.
+The green area represents surplus between biocapacity and ecological footprint. So if
+you have a green area that means that country has a surplus in terms of its biocapacity.
+So that's the unused biocapacity. Where you see red areas it means that country is
+running on a deficit. So they have exceeded their biocapacity and they are now over
+utilizing their resources.
+
+So India, China, Germany, France, Spain have exceeded their biocapacity. They are all
+in the red and Sweden, Indonesia and Brazil they are all with surplus biocapacity.
+Indonesia is now in the deficit. They seem to have crossed over in around 2004 or 2005
+or something around that time. And also notice the scales on the y-axis. So you can see
+that I have already mentioned the fact that India has the lowest out of these eight India
+has the lowest biocapacity and we are already in exceedance.
+
+Our biocapacity in their paper was calculated to be 0.5 global hectares and the ecological
+footprint for the country is 0.8 global hectares. So we are definitely in the red from an
+ecological perspective. Now how can a country or any region or even an individual have
+a footprint that's higher than the biocapacity? It doesn't seem initially, just thinking about
+it, it doesn't seem possible.
+
+But what is happening that makes it possible is that we are importing biocapacity from
+elsewhere. So many of the countries both developed as well as developing countries are
+importing products and services from other countries. So net importing biocapacity is
+coming from elsewhere. So the ecological footprint embodied in the imports is exceeded
+by the ecological footprint embodied in the exports.
+
+That is one reason. The second reason is they are fishing in international waters. They are
+using the global commons. So the global commons they are emitting greenhouse gases
+into the global atmosphere or they are overusing their own territorial biocapacity. They
+are over-harvesting fish. They are destroying their own forest stock.
+
+This is very true for because I can say for what is happening in India we are losing forest
+cover. We should have more than 30% forest cover and we are losing forest cover at a
+fairly rapid rate and that definitely is reason number three. That is the reason why we are
+in the red. That is one of the reasons and perhaps many of the other reasons also apply to
+us. This second last reason may be applicable as well.
+I will stop this lecture over here. Thank you.
+

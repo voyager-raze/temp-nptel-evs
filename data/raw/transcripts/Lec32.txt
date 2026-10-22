@@ -1,0 +1,417 @@
+                                            Environmental Science
+                             Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                               Indian Institute of Technology Kharagpur
+         Week 07- (Lecture 02): Circular Economy (Circular Economy Strategies ­ I)
+
+Welcome to lecture 2 of week 7 of the NPTEL online certification course on environmental
+science. In the last lecture we saw that our current economic system is unsustainable and therefore,
+it is important that we move towards a circular economy system. So, we basically learned what is
+circular economy and why there is a need to make a transition towards a circular economy. In this
+lecture we will learn how we can achieve a circular economy ok. So, specifically we will learn
+how we can build a circular economy, what are the core principles of a circular economy and how
+the nine-framework model can actually help change our economy. So, at the end of this lecture
+you should be able to explain what is the butterfly diagram of circular economy as well as also
+able to explain what is how refuse rethink reduce and reuse can help us make a transition to a
+circular economy.
+The impact of unsustainable resource use has surpassed local and regional boundaries and has
+become a global challenge, with mounting public health, environmental, social, and economic
+costs. In this context, there is an imperative need to move on from the traditional linear economic
+model (take-make-dispose) and adopt sustainable alternatives such as circular economy.
+
+A circular economy closes the loop between extraction, manufacturing, and disposal by advocating
+for designing products to reduce waste, using products and materials for as long as possible, and
+recycling materials from end-of-life products back into the economy. In principle, the circular
+economy seeks to keep products and materials in use for as long as possible, minimizing the
+amount used, extending their lifespan, and maximizing reuse and recycling of waste.
+
+Simply put, the Butterfly Diagram illustrates the continuous flow of materials in a circular
+economy.
+
+There are two main cycles ­ the technical cycle and the biological cycle.
+
+The technical cycle (right side of the diagram) focuses on materials which are non-biodegradable.
+Here, products and materials are kept in circulation through processes such as reuse, repair,
+remanufacture and recycling.
+
+The biological cycle (left side of the diagram), on the other hand, focuses on materials which are
+biodegradable. In this cycle, the nutrients from biodegradable materials are returned to the Earth
+to regenerate nature.
+The first step towards a circular economy is to segregate these two types of materials, i.e., non-
+biodegradable and biodegradable, as they will require different reuse processes. The reusing phase
+creates loops for the resources on either side, creating a butterfly-like structure.
+
+Technical Cycle:
+The technical cycle consists of products which are not biodegradable. However, that does not mean
+that they should lose their value after use. In fact, this is where the technical aspect of product
+manufacturing comes into play. At its inception, the product must be put together with raw
+materials that can be reused, like valuable metals and polymers. This cycle requires a proper
+management of finite material stocks, so that after restoring the product, its components, and the
+materials can flow back into the cycle.
+It consists of products that are maintained so that they retain their value for the longest time. It
+compels companies to make maximum use of limited natural resources and keep them at the peak
+of their utility for the longest time. This way the need to produce new products is diminished and
+it also maximizes the value for consumers. To get this loop right, it is essential that product
+manufacturers focus on the design, maintenance, and repair of the product. By ensuring better
+design and maintenance, the product can be rescued from early wear and tear.
+The same product can be maintained and reused. It can also have the potential of a new buyer to
+enhance their original value and hence, might require some refurbishments. This loop might also
+require some innovative strategies to keep the business running in a competitive environment
+against linear alternatives.
+Consumers also need to rethink the way they purchase, use and dispose of things. Options for
+sharing, renting, repairing and repurposing items to prevent waste must become more common.
+This circular shift will lead to less impact on the environment, allowing the earth's resources to
+recover and regenerate.
+Biological Cycle
+Most products in the biological cycle are biodegradable, and they range from natural raw materials
+such as wood to edible waste, such as food. These materials are expected to enter the biosphere as
+compost or other organic nutrients. Their regenerative nature safely returns them to the biocycle
+as `food' or other forms of life and are expected to generate little to no waste. In fact, the waste of
+one material can be reused by another.
+
+The circular economy aims to tackle climate change and other global challenges like biodiversity
+loss, waste, and pollution, by decoupling economic activity from the consumption of finite
+resources.
+It is based on three principles, driven by design:
+The first principle of the circular economy is to eliminate waste and pollution. Currently, our
+economy works in a take-make-waste system. We take raw materials from the Earth, we make
+products from them, and eventually we throw them away as waste. Much of this waste ends up in
+landfills or incinerators and is lost. This system cannot work in the long term because the resources
+on our planet are finite.
+For many products on the market, there is no onward path after they are used. Take a chips packet,
+for example. These multi-material flexible plastic packages cannot be reused, recycled or
+composted, so end up as waste. For products like these, waste is built in. They are designed to be
+disposable.
+
+Although it sometimes seems like waste is inevitable in certain situations, waste is actually the
+result of design choices. There is no waste in nature. From tiny, short-lived products, like chip
+packets, all the way up to seemingly permanent structures like buildings and roads, the economy
+is filled with things that have been designed without asking: What happens to this at the end of its
+life?
+
+By shifting our mindset, we can treat waste as a design flaw. In a circular economy, a specification
+for any design is that the materials re-enter the economy at the end of their use. By doing this, we
+take the linear take-make-waste system and make it circular.
+
+Many products could be circulated by being maintained, shared, reused, repaired, refurbished,
+remanufactured, and, as a last resort, recycled. Food and other biological materials that are safe to
+return to nature can regenerate the land, fuelling the production of new food and materials.
+
+With a focus on design, we can eliminate the concept of waste.
+
+The second principle of the circular economy is to circulate products and materials at their highest
+value. This means keeping materials in use, either as a product or, when that can no longer be used,
+as components or raw materials. This way, nothing becomes waste and the intrinsic value of
+products and materials are retained.
+
+There are a number of ways products and materials can be kept in circulation in both the technical
+cycle and the biological cycle.
+
+The most effective way of retaining the value of products is to maintain and reuse them. Take a
+phone for example: it is far more valuable as a phone than as a pile of components and materials.
+So, the first steps in the technical cycle are focused on keeping products whole to retain the
+maximum possible value. This could include business models based on sharing, so users get access
+to a product rather than owning it and more people get to use it over time. It could involve reuse
+through resale. It could mean cycles of maintenance, repair, and refurbishment.
+
+Eventually, when the product can no longer be used, its components can be remanufactured. Parts
+that cannot be remanufactured can be broken down into their constituent materials and recycled.
+While recycling is the option of last resort because it means the embedded value in products and
+components are lost, it is vitally important as the final step that allows materials to stay in the
+economy and not end up as waste.
+Biodegradable materials, on the other hand, cannot be reused, like some food byproducts, can be
+circulated back into the economy in the biological cycle. By composting or anaerobically digesting
+organic materials, valuable nutrients, such as nitrogen, phosphorous, potassium, and
+micronutrients, can be used to help regenerate the land so we can grow more food or renewable
+materials like cotton and wood.
+
+Some products, like cotton clothing or wooden furniture, can be circulated through both the
+technical and biological cycle. They can be maintained, reused, repaired, and sometimes even
+recycled, but eventually they can be returned to the biological cycle from which they came.
+Composted or anaerobically digested, they can feed the soil to grow new cotton or wood.
+
+In order for products to successfully be circulated in either the biological or the technical cycle, it
+is essential they have been designed with their eventual circulation in mind. There are many
+products in our current economy that cannot be circulated in either cycle and end up as waste.
+There are products that fuse technical and biological materials in such a way that we can't separate
+them and circulate them ­ for example, textiles that blend natural and plastic fibers.
+
+If designers thought about how their product could fit into the technical or biological cycles after
+use, that product could be made with that onward path in mind. For example, products destined
+for technical cycles would benefit from being easy to repair and maintain, easy to take apart, and
+made of modular components that can be replaced. They could be durable enough to withstand the
+wear and tear of many users. And they could be made from materials that are easily recycled.
+
+If products like wooden furniture were designed ­ as well as to be easy to maintain and repair ­
+with the biological cycle in mind, their biodegradable materials (like wood) would be easily
+separated from their technical materials (like screws) and if glues and paints were used, they would
+be biodegradable. Other products, like takeaway food containers, can be designed to be
+compostable after one use so that they increase the chances of the food scraps they contain
+returning to the soil.
+
+The third principle of the circular economy is to regenerate nature. By moving from a take-make-
+waste linear economy to a circular economy, we support natural processes and leave more room
+for nature to thrive.
+
+By shifting our economy from linear to circular, we shift the focus from extraction to regeneration.
+Instead of continuously degrading nature, we build natural capital. We employ farming practices
+that allow nature to rebuild soils and increase biodiversity, and return biological materials to the
+earth. Currently, most of these materials are lost after use and the land used to grow them is
+depleted of nutrients.
+If we move to a regenerative model, we begin to emulate natural systems. There is no waste in
+nature. When a leaf falls from a tree it feeds the forest. For billions of years, natural systems have
+regenerated themselves. Waste is a human invention.
+By keeping products and materials in use, less land is required for sourcing virgin raw materials,
+e.g., from mines. If we gradually decouple economic activity from material extraction by keeping
+materials in circulation after use, more and more land can be returned to nature and rewilding can
+happen.
+In a circular economy, land dedicated to material sourcing will increasingly be focused on
+renewable resources, grown in a regenerative way, rather than the extraction of finite materials,
+which will increasingly remain in circulation. All this will be underpinned by a transition to 100%
+renewable energy, produced using infrastructure designed for reuse, repair, remanufacture, and
+recycling.
+
+The terms circularity and sustainability are often used interchangeably and that is exactly where the
+confusion lies. While the two concepts are not entirely different from one another ­ in fact, they are
+somewhat related ­ circularity and sustainability define two distinctive concepts.
+Individual and collective human activity has a huge impact on our planet and all living organisms.
+Given that these activities undoubtedly lead to environmental degradation, rapid loss of
+biodiversity, and climate change, we need to offer ways to solve these problems.
+
+Sustainability is focused on the long-term period and assumes that our actions bring
+environmental, economic, and social benefits without polluting the environment or spending too
+many resources.
+
+In 1987, the United Nations Brundtland Commission defined sustainability as "meeting the needs
+of the present without compromising the ability of future generations to meet their own needs".
+Abiding by this definition, sustainability consists of any activity that strives to meet this goal. It is
+the whole journey from the vision of a sustainable future to the implementation of sustainable
+practices.
+
+Striving for sustainable development, businesses need to adapt their way of operating. This
+includes the implementation of circular value chains and the reduction of theircarbon footprintas
+part of a holistic sustainability strategy
+
+Circularity as a term is bit more specific than sustainability. While sustainability acts as an
+umbrella to every practice that strives to sustain the future, circularity is more about the practices
+which lead to sustainability. Like reusing raw materials, refurbishing used products, or recycling
+old materials and so on.
+
+A circular economy decouples growth from negative externalities by building on the following
+three key circular economy principles:
+
+    · Designing out waste and pollution
+    · Keeping products and materials in use
+    · Regenerating natural systems
+
+In circular economy, raw material is manufactured and furbished to create an end product.
+However, once this product is utilized at its maximum potential, it is discarded as waste. Circularity
+on the other hand enhances the reuse of the product and/or even refurbishes the waste to restore its
+value. In this way circularity closes the loop from waste to return to raw materials.
+
+Unlike a linear economy, which follows the traditional pattern of `Take, make, and waste', a
+circular economy rethinks this whole process.
+
+Sustainability describes all activities which ensure that human beings can co-exist with the natural
+world around them. This can involve scientific and technological invention as well as a careful
+practice to reduce the depletion of natural resources.
+Circularity, on the other hand, includes the activities which are defined on the right side of the
+diagram. Their primary focus is on the Technosphere. Circularity demands advances in technology
+and scientific research to discover new ways of reusing resources. Recyclable raw materials should
+be designed into a product right at the manufacturing stage, so that they can be utilized after their
+use.
+
+Several circularity strategies exist to reduce the consumption of natural resources and materials,
+and minimize the production of waste. They are Refuse, Rethink, Reduce, Reuse, Repair,
+Refurbish, Remanufacture, Repurpose, Recycle and Recover. These 9Rs can be ordered for
+priority according to their levels of circularity. The R-strategies get their name from the prefix of
+the English language designations of the individual strategies. The prefix "re" originally comes
+from Latin (meaning "again" or "back") and stands for "new" or "again". Although the
+transformation to a perfect circular economy without waste is very difficult to achieve, the 9R's
+can guide us away from throwaway culture and into sustainable systems.
+
+The R0 to R2 strategies aim to avoid or reduce the raw material input in production (strategy with
+high circularity). This is possible by making products redundant, as the functions associated with
+them are provided elsewhere. In addition, the raw material input is reduced through increased
+production efficiency or increased intensity of use. This way, the same overall benefit for
+customers can be provided with fewer raw materials.
+
+Strategies R3 to R7 aim to keep raw materials within the economic system (medium-circularity
+strategy). Through the reuse or further use of products or product parts, their benefits can be
+provided without further raw material extraction. If R0 to R7 cannot be applied, it is possible to
+secure the raw materials of products or product parts that are no longer functional through the
+strategies R8 and R9 (low-circularity strategy).
+
+As a rule of thumb, more circularity equals more environmental benefits.
+
+A higher level of circularity of materials in a product chain means that those materials remain in
+the chain for a longer period, and can be applied again after a product is discarded, preferably
+retaining their original quality. As a result, in principle, fewer natural resources are needed to
+produce new materials required for manufacturing products and for their subsequent use. Avoided
+resource extraction and production of materials benefit the environment. There are of course
+exceptions to this rule of thumb. For example, making a product chain more circular may lead to
+increased natural resource consumption, usually in the form of (fossil) fuels. This occurs in
+chemical recycling of contaminated plastics which usually requires relatively large amounts of
+energy to decompose the material to its initial building blocks, and then synthesised these building
+blocks back into material (back-to-monomer recycling).
+The first step to a circular economy is to prevent the waste from being produced in the first place.
+This involves saying "no" to promotional samples, junk mail, single-use disposables such as bags,
+straws, cups, and cutlery, or any short-lived form of unnecessary items.
+
+Single-use plastics, often also referred to as disposable plastics, are commonly used for plastic
+packaging and include items intended to be used only once before they are thrown away or seldom
+recycled. These include, among other items, grocery bags, food packaging, bottles, straws,
+containers, cups and cutlery. Unlike metals, plastics do not rust or corrode. Plastics in the
+environment pose significant hazards to wildlife both on land and in the ocean. High
+concentrations of plastic materials, particularly plastic bags, have been found blocking the
+breathing passages and stomachs of hundreds of different species. Plastic bags in the ocean
+resemble jellyfish and are often ingested by turtles and dolphins who mistake them for food. There
+is emerging evidence that the toxic chemicals added during the manufacturing process transfer
+from the ingested plastic into the animals' tissues, eventually entering the food chain for humans
+as well. When plastic breaks down into microplastic particles, it becomes even more difficult to
+detect and remove from the open oceans. Therefore, the most effective mitigation strategy is to
+reduce their input, which in turn can be accomplished by refusing single use plastic. This can be
+done by
+
+Drinking tap water or using glass bottles
+
+Avoiding plastic bags and using cloth bags
+
+Refusing to buy single-dose packaging for personal care products
+
+Traveling, cycling, running and doing sports with a metal water bottle
+Avoid using plastic plates and cutlery and taking a kit of glasses and dishes.
+Carrying food in lunchboxes instead of buying packed food.
+Using straws made of glass, paper or bamboo instead of plastic
+Avoid purchasing products enclosed in plastic packaging or drinks in disposable bottles.
+In refusing to purchase wasteful or non-recyclable products, and instead select reusable items not
+only minimizes waste but sends a message to the companies on what the consumer is most
+interested in. This in turn will push companies to innovate and design eco-friendly products or
+products that can be used persistently.
+
+Rethinking is changing the fixed mindset of consumers towards the way they use products. Such
+changes include increasing the intensity of use of a product by different customers using the
+product without purchasing it.
+An example of this that is gaining popularity is bike sharing in many cities. Bike sharing systems
+are a means of renting bicycles where the process of obtaining membership, rental, and bike return
+is automated via a network of kiosk locations throughout a city. Using these systems, people are
+able rent a bike from one location and return it to a different place on an as-needed basis. Currently,
+there are over 500 bike-sharing programs around the world.
+Another way to rethink product use is redefining a different way to use a product and how long a
+product can be used, without replacing with alternatives.
+Coffee brewing fridges
+These refrigerators feature a coffee brewing system built into the water dispenser. It has a cool
+LCD display that lets you select your drink size and a "smart dial" as a safety precaution. Not only
+will this innovative fridge save counter space but it can also be controlled from an app. It even has
+a hot water dispenser for tea drinkers.
+Device charger lights
+With so many electronic devices that need to be charged constantly, this table lamp is both a fixture
+and a USB. The USB is located on the cork base, which also serves as a stand. This simple but
+practical charging station is compatible with most gadgets. Perfect for reading while charging your
+favorite device, this hybrid lamp saves up space on night tables.
+Table air purifier
+Air purifiers can be bulky and tricky to position in the home without becoming a trip hazard. To
+overcome this, air purifiers which comes as is and can be set up on the floor but also comes
+integrated as part of side table is an appealing prospect.
+In addition to saving space and energy, multifunctional products can also save money. Usually,
+multifunctional products are simple, practical, and minimalist. In addition, one can get more than
+two functions of items in one piece of furniture. This is certainly cheaper than buying products
+with their respective functions, and also leads to conservation of resources.
+
+Reduce is about lessening the use of dangerous, wasteful, or non-recyclable products. It not only
+reduces the amount of waste generated and their impact on the environment, but also reduces the
+dependency upon them. When people create less waste, they consume fewer resources.
+This can be clearly understood from the case of food waste. Globally, food waste has become an
+increasingly recognized environmental issue over the last decade. Not only has the issue of wasted
+food become an ethical one, but the environmental impacts of producing food that is then discarded
+can no longer be overlooked. As population and urbanization grows, more food is being produced
+and more food is being wasted. Moreover, food wasted in an urban context creates severe
+environmental and public health consequences that have a negative impact upon human well-being
+and the environment.
+
+Before discussing further, the terms food, inedible food, food loss and food waste need to be
+contextualized within the food chain. `Food' is defined as any substance, whether processed, semi
+processed or raw, that is intended for human consumption as well as the `inedible parts' associated
+with food that are not intended to be consumed by humans. For example, apple is a food; its skin
+is inedible.
+
+"Food loss and waste" refers to the edible parts of plants and animals that are produced or harvested
+for human consumption but that are not ultimately consumed by people. In particular, "food loss"
+refers to food that spills, spoils, incurs an abnormal reduction in quality such as bruising or wilting,
+or otherwise gets lost before it reaches the consumer. Food loss is the unintended result of an
+agricultural process or technical limitation in storage, infrastructure, packaging, or marketing.
+"Food waste" refers to food that is of good quality and fit for human consumption but that does
+not get consumed because it is discarded--either before or after it spoils. Food waste is the result
+of negligence or a conscious decision to throw food away.
+
+Some examples of how they can occur at each stage are:
+
+During production or harvest in the form of grain left behind by poor harvesting equipment,
+discarded fish, and fruit not harvested or discarded because they fail to meet quality standards or
+are uneconomical to harvest.
+
+During handling and storage in the form of food degraded by pests, fungus, and disease.
+
+During processing and packaging in the form of spilled milk, damaged fish, and fruit unsuitable
+for processing. Processed foods may be lost or wasted because of poor order forecasting and
+inefficient factory processes.
+
+During distribution and marketing in the form of edible food discarded because it is non-compliant
+with aesthetic quality standards or is not sold before "best before" and "use-by" dates.
+
+During consumption in the form of food purchased by consumers, restaurants, and caterers but not
+eaten.
+Environmentally, food loss and waste represent unnecessary greenhouse gas emissions and wasted
+water and land. Globally, the amount of food loss and waste is responsible for 8-10% of global
+greenhouse gas emissions. Food loss and waste are associated with approximately 173 billion
+cubic meters of water consumption per year, which represents 24 percent of all water used for
+agriculture. The amount of cropland used to grow this lost and wasted food is also humongous.
+And several million tons of fertilizer are used annually to grow this lost and wasted food. Beyond
+these quantified impacts, natural landscapes and the ecosystem services they provide are also
+adversely affected by the resources that go into producing this lost and wasted food.
+A wide range of approaches for reducing food loss and waste are in use. For instance, building
+roads and introducing electric-powered refrigeration in low-income countries would likely reduce
+food losses during the handling and storage phase by enabling fresh food to get to market more
+quickly and by preventing spoilage.
+
+Food redistribution or donation programs are another method for reducing both food loss and
+waste. Food redistribution means voluntarily giving away food that otherwise would be lost or
+wasted to recipients such as food banks, which then redistribute the food to those who need it. This
+strategy applies at the production stage with crops that otherwise would go unharvested, at the
+manufacturing stage with overproduced products, and at the distribution and market stage with
+food left unsold at stores and markets.
+
+Evaporative coolers extend the shelf life of food and avoid spoilage by keeping food at lower-than-
+room temperatures without having to use electricity. This low-cost, low-energy technique provides
+an opportunity to store perishable foods longer in areas that lack electricity infrastructure or that
+have low-income farmers.
+
+Consumer attitudes and behavior play a large role in determining the amount of food that is wasted
+in households. Although changing the way people consume and throw out food can be difficult,
+communication campaigns can help influence consumer behavior at the household level.
+
+For restaurants and other food service providers, food portion sizes can dictate the amount of food
+waste that occurs within the four walls of their business, since larger portions increase the
+likelihood that a consumer will not consume all of the food purchased. Reducing portion sizes for
+consumers in both direct and indirect ways can both decrease food waste and save money for food
+providers.
+Therefore, as much as possible, the reduce principle dictate a focus on preventing food from
+becoming waste in the first place.
+
+`Reuse' aims to tackle the single-use disposable way of life which has become so normal for most
+of us. Reuse is the action or practice of using an item, whether for its original purpose or to fulfill
+a different function, therefore re-functioning the item.
+Reusing items is not new. For example, Coca Cola refilled glass bottles around the world for
+approximately 80 years. Milk is another example of a beverage that was sold in refillable glass
+bottles and, in some places, is making a comeback as consumers seek less disposable packaging.
+In the developing world, some products, food items or beverages are sold in reusable containers
+or directly delivered to houses where consumers put them into reusable containers.
+In Mumbai, up to 250,000 lunches for office staff are delivered in tiffin. Tiffin carriers or `dabbas'
+are reusable metal lunch boxes widely available in Asia. From India, their usage has spread to
+Indonesia, Malaysia, Singapore and even as far as Trinidad and Tobago. Tiffin carriers are also
+now common in many other places.
+In a Linear Economy, most of the energy used goes into extracting and processing natural resources
+and not in the actual manufacturing of products. By reusing products, we replace energy
+consumption, with labor resulting in energy savings and job creation.
+

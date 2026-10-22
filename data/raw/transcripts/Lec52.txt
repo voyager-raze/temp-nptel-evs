@@ -1,0 +1,273 @@
+                                       Environmental Science
+                         Prof. Samik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                Week 11
+                                               Lecture 02
+                                   Fundamentals of Ecology ­ II
+
+Welcome, everyone to our second lecture on the fundamentals of ecology as part of ecology
+and soil pollution week 11. The concepts that we are going to cover in this particular lecture
+are solar radiation, the earth's energy budget, producers and photosynthesis and
+productivity.
+The key words for this particular lecture are solar energy, irradiation, gross productivity, net
+productivity, eutrophication and water quality.
+
+Let us take a look at the spectrum of solar radiation. So, what you see in this particular graph
+are how solar flux comes to the planet and what do we get. So, solar flux is a constant outside
+or above the atmosphere. So, if you can imagine the earth's atmosphere and the, it is basically
+an envelope around the planet and the sunlight that comes to the surface of the earth, but far
+above the atmosphere is a constant at all times. So, solar flux is a constant. It is approximately
+1365 watts per square meter. So, you can see the yellow part of this spectrum is sunlight
+without atmospheric absorption and it very closely resembles the blackbody curve for a body
+at a temperature of 5778-degree Kelvin. So, this solid black line is the line for a blackbody at
+5778-degree Kelvin. Now, that is considered the temperature of the sun when you think of
+the sun as a blackbody. In terms of the spectral range, all spectral radiation 99% of all spectral
+radiation lies between 136 to 4000 nanometers. What you see in this graph is a smaller part
+of that entire spectrum. What happens to the sunlight as it passes through the atmosphere
+and then comes to the ground surface or water surface. So, there is significant attenuation of
+sunlight as it passes through the atmosphere and within the atmosphere, we have so many
+gases. We have oxygen, we have water vapor, we have CO2 that are shown in this particular
+graphic and you can see the atmospheric absorption bands for each individual gas. So, water
+vapor is in the gaseous phase, you have oxygen and CO2 as well. So, these are the atmospheric
+absorption bands where the sunlight is absorbed and therefore, what falls on the planet's
+surface, on the Earth's surface is much less. So, only half of our total solar flux is able to
+penetrate through the atmosphere and that is what we see on the ground. Now, what we see
+on the ground is also highly variable. Solar flux, sunlight emission is a constant, but because
+of the rotation of the Earth about its axis and because of the tilting of the axis we have
+variations in solar flux on a daily basis as well as on an annual basis. And then depending on
+the location of the place you will have further variations because of the latitudinal variations.
+So, this flux is going to vary from on a daily basis as well as on an annual basis and from
+location to location. So, here we have the global horizontal irradiation on the planet.
+
+So, you have the daily totals and the yearly totals to account for variation and our units are
+not the same, our units are kilowatt hours per square meter. So, this is actually a map that
+has been generated to determine the potential for tapping solar energy. We are not going in
+that direction, but it is a it helps us to understand the solar flux at the ground level. So, here
+you can see that we are somewhere in the center over here at about 5 kilowatt hours per
+square meter and many parts of the globe you can see how in the tropics slightly away from
+the equator this is the equator and slightly away from the equator you have the highest
+amount of solar energy that is available in terms of kilowatt hours per square meter and these
+are partly for topographical reasons and also because of latitudinal reasons.
+
+So, that is the next point and it is also important to realize that these watts are basically joules
+per second. So, it is important for doing some calculations later when you have to work on
+your assignments. The next major point is the visible region versus the entire solar spectrum.
+So, our ability to see color is limited, it is limited to 380 to 770 nanometers. So, from here to
+herr you can see the visible region below 380 nanometers is considered the ultraviolet region
+and above 770 nanometers we have the infrared. Here it is actually shown as 680 different
+books and different parts of the literature have different values this is considered around 680
+and here, we have 770. So, it is not too far apart and long-range radiation that comes from the
+Earth's surface after absorption of solar energy that is in the infrared range and intense
+sunlight which is not attenuated by the atmosphere or by ozone in the atmosphere that is UV
+light and that is shown in the first part of this graphic. So, 7 percent of the entire light that
+comes to the Earth's surface is in the UV region, 46 percent is in the infrared region and 47
+percent is in the visible region.
+What happens to this solar energy as it comes to the planet? So, let us take a look at the Earth's
+energy budget. Assuming that whatever falls on the outside of the atmosphere is 100 percent,
+the incoming solar energy is 100 percent, how much attenuation happens because of passage
+through the atmosphere? What is arriving at the surface of land and oceans is only 51 percent.
+6 percent is reflected back into space by the atmosphere, 20 percent is reflected back into
+space by clouds and 4 percent is reflected from the Earth's surface. In terms of absorption by
+the atmosphere we have 16 percent, absorption by the atmosphere, clouds are absorbing 3
+percent and conduction and rising air is absorbing 7 percent of the energy that is coming to
+the ground surface. Because you are heating the ground as well as the water, this energy is
+going to go back into space first into the atmosphere and then perhaps into outer space as
+long range infrared radiation. So, that is 64 percent, it is directly radiated into space from
+clouds and atmosphere. 23 percent is carried to clouds and atmosphere in the form of latent
+heat and water vapour, so that is a significant amount. Radiation absorbed by the atmosphere
+is 15 percent and radiation directly sent back into space is 6 percent. So, this accounts for all
+of the solar energy that comes to the planet.
+So, here you have the three processes of reflection, radiation and absorption. It is important
+
+to remember what the differences are, reflection is when the light reflected has the same
+
+wavelength as the incident light, radiation is when the radiated energy has a different
+
+wavelength compared to the incident light and earth's radiation is long wave and infrared
+
+and the sun's radiation encompasses all three parts of the spectrum. So, you have ultraviolet,
+
+visible and infrared. Absorption is when the incident light is absorbed, the temperature of the
+
+body rises, there may not be any output of energy, only input and accumulation of heat within
+
+the  object  is  what  is  meant  by  absorption.
+Let us now take a look at photosynthesis. What happens during the photosynthesis process?
+Plants have chlorophylls and these chlorophylls are used for absorbing light within
+particular wavelengths. So, here you have two types of chlorophylls, chlorophyll A and
+chlorophyll B and you can see the absorption spectra. It is also important to remember one
+more thing coming back to this graphic that each element as well as each compound has its
+own signature, it has its own spectral signature and a spectral signature means that it is going
+to absorb light at particular wavelength. So, every element can element or compound can be
+identified by its spectral signature. So, for example, ozone, oxygen, water vapour, CO2, any
+other compound can be identified by its absorption spectra because that is related to the
+absorption bands. Similarly, coming to chlorophyll, we have chlorophyll A and B, you can see
+the absorption spectra. This is all in the visible range. Remember photosynthetic organisms
+are generally pigmented organisms and those pigments are how they absorb energy from
+the sunlight and utilize it for converting it to biomass and so on. So, here you have two
+examples. Notice that 500 to 600 there is very little absorption that is the colour we see. When
+you look at leaves, they are greenish yellow. So, they are in this green to yellow range. So,
+between 500 and 600, there is very little absorption of solar energy. The plant, the leaves
+which are basically active in absorbing energy from the sun and converting it to chemical
+energy and biomass, they are reflecting these colours. Where are they absorbing energy?
+They are absorbing energy in the blue and the red region. So, from 400 to 500, that is where
+the peaks are for the two different chlorophylls and the other two peaks are between 600 and
+700. So, that is where the intense energy in the lower the blue region and the long-range
+energy in the reddish region, red - orange region. So, that is why we see the leaves as green
+and yellow and that is the wavelength that is being reflected, the remaining is absorbed. So,
+only 20 percent of the total incident solar radiation that comes to the planet surface not
+outside it is usable by plants. So, the efficiency of solar energy utilisation by plants is very
+very poor.
+
+Let us take a look at how poor it is. Radiant solar energy that comes to the planet surface only
+50 percent is available at the autotrophic level. I have already mentioned two parameters
+related to productivity. Productivity is measured in terms of gross primary productivity and
+net primary productivity. So, GPP is equal to NPP plus R. GPP is the total amount of energy
+consumed per unit area per unit time. So, we have units of kilocalories per square meter per
+year. You can also say that it is the total rate of photosynthesis including organic matter
+consumed for respiration during the measurement period that is another way of looking at
+gross primary productivity. So, this is the entirety, how much energy is being utilised for
+growth and survival. So, net primary productivity is gross primary productivity minus
+respiration. Respiration is the energy consumed in metabolism and other activities without
+generating biomass. You can think of a plant growing, it is when it is growing it is adding
+biomass. So, that addition of biomass is what we are counting as net primary productivity. If
+you were to pull up that plant and measure the weight of the plant you would find that the
+weight has increased. So, that is the increase in biomass and therefore, that is called net
+primary productivity. That is the chemical energy that is locked in the biomass and that is
+what we eat when we eat food or vegetation and so on that is what we are getting is the
+chemical energy that is locked in the biomass. It is also called the standing crop or the
+biomass of photosynthetic organisms. What is respiration? Respiration in plants happens
+when there is no sunlight. They have several other metabolic activities where biomass is not
+being generated. In fact, it is a reverse of the photosynthetic reaction and there is some source
+in the literature where the ratio between photosynthesis and respiration for plants on an
+average is 5 is to 1. So, for every unit of CO2 that is converted to biomass one unit is converted
+back to CO2 and water. So, coming to this equation at the autotrophic level GPP is only 0.2
+percent, NPP is 0.1 percent and respiration is 0.1 percent as well. Now, these are gross
+approximations they will have many differences for different crops, different locations,
+different time periods all these factors will make a difference. As I said this is extremely low
+in terms of the energy efficiency and there can be significant variations depending on
+location, season, time of the day, nature of the crop and so many other factors.
+
+So, this graphic shows the net primary productivity in different parts of the world and what
+you see here is the average for the planet. So, the average for the planet is less than 2000 I
+think it is grams of carbon per square meter per year total land productivity. So, you know
+that the surface of the planet 30 percent is covered by land and the remaining by oceans. The
+oceans are very poor in terms of primary productivity and the land area is where most of the
+productivity is. Within the oceans you have algal beds and coral reefs which are small pockets
+of very high productivity, followed by tropical rainforest which are again very highly
+productive in terms of biomass generation, you have swamps and marshes, estuaries and so
+on. At the other end you have areas which are completely covered by ice. So, you have the
+cold deserts and the hot deserts. In both cases productivity is very poor and open ocean as
+well has very low productivity.
+Then we come to spatial distribution of net primary productivity. So, this is a map of the globe
+where you have grams of carbon that are generated. So, if you look at India it is relatively low
+in terms of primary productivity in terms of net primary productivity. And you can see the
+regions of high primary productivity are in South America and in the central part of Africa as
+well as the Polynesian islands, Indonesian islands and so on.
+
+Let us now come to another point and that is how do we measure populations in ecosystems.
+I have already introduced a few models in the beginning of this course and that was the linear
+geometric and exponential growth model. I also explained to you that exponential population
+growth is a good fit. However, what exponential growth does not account for is the fact that
+growth cannot be infinite. If you go back to the exponential growth model there is no limit to
+growth that is a fundamental point in the exponential growth model. However, when you are
+dealing with ecosystems you know that the survival and reproduction of any given species is
+based on the resources that are available and resources are always finite. Therefore, growth
+cannot be infinite which is an assumption of the exponential growth model. We have a finite
+carrying capacity for any given environment. You have to define growth in terms of that finite
+carrying capacity. How we define it can be a challenge. There are several issues which I may
+get time to talk about. So, if we modify the exponential growth model in such a way that we
+put a limit to the growth. So, within that exponential growth equation remember this is our
+basic exponential growth equation where we have change in the population. Population is in
+terms of n, n is numbers of individuals of any given species. So, dn by dt is equal to rN, r is
+the rate of growth, N is the number of individuals of that species. So, this equation over here
+is our basic form of the exponential growth model. Now, if we say that there is a lid, there is
+a carrying capacity you cannot exceed that there is a limit to growth. How will you modify
+that? That r value has to be modified keeping that limit in mind and that limit we give it a
+number K. K is the carrying capacity of the environment, N I have already defined as the
+population at time t, r0 is the exponential rate of growth when n is very small when it is close
+to 0. So, initially when you start any population you can think of growing some small species
+and so on. So, we do this very often in the lab with bacteria and algae and so many other
+species. We culture them in the lab and we give them enough nutrients so that they can grow.
+So, at the initial stage we have what is called exponential growth rate and that is when the
+level the number of individuals of a given population is very small. We now are modifying
+that exponential equation. This is our exponential equation at the bottom here and at the top
+you see this modification. r0 is the exponential rate of growth when n is small you have r 0 n
+and you have what we call environmental resistance which is (1 ­ N/K). As N approaches K
+the resistance increases because the resources are becoming finite the population is
+increasing it is getting closer to the carrying capacity of the environment and therefore, the
+resistance from the environment for the survival of these individuals becomes greater. So, as
+long as N is very small the exponential growth model is sufficient. However, when N
+approaches K, r approaches 0 and r is given by this equation
+
+                                                     
+                                        = 0(1 - )
+
+We can integrate that to get
+
+                                              
+                               = 1 + . (-0)
+
+and b is defined as another parameter  -0   and N0 is the population at t is equal to 0.
+                                         0
+Here is an example from one of the textbooks the textbook by karman d has this data. For
+yeast cell cultures why am I showing that this is the classic shape of the logistic growth curve
+this is the number of yeast cells as a function of time. So, this is the data that was available
+from the textbook and what you need to see is that like I said these kinds of studies are done
+very frequently in the lab and they are very easy to do they are not difficult. All you need to
+do is culture a particular species whether it is yeast bacteria algae whatever it is and you
+monitor the number of cells over a period of time. So, this is the data that is generated from
+the monitoring of cells. You can then calculate two parameters dn/dt and r. So, the first thing
+you need to notice is that r is greatest in the beginning n is smallest in the beginning you have
+a starting culture you have a small number of cells you are providing all the nutrients that are
+required for their growth and therefore, the rate of growth is greatest in the beginning dn/dt
+is quite simply calculated as delta n for two points divided by delta t. r the r value comes from
+the exponential equation you can determine r value similar to what we did in the very first
+set of lectures and you can use that r value to come up with this kind of graph.
+So, what you see on this particular slide are two different graphs one is n versus the r value
+and each individual r value is the exponential rate of growth that is the first point and the first
+graph actually shows n versus dn/dt. So, the assumption is that all growth is exponential but
+r is not a constant in the logistic growth model unlike the exponential growth model. r for
+each time interval is calculated based on the exponential equation.
+Okay. So, each of these let me go back to this graph each individual r comes from the
+exponential growth equation because that is the underlying growth model. What are we
+doing? We are only putting a cap on this the growth is not infinite. So, as the n number
+approaches K, K is the carrying capacity as it approaches K, r will go down. So, here you can
+see the monotonic decrease in r value as n increases n is increasing population is increasing
+the rate of growth is declining and that is the hallmark that is the defining characteristic of
+the logistic growth it does not always work, I will come back to the limitations. So, as n
+approaches k the carrying capacity r starts decreasing and starts approaching 0. When dn/dt
+is maximum let us come to that this is maximum d n by d t we define n is equal to k by 2 this
+is the inflection point in this classic s curve. This curve was actually proposed by a
+mathematician a long time back in Europe with just 2 data points. So, and those 2 data points
+were at the inflection part of the curve. So, this classic s shaped curve which defines the
+logistic growth curve has the highest growth rate at the beginning and the growth rate is
+slowing down over a period of time. So, the slope if you were to take a slope of this curve the
+slope is decreasing.
+So, this model is applicable to any number of species many people have published papers
+using different species and it has been found to be an effective model. So, yeast cells water
+fleas and the list perhaps are endless, but not all species it does not fit all cases it is not the
+best fit in all cases or even for the same species different locations different research groups
+and so on. It applies only to populations where the growth rate is maximum in the beginning
+and decreases monotonically over an extended period of time. The population is growing
+exponentially at any given time, but the growth rate is decreasing. This is not coming back to
+this graph this is not a lag period very often the bacteria people who are familiar with the
+bacterial growth curve often mistake the first part of this curve as a lag period. It is not a lag
+period it is the opposite of the lag period the lag period in bacterial growth curves based on
+monotone kinetics is actually the slowest part of the growth curve. However, in the logistic
+growth curve this initial part of the s curve is actually the fastest rate of growth. So, for
+populations where the growth rate varies over time and non-monotonically. So, if you go back
+to the census of India data that I showed in the very first week the Indian set of data does not
+change the growth rate does not vary monotonically it fluctuates quite a bit. However, if you
+separate the data from 1971 onwards you find that there is a monotonic decline in the
+population growth rate. So, if you take only the last 5 decades or so it works, but not for the
+entire 100 years. Even for the US population this model was used in a famous first application
+paper all the way back in 1920. It is not an accurate prediction because many other factors
+cannot be accounted for in this particular equation. But like I said it remains one of the most
+popular models for modeling the growth of any particular species and it there are several
+conditions that have to be met for this model to work.
+These are the references for this part of the lecture and I will stop here. Thank you.
+

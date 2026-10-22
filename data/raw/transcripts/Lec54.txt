@@ -1,0 +1,283 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                Week 11
+                                               Lecture 04
+                                           Soil Pollution ­ I
+
+Welcome everyone to week 11. This is ecology and soil pollution. We are going to go
+with lecture 4 on soil pollution. This is divided into two parts. So, this is the first part.
+Some of the concepts that we are going to cover include soil formation and functions, soil
+composition, horizons, the relationship between soil, vegetation and climate and soil
+degradation and conservation.
+
+Keywords for this particular lecture are sustainability, climate, horizons, weathering and
+erosion.
+So, let us start with what is soil? Soil has a very simple definition. It is unconsolidated
+geologic material that is located at the surface of the earth. It is generally considered to be
+within the top 2 meters. Now how is soil formed that itself is called that process of soil
+formation is called pedogenesis. Now remember that soils are the source on which
+vegetation grows and the other source of nutrients for the vegetation to grow. Now
+vegetation and other organisms that are dependent on soil, they are going to modify soil
+and soil will determine the nature of vegetation. So, it is a two-way process. That is why I
+have this very simple schematic over here that soil and vegetation have a very interesting
+relation with each other. The nature of vegetation determines the nature of soil and vice
+versa. So, it works both ways, and both in turn are dependent on climatic factors. So, we
+will be looking at some of these climatic factors in the subsequent slides.
+What is the role of soil in our daily activities? I will start with the one at the top. Soil
+determines regulate water and nutrient availability. Remember that vegetation requires
+only water and nutrients. These are the two requirements for any vegetation to grow. So,
+soil will determine the nature of the soil will determine how much water is going to be
+absorbed by the soil, how much it can retain and the same thing applies to nutrients. So
+that is our first role. The second as I said it supports it provides a medium of support that
+is the anchor for the vegetation. So, it is a physical support for the vegetation and it also
+therefore, the two together determine agricultural productivity and without agricultural
+productivity we would not have any food. So, that is the second role. The third is that it
+serves as a habitat for other organisms besides plants. It is not just a reservoir for
+vegetation, but also several other organisms starting from microorganisms to higher
+organisms and anything that disturbs the soil as a habitat for these organisms will also
+destroy the soil ecosystems. So, that is a very very important role that soils play in the
+ecological scheme of things. Finally, from an engineering point of view, it is an
+engineering resource, it is a building material whenever you are building any structure
+whether it is a building, a road, a bridge, whatever it is the foundations have to go
+through the soil layers. So, that is one important point and soil also is a building material
+it goes into the building works.
+What are the environmental impacts? I have already mentioned the first one availability
+of nutrients and water for plant growth that will determine the nature of soil texture and
+other soil properties. So, we will be looking at that in the next few slides. I have already
+mentioned that the stability of buildings, roads, any other structures that have their
+foundation under the surface of the planet, they are going to be affected by the nature of
+soils. We are talking about terrestrial environments and no other environments. Soil
+ecosystems are location specific and if you get a chance to study soil ecosystems, you
+will find that many of them are self-sustaining. So just putting soil, I have actually seen
+this experiment, you can take a little bit of soil, put it in a glass bottle and seal the bottle
+for a fair amount of time. It should have sufficient moisture to begin with and a little bit
+of vegetation. You find that what we found is that it was able to sustain itself. That soil
+ecosystem was self-sustaining for at least about 10 years or so. And it is as I mentioned in
+the previous slide, it is a habitat for organisms, both microbes as well as higher
+organisms.
+When we talk about soil formation or pedogenesis, what are the factors that affect soil
+formation? We will start with climate first. The first factor is rainfall. There are two parts
+to this particular factor, leaching of minerals. So when rain falls on any soil or any
+surface of the terrestrial environment, you will get dissolution of the minerals. So there is
+loss of minerals or mass from the soil because of rainfall. You will also get wet
+deposition of particulate matter and minerals from the atmosphere. So, any particulate
+matter and this is something that is very easy to observe, you will find that whenever
+there is a rain event, the atmosphere seems to be cleansed, the haze, the dust in the
+atmosphere has been removed by the rainfall. So that is an example of wet deposition of
+particulate matter and minerals from the atmosphere. So there is a net gain in terms of
+mass of the soil. That is why I have two words mentioned here. Leaching of minerals is
+net loss and wet deposition is net gain. What about temperature? You know that on a
+daily basis, there is heating and cooling of the soil because of daytime and nighttime
+temperatures. Now, this heating and cooling is going to result in contraction and
+expansion of the soil material. So you have physical weathering of the material on a daily
+basis. That is one role that temperature plays in pedogenesis. And the second point is
+chemical weathering. When you have acidic rainwater, it will cause greater dissolution of
+minerals. You know that acids result in the dissolution of minerals and therefore they will
+break down whatever material is there, whether it is small particles or rocks, all of them
+will be broken down depending on the acid content of rainwater. And also keep in mind
+that in today's world, rainwater has a pH of around 5.6. Only because of CO2, it is an
+equilibrium with CO2 in the atmosphere. So it is already acidic and if there is pollution in
+the air to a greater extent, if you have NOX and SOX, then you will have nitric acid and
+sulfuric acid, which will bring the pH of rainwater down further. So, depending on the
+level of pollution in the environment, you will have some amounts of acids in rainwater
+which will cause breakdown of the soil material.
+
+We then come to organisms. As I said, organisms can range from the smallest, which is
+bacteria, to fungi, algae and small animals, insects, snails, earthworms and so many other
+animals that live within the subsurface. All these organisms which inhabit the soil
+ecosystem will modify it both chemically and biologically. Remember one thing that all
+organisms modify their environment, and they are required its natural adaptation to any
+changes in the environment. So it is a two-way process again between organisms and soil.
+Both sides will modify each other. We then come to digestion of organic matter. In many
+cases, some of these organisms are going to take up the soil material along with the
+organic matter as part of their food, its ingestion. So digestion of organic matter that is
+attached to the soil particles, the breakdown of minerals by acids that are generated
+during the digestion process by these smaller animals, and so on, the ones that inhabit the
+subsurface or the soil layers. So these acids are present and generated as well by the
+digestion process of these higher organisms and also it is true that bacterial processes also
+generate acids.
+
+Then we come to topography. Weathering is the first point. Weathering at higher
+altitudes is going to be much greater than at lower altitudes because of variations in
+temperature and wind patterns. So this is something that most of you would have learned
+about. Also, keep in mind that soil is formed from parent bedrock material. So this
+bedrock, which is at the bottom or far below the surface, it is going to be weathered by
+wind, temperature and so many other conditions. Now, just imagine that you have a hill
+and the wind is always blowing on one side. So that is the windward side and the other
+side is the leeward side. The parent material, the bedrock is the same, but the nature of
+the soil is going to be very different. So the soil texture, the soil size, the aggregate soil
+size, all of that will be very different even though the parent material is the same.
+So then we come to the parent material.
+
+The D or R horizon which is shown in this schematic, this is a cross section through the
+subsurface of the different soil horizons. The bedrock is called the D or R horizon. So we
+will come back to this in a little bit.
+So the D or R horizon is the original source of the soil material. So this is the bedrock. As
+it gets weathered over a period of time, you get small particles. So you get a range of
+sizes in terms of particles because mainly because of weathering of this material. So that
+results in soil material that is shown over here. What is the impact of time on soil
+formation? When we say that this is old soil or mature soil, how does that compare with
+young soil? So mature or older soils have more organic matter and less parent material.
+Young soils on the other hand by definition have more parent material and less organic
+matter.
+
+Then we come to other processes. Calcification is a process where you get removal of all
+salts except calcium and magnesium. So you get enhancement or greater concentration of
+calcium and magnesium. Salinization of soil, which we are going to spend a little bit of
+time on is the accumulation of salt due to evaporation in arid and semi-arid regions. This
+is a big problem where you have irrigation. So because irrigation water has a fair amount
+of salt in it and you have evaporation of the water, you get an accumulation of salts on
+the surface of the soils over a period of time. Laterization is another process that results
+in the accumulation of iron and aluminum in humid tropical environments. So this part of
+the country West Bengal is it has it is very rich in laterite soil which means that iron and
+aluminum content in the soil is very high.
+Let us now come to soil composition. What is any average soil going to contain? So the
+first thing is mineral particles. Whatever the bedrock is, it is going to break down, and
+that is going to contribute to the mineral particles. So 45% of the volume of soil is going
+to be mineral particles. Let us assume that it is not saturated. So the pore spaces between
+these particles, let us assume are air and water. So that is about 25%, 25%. What about
+the remaining 5%? The remaining 5% is organic matter. This organic matter comes from
+the actual organisms that are inhabiting this subsurface layer, this layer at the top of the
+subsurface, root, vegetation, and its roots. The roots are occupying this area or volume
+and that is 10%. The remaining is called humus. Humus is 80%, humic material. This is
+decayed vegetation. Decayed vegetation is after the vegetation has died and that includes
+every part of the plant. So you have the trunk, the leaves, the branches, everything
+eventually comes back to the soil and it becomes part of the organic content of the soil.
+So 80% of this 5% is humic material. Humus or humic material.
+Soil horizons are shown in this schematic here. So you have the O horizon right at the
+top. Now, this O horizon is rich in organic matter for obvious reasons because you have
+vegetation on it and whatever vegetation falls on the soil is going to be degraded, decay
+and so on. So, within the O horizon, O1 stands for loose leaves and organic debris. O2
+stands for partly decomposed organic debris.
+
+A horizon is the zone of leaching. So, right at the top you have rich, you have the soil
+material which is rich in organic content. This organic content is continuously degrading
+and what are the products of that degradation process? The products of those degradation
+processes are acids, these are organic acids, and other organic compounds. So these
+organic compounds as they are formed will start leaching into the deeper layers, and that
+also includes the mineral content. Now, because you are generating acids, you will get
+dissolution of the mineral particles as well. So A1, the first layer is rich in organic matter,
+A2 is rich in mineral content, and A3 is the transition to the next horizon, the deeper layer
+and that is the B horizon.
+
+The B horizon is the zone of accumulation. This one is closer to the bedrock, it may not
+be as porous as the A horizon. So the zone of accumulation is the B horizon, B1 is the
+transition between A and B, B2 is the maximum accumulation of colloids. Remember
+that there is also a filtration process going on over here because as you go further down
+into the depth of the soil, less and less material will be able to go further down. So
+colloids are submicron particles, there will be accumulation in the B horizon, and then we
+have B3 which is a transition to the C horizon.
+Now the C horizon is weathered bedrock. So the bedrock is right at the bottom that is
+called D or R horizon, and C is weathered bedrock. So some fracturing, some breaking
+down of the bedrock happens in the C horizon.
+
+What is the relation between soil climate and vegetation? Remember that weathering of
+soils is the end product of all types of weathering. So we have physical or mechanical
+weathering, we have chemical weathering and what is not mentioned over here is we also
+have biological weathering because I have already mentioned in the previous slides that
+the organisms that inhabit the soil ecosystems are constantly modifying this material as
+well. So, there is some level of biological weathering as well.
+Let us take a look at the relation between climate, vegetation and soil. So if you look at
+the tropics, the tropics have very high vegetation. So if the precipitation is high,
+temperatures in the tropics are also high, so you will get assuming that you have a very
+high level of vegetation, if you think about the rainforest, then the soil will be relatively
+thick. So you have a fairly thick amount of the depth from the surface, you will have a
+fairly thick amount of soil. So, this yellow part represents the soil thickness. As the
+temperature in the, this is keeping an eye on the amount of vegetation, so the first part of
+our tropic curve is for let us say an area like the Amazon rainforest. But there are other
+areas in the tropical regions which are not that high in terms of the amount of vegetation.
+So, in those cases, the soil layer will be less deep compared to the rainforest. So, it is
+inversely proportionate.
+Then we come to the desert. The desert also has very high temperatures. The amount of
+vegetation as you can see is very, very low. And because the amount of vegetation is very
+low, the parent material is going to dominate and you have a very thin layer of soil at the
+top. So this is the desert region. Then we come to the temperate region. The temperate
+region you have temperature which is going down, it is declining compared to the tropics
+and the desert. The parent material will be somewhere in between, and you have soil
+material that will be slightly thicker than the desert material but less than the rainforest.
+Then we come to the optics. In the optics, the temperature is very low. The amount of
+vegetation will range depending on the warmer temperatures will have more vegetation
+and as the temperature goes down, the vegetation level also goes down. So again, the
+parent material will be dominant, and the soil levels or the depth of the soil will be
+proportionate to the amount of vegetation. So you can see very clearly that climate will
+determine vegetation and vegetation will determine the thickness of the soil layer.
+
+So what we have over here is the soil texture triangle. Now soil is broadly those soil
+particles are broadly defined in three categories. We have clay, silt and sand. The finest
+particles are clay, they are around 2 microns in size less than 2 microns in size. So that is
+less than 0.002 millimeters. Silt particles are bigger than that. So you have 2 microns to
+60 microns and sand is from 0.06 or 60 microns to 2 millimeters. So those are the coarse
+particles. Now, what you have here on the soil texture diagram is very often in the
+literature you will find terms like the soil is described as silty clay, silty loam, loamy soil,
+sandy soil or sandy loam. These are the terms that are used very frequently in the
+literature when they are talking about soil. So how does that happen? Here, we have a
+triangle with clay only on one axis, silt only on the other axis and third, sand only on the
+third side of the triangle. So any combination of either two or three of these different
+types of particles will result in a particular soil texture. So, in the very first case if a soil
+has anywhere from 55 to 100 percent clay, then it is a clay soil okay, and if it is below
+that if the clay content is below that then depending on what else is in it, it will be either
+silty clay or sandy clay. Then we come to clay loam. Clay loam has a little bit of
+everything. It has silt in it, it has sand in it and it has clay in it. So you can see it right
+here at the center. Silt is the one that is here. It is from 87 percent to 100 percent if it is
+silt, it is considered just silt and silty loam has a mixture of silt and sand. So you can see
+that this type of triangle makes it very easy to understand the mix of different-sized
+particles.
+
+What you see here is soil degradation and there are actually two different issues that we
+are going to cover in this particular lecture and the next one. So, we are going to look at
+soil degradation and soil pollution, and there are very different problems associated with
+soil. So, we will start with soil degradation. As we know soil is the base for both crop and
+livestock production. Remember that vegetation that is growing on any different type,
+whatever the type of soil it may be, the vegetation is going to determine the agricultural
+productivity. So, the soil fertility will determine directly the agricultural productivity.
+Now, this vegetation that is growing on the soil is also food for the livestock. So those
+who are breeding livestock there the livestock productivity is also indirectly related to
+agricultural productivity and soil fertility. So nutrients in the soil will determine both
+these types of productivity and the nature of the produce. What are the problems that we
+are dealing with? We are dealing with overgrazing and soil erosion. Soil erosion means
+loss of soil and loss of soil means loss of productivity. So it is a major issue in today's
+world. Agriculture and crop production. We have three different types of crops that are
+shown over here. Food crops are essential. We also have forage crops which are required
+for livestock breeding and for the grazing of other animals besides livestock.
+So then we come to cash crops. Soil is also the reservoir for vegetation or basically for
+cash crops. Other crops like cotton, silk, jute, bamboo, all of them have commercial
+value, and they are called cash crops for that reason and that is also of great economic
+value.
+
+One issue that I have already mentioned is soil erosion. So, we are going to cover the
+universal soil loss equation. We will be looking at that in the subsequent slides and why
+does soil erosion happen? It is basically a natural phenomenon. It is something that
+happens due to wind, rain, temperature variations. All of this will cause soil erosion. We
+can accelerate, human activities can accelerate soil erosion because of deforestation. So if
+you are removing the rainforest, if you are removing other types of forest, that thick soil
+layer which is forming naturally is going to be lost because there is no vegetation cover.
+Overgrazing results in the same kinds of issues because when you have too many animals
+grazing on the same area, what will eventually happen is that there is no time for the soil
+to rejuvenate itself and for the vegetation to regrow. So you end up having denuded soil,
+and this denuded soil has very less cohesive properties. So, during a rain event, it is very
+easy for the soil to be washed away. One of the other factors is change in land use and
+land cover. So because of change in land use and land cover, we also have major
+problems with soil erosion. Because of deforestation, because of less vegetation cover,
+we also have greater dust storms. Now, these dust storms happen for many reasons. One
+is loss of vegetation, two is ploughing of the fields and three is drought conditions. All
+these conditions lead to drying up of the top layer of soil and when the wind blows, all of
+this becomes dust, and it is carried away. So soil erosion has several reasons for soil
+erosion to happen.
+Then we come to soil salinity. Soil salinity I have already mentioned is mainly due to
+excessive use of water for irrigation and when this water evaporates, it leaves the salts
+behind and you have high salt content in the soil. Now some of you may have observed
+it, sometimes the soil has a whitish texture. It is visible to the eye, and that is because of
+accumulation of salt on the surface of the soil. Groundwater irrigation is becoming more
+and more popular. Groundwater irrigation has a major problem associated with it, and
+that is groundwater generally contains more salt or higher TDS, total dissolved solids in
+groundwater are generally higher than surface water. And if you have groundwater
+irrigation, which is happening more and more frequently, it is going to lead to greater
+salinization of soils and the end result is going to be reduced soil productivity in the long
+term.
+
+These are the references for this particular lecture. Thank you.
+

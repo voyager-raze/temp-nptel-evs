@@ -1,0 +1,200 @@
+      NPTEL Environmental Science
+
+                              ASSIGNMENT ­ Week 1
+
+1. A chemical is found in a river at concentrations above natural background levels. No
+    adverse ecological effects are observed. The chemical is best classified as:
+    a) Pollutant only
+    b) Contaminant only
+    c) Both pollutant and contaminant
+    d) Neither
+
+Detailed Solution: Contamination means the compound is present at concentrations above
+background level; Pollution means the compound causes adverse effect on human or
+ecological systems.
+
+2. According to the Brundtland Report, sustainable development requires:
+    a) Meeting present needs without compromising future generations needs
+    b) Unlimited resource extraction for economic growth
+    c) Balancing environmental protection with quality-of-life improvement
+    d) Long-term protection of environmental systems
+
+Detailed Solution: Development should satisfy current needs while preserving the ability of
+future generations to satisfy theirs, that means-Present generation must benefit (quality of
+life); Future generations must not suffer; and Environment must be protected
+Option B violates sustainability because unlimited extraction leads to resource depletion.
+3. "A researcher obtains the following R² values while fitting population data:
+
+    Model A: 0.32
+    Model B: 0.71
+    Model C: 0.96
+    Which model best describes the observed data?"
+    a) Model A
+    b) Model B
+    c) Model C
+    d) Cannot be determined
+Detailed Solution: R² measures goodness of fit. R2 >0.9, it is a reasonably good fit and >0.95 is
+a very good fit. Values of R2 <0.5 show that there is no correlation between the two
+independent variables. The two independent variables in this example are population and
+time.
+4. If a class has a capacity for 100 students now, and the capacity for students is to be
+
+    increased by 10% every year, what will the student intake capacity be at the end of 30
+    years?
+    a) 2718
+    b) 2008
+    c) 1500
+    d) 3000
+Detailed Solution: As P0 = 100, n = number of years = 30 and r = 10% or 0.1
+P=P0*exp (n*r) = 100*exp (30*0.1) = 2008
+5. "A country successfully reduces its population growth rate but doubles its per-capita
+    resource consumption. What is the most likely outcome?"
+    a) Environmental pressure will certainly decrease.
+    b) Environmental pressure may still increase.
+    c) Resource consumption becomes irrelevant.
+    d) Pollution must decrease.
+Detailed Solution: Environmental impact depends on: Population × Consumption ×
+Technology
+So, if population growth decreases, a large increase in consumption can offset the gains.
+This is why some low-population countries still have very high environmental footprints.
+6. Which of the following are correctly classified as renewable resources?
+    a) Air
+    b) Soil
+    c) Coal
+    d) Water
+Detailed Solution: renewable resource can naturally restore within a reasonable time scale.
+Air is continuously renewed through atmospheric processes. Water is renewed through the
+hydrologic cycle. Soil is renewable, although very slowly. Coal requires millions of years to
+form and is therefore non-renewable.
+7. Organic matter discharged into a river is decomposed/degraded naturally. This ability or
+    self-purification capacity of a river is an example of:
+    a) Natural resource
+    b) Natural service
+    c) Non-renewable resource
+    d) Green design
+
+Detailed Solution: The river is performing an ecological function. The water itself is a resource.
+Its ability to assimilate and degrade wastes is a service provided by nature.
+Therefore this is a natural service.
+8. A city imports food, fuel, and manufactured products while exporting large amounts of
+
+    waste. This city most closely resembles:
+    a) Agropolis
+    b) Petropolis
+    c) Ecopolis
+    d) Circular city
+Detailed Solution: Petropolis is characterized by: Dependence on fossil fuels, Heavy
+transportation requirements, Import of goods and services Export of wastes
+9. "Two buildings use identical construction materials.
+    Building X minimizes energy use only during operation.
+    Building Y minimizes energy and resource use throughout manufacturing, operation,
+    maintenance, and disposal.
+    Which is more consistent with sustainable design?"
+    a) Building X
+    b) Building Y
+    c) Both equally
+    d) Neither
+Detailed Solution: Green design mostly focuses on reducing current environmental impacts.
+Sustainable design considers the entire lifecycle: Manufacturing, Transportation, Operation,
+Maintenance, Disposal. Therefore, Building Y represents sustainable design.
+
+10. What is the fundamental weakness of a linear economy?
+    a) Resources are endlessly recycled.
+    b) Waste generation is minimized.
+    c) Resources move in a one-way flow from extraction to disposal.
+    d) Renewable energy dominates production.
+Detailed Solution: Linear Economy: Take  Make  Dispose
+Resources are extracted, converted into products, and discarded. This model ignores material
+recovery.
+11. Which of the following changes would move a city from a Petropolis toward an Ecopolis?
+    a) Increasing local food production
+    b) Expanding waste recycling
+    c) Increasing fossil-fuel imports
+    d) Promoting renewable energy
+Detailed Solution: An Ecopolis: Reduce external dependence, minimize waste, Close material
+loops, use renewable resources so, Local production, Recycling and Renewable energy
+support the transition. Increasing fossil-fuel imports does the opposite.
+12. If a country doubles its electricity generation using coal while maintaining the same
+    population. What is the most likely environmental consequence?
+    a) Reduced greenhouse gas emissions
+    b) Increased resource consumption and pollution
+    c) No environmental change
+    d) Reduced dependence on natural resources
+Detailed Solution: Coal: Non-renewable and Carbon intensive Doubling coal-based generation
+implies: More coal extraction More combustion More CO emissions More air
+pollution Greater environmental burden. Thus, environmental impacts increase even
+without population growth.
+13. The Capital Stock Model suggests that sustainable development is achieved when:
+    a) Capital stock is continuously depleted
+    b) Natural resources are exhausted
+    c) Society lives on interest rather than capital
+    d) Population is reduced to zero
+Detailed Solution: The lecture compares sustainability to living on the interest generated by
+capital rather than consuming the capital itself. Consuming the capital stock threatens long-
+term prosperity.
+
+14. Population = 200 million, Per capita electricity use = 1500 kWh/person-year, CO2 Emission
+    factor = 0.9 kg/kWh, Calculate Total annual CO emissions?
+    a) 180*10^9 kg
+    b) 270*10^9 kg
+    c) 300*10^9 kg
+    d) 450*10^9 kg
+
+Detailed Solution: 200*(10^6) * 1500*0.9=270 × (10^9) kg
+15. Which of the following are pillars of sustainable development?
+
+    a) Social
+    b) Ecological
+    c) Financial
+    d) Military
+Detailed Solution: The three pillars correspond to social, environmental, and
+economic/financial dimensions.
+16. Which represent ecological deficit?
+    a) EF=3, BC=2
+    b) EF=2, BC=3
+    c) EF=5, BC=4
+    d) EF=4, BC=4
+Detailed Solution: Deficit occurs when: EF>BC
+17. Earth Overshoot Day represents:
+    a) The day Earth begins regeneration
+    b) The day humanity's resource demand exceeds Earth's annual regeneration capacity
+    c) The first day of the year
+    d) The day carbon emissions become zero
+Detailed Solution: Earth Overshoot Day is the date when humanity has consumed all
+ecological resources that Earth can regenerate during that year. After this day, humanity is
+operating on an ecological deficit.
+18. A building consumes 60,000 kWh/year, Area = 1,500 m², Calculate EPI.
+    a) 20 kWh/m2-year
+    b) 30 kWh/m2-year
+    c) 40 kWh/m2-year
+    d) 50 kWh/m2-year
+
+Detailed Solution: EPI = [Annual Energy Consumption/Floor Area] = [60000/1500] =
+40 kWh/m2-year
+19. Factors affecting EPI include:
+
+    a) Number of occupants
+    b) Climate and Seasonal Variation
+    c) Energy conservation practices
+    d) Shape and building orientation
+Detailed Solution:
+Number of Occupants: More occupants generally increase lighting demand, cooling load,
+appliance usage.
+Climate and Seasonal Variations: Hot climates increase air-conditioning demand, energy
+consumption. Cold climates increase heating demand.
+Energy Conservation Practices: Efficient lighting, sensors, and renewable energy reduce EPI.
+Shape and Orientation: Building orientation affects sunlight exposure, ventilation, cooling
+requirements.
+20. Which paper products generate more than 8,000 kg GHG emissions?
+    a) Toilet Paper
+    b) Uncoated A4 Paper
+    c) Paperboard (uncoated, unbleached, Kraft)
+    d) Newsprint (uncoated ground wood)
+Detailed Solution: Toilet paper = 11,897
+A4 = 8,999
+Paperboard = 1,495 [It is made from 100% recycled fibre, using recycled fibres eliminates
+many energy-intensive steps associated with producing virgin pulp. It does not require virgin
+wood, so no fresh trees are harvested, emissions from logging, transportation, and initial
+wood processing are avoided.]
+Newsprint = 9,681
+

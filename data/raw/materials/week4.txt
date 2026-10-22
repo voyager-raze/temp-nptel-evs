@@ -1,0 +1,1219 @@
+   NPTEL
+
+Week 4, Lecture 1 ­ CLIMATE CHANGE
+                             (Definition & Evidence)
+ Core concepts of climate change
+
+NPTEL  Past and recent climate changes
+
+ Climate change indicators
+
+                                                                                                                              02
+ Greenhouse gases
+ Enhanced greenhouse effect
+
+TEL  Global warming
+NP  Albedo
+
+ Global climate indicators
+
+                                                                                                                              03
+Don't confuse weather and climate
+
+ Weather is the short-term changes in atmospheric variables, such as
+
+     temperature and precipitation, in a given area over a period of hours or
+     days.
+
+ Climate is the statistical description of the weather conditions of a
+
+  particular area (including both averages and extremes), over decades to
+
+  L thousands of years.
+  TE Greenhouse gases (GHGs), occurring naturally in the Earth's atmosphere,
+  NP play a critical role in determining climate; they are transparent to incoming
+  solar radiation but block the outgoing infrared radiation from Earth's
+
+  surface to escape into space ­ greenhouse effect.
+
+ Five major gases contribute to the greenhouse effect: carbon dioxide
+
+  (CO2), methane (CH4), nitrous oxide (N2O), chlorofluorocarbons (CFCs),
+
+  and water vapor (H2O).                                                            04
+What is climate change?
+
+ Climate change is the long-term shifts in temperature and weather
+
+     patterns.
+
+ These shifts may be natural, such as through variations in the solar cycle,
+
+  or anthropogenic, such as CO2 emissions from combustion of fossil fuels
+  like coal, oil or natural gas, and renewable fuels like biomass.
+
+  EL As GHG emissions from human activities increase, they build up in the
+  NPT atmosphere.
+ The additional GHGs in the atmosphere enhance the greenhouse effect
+
+  and alters the Earth's climate, leading to shifts in snow and rainfall
+
+  patterns, a rise in average temperatures and more extreme climate events,
+
+  such as heatwaves and floods.
+
+                                                                              05
+What is the greenhouse effect?
+
+(Image courtesy of SBC Energy Institute)  NPTEL
+
+Note:
+1 Omitting solar radiation reflected before entering into the atmosphere.
+
+2 In reality, the Earth's energy balance is never in perfect equilibrium because of internal variations:
+oceans and atmosphere are actively moving energy around the globe, temporarily storing more or less
+energy and changing global mean temperatures.
+
+3 Emitted radiation is of similar intensity to incoming radiation (in W/m²), but differs in other respects  06
+
+(mostly invisible infrareds).
+What is the greenhouse effect?
+
+(Image courtesy of SBC Energy Institute)  NPTEL
+
+Note:
+
+1 Global warming is the increase in global average surface temperature, measured over a period of at
+least 30 years. The atmosphere may warm differently at different altitudes, but it is at the surface
+where changes have the most direct impacts on people and ecosystems.
+
+                                                                                                                                    07
+What is the greenhouse effect?
+
+                                          NPTEL
+
+(Image courtesy of SBC Energy Institute)
+
+Note:
+
+1 Climate change is the significant change in the statistical distribution of weather patterns over a  08
+sustained period, of at least 30 years.
+Earth's energy balance at equilibrium
+
+ The Earth's energy balance is influenced by the intensity of solar radiation
+
+      and the properties of its atmosphere, surface, and oceans.
+
+1  NP4TEL3
+
+                       2
+
+                                                                                                                               09
+
+(Image courtesy of the Intergovernmental Panel on Climate Change (IPCC)).
+Earth's energy balance at equilibrium
+
+ On the one hand, clouds, aerosols, and the surface partially reflect
+
+      incoming solar radiation and contribute to cooling the Earth.
+
+                                 A
+
+                       NPTEL
+
+                                 B
+
+                                                                                                                                    10
+
+       (Image courtesy of the Intergovernmental Panel on Climate Change (IPCC)).
+Earth's energy balance at equilibrium
+
+ On the other hand, GHGs partially retain the emitted infrared radiation in
+
+      the lower atmosphere and contribute to the warming of the Earth's surface.
+
+                       NPTEL
+
+                                                                           C
+
+                                                                                                                                    11
+
+       (Image courtesy of the Intergovernmental Panel on Climate Change (IPCC)).
+Earth's climate in the distant past
+
+ Earth's climate has changed throughout history. Just in the last 800,000
+
+     years, there have been eight cycles of ice ages and warmer periods, with
+     the end of the last ice age about 11,700 years ago marking the beginning of
+     the modern climate era -- and of human civilization.
+
+                       NPTEL
+
+                                                                                                                                    12
+
+       (Image courtesy of S. Oppenheimer, "Out of Eden ­ The Peopling of the World")
+Estimating past temperatures
+
+ Past temperature changes are estimated by analysing tiny bubbles of
+
+     ancient air trapped in ice cores, drilled out of an ice sheet or glacier.
+
+                                                                               Ice core extraction in the
+                                                                               Antarctic (Image courtesy of
+                                                                               British Antarctic Survey).
+
+                       NPTEL
+
+A slice of an ice core showing
+
+trapped air bubbles (Image courtesy                                                                          13
+
+of British Antarctic Survey).
+Earth's climate in the recent past
+
+ The upward trend in the globally averaged temperature represents global
+
+     warming. The combined land and ocean temperature has increased at an
+     average rate of 0.08oC per decade since 1880; however, the average rate
+     of increase since 1981 has been over twice as fast: 0.18°C per decade.
+
+                       NPTEL
+
+                                                                                                                                    14
+
+(Image courtesy of Berkeley Earth)
+10 indicators of a warming world
+
+                       NPTEL
+
+                                                                                                                                     15
+
+(Image courtesy of US National Oceanic and Atmospheric Administration (NOAA))
+Earth's changing climate
+
+ As a consequence, records indicate an increase in the frequency of
+
+     extreme temperature events from 1970 onwards.
+
+                       NPTEL
+
+                                                                                                                                    16
+
+       (Image courtesy of IPCC)
+NPTEL
+   NPTEL
+
+Week 4, Lecture 2 ­ CLIMATE CHANGE
+                             (Causes and Determinants)
+ Attribution of observed changes: climate forcings
+
+  L GHGs and their role in Earth's energy balance
+  NPTE Role of the carbon cycle in maintaining Earth's
+
+  energy budget
+
+                                                        02
+ Climate forcings
+ Keeling curve
+
+TEL  Global warming potential
+NP  Carbon source
+
+ Carbon sink
+
+                                                                                                                              03
+Is the sun causing global warming?
+
+ Several lines of evidence indicate that the current global warming cannot
+
+     be explained by changes in energy from the sun.
+
+                       NPTEL
+
+                                                                                                                                    04
+
+       (Image courtesy of National Aeronautics and Space Administration (NASA))
+Increasing GHGs are warming the planet
+
+ The current global warming trend observed since the mid-20th century is
+
+     primarily due to increase in GHGs in the atmosphere.
+
+BREACHED    Global annual average temperature (as measured over both
+
+400 ppm     land and oceans). Red bars indicate temperatures above and
+            blue bars indicate temperatures below the average
+
+on 9 May    temperature for the period 1901-2000. The black line shows
+NPTEL 2013
+            atmospheric CO2 concentration in parts per million (ppm).
+            While there is a clear long term global warming trend, each
+            individual year does not show a temperature increase relative
+            to the previous year, and some years show greater changes
+            than others. These year-to-year fluctuations in temperature
+            are due to natural processes.
+
+                                                                                                                               05
+
+(Image courtesy of NOAA)
+The Keeling Curve
+
+ The Keeling Curve, devised by Dr. Charles David Keeling of the Scripps
+
+     Institution of Oceanography, represents the concentration of CO2 in the
+     Earth's atmosphere since 1958, as recorded at the Mauna Loa
+     Observatory in Hawaii.
+
+                       NPTEL
+
+                                                                                                                                    06
+
+         (Image courtesy of Scripps Institution of Oceanography, UC San Diego)
+Human activities are increasing GHG levels
+
+ Increases in anthropogenic GHG emissions and their atmospheric
+
+      concentrations since the Industrial Revolution are well established.
+
+                       NPTEL
+
+        (Image courtesy of SBC Energy Institute)
+
+                                                                                                                                    07
+Climate forcings
+
+ Climate forcings are the elements responsible for the observed change in
+
+     the Earth's energy budget. A positive forcing causes the Earth to warm,
+     and a negative forcing causes the Earth to cool.
+
+                  NPTEL                                                       Global mean energy budget under present-
+                                                                              day climate conditions. Numbers state
+                                                                              magnitudes of the individual energy fluxes
+                                                                              in W m­2, adjusted within their uncertainty
+                                                                              ranges to close the energy budgets.
+                                                                              Numbers in parentheses attached to the
+                                                                              energy fluxes cover the range of values in
+                                                                              line with observational constraints.
+
+                                                                                                                              08
+
+(Image courtesy of IPCC)
+Climate forcings
+
+ The main contributors are GHGs, whose warming effects are well known,
+
+      being a direct function of their atmospheric concentration.
+
+                       NPTEL
+
+                                                                                                                                    09
+
+       (Image courtesy of SBC Energy Institute)
+Climate forcings
+
+ Aerosols emitted by human activities have both warming and cooling
+
+      effects, and are the most uncertain climate forcings.
+
+                       NPTEL
+
+                                                                                                                                    10
+
+       (Image courtesy of SBC Energy Institute)
+How do aerosols affect climate?                     Overview of interactions between aerosols
+                                                    and solar radiation and their impact on
+ Atmospheric aerosols affect climate in many ways.  climate.
+
+                       NPTEL
+
+                                                                                                                               11
+
+(Image courtesy of IPCC)
+Climate forcings
+
+ Anthropogenic forcing has been increasing since the Industrial Revolution,
+
+      and at a faster rate since the 1970s.
+
+                       NPTEL
+
+                                                                                                                                    12
+
+       (Image courtesy of SBC Energy Institute)
+Climate forcings
+
+ Natural forcings, by contrast, have had much less severe cumulated
+
+      impacts on the Earth's energy budget.
+
+                       NPTEL
+
+                                                                                                                                    13
+
+       (Image courtesy of SBC Energy Institute)
+Climate forcings
+
+ The oceans' massive thermal inertia slows down surface warming by
+
+      several centuries.
+      EVOLUTION OF SURFACE WARMING (LAND AND OCEAN COMBINED)
+      AFTER INSTANTANEOUS DOUBLING OF CO2 CONCENTRATION
+      IN THE ATMOSPHERE
+
+                       NPTEL
+
+                                                                                                                                    14
+
+       (Image courtesy of SBC Energy Institute)
+Climate forcings
+
+ Human activities, in particular the cumulated effect of GHGs and aerosol
+
+      emissions, are having a much more significant impact on the Earth's
+      energy balance today than any natural forcing.
+
+                       NPTEL
+
+                                                                                                                                    15
+
+       (Image courtesy of SBC Energy Institute)
+Global warming potential
+
+ Global warming potential (GWP) is a measure of how much energy the
+
+    emissions of 1 ton of a gas will absorb over a given period of time, relative
+    to the emissions of 1 ton of CO2.
+
+ CO2, by definition, has a GWP of 1 regardless of the time period used,
+
+    because it is the gas being used as the reference.
+
+EL Major long-lived GHGs and their global warming potential (Carbon Manage., 2010, 1,
+NPT 191­197).
+
+                                                                                                                                    16
+Why CO2 emissions matter?
+
+ Earth's carbon is stored in various reservoirs (atmosphere, oceans, fossil
+
+     fuels, etc.), interconnected through the biogeochemical carbon cycle.
+
+NPTEL                                                                        Simplified schematic of the global carbon
+                                                                             cycle showing the typical turnover time
+                                                                             scales for carbon transfers through the
+                                                                             major reservoirs (Image courtesy of
+                                                                             IPCC).
+
+                                                                             17
+Why CO2 emissions matter?
+
+ Anthropogenic CO2, in particular, has been building up in the atmosphere,
+
+     despite being partially stored by ocean and land sinks.
+
+                                                                                                                           Simplified schematic of the global carbon cycle. Numbers
+                                                                                                                           represent reservoir mass, also called `carbon stocks' in PgC (1
+                                                                                                                           PgC = 1015 gC) and annual carbon exchange fluxes (in PgC yr­1).
+                                                                                                                           Black arrows: Annual carbon fluxes (PgC/year) prior to the
+                                                                                                                           industrial era; Red arrows: Additional anthropogenic carbon fluxes
+                                                                                                                           averaged over the 2000-2009 period; Black numbers: Carbon
+
+                            L reservoirs mass (PgC) prior to the industrial era; Red numbers:
+                                                                                                                           Additional anthropogenic change in carbon stock over the 1750-
+
+                           E 2011 period; Red numbers in the reservoirs: Cumulative
+                          T changes of anthropogenic carbon over the Industrial Period 1750­
+                       NP 2011 (Image courtesy of IPCC).
+
+                                                                                                                                    18
+Why CO2 emissions matter?
+
+ The increase in CO2 emissions from fossil fuel burning and those arising
+
+     from land use change are the dominant cause of the observed increase in
+     atmospheric CO2 concentration.
+
+                       NPTEL
+
+                                                                                                                                    19
+
+       (Image courtesy of SBC Energy Institute)
+NPTEL
+   NPTEL
+
+Week 4, Lecture 3 ­ CLIMATE CHANGE
+                             (Projections and Related Impacts)
+ Long term consequences of climate change
+
+­  Polar regions and high mountains
+­
+­  L Ocean and marine life
+   NPTE Weather systems and patterns
+­ Livestock production and food security
+
+­ Ecosystem and species diversity
+
+­ Human wellbeing and health
+
+                                                                                                                   02
+ Cascading impacts
+
+ Permafrost           NPTEL
+ Sea level rise
+ Ocean acidification
+
+ Extreme weather
+
+                             03
+Global warming of 1.5ºC
+
+ Human-induced warming reached approximately 1°C above pre-
+
+     industrial levels in 2017, increasing at 0.2°C per decade.
+
+                       NPTEL
+
+                                                                                                                                    04
+
+       (Image courtesy of IPCC)
+Cascading climate change impacts
+
+ The impacts and implications of climate change propagate as cascades
+
+     across physical and human systems, compounding to form multiple
+     impacts across sectors.
+
+                       NPTEL
+
+                                                                                                                                    05
+
+                          (Image courtesy of IPCC)
+More ice and snow will melt
+
+ Arctic sea ice cover is shrinking and will become thinner as temperature
+
+rises.
+
+        · September 2012 had the lowest sea
+
+           ice extent ever recorded; 44% below
+
+           the 1981­2010 average for that
+
+           month.
+
+        ·  For March, the lowest sea ice extent
+        ·
+           L on record was in 2017; 7.4% less
+           E than the 1981­2010 average.
+           T The September 2021 sea ice extent
+           P was the 12th smallest on record. It
+           Nwas more than 577,000 square miles
+           less than the historical 1981­2010
+
+           average for that month.
+
+                                                                                                                               06
+
+(Image courtesy of US Environmental Protection Agency)
+More ice and snow will melt
+
+ All months have shown a negative trend in sea ice extent over the past
+
+     several decades. The largest year-to-year decreases have occurred in
+     the summer and fall months.
+
+MARCH AND SEPTEMBER MONTHLY AVERAGE ARTIC SEA ICE EXTENT
+
+1971­2021  NPTEL
+
+                                                                                                                               07
+
+(Image courtesy of US Environmental Protection Agency)
+More ice and snow will melt
+
+ Permafrost is thawing, with the potential of adding more GHGs to the
+
+     atmosphere.
+
+                       NPTEL
+
+                                                                                                                                    08
+
+       (Image courtesy of IPCC)
+More ice and snow will melt
+
+ Hazards for people, for example through landslides, snow avalanches or
+
+     floods will increase as glaciers and permafrost decline.
+
+                       NPTEL
+
+                                                                                                                                    09
+
+       (Image courtesy of IPCC)
+Sea levels will rise
+
+ During the 20th century, the global mean sea level rose by about 15 cm,
+
+     and the rate of change has accelerated in recent years.
+
+      GLOBAL AVERAGE ABSOLUTE SEA LEVEL CHANGE, 1880­2021
+
+                       NPTEL
+
+                                                                                                                                    10
+
+       (Image courtesy of US Environmental Protection Agency)
+Sea levels will rise
+
+ Over the past decade, continental ice melting into the ocean has
+
+     contributed to roughly half the sea-level rise, the other half being mostly
+     caused by the thermal expansion of the oceans, which have been
+     warming up.
+
+                       NPTEL
+
+                                                                                                                                    11
+
+       (Image courtesy of IPCC)
+Sea levels will rise
+
+ Sea level is expected to rise to up to 1.1 m in 2100 if GHG emissions are
+
+     not sharply reduced.
+
+                       NPTEL
+
+                                                                                                                                    12
+
+       (Image courtesy of IPCC)
+Sea levels will rise
+
+ Rising mean and increasingly extreme sea level threaten coastal zones in
+
+     multiple ways.
+
+                       NPTEL
+
+                                                                                                                                    13
+
+       (Image courtesy of US Legislative Analyst's Office)
+Sea levels will rise
+
+ Sea level rise increases the base sea level and thus exacerbates the
+
+     effects of a storm surge. The frequency of coastal flooding events trebles
+     for every 0.1 m of sea-level rise.
+
+                       NPTEL
+
+(Image courtesy of Climate Council of Australia Ltd.)                            14
+Sea levels will rise
+
+ The vast majority of low-lying islands, coasts and communities face
+
+     substantial risk from these coastal hazards, whether they are urban or
+     rural, continental or island, at any latitude, and irrespective of their level of
+     development.
+
+  NPTEL CHANGES IN RELATIVE SEA LEVEL FOR THE PERIOD 1901­2015
+
+                                                                                                                                    15
+
+       (Image courtesy of IPCC)
+Oceanic waters will become acidic
+
+ Another prominent effect on the oceans will be a decrease in pH
+
+     (tendency to acidification) as a result of increasing atmospheric
+     concentration of CO2.
+
+CHANGES IN ARAGONITE SATURATION OF THE WORLD'S OCEANS,
+
+1880­2015  NPTEL
+
+                                                                                                                               16
+
+(Image courtesy of US Environmental Protection Agency)
+Oceanic waters will become acidic
+
+ As atmospheric CO2 increases, its interaction with the surface ocean
+
+     modifies the chemistry of seawater, resulting in ocean acidification.
+
+                       NPTEL
+                                                                                                                               (Dissolved
+                                                                                                                               Inorganic
+                                                                                                                               Carbon conc.)
+
+(Image courtesy of NOAA)                                                                                                                      17
+Oceanic waters will become acidic
+
+ Declining pH levels in the world's oceans is already impacting the ability
+
+     of many marine species to build their shells and skeletons from calcium
+     carbonate.
+
+                       NPTEL
+
+                                                                                                                                    18
+
+       (Image courtesy of Britannica)
+Extreme weather will increase
+
+ As the climate warms, more energy will be available to power
+
+     atmospheric circulation and the water cycle, increasing the volatility of
+     weather patterns globally.
+
+PROJECTED LONG-TERM CHANGES IN WEATHER CHANGES (2100)
+
+(NON-EXHAUSTIVE LIST)  NPTEL
+
+                                                                                                                               19
+
+(Image courtesy of SBC Energy Institute)
+Food production may decline
+
+ Impacts on agriculture may include a decline in major crop yields in
+
+     tropical and temperate regions.
+
+      PROJECTED CHANGES IN CROP YIELD, WITH OR WITHOUT
+      ADAPTATION MEASURES
+
+                       NPTEL
+
+                                                                                                                                    20
+
+       (Image courtesy of IPCC)
+Livestock will be adversely affected
+
+                                      Climate change can reduce the availability
+                                      of livestock products, as well as their
+NPTEL                                 quality and safety through contamination
+                                      with pathogens or pesticide and reduced
+                                      nutritional quality and sensory appeal.
+
+                                                                                                                                   21
+
+(Image courtesy of IPCC)
+Ecosystem shifts and species extinctions will increase
+
+ Impacts on ecosystems include an increased risk of species extinction,
+
+     increasing with both magnitude and rate of climate change.
+
+      MAXIMUM SPEEDS AT WHICH SPECIES CAN MOVE ACROSS LANDSCAPES
+      IN THE ABSENCE OF HUMAN INTERVENTION, COMPARED WITH SPEED AT
+
+ NPTEL WHICH TEMPERATURES ARE PROJECTED TO MOVE
+
+                                                                                                                                    22
+
+       (Image courtesy of IPCC)
+Human wellbeing and health will be at risk
+
+ Consequences for society will include negative impacts on human
+
+     health, livelihoods and poverty.
+
+                       NPTEL
+
+                                                                                                                                    23
+
+       (Image courtesy of US Environmental Protection Agency)
+NPTEL
+   NPTEL
+
+Week 4, Lecture 4 ­ CLIMATE CHANGE
+                             (Mitigation Options)
+ Mitigation strategies to reduce CO2 emissions
+
+  L Principles of carbon capture, usage, and storage
+  NPTE Reducing global warming impacts via geoengineering
+
+                                                           02
+ CO2 capture
+
+ CO2 utilization  NPTEL
+ CO2 storage
+ CO2 management
+
+ Solar radiation management
+
+                             03
+(Image courtesy of IPCC)CO2 emissions and mitigation
+
+ Limiting global warming below 2oC by 2100 requires limiting future
+
+     cumulative CO2 emissions to an incredible extent.
+
+       GLOBAL WARMING BY 2100 AS A FUNCTION OF CUMULATIVE
+       CO2 EMISSIONS FROM 1870
+
+                       NPTEL
+
+                                                                                                                                    04
+CO2 mitigation options
+
+ A wide array of technologies will be necessary to substantially reduce
+
+     energy-related CO2 emissions.
+
+FORECASTS OF KEY TECHNOLOGIES FOR
+CO2 EMISSION REDUCTIONS
+
+                                   NPTEL
+
+                                                                                                                               05
+
+(Image courtesy of International Energy Agency)
+Carbon capture, utilization, and storage
+
+ Carbon capture, utilization and storage (CCUS) is a combination of
+
+technologies for (1) selectively removing CO2 from smokestacks of
+fossil-fuelled power plants and other large industrial sources, (2)
+
+compressing and transporting it to a suitable site, (3) utilizing it as a
+
+feedstock in industrial process, and/or (4) storing it by a natural or
+                                      NPTEL
+engineered trapping mechanism.
+
+                                   1
+
+3                               2
+
+   4                                                                                      06
+
+(Image courtesy of Cooperative Research Centre for Greenhouse Gas Technologies (CO2CRC))
+Opportunities for capturing CO2
+
+ Opportunities for large scale capture of CO2 exist in electricity
+
+     production, manufacturing, and industrial processes.
+
+                       NPTEL
+
+                                                                                                                                    07
+
+       (Image courtesy of CO2CRC)
+CO2 capture scenarios
+
+ In general, there are three basic approaches to capture CO2 emanating
+
+     from fossil fuel combustion.
+
+                       NPTEL
+
+(Image courtesy of IPCC)                                                08
+Pre-combustion capture
+
+ Prior to combustion, carbon content of the fuel is first converted to
+
+     synthesis gas (CO and H2), which is then reacted with steam to convert
+     CO to CO2 and H2. The CO2 is then separated from the CO2/H2 mixture
+     and the H2 is burnt to produce power, leaving H2O as the main exhaust.
+
+                       NPTEL
+
+                                                                                                                                    09
+
+       (Image courtesy of CO2CRC)
+Oxyfuel combustion capture
+
+ Involves burning fossil fuels in almost pure O2 (>95%) instead of air; the
+
+     flue gas primarily consists of CO2 and H2O, which is then compressed,
+     producing a relatively pure CO2 stream that is ready for sequestration.
+
+                       NPTEL
+
+                                                                                                                                    10
+
+       (Image courtesy of CO2CRC)
+Post-combustion capture
+
+ Instead of being discharged directly to the atmosphere, the flue gas
+
+     undergoes some processing and treatment, during which most of the
+     CO2 is separated and captured. The CO2-free flue gas stream is then
+     emitted to the atmosphere.
+
+                       NPTEL
+
+                                                                                                                                    11
+
+       (Image courtesy of CO2CRC)
+CO2 capture technologies
+
+ Several gas-separation technologies can be considered for separating
+
+     CO2 from both dilute and concentrated gas mixtures, including
+     absorption, adsorption, membrane separation, cryogenics, and oxygen
+     chemical looping.
+
+                       NPTEL
+
+                                                                                                                                    12
+(Image courtesy of Global CCS Institute)Transporting CO2
+
+ Captured CO2 is compressed and transported to a suitable storage site
+
+     or utilization industries, mostly through pipelines. Ships may be viable for
+     CO2 transportation over long distances.
+
+                       NPTEL
+
+                                                                                                                                    13
+Utilizing CO2
+
+ Captured CO2 can be utilized to develop a range of renewable low-
+
+     carbon fuels and high-value products.
+
+                       NPTEL
+
+(Ind. Eng. Chem. Res. 2019, 58, 21, 8941­8954)                      14
+Utilizing CO2
+
+ CO2-enhanced oil recovery involves extracting oil, typically from mature
+
+     fields that have ceased being productive through traditional primary and
+     secondary recovery methods, thereby reducing CO2 .
+
+                       NPTEL
+
+                                                                                                                                    15
+Geological storage of CO2
+
+ Geological storage involves injecting CO2 deep underground into
+
+     naturally occurring, porous rock formations, such as former natural gas
+     or oil reservoirs, unmineable coal seams, or saline aquifers.
+
+                       NPTEL
+
+                                                                                                                                    16
+
+       (Image courtesy of CO2CRC)
+Geological storage of CO2        Injection of CO2 into deep geological
+
+CO2 DENSITY WITH STORAGE DEPTH       porous formations is achieved by
+                                     pumping compressed CO2 in fluid
+                       NPTEL         phase (supercritical) down to the
+                                     formation through a well, where it will
+                                     stay compressed due to the
+                                     hydrostatic formation pressure.
+
+                                                                                                                                    17
+
+(Image courtesy of CO2CRC)
+Geological storage of CO2
+
+                                                                    Good porosity and permeability at a depth of
+
+                                                                                      more than 800 m, overlain by low permeability
+                                                                                      rock layers, the so-called `cap rocks' that has
+                                                                                      trapped oil and natural gas underground for
+                                                                                      millions of years are the best candidates for
+
+                       NPTELCO2 storage.
+
+                                                                                                                                    18
+
+(Image courtesy of CO2CRC)
+Geological storage of CO2
+
+ CO2 injected in free phase in reservoir tends to rise upward until it gets
+
+     trapped in structural or stratigraphic traps. In the longer term, dissolved
+     CO2 is eventually mineralized into carbonate, increasing storage security.
+
+              CO2 UNDERGROUND TRAPPING MECHANISMS
+
+                       NPTEL
+
+                                                                                                                                    19
+
+       (Image courtesy of CO2CRC)
+Ocean storage of CO2
+
+ Captured CO2 can also be deliberately injected into oceans at great
+
+     depth, where most of it would remain isolated from the atmosphere for
+     centuries.
+
+                       NPTEL
+
+                                                                                                                                    20
+
+       (Image courtesy of IPCC)
+Geoengineering solutions
+
+                                  Geoengineering is the deliberate
+
+                                      large-scale intervention in the Earth's
+                                      natural systems to counteract climate
+                                      change.
+
+                          NPTEL   Two fundamental approaches: (a)
+
+                                      solar radiation management and (b)
+                                      CO2 management.
+
+                                                                                                                                    21
+
+(Image courtesy of IPCC)
+Is solar radiation management a
+plausible geoengineering option for
+the long term?
+
+                      NPTEL
+
+                                                                                                                                    22
+
+(Image courtesy of SBC Energy Institute)
+NPTEL
+   NPTEL
+
+Week 4, Lecture 5 ­ CLIMATE CHANGE
+                             (Adaption and Policy Responses)
+ Strategies for adaption to climate change
+
+EL  International treaties to combat climate change
+NPT  Importance of the IPCC
+
+                                                                                                                              02
+ Adaptation
+
+ The Kyoto Protocol   NPTEL
+ The Paris Agreement
+ Carbon credit
+
+ IPCC
+
+                             03
+Adapting to climate change
+
+ Adaption refers to modifications in processes, practices, and
+
+     infrastructure to prepare for projected effects of climate change and to
+     limit the adverse impacts to an acceptable level.
+
+                       NPTEL
+
+                                                                                                                                    04
+
+       (Image courtesy of EA Engineering, Science, and Technology, Inc., PBC)
+Adapting to climate change
+
+ Adaption calls for action across the full spectrum of potential solutions --
+
+     from reducing exposure and vulnerability to preparing for and recovering
+     from climate impacts.
+
+Basic elements of climate change adaption  NPTEL
+
+(Image courtesy of Global Commission on Adaption)
+
+                                                                                                                               05
+Adapting to climate change
+
+ In many instances, the locus of adaptation action is not local but at
+
+     subnational, national, or even regional scales.
+      Key policy interventions in Bangladesh contributed to
+      reduced deaths from climate disasters
+
+                       NPTEL
+
+                                                                                                                                    06
+
+       (Image courtesy of Global Commission on Adaption)
+Adapting to climate change
+
+ There are immense opportunities for using nature to increase societal
+
+     resilience in landscapes ranging from uplands to the ocean.
+      How different nature-based solutions can work together
+      across landscapes to build resilience
+
+                       NPTEL
+
+                                                                                                                                    07
+
+       (Image courtesy of Global Commission on Adaption)
+The United Nations Framework Convention on Climate Change
+
+ The United Nations Framework Convention on Climate Change
+
+  (UNFCCC) is an international environmental treaty addressing climate
+
+  change, opened for signature by 154 states (198 parties as of July 2022)
+
+  on the margins of the United Nations Conference on Environment and
+
+  Development, informally known as the Earth Summit, held in Rio de
+  Janeiro from 3 to 14 June 1992.
+
+  EL The Convention acknowledges the vulnerability of all countries to the
+  T effects of climate change and calls for special efforts to ease the
+  NP consequences, especially in developing countries which lack the
+  resources to do so on their own.
+
+ The Convention sets out the basic legal framework and principles for
+
+  international climate change cooperation with the aim of stabilizing
+
+  atmospheric concentrations of greenhouse gases (GHGs) to avoid
+
+  "dangerous anthropogenic interference with the climate system."           08
+The Kyoto protocol
+
+ To boost the effectiveness of the UNFCCC, the Kyoto Protocol was adopted
+
+      in December 1997.
+
+ In force since 2005, the protocol mandated most of the Annex I signatories
+
+      to the UNFCCC (consisting industrialized nations, and several countries with
+      "economies in transition") to reduce the emission of six GHGs ­ carbon
+
+  L dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, and
+  E sulfur hexafluoride to 5.2% below 1990 levels during the "commitment
+  NPT period" 2008­2012.
+
+ Other signatories to the UNFCCC and the protocol, consisting mostly of
+
+      developing countries, were not required to restrict their emissions.
+
+ The 2012 Doha Amendment committed countries to collectively cut
+
+      emissions by at least 18% below 1990 levels by 2020.
+
+                                                                                                                                    09
+The Paris agreement
+
+ At the 21st Conference of the Parties (COP21), held in Paris in 2015, all
+
+     196 signatories of the UNFCCC signed a global but nonbinding
+     agreement to limit the increase of the world's average temperature to no
+     more than 2°C above preindustrial levels, while at the same time striving
+     to keep this increase to 1.5°C above preindustrial levels.
+
+ NPTEL State of the Paris Agreement (as of 21 April 2021)
+
+                                                                                                                                    10
+
+       (Image courtesy of Statista)
+How is the Paris agreement different?
+
+                                                       The Kyoto Protocol
+
+                                                                       required only developed
+                                                                       countries to reduce
+                                                                       emissions, while the Paris
+                                                                       Agreement recognized that
+                                                                       climate change is a shared
+
+                        L problem and called on all
+                        E countries to set emissions
+                       NPT targets.
+
+                                                                                                                                    11
+
+(Image courtesy of Care About Climate Inc.)
+Carbon credits and the role of governments
+
+ Carbon credits, also known as carbon allowances, are permits that allow
+
+     the owner to emit a certain amount of CO2 or other GHGs. One credit
+     permits the emission of one ton of CO2 or the equivalent in other GHGs.
+
+                       NPTEL
+
+(Image courtesy of Carbon Streaming Corporation)                              12
+Science/policy interface ­ The IPCC
+
+ The Intergovernmental Panel on Climate Change (IPCC) is the leading
+
+     international body for the assessment of climate change.
+
+                       NPTEL
+
+(Image courtesy of IPCC)                                              13
+Role of the IPCC
+
+ "... to assess on a comprehensive, objective, open and transparent
+
+     basis the scientific, technical, and socio-economic information relevant to
+     understanding the scientific basis of risk of human-induced climate
+     change, its potential impacts and options for adaptation and mitigation."
+
+  "IPCC reports should be neutral with respect to policy, although they
+
+  L may need to deal objectively with scientific, technical, and socio-
+  NPTE economic factors relevant to the application of particular policies."
+
+                                                                                  14
+Outcomes of the IPCC
+
+ The IPCC's main output is regular Assessment Reports that summarize
+
+     the current state of knowledge of climate change.
+
+­ Six assessment reports (1990, 1995, 2000, 2007, 2013-14, 2021-23)
+
+­  Fourteen special reports (1994, 1997, 1999, 2000, 2005, 2011,
+­
+   L 2012, 2018, 2019) that provide an authoritative scientific/technical
+   E assessment or guidance on any topic, which is not adequately
+   NPT covered in assessment reports
+
+   Guidelines for national GHG inventories, good practice guidance
+
+   (1995, 2006, 2013, 2016)
+
+­ Technical papers and supporting material
+
+                                                                           15
+Achievements of the IPCC
+
+ The IPCC publications have become standard work of reference, widely
+
+     used by policymakers, decision makers, scientists and other experts.
+
+                       NPTEL
+
+(Image courtesy of IPCC)                                                   16
+Achievements of the IPCC
+
+ The Nobel Peace Prize 2007 was awarded jointly to the IPCC and Albert
+
+     Arnold (Al) Gore Jr. "for their efforts to build up and disseminate greater
+     knowledge about man-made climate change, and to lay the foundations
+     for the measures that are needed to counteract such change".
+
+                       NPTEL
+
+                                                                                                                                    17
+Concluding remarks
+
+ Human influence on the climate system is clear.
+
+ The more we disrupt our climate, the more we risk
+
+  severe, pervasive, and irreversible impacts.
+
+  EL We have the means to limit climate change and build
+  NPT a more prosperous, sustainable future.
+
+                                                          18
+NPTEL
+

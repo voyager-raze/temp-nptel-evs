@@ -1,0 +1,285 @@
+NPTEL Environmental Science
+
+                       ASSIGNMENT- WEEK 11
+
+QUESTION 1:
+
+Assertion (A):
+Compounds having high log Kow values tend to bioaccumulate strongly.
+Reason (R):
+Such compounds are more soluble in organic solvents than in water.
+
+    a. Both A and R are true and R is the correct explanation of A
+    b. Both A and R are true but R is not the correct explanation
+    c. A is true but R is false
+    d. A is false but R is true
+
+Detailed Solution: High log Kow values indicate that a chemical is more soluble in fats and
+organic matter than in water. Such compounds preferentially accumulate in biological tissues,
+resulting in higher bioaccumulation potential.
+
+QUESTION 2:
+
+An increase in contaminant concentration from minnows  predatory fish  fish-eating birds
+is termed:
+
+a. Bioconcentration
+b. Bioavailability
+c. Biomagnification
+d. Biodegradation
+
+Detailed Solution: Biomagnification is the increase in contaminant concentration at successive
+trophic levels of a food chain.
+
+QUESTION 3:
+
+Match List-I with List-II
+
+List-I                     List-II
+
+P. Provisioning services   1. Recreation and inspiration
+
+Q. Cultural services       2. Oxygen generation
+R. Supporting services              3. Raw materials and water
+
+S. Regulating services              4. Climate control
+
+a. P-3, Q-1, R-2, S-4
+b. P-4, Q-3, R-1, S-2
+c. P-2, Q-1, R-4, S-3
+d. P-3, Q-2, R-1, S-4
+
+Detailed Solution:
+
+Provisioning services provide direct resources from ecosystems such as food, water, and raw
+materials. Cultural services include recreational and inspirational benefits. Supporting services
+help sustain life processes like oxygen generation, while regulating services control
+environmental conditions like climate, therefore.
+
+QUESTION 4:
+
+DDT concentration in lake water is 5 × 10 ppm. If the concentration in herring gull tissue is
+6 ppm, then the approximate magnification factor is:
+
+a. 1.2 × 10
+b. 1.2 × 10
+c. 1.2 × 10
+d. 1.2 × 10³
+
+Detailed Solution:
+
+Magnification Factor = Concentration in top predator/Concentration in water = 6/5×10-5 =
+1.2×105
+
+QUESTION 5:
+
+Which of the following are examples of regulating ecosystem services?
+
+a. Climate control in wooded areas
+b. Flood control
+c. Nutrient recycling
+d. Disease regulation
+
+Detailed Solution:
+
+Climate regulation, flood control, and disease regulation help maintain environmental balance
+and are therefore regulating services. Nutrient recycling is a supporting service, while
+recreation and tourism belong to cultural services.
+QUESTION 6:
+
+Which of the following are true regarding solar radiation and photosynthesis?
+
+    a. Infrared radiation forms the largest fraction of solar radiation reaching Earth
+    b. Chlorophyll absorbs maximum light in the green region
+    c. UV radiation constitutes a small fraction of incoming radiation
+    d. Only a fraction of incident solar radiation is usable by plants
+
+Detailed Solution:
+
+Infrared contributes the largest fraction, UV is a small fraction, and only part of solar radiation
+can be used in photosynthesis.
+
+QUESTION 7:
+
+The concentration of a pesticide in fish tissue is measured as 3.6 mg/kg. The concentration of
+the same pesticide in surrounding water is 0.00012 mg/L. The Bioconcentration Factor (BCF)
+is:
+
+    a. 3 × 10³ L/kg
+    b. 3 × 10 L/kg
+    c. 300 L/kg
+    d. 30 L/kg
+
+Detailed Solution:
+
+BCF = 3.6/ 0.00012 = 30000
+BCF = 3×104 L/kg
+
+Solution: A BCF of 30,000 L/kg indicates strong uptake of the contaminant from water into fish
+tissues. Higher BCF values imply greater potential for bioaccumulation.
+
+QUESTION 8:
+
+Two species occupying similar habitats but utilizing different food resources illustrate:
+
+    a. Identical niches
+    b. Trophic niche differentiation
+    c. Competitive exclusion only
+    d. Ecological succession
+
+Detailed Solution:
+Species living in the same habitat but consuming different food resources occupy different
+trophic niches.
+
+QUESTION 9:
+In logistic population growth, the growth rate decreases as population size approaches
+carrying capacity.
+
+    a. TRUE
+    b. FALSE
+Detailed Solution:
+Resource limitation increases near carrying capacity (K), reducing growth rate.
+QUESTION 10:
+A biome characterized by high temperature and very low precipitation is most likely:
+    a. Tropical rainforest
+    b. Tundra
+    c. Sub-tropical desert
+    d. Temperate forest
+Detailed Solution:
+Deserts are characterized by high temperature and very low annual rainfall.
+QUESTION 11:
+A forest ecosystem has a gross primary productivity (GPP) of 2500 kcal m² yr¹. If respiration
+losses account for 35% of GPP, calculate the net primary productivity (NPP).
+    a. 875 kcal m² yr¹
+    b. 1625 kcal m² yr¹
+    c. 2150 kcal m² yr¹
+    d. 2500 kcal m² yr¹
+Detailed Solution:
+Given: GPP = 2500 kcal m² yr¹
+Respiration = 35%
+R=0.35×2500=875
+NPP=GPP-R=2500-875=1625 kcal m² yr¹
+
+QUESTION 12:
+In an ecosystem, decomposers mainly help in:
+
+    a. Converting solar energy into biomass
+    b. Recycling nutrients back into the environment
+    c. Increasing atmospheric oxygen directly
+    d. Preventing energy loss between trophic levels
+Detailed Solution:
+Decomposers break down dead organic matter and return nutrients such as nitrogen and
+phosphorus to the ecosystem.
+QUESTION 13:
+Which of the following statements regarding ecosystem energy flow are correct?
+    a. Energy transfer between trophic levels is 100% efficient
+    b. Solar energy is the primary energy source for most ecosystems
+    c. Chemical energy stored in biomass moves through trophic levels
+    d. Nutrients and energy both follow cyclic pathways
+Detailed Solution:
+Solar energy is the primary energy source, and energy stored in biomass moves through
+trophic levels. Energy is not recycled.
+QUESTION 14:
+Which processes contribute to loss of incoming solar energy before it reaches Earth's surface?
+    a. Reflection by clouds
+    b. Atmospheric absorption
+    c. Reflection from Earth's surface
+    d. Biomass respiration
+Detailed Solution:
+Cloud reflection, atmospheric absorption, and surface reflection reduce solar radiation before
+it is utilized at Earth's surface.
+QUESTION 15:
+
+Which of the following nutrients is generally considered a major growth-limiting nutrient in
+agricultural soils?
+
+    a. Oxygen
+    b. Carbon dioxide
+    c. Nitrogen
+    d. Hydrogen
+
+Detailed Solution: Nitrogen is often the primary growth-limiting nutrient because atmospheric
+nitrogen (N) is not directly bioavailable to plants.
+
+QUESTION 16:
+
+An average soil sample contains: 45% mineral particles, 25% water, 25% air. If 80% of organic
+matter is humus, determine humus percentage in soil.
+
+    a. 20%
+    b. 8%
+    c. 4%
+    d. 25%
+
+Detailed Solution:
+
+Total accounted: 45+25+25=95%
+
+Therefore,
+
+Organic matter=100-95=5%
+
+Humus = 0.8×5=4
+QUESTION 17:
+
+Assertion (A):
+
+Overgrazing accelerates soil erosion.
+
+Reason (R):
+
+Excessive grazing removes vegetation cover and reduces soil cohesion.
+
+    a. Both A and R are true and R is the correct explanation of A
+    b. Both A and R are true but R is not the correct explanation
+    c. A is true but R is false
+    d. A is false but R is true
+
+Detailed Solution: Overgrazing removes protective vegetation and weakens root binding of
+soil particles. The exposed soil becomes vulnerable to runoff and wind action, leading to
+increased soil erosion. Hence both A and R are true, and R correctly explains A.
+
+QUESTION 18:
+
+Which horizon is primarily responsible for maximum accumulation of colloids?
+
+    a. horizon
+    b. A2 horizon
+    c. B2 horizon
+    d. C horizon
+
+Detailed Solution:
+
+B2 horizon is the zone of maximum accumulation of colloidal particles due to downward
+leaching from upper layers.
+
+QUESTION 19:
+
+Which of the following statements best explains the relationship between soil, vegetation, and
+climate?
+
+    a. Soil determines vegetation, but vegetation does not affect soil
+    b. Climate affects soil only indirectly through organisms
+    c. Soil and vegetation influence each other and both depend on climate
+    d. Vegetation affects climate, but not soil
+
+Detailed Solution:
+Soil properties influence vegetation growth, while vegetation modifies soil composition and
+structure. Both are strongly governed by climatic factors like rainfall and temperature.
+QUESTION 20:
+Using the Universal Soil Loss Equation:
+A field has the following parameters:
+R=250, K=0.3, LS=1.8, C=0.4, P=0.5
+Calculate the annual soil loss A. (in tons per unit area per year)
+
+    a. 27
+    b. 108
+    c. 8.33
+    d. 15
+
+Detailed Solution:
+Universal Soil Loss Equation:
+A=RKLSCP
+A=250×0.3×1.8×0.4×0.5
+A= 27
+

@@ -1,0 +1,316 @@
+                                            Environmental Science
+                             Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                               Indian Institute of Technology Kharagpur
+
+                                                      Week 5
+                            (Lecture 5): Renewable energy I (Wind Energy)
+
+         Welcome to lecture 5 of week 5 of the NPTEL online certification course on Environmental
+Science.
+         Today we will again continue our exploration of renewable energy resources, but our focus
+will be on wind energy. In this lecture, I will first give you an overview of the technology involved
+in harvesting wind both onshore and offshore. I will then discuss some of the basic design
+principles of wind turbines, and like always we will look into the environmental and social impacts
+of wind energy, and what are the current status and future development scenario of both onshore
+and offshore wind energy.
+         Wind ­ the movement of the air ­ is the result of temperature differences in different places.
+Uneven heating results in a difference in atmospheric pressure, which causes the air to move. The
+use of wind energy requires that the kinetic energy of moving air be converted to useful energy.
+Wind energy therefore, relies, indirectly, on the energy of the sun.
+
+         The theoretical potential for wind, as estimated by the global annual flux, has been
+estimated at 6,000 EJ/yr. The global technical potential for wind energy, meanwhile, is not fixed,
+but is instead related to the status of the technology and assumptions made regarding other
+constraints to wind energy development. Nevertheless, a growing number of global wind resource
+assessments have demonstrated that the world's technical potential for wind energy exceeds
+current global electricity production, and that ample technical potential exists in most regions of
+the world to enable significant wind energy deployment relative to current levels.
+         Wind energy has been used for millennia (e.g., the use windmills to pump water), with the
+first successful electricity production observed in the late 19th century.
+
+         The primary use of wind energy is to generate electricity from large, grid-connected wind
+turbines. The use of wind to generate electricity on a commercial scale started in the 1970s in
+Denmark, followed by California.
+
+         Wind turbines use rotor blades and an electricity generator to convert the kinetic energy of
+moving air into electrical energy. The wind forces the turbine's rotor to spin, changing the kinetic
+energy to rotational energy by moving a shaft which is connected to a generator, thereby producing
+electrical energy through electromagnetism.
+         In general, a power generating facility which contains a number of wind turbines is called
+a "wind farm". The basic elements of the wind farm are wind turbines, monitoring facilities,
+substations and transmission cables. Wind farms are commonly sited on land (termed `onshore')
+or can also be sited in sea- or freshwater (called `offshore'). The noticeable difference between
+onshore and offshore wind farms is the foundation. An onshore wind turbine stands on a concrete
+foundation, whereas offshore turbines have their foundations in the water (floating) or on the sea
+bed (fixed-bottom).
+         Generating electricity from the wind requires that the kinetic energy of moving air be
+converted to mechanical and then electrical energy, thus the engineering challenge for the wind
+energy industry is to design cost-effective wind turbines and power plants to perform this
+conversion. The amount of kinetic energy in the wind that is theoretically available for extraction
+increases with the cube of wind speed. However, a turbine only captures a portion of that available
+energy.
+
+         Cut-in speed: rotors start extracting energy from the wind at a defined speed, the cut-in
+speed (usually ~3 to 4 m/s).
+
+         Rated power: Power production increases with wind speed until it reaches its rated power
+level (usually ~11 to 15 m/s). Rated speed is the wind speed at which the turbine generates rated
+power.
+
+         Controlled speed: after rated power, control systems limit power output to avoid
+overloading the wind turbine through stall control, pitching the blades, or a combination of both.
+
+         Cut-out-speed: most turbines stop producing at a defined speed to limit loads on the rotor
+and prevent damage to the turbine (usually ~20 to 25 m/s).
+         In the 1970s and 1980s, a variety of onshore wind turbine configurations were investigated,
+including both horizontal and vertical axis designs. Gradually, the horizontal axis design came to
+dominate, although configurations varied, in particular the number of blades and whether those
+blades were oriented upwind or downwind of the tower. After a period of further consolidation,
+turbine designs largely centred around the three-blade, upwind rotor;
+
+         Locating the turbine blades upwind of the tower prevents the tower from blocking wind
+flow onto the blades and produce extra aerodynamic noise and loading, while three-bladed
+machines typically have lower noise emissions than two-bladed machines.
+         The basic elements of the wind power system are the blades, the rotor hub, the rotor shaft,
+the nacelle, the rotor brake, the gearbox, the generator and controller, the tower and the
+transformer.
+
+         The blades capture and convert the wind's energy to rotational energy. The number of
+blades also influences the structure and ability of wind turbines. Typical large turbines are up-
+wind, horizontal-axis turbines with three rotor blades. Because of the better balance of gyroscopic
+forces, most modern wind turbines use three rotor blades; fewer blades would mean slower
+rotation, requiring more from the gear box and transmission.
+
+         The rotor hub transfers the rotational energy to the rotor shaft, which is fixed to the rotor
+hub. The other end of the rotor shaft is connected to the gearbox, which changes the low rotating
+speed from the blades to a high rotating speed for input to the generator.
+
+         Wind turbines incorporate a control system to prevent excessive rotation speeds in high
+wind, which could otherwise break the blades or other components. The two methods for
+controlling the speed of the blade, or delivering the power output from the blade to the rotating
+shaft, are pitch control and stall control. A pitch control system actively adjusts the angle of the
+blades to the wind speed. The rotor hub includes a pitch mechanism, and the control system
+features a brake. A stall system decreases the rotational speed by using the aerodynamic effects of
+the blades when the wind speed is too high, lowering the efficiency to protect the turbine from
+damage. The high-speed rotating shaft connected to the gearbox forces the shaft of the generator
+to rotate, converting the rotational energy to electricity through the use of electromagnetic
+induction.
+
+         The control system has three main functions: controlling turbines (e.g. the rotating speed
+and yaw direction), monitoring and collecting operational data (e.g. on weather conditions, or
+output/input data for the system, including electricity voltage and current, rotating speed, yaw
+direction, vibration frequency of blade and nacelle) and communicating with operators. A
+transformer is usually placed at ground level and transforms the electricity from the generator to
+the required voltage on the grid.
+         To further understand how a wind turbine works, let us consider this figure with an
+incoming wind velocity Vin. Even before the wind reaches the disk swept out by the turbine blades,
+it feels the increased drag (higher pressure) from the turbine and begins to slow. It slows further
+while passing through the turbine (because the turbine is extracting energy from the wind), and
+slows more just behind the turbine due to the suction drag. Because the exit velocity Vout is slower
+than the entrance velocity, and because air-volume flow rate (cross-section area) is conserved, the
+diameter of the air that feels the influence of the turbine must increase as wind speed decreases.
+
+         Zero exit speed is impossible, because the exited air would block subsequent in-flow,
+preventing power production. Also, if the exit speed equals the entrance speed, then power
+production is zero because no energy is extracted from the wind. Thus, wind turbines are designed
+to have an optimum wind-speed.
+
+         In 1919 Albert Betz reasoned that the energy extracted by the turbine is the difference
+between incoming and outgoing kinetic energies.
+         Solve the expression, Theoretical efficiency (e)= Pturbine/Pwind on a spreadsheet and plot e
+vs. Vout/Vin, the peak in the curve gives us emax at Vout/Vin.
+         Wind power is proportional to the dimensions of the rotor and to the cube of the wind
+speed. Theoretically, when the wind speed doubles, the wind power increases eight times. The
+main factors of the output power are the swept area (related directly to the length of the blades)
+and the wind speed. Over time, the size of wind turbines has thus increased continually. Larger
+rotor diameters allow wind turbines to sweep more area, capture more wind, and produce more
+electricity. A turbine with longer blades will be able to capture more of the available wind than
+shorter blades--even in areas with relatively less wind. Being able to harvest more wind at lower
+wind speeds can increase the number of areas available for wind development. Due to this trend,
+rotor swept areas have grown around 600% since 1990's.
+
+         Turbine towers are becoming taller to capture more energy, since winds generally increase
+as altitudes increase. The change in wind speed with altitude is called wind shear. At higher heights
+above the ground, wind can flow more freely, with less friction from obstacles on the earth's
+surface such as trees and other vegetation, buildings, and mountains. The hub height for utility-
+scale land-based wind turbines has increased 66% since 1990's, to about 94 meters in 2021. That's
+about as tall as the Statue of Liberty! The average hub height for offshore turbines projected to
+grow even taller--from 100 meters (330 feet) in 2016 to about 150 meters in 2035.
+         Offshore wind energy is the generation of electricity through wind farms in bodies of water,
+usually at sea. Each wind turbine sends its power through cables down the tower and under the
+seabed to an offshore substation. Here the energy is stepped up to a higher voltage ready to send
+ashore via high-voltage cables. Higher voltage means less energy is lost in transmission. On land,
+another substation adjusts the voltage again so that the electricity can be fed into the grid and
+distributed via power lines to the homes and businesses that need it.
+
+         The primary motivation to develop offshore wind energy is to provide access to additional
+wind resources in areas where onshore wind energy development is constrained by limited
+technical potential and/or by planning and siting conflicts with other land uses.
+
+         Other motivations for developing offshore wind energy include: the higher-quality wind
+resources located at sea; the ability to use even larger wind turbines due to avoidance of certain
+land-based transportation constraints and the potential to thereby gain additional economies of
+scale; the ability to build larger power plants than onshore, gaining plant-level economies of scale;
+and a potential reduction in the need for new, long-distance, land-based transmission infrastructure
+to access distant onshore wind energy. These factors, combined with a significant offshore wind
+resource potential, have created considerable interest in offshore wind energy technology in the
+EU and, increasingly, in other regions, despite the typically higher costs relative to onshore wind
+energy. The first offshore wind power plant was built in 1991 in Denmark, consisting of eleven
+450 kW wind turbines.
+         However, the installation of offshore wind farms is a complex task. The biggest problem
+lies in elevating wind turbines and substations above the sea level and anchoring them to the sea
+bed.
+
+         There are different types of foundations, according to the depth at which the wind turbine
+will be installed. Therefore, for example, in installations at depths below 15 metres, monopiles are
+used; these are quite simple structures, made up of a thick steel cylinder that is anchored directly
+to the sea bed. They are buried under the sea bed up to 30 metres to support the tower.
+
+         In the case of offshore wind farms that need to erect the wind turbines 30 metres over the
+sea level, clear from the action of waves, the gravity foundation system is usually used, which
+involves using a large concrete or steel platform with a diameter of approximately 15 metres and
+a weight of approximately 1,000 tons.
+
+         More complex support and anchoring structures are required at depths below 30 to 35
+metres. In most cases, installation companies use jackets, foundations with a lattice framework
+that feature three or four sea bed anchoring points, which increases the levels of safety when
+anchoring the towers.
+         In recent years, floating wind farms are one of the most exciting developments in wind
+energy technologies. Floating foundations offer the offshore wind industry two important
+opportunities: 1) they allow access to sites with water deeper than 60 metres, and 2) they ease
+turbine set-up, even for mid-depth conditions (30­50 metres) and may in time offer a lower-cost
+alternative to fixed foundations. In addition, floating foundations generally offer environmental
+benefits compared with fixed-bottom designs due to less-invasive activity on the seabed during
+installation. Three main designs are under development and have been tested: spar-buoys, spar-
+submersibles and tension-leg platforms The ability of floating offshore wind turbines to unlock
+areas of deep water close to shore and large population centres, notably in Japan and the US, could
+greatly expand offshore wind deployment. Floating technologies can also be applied intensively
+in south-east Asia, Oceania and Northern Europe. Floating foundations therefore are potentially a
+"game-changing" technology to effectively exploit abundant wind potential in deeper waters and
+thus are leading the way for rapid future growth in the offshore wind power market.
+         Several important characteristics of wind energy are different from those of many other
+generation sources. These characteristics must be considered in electric system planning and
+operation to ensure the reliable and economical operation of the electric power system.
+
+         The first characteristic is that wind energy is weather dependent and therefore variable--
+the power output of a wind power plant varies from zero to its rated capacity depending on
+prevailing weather conditions. Variations can occur over multiple time scales, from shorter-term
+sub-hourly fluctuations to diurnal, seasonal, and ever interannual fluctuations.
+
+         The nature of these fluctuations and patterns is highly site- and region-specific. An
+important aspect of wind power variability for electric system operations is the rate of change in
+wind power output over different relatively short time periods. In fact, the aggregate output of
+multiple wind power plants changes much more dramatically over relatively longer periods
+(multiple hours) than over very short periods (minutes).
+
+         Another important aspect of wind power variability for the purpose of electric sector
+planning is the correlation of wind power output with the periods of time when electric system
+reliability is at greatest risk, typically periods of high electricity demand. In this case, the diurnal,
+seasonal, and even interannual patterns of wind power output (and the correlation of those patterns
+with electricity demand) can impact the capacity credit assigned by system planners to wind power
+plants.
+         The second characteristic to consider is the quality of the wind resource and therefore the
+cost of wind energy is location dependent. As a result, regions with the highest-quality wind
+resources may not be situated near population centres that have high electricity demands.
+Additional transmission infrastructure is therefore sometimes economically justified (and is often
+needed) to bring wind energy from higher-quality wind resource areas to electricity demand
+centres as opposed to utilizing lower-quality wind resources that are located closer to demand
+centres and that may require less new transmission investment.
+         The aggregate variability and uncertainty of wind power output depends, in part, on the
+degree of correlation between the outputs of different geographically dispersed wind power plants.
+This correlation between the outputs of wind power plants, in turn, depends on the geographic
+deployment of the plants and the regional characteristics of weather patterns, especially wind
+speeds. Generally, the output of wind power plants that are farther apart are less correlated with
+each other, and variability over shorter time periods (minutes) is less correlated than variability
+over longer time periods (multiple hours). This lack of perfect correlation results in a smoothing
+effect associated with geographic diversity when the output of multiple wind turbines and power
+plants are combined.
+         Wind does not directly emit GHGs or other pollutants.
+
+         On average, wind emits 12g CO2 equivalent per kWh over its full lifecycle:
+         ~ 22 for concentrating solar power;
+         ~ 48 for solar PV;
+         ~ 500 for natural gas power plants;
+         ~ 1000 for coal power plants.
+
+         Wind energy has significant potential to reduce (and already is reducing) GHG emissions,
+together with the emissions of other air pollutants, by displacing fossil fuel-based electricity
+generation. If wind displaces fossil-fuel power plants, it will probably result in greater use of
+flexible peaking/intermediate plants that operate less frequently over base-load plants. Impact is
+thus highly system specific, but nonetheless clear that it reduces air pollutants & GHG emissions.
+         Wind turbines are sizable structures, and wind power plants can encompass a large area (5
+to 10 MW per km2 is often assumed), thereby using space that might otherwise be used for other
+purposes. The land footprint specifically disturbed by onshore wind turbines and their supporting
+roads and infrastructure, however, typically ranges from 2 to 5% of the total area encompassed by
+a wind power plant, allowing agriculture, ranching and certain other activities to continue within
+the area. Some forms of land use may be precluded from the area, such as housing developments,
+airport approaches and some radar installations.
+         A variety of proximal `nuisance' effects are also sometimes raised with respect to wind
+energy development, the most prominent of which is noise. Noise from wind turbines can be a
+problem, especially for those living within close range. Visual impacts, and specifically how wind
+turbines and related infrastructures fit into the surrounding landscape, are also one of the top
+concerns. In addition to these, rotating turbine blades can also cast moving shadows (i.e., shadow
+flicker), which may be annoying to residents living close to wind turbines. Concerns that the
+visibility of wind power plants may translate into negative impacts on residential property values
+at the local level have also been expressed at times. Further, if various proximal nuisance effects
+are prominent, such as turbine noise or shadow flicker, additional impacts on local property values
+might occur.
+
+         From ecological perspective, bird and bat fatalities through collisions with wind turbines
+are among the most publicized environmental concerns associated with wind power plants.
+Populations of many species of birds and bats are in decline, leading to concerns about the effects
+of wind energy on vulnerable species. Though much remains unknown about the nature and
+population-level implications of these impacts, avian fatality rates are power plant- and species-
+specific, and can vary with region, site characteristics, season, weather, turbine size, height and
+design, and other factors. For offshore wind energy, potential negative impacts include underwater
+sounds and vibrations (especially during construction), electromagnetic fields, physical disruption
+and the establishment of invasive marine species. The physical structures may, however, create
+new breeding grounds or shelters and act as artificial reefs or fish aggregation devices.
+
+         As wind energy deployment increases and as larger wind power plants are considered,
+existing concerns may become more acute and new concerns may arise. Wind turbine
+manufacturers today therefore working on designs and aerodynamics that limit noise and the
+impact on wildlife;
+
+         Additionally, wind farms are being located further and further from shores, which should
+negate many of the public concerns relating to the visual and noise impact of turbines on coastal
+areas.
+
+         Despite the possible impacts described above, surveys have consistently found wind energy
+to be widely accepted by the general public. In general, research has found that public concern
+about wind energy development is greatest directly after the announcement of a wind power plant,
+but that acceptance increases after construction when actual impacts can be assessed. Some studies
+have found that those most familiar with existing wind power plants, including those who live
+closest to them, are more accepting (or less concerned) than those less familiar and farther away.
+         An estimated 102 gigawatts (GW) of wind power capacity were installed globally in 2021
+­ including more than 83 GW onshore and almost 19 GW offshore. Total additions were up around
+7% relative to 2020 to the highest level to date, with annual offshore installations almost three
+times their previous high. Wind power capacity in operation around the world contributed an
+estimated 7% of total electricity generation in 2021.
+         For the 13th consecutive year, Asia (mostly China) was the largest regional market,
+representing around 61.4% of added capacity (up from nearly 60% in 2020). Most of the remaining
+installations were in Europe (15.6%), North America (13.8%) and Latin America and the
+Caribbean (5.7%). China was followed distantly by the United States, which was well ahead of
+Brazil, Vietnam and the United Kingdom; these five countries together accounted for more than
+77% of annual installations. Other countries in the top 10 for total capacity additions were Sweden,
+Germany, Australia, India and Turkey.
+         With continuous technology advancements and cost reductions, along with the right
+policies and supportive measures in place, the onshore wind market would grow rapidly over the
+next three decades. The total onshore wind capacity additions would need to be scaled up more
+than three-fold by 2030 (closer to 150 GW/year) and more than four-fold by 2050 (more than to
+200 GW/year).
+         Similarly, the offshore market would grow significantly over the next three decades, with
+the total installed offshore wind capacity rising more than six-fold by 2030 (to 28 GW/year) and
+ten-fold by 2050 (to 45 GW/year), compared to the 4.5 GW of capacity added in 2018.
+         Ongoing innovations and technology enhancements towards larger-capacity turbines,
+increased hub heights and rotor diameters would improve energy yields and reduce capital and
+operation costs per unit of installed capacity.
+
+         All these, in addition to mitigating the existing barriers, namely grid access, public
+acceptance, ecological impacts, immediately, through a range of supportive policies and
+implementation measures are expected to boost future deployment of wind capacities to enable the
+transition to a low-carbon, sustainable energy future.
+With that, I end my discussion on wind energy resources. Thank You.
+

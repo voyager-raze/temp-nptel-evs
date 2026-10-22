@@ -1,0 +1,344 @@
+                                       Environmental Science
+                         Prof. Samik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                Week 12
+                                               Lecture 01
+             The Environmental Movement and its global and local impacts
+
+Welcome, everyone, to our last and final week. This week, we are going to cover
+environmental policy and legislation.
+
+So, in our first lecture today, we are going to look at the environmental movement, a little
+bit about environmental history, and the impact of the environmental movement at the
+global and local level.
+Some of the concepts that we are going to cover, we are going to look at very briefly, we
+are going to look at environmental history, environmental movement, and its history. And
+we will take four case studies. So, we're going to look at the Bishnoi movement, the Chipko
+Andolan, Jangal Bachao Andolan, and the Apiko movement.
+
+Keywords for this lecture are social, khedri, industrial revolution, digital revolution,
+pollution, e-waste, plastic, and rare earth elements.
+This is a very famous Sanskrit shlok about the destruction of our environment. What it
+says, I've put the English translation over here, that the pollution or destruction of our
+environment results in the destruction of all living beings. The winds also become cruel,
+meaning they become polluted, and nature itself gets degraded. It's full of defects.
+
+So environmental history is about the fact that human beings have always been conscious
+about their environment. One should always remember that every living organism modifies
+its environment, and in turn is modified by its environment. So, it's adapting. Any changes
+in the environment have an impact on the living organisms, and they have to adapt to it.
+And if they don't adapt to it, then their survival is at stake. So, this first statement applies
+to all living organisms. The problem with human beings is that the capacity of human
+beings to modify their environment is far in exceedance of that of any other species on the
+planet, and we are constantly looking at that. So, when we think about when and where did
+degradation of the environment begin, it goes as far back as the beginning of agriculture.
+After all, what is environment, and what is the modification that we make as human beings
+of the environment? So, I have a photo here of slash and burn agriculture. So, most of you
+have studied in high school that agriculture began by cutting down off trees and then
+burning that area. So, this would allow the nutrients to remain in the soil, and this was very
+common practice for thousands of years all over the globe. Most of the ancient civilizations
+and so on, all of them have some mention of this practice. It continues in our country as
+well as in other countries. So, this is called slash and burn method of agriculture. And so,
+the first step in the degradation of the environment goes as far back as the beginning of
+agriculture. And it has now reached its peak with the industrial revolutions. So let us take
+a look at those.
+
+I have already mentioned the agricultural revolution and the fact that slash and burn method
+of farming was very popular and it was a global phenomenon. It started more than 10,000
+years ago. And in terms of degrading the environment, the biggest impact was on
+biodiversity. So, the natural environment was modified to the extent that thousands of
+species which may have been existing in per square kilometer of land would be reduced to
+a few tens of species per kilometer. And there are umpteen examples. Anywhere you look
+is a good example of this phenomenon. In 1760, we got the steam engine. The steam engine
+was invented. It was powered by coal or natural gas in some cases perhaps. And that was
+the beginning of the first industrial revolution. It was also because this was powered by
+coal mainly, it was the beginning of excess emissions of greenhouse gases, various other
+pollutants, air and water pollution issues also became very significant in these years.
+Around the mid-1800, we got mass production of steel, oil and electricity. At around the
+same time, the light bulb was invented and so was the internal combustion engine. So, these
+are all parts of the second industrial revolution. You can understand the relationship
+between light bulbs and electricity. The very fact that they both were in coexistence means
+that electricity became a mass phenomenon rather than limited to a few people. So, with
+that came excess emissions of greenhouse gases. All the problems that began with the first
+revolution, with the first industrial revolution became more severe with the second
+industrial revolution. Then we got semiconductors, personal computers around the 19,
+starting with the 1960s and then in the 1990s, the internet became a global phenomenon in
+1995. And before that, semiconductors, personal computers had all been invented and they
+were becoming more and more popular. So, the third industrial revolution, which is also
+called the digital revolution, began in those years or those decades. This led to new waste
+streams. We have electronic waste, we have plastics and we have rare earth elements,
+which are all used in these personal gadgets. So, all these electronic gadgets have some
+amount, very trace amounts of rare earth elements. Some of them are toxic and the others
+are of commercial value and need to be extracted and recovered as part of the circular
+economy principles and so on. So, this is the third industrial revolution, which came with
+its own problems in terms of environmental problems. Following that, we have cloud
+computing, we have the Internet of Things and machine learning. This is considered the
+fourth industrial revolution. And the next one is supposed to be personalization or
+customization, where human beings will be collaborating with gadgets or robots and
+artificial intelligence, cognitive systems, all this will be part of the fifth industrial
+revolution. And the environmental problems that began with the third industrial revolution
+are going to be increasing with the fourth and the fifth industrial revolution.
+Having seen the summary of the different revolutions, the agricultural revolution, digital
+revolution and so on, we will take a brief look at some of the things that have happened in
+history that have affected the environment or that give us an idea that people in the past,
+basically what I am going to be talking about in this slide and the next one is how in the
+ancient civilizations, people were fully aware of the importance of having a good and clean
+environment. So, I will be taking a look at a little bit of environmental history and then the
+environmental movement. So, let us start with something that is close to home. So, the
+environmental history, I am going to summarize the ancient civilizations and how much
+they knew about maintaining a clean and protective environment. So, the knowledge of the
+need to protect the environment by providing sufficient clean water and sanitation has been
+well documented in at least four of the major ancient civilizations. So, Egypt,
+Mesopotamia, the Indus Valley Civilization as well as China, they all have examples which
+show that the people of those civilizations had a fairly good level of understanding of these
+issues. As you know, the Indus Valley Civilization dates back more than 7000 years from
+the present time. These urban centers had a very high level of sophistication. They were
+planned cities built on a grid pattern. There are several sites in India. The most famous ones
+are Dholavira, Lothal and Rakhigari. In Dholavira, we find that they had collection and
+storage reservoirs for collecting water during the monsoon period so that the cities had
+sufficient water during the non-monsoon or the dry periods. So, that is evident. If you look
+at some of the sites in present-day Pakistan, that is Mohenjo-Daro, Harappa and so on, they
+had drains for collecting wastewater, they had toilets, they had baths. All these are visible
+in the ruins even today. I have some photos from Lothal, which was a seaport in those days.
+There are some photos that you can see in this slide. What you also see on the right-hand
+side is the extent of the Indus Valley Civilization.
+As I said, going back further in time, 3500 to 2500 BC, in the Mesopotamian Civilization,
+drains from homes and toilets leading to cesspits were found. So, everyone was aware of
+the need for a clean environment. They were also aware of the fact that if you do not have
+proper sanitation, if you do not have proper water supply, that will lead to problems like
+diseases and so on. Before 2500, I have already given you an example of Mohenjo-Daro in
+the Harappan or Indus Valley Civilization. They had drainage systems with wastewater
+treatment. The speculation is that perhaps they knew how to use sedimentation or settling
+of water to get clean clarified water. That is present in Mohenjo-Daro. Toilets and sewers
+were present in every house. In today's world, even in rural areas, not every house has
+toilets and sewers. So just imagine the level of civilization at that point. There were covered
+drains or nalas in the middle of the streets and these can be seen in the ruins even today.
+Before 2100 BC, in the Egyptian civilization, bathrooms, sewers and toilet seats were made
+out of limestone. Some of you may be aware of the fact that limestone works as a
+disinfectant and therefore it helps to curb diseases. Before 1800 BC, Dholavira, I have
+already mentioned that had water reservoirs, stormwater drains, septic tanks and cesspits.
+In ancient Rome, around 600 BC, there was a drainage structure called the cloaca maxima
+which was built for collecting rainwater, sewage water, water from swarms and it was
+being discharged directly to the river Tiber. 300 BC to 500 AD, in ancient Greece, we had,
+we have seen public toilets, sewers, collection mains for conveying wastewater and
+stormwater. Wastewater was collected and used for irrigating fields. In all these ancient
+civilizations, India, China, Peru, soil conservation was a major issue and they were
+practicing different techniques for conserving precious soil. So, 2000 years ago, people
+were aware of these environmental issues. That is all about the ancient world.
+What about the modern world? As far back as 1189 AD in London, there were cesspits for
+collection of wastewater and sewage, sewage, sludge. The sludge coming out of the sewage
+was conveyed to the fields for land application which means they were aware of the
+fertilizing properties of this sludge, what we call manure as well. So, this manure was
+applied to the land or the fields. In 1370 AD in Paris, France, they had a stone wall sewer
+which was built in a section of the city. In the early 14th century, it was fully documented
+that the river Thames was completely polluted. It was a large sewer. Many documents seem
+to suggest that. In 1596, again in the UK, the modern flush toilet was invented. So, these
+are all examples of how the urban environment was being modified to make it better. In
+the late 14th to mid-16th century in Europe, there was complete clarity that pollution was
+associated with the spread of diseases. In 1858, again in the river Thames, the stench was
+unbearable. The parliament had to be evacuated because of the stench. Soon after within
+that year, the London sewerage system was built in response. It took a fair amount of time
+from 1858 to 1865. The London sewerage system was built. The very next year, the Kolkata
+sewerage system was started and that took about, that went on until 1875 and the Madras
+sewerage system was built after 1890. A few years later in the US, the National Park
+Service was founded. You might wonder why I have chosen some of these milestones, so
+to speak. And it is just to show you that the urban environment was getting polluted. People
+were aware of pollution and its harmful impacts and its correlation with the spread of
+diseases. All these ideas were becoming clear at the public level or at the society level. And
+the last part is about efficiently managing natural resources. The idea of conserving natural
+resources, the idea of conserving forest and wildlife had already been part of the public
+discourse, but it was officially, it was made part of the official service by founding the
+National Park Service, which was founded in the US and then several other countries
+including India followed after that. So, this was a sort of official understanding of the need
+to conserve forests and wildlife for their own intrinsic value.
+
+Another driving force for the environmental movements all over the globe have been major
+environmental disasters. Whenever disasters have happened and whenever people have
+suffered from the effects of certain, effects of exposure to radiation, to chemicals or any
+other reason, it becomes very important for that country to do something about it. So, I
+have a few examples over here of different major environmental disasters around the globe
+including India. So, I will just go through them very quickly and then we will go on to
+another point. On 6th August and 9th August in 1945, two atomic bombs were dropped on
+Hiroshima and Nagasaki in Japan and the radiation from these bombs showed the linkage
+between this radiation and acute as well as chronic health effects. So, the effects of nuclear
+radiation became obvious at that point. In 1958 in Minamata, which is a village on the coast
+of Japan, a linkage was suspected between the discharge of methylmercury along with the
+wastewater coming out of a fertilizer manufacturing company. Now this wastewater
+contained methylmercury and methylmercury was bioaccumulating in the tissue of fish and
+other marine life. Now these fish as well as other marine life were food for the villagers as
+well as the animals living in that village. A disease was noticed, observed in the villagers
+as well as in the animals, birds, cats, dogs, etc. were either dying or behaving in a strange
+manner. And because of that it was, it took about 10 years for them to realize that some
+disease was occurring in the central nervous system of human beings as well as animals
+that were exposed to fish contaminated with methylmercury. So, this linkage was
+established in 1958. In 2nd and 3rd December 1984 in Bhopal, methyl isocyanate,
+phosgene gas was released from Union Carbide's fertilizer manufacturing plant. The
+official death toll was considered to be 2,259. Several thousand people were affected by
+permanently disabling injuries. So, this was another lesson for everyone at the global level
+that certain compounds can cause severe, they can cause fatalities as well as severe long-
+term health impacts. In 1986 in Pripyat, Ukraine everyone has probably heard about this
+one, explosion and fire in the Chernobyl nuclear power plant resulted in the release of
+radioactive particles which spread all over western USSR, at that time it was USSR and
+now it's Russia and Europe. There were 31 fatalities, several acres of forest were destroyed
+and the radiation effects led to cancer in several cases and they continue to be evaluated.
+24th March 1989 in Alaska, an oil supertanker, the Exxon Valdez leaked 10.8 million
+gallons of crude oil into Prince William Sound along the Alaskan coastline. It left high to
+moderate levels of oil around along 200 miles of coastline and causing either disruption or
+disturbance to the marine ecosystems. This last example is the only one that is about
+ecological damage, the others are about human health effects but these are major
+environmental disasters which have received global attention.
+
+The environmental movement has also been marked by several very important
+publications. As far back as 1798, Thomas Malthus in the UK published a book called An
+Essay on the Principle of Population. He was talking about rampant exponential population
+growth and the impact it would have on food production as well as the demographics of
+society in the future. Malthusian economics has had a tremendous influence on our thinking
+even to this day and it's also responsible or basically it has influenced the thinking of
+economists, scientists and so many other disciplines about the long-term impacts of
+rampant exponential population growth. So, I will say a little bit more about that in the next
+points. In 1913, Rabindranath Tagore in India published the Gitanjali and several other
+books and all of his works show the connection between human beings' nature and
+spirituality. In 1949, Aldo Leopold published a book, The Sandy County Almanac. It's
+basically around the theme of the moral and ethical imperative in conserving nature. It's
+important for everyone to remember that prior to many of these publications and the public
+debate and discussion that followed, the reigning paradigm at that time was that nature and
+natural resources are meant for the consumption of human beings, that human beings do
+not have any need to take care of nature. So, these works especially as Rabindranath
+Tagore, Aldo Leopold, they are all about the moral, ethical and spiritual requirements for
+maintaining and conserving nature. 1962, Rachel Carson who was a marine biologist
+published the book, The Silent Spring among other books, but this particular book was a
+milestone for the environmental movement. She was able to collect sufficient scientific
+evidence of the negative environmental impacts of synthetic organic compounds especially
+pesticides. It's only after her book was published that governments all around the world
+woke up to the damage that pesticides and other organic compounds were causing to
+ecosystems everywhere. 1968, Paul Ehrlich published `The Population Bomb'. His book
+was all about the environmental impacts of runaway population growth and how it will
+impact affluence as well as the need for having technology. So, this was again a milestone
+for the environmental movement and I have already explained the IPAT model in earlier
+lectures in the very first week. So, you have a fair understanding of how important these
+publications were. In 1972, the Club of Rome published the book, `The Limits to Growth'
+and again in this book coming back to Malthusian economics and so on which still is the
+reigning paradigm at least for many of us. The point is that unlimited population growth is
+unsustainable for the planet because it results in extremely high levels of resource
+consumption which in turn results in high levels of pollution.
+
+So, this brings me to environmentalism and the environmental movement. So, what is the
+environmental movement? The environmental movement is defined as a social movement
+that aims to protect the natural world from practices that harm the environment and it also
+wants to create sustainable lifestyles. It is very important for all of us to understand the
+difference between environmentalism, environmental science and environmental
+engineering. So, let me talk a little bit about that. First of all, environmentalism is any
+person who stands up about protecting and taking care of the environment would be
+considered an environmentalist. So, the environmentalists across the globe and across time
+have come from all walks of life. Anyone who cares about the environment is an
+environmentalist. So, we have religious leaders, we have artists, writers, philosophers,
+poets, lawyers, you name it. It does not matter which part of the world they come from or
+what their educational background or any other type of background may be. So, anyone
+who cares about the environment is an environmentalist. What about environmental
+scientists and engineers? Environmental scientists bring their scientific knowledge and
+methodology for understanding environmental problems. Science is about understanding
+environmental problems and engineering is about designing solutions for solving some of
+these environmental problems. So, when I talk about water supply and sanitation, those are
+examples of environmental engineering. When I talk about environmental science, for
+example, the bioaccumulation of toxic compounds in the tissue of any living organisms,
+that is an example from environmental science. So, these are terms that we use with
+different meanings and it is very important to understand that they have very different
+scope in terms of their definitions and so on. Another important point which I have already
+mentioned that several religions including Jainism and Buddhism include a need to protect
+all living beings. This is part of the principle of non-violence. So, non-violence to all living
+beings including human beings is part of several religions. People began to realize first in
+the mid-1800 in Europe as well as Britain, it began to be obvious that the industrial
+revolution had resulted in air and water pollution to a level wherein laws had to be enacted.
+So, the first laws, taking a global look at the entire issue, the first laws were enacted in
+Britain in the mid-1800. So, the first forest conservation program was started by the British
+in India in 1842. It was at a local scale. This became wider in scope as time went by and
+wildlife conservation societies were established in the late 1800s not just in India, but all
+over the globe.
+In the initial part of the 1960s, the green political movement began in Europe and most of
+you may be aware of the fact that environmental issues have become a very important part
+of the political landscape in western or developed countries. So, many organizations started
+their activities and they became a very important political players in these democratic
+societies and the main agenda were protection of the environment and that remains the case
+even today. Environmental accidents as well as natural calamities occurred in certain parts
+of the world Tasmania, Australia, Indonesia, Europe, USA. This was all in the 70s and 80s
+that led to people in these countries to start regional environmental movements. In Europe
+in these areas, we got a certain level of environmental consciousness because of pollution
+due to the industrial revolution. So, more and more people in Europe especially western
+Europe. So, in these same years pollution in Europe was becoming a very serious issue. It
+made people realize the problems associated with the industrial revolution and one of the
+consequences was that industries from Europe started migrating to other developing to
+rather to developing countries and mainly because of the pollution issues. In 1973, in rural
+areas of Uttarakhand and UP, the Chipko movement was started by women to protest
+against deforestation. I will be covering that in more detail later. In the last two decades of
+the 20th century, the environmentalist political parties were becoming more and more
+successful. This was in Europe and the American, the two American continents North
+America and South America. Non-governmental organizations created a good impression
+on the public. They were able to get votes and they were able to come to power and make
+a difference in these matters.
+What about the environmental movements in India? We have had several environmental
+movements, but for lack of time I am just going to cover four of them. The earliest one was
+the Bishnoi movement which continues today and that is as far back as 1730. In 1973, we
+had the Chipko movement. Then we had in 1979, we had the Jangal Bachao Andolan and
+in 1982-83, there was this APICO movement which I will be talking about in the next few
+slides. As I said, there have been several environmental movements especially around
+every major hydroelectric power project. Most of the issues in these environmental social
+movements have been to prevent deforestation and rehabilitation of displaced people. So,
+this has been an ongoing phenomenon in the country wherever hydroelectric power
+projects have been proposed. I will not be covering that because they remain controversial
+even to this day.
+We will start with the Bishnoi movement. The Bishnoi people are a sect that lives in the
+western Thar desert and other parts of northern India. They are followers of Guru
+Jambeshwar who was alive in this region from 1451 to 1536. One of the major principles
+of this group of people is to support wildlife protection, eco conservation and green living.
+In September of 1730, Jodhpur's king Abhay Singh had given his men orders to clear the
+trees in a village called Khejarli for wood. So, these men were sent to this particular village
+in September 1730. Amrita Devi, her family and other local people from this village stood
+in opposition to the king's men and as a sign of protest they hugged the trees to prevent the
+men from cutting the trees down. However, 363 Bishnois were killed in the protest until
+the king was informed about it and he revoked his order and stopped the killings. So, this
+was as far back as 1730.
+Then came the Chipko movement in 1973. The first Chipko protest occurred in the village
+of Mandal in upper Alaknanda valley in the month of April in 1973. The local villagers
+were denied access to trees in a small area for making agricultural tools. At the same time
+the government allotted a much larger plot including that area which the villagers wanted
+access to. That larger plot was allotted to a sporting goods manufacturer for logging of
+trees. When their appeals were denied, a Gandhian social worker Chandi Prasad Bhatt led
+villagers into the forest and again similar to the Bishnoi movement they embraced the trees
+to prevent the loggers from moving in. After many days of protest the government
+cancelled the company's logging permit and the original allotment which was requested by
+Chandi Prasad Bhatt was given to his organization Dasholi Gram Swarajya Sangh. So, this
+was a sort of happy ending. As the movement continued the protest became more project
+oriented. They expanded to include all of the region. So what is today Uttarakhand and
+Northern UP, Northwestern UP, all of this was included in this movement. It ultimately
+became the Save Himalaya movement. Between 1981 and 1983 Sundarlal Bahuguna
+marched 5000 km across the Himalayas to popularise this particular movement.
+Throughout the 1980s this group of people protested against the Tehri dam on the
+Bhagirathi River as well as mining operations in this area. The consequence was the closure
+of at least one limestone quarry. A massive reforestation effort was made that led to the
+planting of more than 1 million trees in this particular region. In 1987 the Chipko
+movement was awarded the right livelihood award for its dedication to the conservation,
+restoration and ecologically sound use of India's natural resources.
+We now come to another movement in the eastern part of India. This movement is called
+the Jangal Bachao Andolan which started in 1979. The aim of this movement again was to
+stop the government from replacing the natural Sal Forest. So, you have salwood trees and
+teakwood trees. The natural forest was Sal and the government wanted to replace it with
+teak trees. The tribals of the Singhbhum district of Bihar started the protest. For them the
+sal tree was considered sacred and provided leaves, nuts and firewood while teak was going
+to be sold by the government for profit leaving nothing for the tribals. So, it is
+understandable that the tribals were up in arms because they were going to lose their source
+of livelihood. Later this movement spread to Orissa and Jharkhand as well.
+We now come to the last of the movements that I am going to be talking about and that is
+the Apiko movement in 1983. Apiko is similar to the Chipko movement in the north but
+this one was centered in Karnataka. It was started by environmental activist Pandurang
+Hegde and the aim of the movement was to conserve jackfruit trees in Karnataka. The
+youth and women of Saklani village and its surroundings walked around five miles to the
+nearby forest and they hugged the trees there in a similar form of protest as the Chipko
+movement. Their demand was to ban the felling of trees and their protest continued for
+about 38 days until the state government withdrew the order for felling of the trees. Like
+the Chipko movement, the Apiko movement also chose the Gandhian way of protest to
+achieve a sustainable society in which human beings and nature are in balance.
+That brings me to the end of this lecture. Thank you.
+

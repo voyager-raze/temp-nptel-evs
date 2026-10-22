@@ -1,0 +1,296 @@
+                                            Environmental Science
+                             Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                               Indian Institute of Technology Kharagpur
+
+                                                     Week 02
+    (Lecture 03): Principles of Sustainable Development (Achieving SDGs and Sustainability
+
+                                                      Indices)
+
+Welcome to lecture 3 of week 2 of the NPTEL online certification course on Environmental
+Science. Now in the last lecture we saw the 2030 agenda for sustainable development in its totality.
+Particularly we saw the 17 sustainable development goals and we learned about their 169 targets.
+However, we realized that the agenda is a pretty big to do list. So today we will see how we can
+achieve these goals.
+So the focus of today's discussion will be how we can attain the SDGs, how we can monitor our
+progress towards the SDGs, can actions to achieve the SDGs have positive or negative impacts
+and finally, we will also see what are sustainability indices.
+
+By adopting the 2030 Agenda with its 17 SDGs, member states of the United Nations have created
+a framework for national action and global cooperation on sustainable development. The SDGs
+focus on time-bound targets for Prosperity, People, Planet, Peace and Partnership--known as the
+five Ps.
+A prerequisite for achieving these aspirational and ambitious goals requires a fundamental
+transformation of the combined human and Earth systems.
+
+Six SDG Transformations have been proposed as modular building-blocks of SDG achievement:
+(1) education, gender and inequality; (2) health, well-being and demography; (3) energy
+decarbonization and sustainable industry; (4) sustainable food, land, water and oceans; (5)
+sustainable cities and communities; and (6) digital revolution for sustainable development.
+
+T1 Substantial advances in human capacity are needed through further improvements of health
+care and education. Health and education are instrumental for enabling people to live a self-
+determined life, find decent work, and generate income to sustain themselves, but also to undertake
+climate change mitigation and adaptation and deal with environmental problems. The ambitions
+go hand in hand with the goals to end poverty in all its forms and to reduce global inequality.
+
+T2 Responsible consumption and production cut across several of the other transformations,
+allowing us to do more with less. Evidence shows that it is possible to reduce consumption of
+resources considerably by taking a more service and circular economy-oriented approach with
+respect to mobility, housing, food systems, and other sectors of our economies. Reductions in
+demand leverage large savings potential at different stages of the supply chain.
+T3 It is possible to decarbonize the energy system while providing clean and affordable energy for
+all. Pathway analysis shows that energy efficiency and sufficiency, increasing the share of
+renewable energy, electrification, and carbon capture and storage all play a key role in
+decarbonizing the energy system around 2050, while providing access to modern energy for all.
+
+T4 Achieving access to nutritional food and clean water for all while protecting the biosphere and
+the oceans requires more efficient and sustainable food systems. It is possible to meet the needs of
+a growing world population and at the same time limit the food system's environmental impacts
+by combinations of increasing agricultural productivity, reduction of waste and losses, and changes
+toward a less meat-intensive diet. The highest priority is to provide healthy and affordable food
+for all and thereby to eradicate hunger. Heathy diets and lifestyles are also essential for reducing
+obesity in the world.
+
+T5 Transforming our cities will benefit the majority of the world population. Pathways show that
+by 2050 around two thirds of human population will live in urban areas. Sustainable cities are
+characterized by high connectivity and `smart' infrastructure, enabling high-quality services, with
+low environmental footprint. Transforming slums into decent housing is feasible with low energy
+and material requirements. Good city design, sustainable lifestyles, empowered local actors, and
+participatory approaches that avoid one-size-fits-all solutions are needed to achieve this
+transformation to sustainable cities.
+
+T6 Science, technology and innovations (STI) are a powerful driver but the direction of change
+needs to support sustainable development. Today, artificial intelligence and other digital
+technologies are disrupting nearly every sector of the economy, including agriculture (precision
+agriculture), mining (autonomous vehicles), manufacturing (robotics), retail (e-commerce),
+finance (e-payments and trading strategies), media (social networks), health (diagnostics and
+telemedicine), education (online learning), public administration (e-governance and e-voting) and
+science and technology. Digital technologies can raise productivity, lower production costs, reduce
+emissions, expand access, reduce resource intensity of production processes, improve matching in
+markets, enable the use of big data and make public services more readily available.
+
+The Digital Revolution symbolizes the convergence of many innovative technologies, many of
+which are currently ambivalent in their contribution to sustainable development, simultaneously
+supporting and threatening the ability to achieve the SDGs. There is an urgent need to bring the
+sustainability and the digital and technology communities together to align the direction of change
+with the 2030 Agenda and a sustainable future beyond. There is also a need to implement forward
+looking roadmaps and governance structures that allow the mitigation of potential trade-offs of a
+STI revolution, particularly relating to its impact on the workplace, on social cohesion, and on
+human dignity.
+
+Clearly, the six Transformations are necessary for achieving the SDGs. The Six Transformations
+are not intended to be a new clustering of the 17 SDGs nor to be a `reduced form' of the SDGs and
+their 169 targets, but rather to describe systemic and integrative changes related to all SDGs. They
+are interlinked with all SDGs and interdependent, and together are central to `turning the tide' of
+change to sustainability and resilience. Each contributes to multiple SDGs. Dropping any of them
+would make it impossible to achieve the SDGs. The Transformations work at global, regional and
+national scales. They need to be adapted to country contexts, such as levels of development, natural
+resource base, ecosystem challenges and structures of governance.
+For measuring and reporting the progress and failures of our interventions towards our SDG goals,
+the United Nations General Assembly adopted the Global SDG Indicators Framework in July 2017
+comprising of 232 indicators.
+
+The major role of the framework is to enable nations and the global community to gather relevant
+demographics and statistical data to measure, manage and monitor progress on economic, social
+and environmental sustainability. The countries and stakeholders can thus make informed
+decisions and on-going improvements to contribute towards achieving the SDGs.
+
+The SDG indicators must be tracked at a local level and reported periodically at the national and
+ultimately at the global level. Meaning, each local actor must mobilize, analyze, and communicate
+data on progress towards achieving its objectives on a regular basis. But the question is ­ how and
+to whom?
+
+Different international agencies working across the globe, including the World Bank, UN
+organisations and other INGOs have been assigned as `custodians' of the SDG targets. On the
+other hand, national governments are the sources of official statistics for their respective country.
+These international agencies work with National Statistical Offices (NSO) and relevant ministries
+to develop methodologies for indicators to collect relevant data and measure progress on the SDGs
+and facilitate reporting at a global level. The custodian agencies share the data provided by the
+NSOs to the global community only after quality assurance and plausibility checks are carried out.
+Data collection at the local level is particularly important as the global agenda 2030 seeks to "leave
+no one behind".
+Many countries have national reporting platforms established for the SDGs and some even
+collaborate with other countries and report their respective SDG progress through a common
+platform.
+In case a country lacks an SDG platform or there are no other well-established data reporting
+mechanisms, then the NSO and the custodian agency determine an alternative data flow model.
+Many countries without the reporting platforms may also choose to declare their regional database
+as the primary source for custodian agencies to retrieve the country data.
+After data is gathered on the national level and reported to the global community, The UN
+Secretary General produces an annual report, along with a special `SDGs Report' that provide the
+official and overall assessment of global progress on the SDGs.
+
+For the first time since the adoption of the SDGs in 2015, the global average SDG Index score for
+2020 has decreased from the previous year: a decline driven to a large extent by increased poverty
+rates and unemployment following the outbreak of the COVID19 pandemic. The pandemic has
+impacted all three dimensions of sustainable development: economic, social, and environmental.
+This is a major setback, especially considering that before the pandemic, over the period 2015­
+2019, the world was progressing on the SDGs at a rate of 0.5 points per year (which was also too
+slow to reach the 2030 deadline), with poorer countries making greater gains than rich countries.
+The war in Ukraine and other military conflicts are humanitarian tragedies. They also impact
+prosperity and social outcomes through the rest of the world, including exacerbating poverty, food
+insecurity, and access to affordable energy. Meanwhile, the climate and biodiversity crises amplify
+the impact of these crises.
+
+The 2022 SDG Index is topped by Finland, followed by three Nordic countries ­Denmark, Sweden
+and Norway ­ The top ten countries in the SDG Index are all in Europe, eight of them members
+of the European Union. While the detailed dashboards show that major SDG challenges remain
+even in these countries, especially on SDGs 12­15 (related to climate and biodiversity) and in
+relation to international spillovers, the European model of social democracies seems conducive to
+strong performance in the three major dimensions of sustainable development: economic, social
+and environmental.
+Overall, high-income countries (HICs) countries are closer to achieving the targets than other
+country groups, yet none are on track to achieve all 17 SDGs. These countries perform better on
+goals related to socio-economic outcomes and basic access to infrastructure and services, including
+SDG 1 (No Poverty), SDG 3 (Good Health and Well-Being), SDG 6 (Clean Water and Sanitation),
+and SDG 7 (Affordable and Clean Energy). Major efforts are needed in HICs countries to
+accelerate progress towards climate mitigation and biodiversity protection (SDGs 12­15) and
+move towards more sustainable food systems and diets (covered under SDG 2, No Hunger). All
+HICs and OECD countries generate significant negative socioeconomic and environmental
+impacts outside their borders (spillovers) through trade and consumption, hampering other
+countries' efforts to achieve the SDGs. Historically these countries are also responsible for the
+bulk of greenhouse gas emissions and climate change and hence bear a special responsibility to
+take actions at the national and international level. Yet their progress on SDG 13 (Climate Action)
+and SDG 14 (Life Below Water) is mostly stagnant or insufficient to achieve internationally agreed
+targets.
+Low-income countries tend to have lower SDG Index scores. This is partly due to the nature of the
+SDGs, which focus to a large extent on ending extreme poverty and providing access for all to
+basic services and infrastructure (SDGs 1­9). Moreover, poorer countries tend to lack adequate
+infrastructure and mechanisms to manage the key environmental challenges addressed by SDGs
+12­15. Yet before the pandemic hit, most low-income countries, with the exception of those
+experiencing ongoing armed conflict or civil war, were making progress towards ending extreme
+poverty and providing access to basic services and infrastructure, particularly in relation to SDG
+3 (Good Health and Well-Being) and SDG 8 (Decent Work and Economic Growth). Overall, East
+and South Asia has progressed on the SDGs more than any other region since their adoption in
+2015, with Bangladesh and Cambodia showing the most progress of all countries. By contrast,
+Venezuela has declined the most on the SDG Index since 2015.
+
+In a highly interdependent world, countries' actions can have positive or negative effects on other
+countries' ability to achieve the Sustainable Development Goals (SDGs). International spillover
+effects occur when one country's actions generate benefits or impose costs on another country
+that are not reflected in market prices, and therefore are not "internalized" by the actions of
+consumers and producers. Such spillover effects can undermine other countries' efforts to
+achieve the SDGs.
+Examples of international spillovers include greenhouse gas emissions that result in polar melt
+and rising seas, which threaten to submerge many countries and coastal communities around the
+world. Demand for commodities (such as palm oil) in one country that fuel deforestation in other
+countries. Tolerance for poor labor standards in international supply chains that harm the poor,
+particularly women, in many developing countries.
+Positive and negative spillovers must be understood, measured, and carefully managed since
+countries cannot achieve the SDGs if spillovers from other countries counteract their efforts. A
+key challenge lies in the measurement of international spillover effects which is not commonly
+undertaken by national statistical offices. International institutions tend not to have access to all
+the data required and the current global statistical architecture is not designed, equipped or
+mandated to tackle such issues. As a result, spillovers are not well reflected in national and
+international statistics.
+
+Conceptually, international spillovers in the context of the SDGs can be grouped into four
+categories:
+Environmental and social spillovers embodied into trade. These cover international effects
+related to pollution, the use of natural resources, and social impacts generated by the
+consumption of goods and services. Multi-regional input-output (MRIO) models combined with
+satellite datasets provide powerful tools to track impacts generated worldwide by consuming
+countries. This category of spillovers also includes exports of toxic pesticides, trade in waste,
+and illegal wildlife trade. They are particularly connected to SDG 8 (Decent Work and Economic
+Growth), SDGs 12­15 (related to responsible consumption, climate and biodiversity) and SDG
+17 (Partnerships for the Goals).
+They also indirectly affect all other SDGs.
+
+Direct cross-border flows in air and water. These cover effects generated through physical
+flows ­ for instance of air and water ­ from one country to another. Cross-border air and water
+pollution are difficult to attribute to a country of origin, and this remains an important data gap.
+Unfortunately, the International Spillover Index does not currently include any indicators to
+track these types of spillovers. They are particularly related to SDG 6 (Clean Water and
+Sanitation) and SDGs 12­15 on climate and biodiversity, but also concern many other goals,
+including SDG 3 (Good Health and Well-Being).
+
+Spillovers related to economic and financial flows. These include unfair tax competition,
+corruption, banking secrecy, profit shifting, tax havens, and stolen assets ­ which undermine the
+capacity of other countries to leverage resources to achieve the SDGs. They also include positive
+spillovers (or handprints) such as international development finance (for example, ODA). These
+types of spillovers are closely related to SDG 16 (Peace, Security and Strong Institutions) and
+SDG 17 (Partnerships for the Goals), and indirectly to all other SDGs, notably through ODA.
+
+Peacekeeping and security spillovers. These include negative externalities such as organized
+international crime or exports of major conventional weapons or small arms, which can have
+destabilizing impacts on poor countries. Among the positive spillovers in this category are
+investments in conflict prevention and peacekeeping. These spillovers are particularly related to
+SDG 16 (Peace, Security and Strong Institutions) and SDG 17 (Partnerships for the Goals), but
+also indirectly connected with most of the SDGs ­ including poverty, hunger, and health, as well
+as other socioeconomic goals.
+Rich countries including many European countries, are responsible for the bulk of negative
+spillover effects, especially those embodied in the consumption of goods and services and
+unsustainable supply chains. For example, 40% of greenhouse gases (GHGs) emitted by the
+European Union are in fact generated abroad. The EU's consumption is responsible for 17% of
+tropical deforestation worldwide, according to WWF. Further, each year, close to 400 workers die
+in the production of textiles used by EU citizens. Biofuel mandates in Europe and other major
+economies have accelerated tropical deforestation and land displacement in other parts of the
+world. Growing demand for raw materials, notably for renewable energy and other technologies
+in the EU, fuels GHG emissions and forced labor in other parts of the world. And the shipment of
+waste to countries and regions that cannot manage it has profound ecological and health impacts
+abroad.
+
+To curb these negative spillover effects and better support countries in their global responsibility
+to achieve the SDGs and climate goals, rich countries need to act on several levels.
+
+One prominent approach is diligence regulations that make companies accountable for impacts
+generated throughout their supply chains, national targets, and strong data systems at national,
+industry, and company levels can help.
+Sustainability indexes are instruments to measure the responsibility of a certain company in social
+and environmental areas. The more they take these aspects into account as they develop their
+business, the better is their sustainability performance. It provides non-financial data that can tell
+investors and stakeholders how a company is managed in a day-to-day setting and the importance
+that they place on environmental stewardship and social responsibility.
+
+Corporate sustainability is an approach that creates value for shareholders and stakeholder by
+embracing opportunities and managing risks deriving from economic, environmental, and social
+developments. Investors today are diversifying their portfolios by increasingly investing in
+companies leading in the field of sustainability. Companies with sustainability management are
+perceived to be successful by tapping the potential for sustainability products and services on the
+one hand and minimizing sustainability risks and costs on the other. The precept is that corporate
+sustainability creates long-term value for shareholders.
+
+Strategic commitment includes public commitment to excellence in environmental and social
+performance throughout a company's value chain;
+
+timely and comprehensive public reporting of sustainability performance
+
+Sustainability innovation considers development of products and processes with superior
+environmental, social and economic performance.
+
+Environment performance is based on Resource Use -- intensity of energy, material and water
+consumption, and use of renewable sources of energy and materials Greenhouse Gas Emissions
+-- intensity of greenhouse gas emissions and Other Emissions -- air emissions, wastewater, and
+hazardous waste releases
+
+Safety performance encompasses: Employee Safety -- recordable and days-away-from work
+injury rates. Process Safety -- number and trend of process safety incidents, normalized by number
+of employees, and occurrence of major safety incidents.
+
+Product stewardship includes: Assurance System -- product stewardship policies and goals,
+incorporation of a Responsible Care product safety process, and engagement of value-chain
+partners to assure product safety.
+
+Social responsibility consists of: Stakeholder Partnerships -- extent of stakeholder engagement
+and partnership programs at the project, facility and corporate levels. Social Investment --
+contributions through employment, philanthropy and community development projects
+
+Value-chain management relates to: Environmental Management Systems -- presence of an
+environmental management system (EMS) at the corporate and facility levels
+
+Supply Chain Management -- policies and procedures related to suppliers' sustainability, presence
+of sustainability evaluation and audits for first-tier suppliers, and management of second- and
+higher-tier suppliers.
+
+These indices are reviewed regularly to assess and compare companys' sustainability performance
+in order to understand the global impact of companies on the environment and human life as
+compared with their economic contribution.
+Overall, as companies increase their sustainability effort, the role of assessments and ratings in the
+field of sustainability gains importance. In future, it will be crucial improving the reliability of
+corporate sustainability assessments and ratings.
+
+Thank You.
+

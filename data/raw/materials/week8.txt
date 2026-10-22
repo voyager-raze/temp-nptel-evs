@@ -1,0 +1,1301 @@
+Week 8: Water Quality, Reuse and Recycling
+Lecture 01: Hydrologic cycle, sources of water and
+water pollution
+§ Hydrologic cycle
+§ Water resources
+§ Water quantity
+§ Sources of water pollution
+§ Environmental flows
+· Hydrologic cycle
+· Water resources
+· Water usage
+· Water quantity
+· Ground water
+· Surface water
+· Point sources of pollution
+· Non-point sources of pollution
+· Environmental flow
+                                                           The
+                                                      Hydrologic
+
+                                                          cycle
+
+Source: Goel (2019) Water and Wastewater Engineering, Cambridge University Press, Delhi.
+                                                      World's water
+                                                        resources
+
+Source: http://en.wikipedia.org/wiki/Water_resources
+Resource           Amount (km3)                      Percent of total
+                                                              97.5
+Salt water         1.36 x 106                                 2.5
+                                                              0.78
+Freshwater         35 x 106                                  0.014     World's water
+                                                              100        resources
+Groundwater        11 x 106
+
+Usable freshwater  200,000
+
+Total              1.4 x 106
+
+Sources: http://www.unwater.org/statistics_res.html
+                           Withdrawal                                                  Consumption
+
+                           Return                                                              Water
+                                                                                                Usage
+
+Ground water  River water
+
+MUNICIPAL WASTEWATER DISCHARGES ARE GENERALLY 80% OF THE TOTAL WATER
+                                                USAGE
+
+ The actual % can range from 50 to 100%; it depends on how much water is used for
+  gardening and horticulture, and the population density of the area. In major Indian
+
+               cities, wastewater is 87% of the water supplied (CPCB, 2009)
+· Withdrawals = consumption + returns                                Water
+    · Withdrawal = water extracted from surface or ground water      Usage
+      bodies
+    · Consumption = water used but not returned (e.g., drinking,
+      cooking, evaporation, transpiration)
+    · Returns = water returned to water body and can be used in
+      the future (cleaning, washing)
+    · Compare per capita water use (national scale):
+         · Developed (e.g. US) = 1280 gal/cap-d = 1280 x 3.785 =
+           4845 L/cap-d (USGS)
+         · Developing (e.g. India) = 609 m3/cap-year = 1669 L/cap-d
+           (MoWR)
+    · Compare per capita water use (individual scale):
+         · Developed (e.g. US) = 227 L/cap-d (DeOreo et al., 1996)
+         · Developing (e.g. India) = 100 L/cap-d (Goel, 2015)
+Off-stream water use involves the withdrawal or diversion of water from a surface or  Water
+   ground water source for:                                                           Usage
+
+* Domestic and residential uses (both consumptive and non-consumptive)
+* Industrial uses (both)
+* Agricultural uses (consumptive)
+* Energy development uses (both)
+
+Instream water uses are those which do not require a diversion or withdrawal from
+   the surface water sources
+
+Examples of non-consumptive water uses:
+* Water quality and habitat improvement
+* Recreation
+* Navigation
+* Fish propagation
+* Hydroelectric power production
+Estimated water requirements in India for 2010
+
+Sectors or uses of  Water requirements,         % Use                                                Water
+water                       BCM[1]                                                                 demand in
+Irrigation                    550                78.3
+Domestic                      42.5               6.04                                                 India
+Industries                     37                5.3
+Power                         18.5               2.6
+Navigation                     7.0               1.0
+Ecology                        5.0               0.71
+Evaporation losses             42                6.0
+Total                         702                100
+
+Source: (UNICEF, 2013); National Commission for integrated water resources development plan, 1999
+[1] Billion cubic meters
+                             Water
+                          Withdrawal
+                          and Usage
+
+                            in India
+
+Panikkar, A. (2012). Water profile of India. FAO. Retrieved
+from http://www.eoearth.org/view/article/156948/
+
+                                                                             11
+                                                    Source
+                                                 distribution
+
+                                                                                                                                                                                            12
+
+Central Water Commission, 2015. Water and related statistics
+ Well or    Water treatment             Distribution
+ surface           plant                  network
+  water
+  intake    Recycle                                   Water use
+                                                      and reuse
+Reuse for
+irrigation    Wastewater        Sewer   Consumer
+            treatment plant     system
+
+            Discharge to land,
+            surface water or
+
+                    sea
+
+                                                      13
+Sources of pollution
+
+                      Point sources
+                            Residential and commercial activities (wastewater)
+                            Industrial activities (wastewater)
+                            Leachate from municipal and industrial solid waste
+                            dumps
+
+                      Non-point sources
+                            Surface runoff ­ urban (paved areas with dust, soil
+                            and chemicals from traffic, commercial and
+                            industrial activities)
+                            Surface runoff ­ rural (field and feedlots with
+                            pesticides, fertilizers and wastewaters)
+                                                       RIVER  Environmental
+                                                                   Flows
+CANAL FOR DIVERTING WATER, GENERALLY
+FOR IRRIGATION                                                  for maintaining
+                                                              aquatic ecosystems
+· Masters G and Ela WP (2012). Introduction to Environmental
+  Engineering and Science. Prentice Hall, NJ, US.
+
+· Goel S (2019) Water and Wastewater Engineering, Cambridge
+  University Press, Delhi.
+Week 8: Water Quality, Reuse and Recycling
+Lecture 02: Water Quality Parameters ­ General
+§ CPCB's classification of water bodies
+§ General water quality parameters
+§ Physico-chemical water quality parameters: pH, ionic strength, electrical
+
+  conductivity, solids, temperature, turbidity, alkalinity, hardness, color and
+
+  toxic heavy metals
+§ pH
+§ Ionic strength
+§ Electrical conductivity
+§ Solids
+§ Temperature
+§ Turbidity
+§ Alkalinity
+§ Hardness
+§ Color
+§ Toxic Heavy Metals
+           Water quality parameters
+
+§ Physical
+
+   § pH, ionic strength, electrical conductivity, solids, temperature,
+      turbidity, dissolved oxygen, alkalinity, hardness, color
+
+§ Chemical
+
+   § Organic matter
+
+       § Oxygen-demanding wastes
+       § Methods of measuring oxygen demand: ThOD, COD, BOD
+       § Synthetic Organic Compounds
+
+   § Inorganic compounds
+
+       § Toxic heavy metals
+
+§ Biological
+
+   § Microbes: coliforms, pathogens
+   § Higher organisms ­ pestilent species
+ Designated-Best- Use    Class of  Criteria
+                          water
+Drinking water source
+without conventional     A 1.Total coliforms organism MPN/100 ml shall be  50            Water body
+treatment but after              2.pH between 6.5 and 8.5                            classification, CPCB
+disinfection                     3.DO value  6 mg/l
+Outdoor bathing                  4.BOD5 value  2 mg/l
+(Organised)
+                         B 1.Total coliforms organism MPN/100 ml shall be  500
+Drinking water source            2.pH between 6.5 and 8.5
+after conventional               3.DO value  5 mg/l
+treatment and                    4.BOD5 value  3 mg/l
+disinfection
+                         C 1.Total coliforms organism MPN/100 ml shall be 
+Propagation of wildlife          5000
+and fisheries                    2.pH between 6 and 9
+                                 3.DO value  4 mg/l
+Irrigation, Industrial           4.BOD5 value  3 mg/l
+Cooling, Controlled
+waste disposal           D 1.pH between 6.5 and 8.5
+                                 2.DO value  4 mg/l
+                                 3.Free ammonia (as N)  1.2 mg/l
+
+                         E 1.pH between 6.0 and 8.5
+                                 2.Electrical Conductivity at 25° C micro mhos/ cm,
+                                 Max. 2250
+                                 3.Sodium absorption ratio Max. 26
+                                 4.Boron Max. 2 mg/l
+                                pH
+
+Ø A critical water quality parameter that determines the usability of water.
+Ø It is defined as the negative logarithm of the activity of hydrogen ions.
+
+           pH = -[log H+] where [log H+] is the concentration of protons
+Ø Hydrogen electrodes are used as an absolute standard for measuring pH
+Ø In the dissociation of pure water with measurements using an H2
+
+    electrode, the activity of protons is 10-7 mol/L
+                     H2O  H+ + OH-
+
+Ø The dissociation constant (Kw) for water is derived from this reaction,
+    Kw = [H+] * [OH-]/ [H2O] = 10-14 (pKw = 14) at 25 °C and the activity
+    of H2O is 1.0
+
+Ø For drinking water, pH should be between 6.5 to 8.5.
+
+                                                    https://www.usgs.gov/media/images/ph-scale
+Ø pKw at 0 °C is 14.943, at 50 °C is 13.262, and 100 °C is 12.31 which
+  shows the temperature dependence of Kw
+
+T (°C)  Kw (mol2 dm-6)  pH    pOH
+
+0       0.114 x 10-14   7.47  7.47
+
+10      0.293 x 10-14   7.27  7.27                                                                                          pH
+
+20      0.681 x 10-14   7.08  7.08
+
+25      1.008 x 10-14   7.00  7.00
+
+30      1.471 x 10-14   6.92  6.92
+
+40      2.916 x 10-14   6.77  6.77
+
+50      5.476 x 10-14   6.63  6.63
+
+100     51.3 x 10-14    6.14  6.14
+
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_an
+d_Theoretical_Chemistry)/Acids_and_Bases/Acids_and_Bases_in_Aqueous_Solutions/The_pH_Scale/Temperature_Dependence_of_t
+he_pH_of_pure_Water
+Ø It measures the concentrations of all cations and anions present in water.      Ionic strength
+Ø It is a property of the solution, not of individual ions.
+Ø Was first defined by Lewis and Randall in 1921.
+
+                     I = ½  CiZi2
+where Ci = concentration of any ion i in moles/L; Zi = charge of any ion i
+Ø Ionic strength calculations require complete characterization of the water
+
+   sample for each individual cation and anion which can be done using
+   instruments like ion chromatograph.
+Ø Ionic strength can also be estimated by multiplying the Total Dissolved Solids
+   by 2.5 x 10-5 based on Langelier's method.
+                  Electrical Conductivity (EC)
+
+Ø It is a measure of the concentration of all ions present in water;
+Ø Units are micro-Siemens/cm (µS/cm)
+Ø The inverse of EC is electrical resistivity (ER) which has units of Mega-ohms-
+
+    cm (M/cm).
+Ø Both values are generally reported for 25 °C.
+Ø It is a direct and inexpensive measure of the ionic strength of a solution
+Ø Conductivity serves as a convenient surrogate parameter for Total Dissolved
+
+    Solids (TDS) which is a difficult and time-consuming parameter to measure
+
+    as per standard methodology.
+Ø Conductivity can be measured in the field instantaneously with a portable
+
+    (pocket-size) probe.
+Ø Conductivity and TDS are directly proportionate and can be expressed as:
+
+                     TDS (mg/L) = A* Conductivity
+
+      where, A = conversion factor ranging from 0.55 to 0.75 (mg-cm/ L-S)
+Ø Conductivity is linearly related to ionic strength in dilute solutions with I 
+
+    0.1 M.
+Ø Total solids includes all solids, dissolved and suspended                         Solids
+Ø Total solids are further divided into a few categories
+Ø Total Suspended Solids (TSS): For water quality measurement, suspended
+
+    solids are defined as solids that are separated using a membrane filter of 1.5
+    or 1.7 micron pore size.
+Ø Total Dissolved Solids (TDS): The solids that pass through the above
+    mentioned filter, i.e., solids remaining in the filtrate are defined as TDS.
+Ø Total Fixed Solids (TFS): When total solids are burned at 550 °C in a muffle
+    furnace, the residue remaining after burning is defined as TFS.
+Ø Total Volatile Solids (TVS): The difference in weight between total solids and
+    total fixed solids is defined as TVS.
+
+                                        TS = TFS + TVS
+Ø Fixed Suspended Solids (FSS): When TSS are burned at 550 °C in a muffle
+
+    furnace, the residue remaining after burning is defined as FSS.
+Ø Volatile Suspended Solids (VSS): The difference in weight between TSS and
+
+    FSS defines volatile suspended solids.
+
+                                       TSS = FSS + VSS
+                                                                      Solids
+
+Goel (2019) Water and Wastewater Engineering, Cambridge University Press, Delhi.
+Ø Dissolved oxygen levels, the health and biodiversity of any ecosystem, the      Temperature
+   extent and rate of all physical, chemical and biological processes are
+   temperature-dependent.
+
+Ø Temperature determines the fate and transport of contaminants in water
+Ø Factors influencing water temperature for unpolluted surface water bodies
+
+   are: depth of the water column, incident light intensity, turbidity of water,
+   and ambient temperature.
+Ø Temperature affects water quality parameters like the density of water,
+   dissolved oxygen concentrations, solubility and/or dissolution of various
+   contaminants, growth of organisms, and volatilization of contaminants.
+Ø Reaction rates, equilibrium constants and therefore, speciation of various
+   contaminants at equilibrium depend on temperature.
+Ø Turbidity indicates the presence of light-scattering substances in water                                                     Turbidity
+Ø It is associated with particles which may be substances like clay and silt, or
+
+   biological particles like bacteria or algae.
+Ø High turbidity levels preclude light from penetrating deep into the water
+
+   column and result in a shallow photic (light) zone.
+Ø Photosynthesis organisms are capable of growing only in the photic zone
+
+   since the aphotic (darker) zone cannot sustain their growth.
+Ø This results in the lack of oxygen generation in the aphotic zone; therefore
+
+   low to zero DO levels in this zone.
+Ø A turbidity meter or nephelometer is used for measuring turbidity and is
+
+   based on measuring the intensity of light either transmitted or scattered by
+   a sample, respectively.
+Ø Both instruments are compared to standard solutions of known turbidity for
+   calibration.
+Ø The intensity of scattered light is a measure of the sample's turbidity and is
+   measured in nephelometric turbidity units (NTU).
+
+    By U.S. Geological Survey - U.S. Geological Survey, Public Domain, https://commons.wikimedia.org/w/index.php?curid=581276
+Ø It is a measure of the capacity of water to neutralize acids.                            Alkalinity
+Ø The most common contributors to alkalinity in water are bicarbonates, carbonates,
+
+   and hydroxides which remove H+ ions and lower the acidity of the water, i.e.,
+   increase its pH.
+Ø Measuring alkalinity is important in determining a stream's ability to neutralize
+
+   acidic pollution from rainfall or wastewater.
+Ø Total alkalinity is measured by measuring the amount of acid needed to bring
+
+   the sample to a pH of 4.5 (APHA, AWWA, WEF 2005).
+Ø At this pH, all alkaline compounds in the sample are consumed in the neutralization
+
+   reaction.
+Ø The result is reported as milligrams per liter of calcium carbonate (mg/ L as CaCO3).
+Ø Hydroxide alkalinity is significant only when the sample pH is high, i.e., > 11, and is
+
+   directly determined based on pH and Kw.
+Ø Samples containing only carbonates and bicarbonates, and insignificant amounts of
+
+   hydroxides generally have 8.3  pH  11. In that case,
+
+            Bicarbonate alkalinity = Total alkalinity ­ carbonate alkalinity
+Ø Samples containing bicarbonates alone have pH  8.3 and
+
+            Bicarbonate alkalinity = Total alkalinity
+Ø Hardness in water is attributed to the presence of divalent cations like Ca and Mg.    Hardness
+Ø The presence of these cations leads to various problems in water supply systems:
+· Formation of soap curd (white precipitate of soap) and lack of frothing
+· Scale formation or precipitation of hardness-contributing ions, CaCO3 and Mg(OH)2
+Ø Hardness is expressed in terms of mg/ L as CaCO3.
+Ø The desirable limit for total hardness (TH) is 200 mg/ L and the permissible limit in
+
+   the absence of another source is 600 mg/ L.
+Ø Total hardness (TH) = [Ca2+] + [Mg2+], expressed as mg/L of CaCO3.
+Ø Carbonate Hardness (CH) = Hardness associated with carbonate and bicarbonate ions.
+Ø Non-carbonate Hardness (NCH) = Difference between Total Hardness and Carbonate
+
+   Hardness = TH ­ CH
+Ø If the concentrations of carbonate and bicarbonate ions are greater than TH,
+
+   then TH = CH and NCH = 0.
+Ø Carbonate Hardness is also called `temporary hardness' since it can be removed by
+
+   heating.
+Ø Color in water can be due to the presence of dissolved or particulate matter            Color
+   that may be either organic or inorganic.
+
+Ø Organic matter includes dissolved compounds like humic and fulvic acids
+   which give water a light tea-like yellow color and particulate matter like
+   phytoplankton which impart a green or yellow color to water.
+
+Ø Inorganic matter includes dissolved metals like iron, manganese and
+   chromium which causes water to have colors ranging from yellow to red.
+
+Ø Metals like iron and manganese precipitate slowly as they get oxidised in
+   contact with atmospheric oxygen leading to colored precipitates red or
+   black.
+
+Ø Measured in terms of Hazen units, platinum-cobalt units or APHA-Hazen
+   units
+
+Ø The Pt-Co scale is specific to the color yellow and is based on dilutions of a
+   500 ppm platinum cobalt solution. The colour produced by one milligram of
+   platinum cobalt dissolved in one liter of water is fixed as one unit of color on
+   the platinum-cobalt scale.
+
+Source: Goel (2019) Water and Wastewater Engineering, Cambridge University Press, Delhi.
+Ø Toxic heavy metals can be of natural or anthropogenic origin                             Toxic
+Ø Natural sources: mainly dissolution of soil and rocks, surface runoff.                  Heavy
+                                                                                          Metals
+   Example ­ arsenic in ground water
+Ø Anthropogenic sources: industrial and municipal wastewater discharges,
+
+   leachate from solid waste dumps
+Ø Example ­ Mercury in flue gases from coal-based thermal power plants,
+
+   household products like tubelights and thermometers, and industrial
+   processes
+Ø These metals do not serve any known physiological function and can be
+   toxic at ppb levels
+Ø Exception is Selenium, required in trace amounts by various organisms
+   including human beings, but it is toxic even at ppb levels
+
+Source: Goel (2019) Water and Wastewater Engineering, Cambridge University Press, Delhi.
+                                                                                           Toxic
+                                                                                          Heavy
+                                                                                          Metals
+
+Source: Goel (2019) Water and Wastewater Engineering, Cambridge University Press, Delhi.
+· Masters G and Ela WP (2012). Introduction to Environmental Engineering
+  and Science. Prentice Hall, NJ, US.
+
+· Goel (2019) Water and Wastewater Engineering, Cambridge University
+  Press, Delhi.
+
+· Sawyer CN, McCarty PL and Parkin GF (2003) Chemistry for
+  Environmental Engineering and Science, McGraw Hill, New Delhi.
+Week 8: Water Quality, Reuse and Recycling
+Lecture 03: Water Quality Parameters ­ Oxygen
+demanding wastes and Microbial
+§ Importance of dissolved oxygen (DO)
+§ Solubility of DO in water
+§ Theoretical oxygen demand
+§ Chemical oxygen demand
+§ Biochemical oxygen demand
+§ Coliforms
+· Dissolved Oxygen
+· Solubility
+· Temperature
+· Salinity
+· Theoretical oxygen demand
+· Chemical oxygen demand
+· Biochemical oxygen demand
+· Coliforms
+Temperature (°C) Chloride concentration in water (mg/L)
+
+    0      5000   10,000                                 15,000
+                                                         12.10
+0   14.62  13.73  12.89                                  10.66
+                                                         9.49
+5   12.77  12.02  11.32                                  8.54
+                                                         7.75
+10  11.29  10.66  10.06                                  7.08                    Solubility of
+                                                         6.51                 Dissolved Oxygen
+15  10.08  9.54   9.03                                                        at 1 atm pressure
+
+20  9.09   8.62   8.17
+
+25  8.26   7.85   7.46
+
+30  7.56   7.19   6.85
+
+§ Importance of dissolved oxygen levels in aquatic systems
+     § Oxygen is a sparingly soluble gas in water and does not react with
+
+         water unlike CO2
+     § Saturation conc of DO is 5.1 (40 deg C, 45,000 mg/L TDS) to 14.6 mg/L
+
+         (0 deg C, 0 mg/L TDS) depending on temperature and salinity
+     § As temperature decreases and/or salinity decreases - DOsat increases
+§ Importance of dissolved oxygen for aquatic ecosystems                             Importance of
+     § Most higher aquatic life forms needs oxygen for survival                  Dissolved Oxygen in
+     § Minimum for ecosystems = 3 to 5 mg/L                                      aquatic ecosystems
+     § For cold freshwater systems ­ recommended levels are 8 mg/L
+
+§ Sources (gains) of dissolved oxygen levels in aquatic systems
+     § Equilibrium of oxygen in water with the atmosphere; can be quantified
+         based on Henry's law
+     § Reaeration of water due to wind and wave action
+     § Reaeration of water due to photosynthesis
+
+§ Sinks (losses) of dissolved oxygen levels in aquatic systems
+     § Degradation of organic matter by heterotrophic aerobic bacteria thereby
+
+         consuming oxygen in the process
+     § Oxygen levels below saturation result in sub-oxic conditions and when DO
+
+         levels are zero, anoxic conditions prevail
+     § Anaerobic bacteria are the only organisms that can survive when DO
+
+         levels are zero
+§ Glucose as representative of Organic Matter                 Importance of
+§ Oxidation or biodegradation of organic matter can be     Dissolved Oxygen in
+                                                           aquatic ecosystems
+   mediated by bacteria
+                     C6H12O6 + 6O2 ® 6CO2 + 6 H2O
+
+§ Reverse reaction occurs in photosynthesis for producing
+   biomass (represented by glucose) and oxygen
+
+                     6CO2 + 6 H2O ® C6H12O6 + 6O2
+
+         Algal cell layer
+
+         Bacteria
+
+O2  CO2
+· As long as organic matter is present in water and it is biodegradable and non-     Oxygen
+  toxic, oxygen will be consumed in its degradation                                demanding
+
+· Several methods for measuring oxygen demand of this organic matter                 wastes:
+· Theoretical Oxygen Demand (ThOD)                                                    ThOD
+
+     · Stoichiometric oxygen requirements are determined based on complete
+        oxidation of organic matter that results in consumption (or depletion) of
+        oxygen
+
+     · Requires complete elemental characterization or knowledge
+
+        of chemical formula of compounds in the sample
+     · Calculation based method
+     · Calculate ThOD for various C6 compounds:
+
+          · Glucose [C6H12O6]
+          C6H12O6 + 6O2 ® 6CO2 + 6 H2O
+          Therefore, ThOD for glucose is 6 moles O2/ mole glucose. It can be
+          expressed in mg as well. 6*32/180 = 1.067 mg O2/mg glucose
+          · Compare for other C6 compounds: Hexane [C6H14]; Benzene [C6H6];
+
+             Cyclohexane [C6H12]
+· Chemical oxygen demand (COD)                                         Oxygen
+                                                                     demanding
+· COD is one of the most important water quality parameters and
+  is defined as the amount of oxygen consumed to completely            wastes:
+  chemically oxidize the organic constituents present in water to        COD
+  inorganic end-products.
+
+· Units are mg/L or ppm, which indicates the mass of oxygen
+  consumed per litre of solution
+
+· Just like BOD, it is an indirect measure of the amount of organic
+  matter in water.
+
+· The COD test is a practical measure of the maximum oxygen
+  demand of a water samples while ThOD is a theoretical
+  measure of the oxygen demand of any sample.
+
+· Strong oxidizing agent like potassium dichromate is added to
+  oxidize sample at high temp (boiled) and low pH (acidic
+  conditions). Takes a few hours to complete.
+· Biochemical oxygen demand (BOD)                                     Oxygen
+    · Oxidation of organic matter and consumption of oxygen by      demanding
+      microorganisms; takes at least a few weeks to do completely
+         · Generally done in lab for 3 to 5 days, strictly aerobic    wastes:
+           conditions                                                   BOD
+    · Simulates natural conditions to the greatest extent
+
+· ThOD > COD > BOD
+· Standard test conditions: 5 days                                    BOD test
+
+    · Temp is 20 deg C
+
+    · Dilution water contains essential nutrients and microbial seed
+      to ensure that these factors do not limit bacterial growth
+
+    · Light must be kept out; incubation is done in the dark to
+      prevent algal growth in bottle
+
+    · Water seal has to be maintained to prevent reaeration during
+      incubation
+· Standard test conditions: 5 days                                   BOD test
+    · Measure DO drop, i.e., change in DO conc; measure DO initial
+      and DO after 5 days. DO drop in sample blank to be subtracted
+      from DO drop in sample
+    · Two conditions that determine usefulness of test results
+         · Minimum DO drop or change in DO concentration during
+
+           incubation should be 2 mg/L, i.e., DO  2 mg/L
+         · Minimum DO should be 2 mg/L; maximum = DO
+
+           saturation
+    · Currently, 3 days is common in India with temperature
+
+       of 27 deg C
+· Five-day BOD is the ratio of drop in DO over 5 days and the                             BOD test
+  dilution factor (Masters and Ela 2008).
+
+· BOD5 = (DOi ­ DOf)/P
+· where DOi = initial DO of the diluted wastewater, DOf = final
+
+  DO of the diluted wastewater, five days later;
+
+· P = Dilution factor = Volume of wastewater/volume of
+  wastewater plus dilution water (a standard BOD bottle is 300
+  mL).
+
+· Bi and Bf are the DO levels of the seeded dilution water
+  before and after the test
+
+· If blank DO is accounted for, then
+
+         BOD5 = [(DOi ­ DOf) ­ (Bi ­ Bf)(1 ­ P)] / P
+
+Source: Goel (2019) Water and Wastewater Engineering, Cambridge University Press, Delhi.
+Glucose oxidation or biodegradation mediated by bacteria
+C6H12O6 + 6O2 ® 6CO2 + 6 H2O
+
+                                                                                          BOD test
+
+Source: Goel (2019) Water and Wastewater Engineering, Cambridge University Press, Delhi.
+   BODt is the amount of BOD utilized at time t whereas Lt is
+
+A  the amount of BOD remaining at time t.
+
+   L0 = ultimate carbonaceous BOD = BODt + Lt    BOD test
+   Where, Lt = L0e­kt and
+   BODt = L0 (1 ­ e­kt)
+
+   The BOD reaction constant k is affected mainly by Temperature.
+
+   If the temperature is other than 20 °C then k is modified using the
+
+B  equation
+
+   kT = k20(T-20) where k20 is the value at 20 °C and kT is the value at
+
+   temperature T (expressed in °C).
+
+   The most commonly used value for  is 1.047 (Streeter and Phelps 1925).
+
+Idealized carbonaceous oxygen demand:
+A. The BOD remaining as a function of time, and
+B. The BOD consumed as a function of time.
+                                                                                  Nitrosomonas converts ammonia to nitrite
+                                                                                                          and
+
+                                                                                     Nitrobacter converts nitrite to nitrate.
+
+Carbonaceous and nitrogenous biochemical oxygen demand.
+Total BOD is the sum of two and can take more than 20 days to complete.
+
+                               NH3 + 2O2  H2O + HNO3
+Total Kjeldahl Nitrogen (TKN) includes organic and ammonia nitrogen
+(not nitrate) and is used to measure ultimate NBOD = 4.57 mg O2/mg N
+
+Source: Masters and Ela, 2012
+A wastewater has a BOD5 of 300 mg/l and a reaction rate k
+equal to 0.20/day. It has a total Kjeldahl Nitrogen (TKN) content
+of 40 mg/l.
+
+i. Find the ultimate carbonaceous oxygen demand (CBOD)
+
+ii. Find the ultimate nitrogenous oxygen demand (NBOD)                           Example
+                                                                                 Problem
+  iii. Find the remaining carbonaceous and nitrogenous oxygen demand after 5
+days have elapsed
+
+If the wastewater were discharged into a river with no initial
+oxygen deficit
+
+BODt = L0(1 ­ e-kt), for BOD5                                      300 mg/l
+k=
+                                                                   0.2     d-1
+
+L0 = ultimate carbonaceous BOD                                     474.593 mg/l
+TKN
+                                                                   40      mg/l
+
+Ultimate NBOD                                                      182.8 mg/l
+
+BOD remaining after 5 days                                         174.59
+
+NBOD remaining after 5 days                                        182.80
+Three biochemical pathways used by bacteria to survive and reproduce                 Bacteria
+
+· Aerobic respiration
+     · measured in terms of heterotrophic plate count (HPC) bacteria
+     · The terminal electron acceptor is oxygen for aerobic bacteria
+     · C6H12O6 + 6O2 ® 6CO2 + 6 H2O
+     · The 6C atoms in glucose donate all their electrons in the complete
+        oxidation of C in CO2 as the oxidation state of C in glucose goes from 0 to
+        +4, i.e., 24 e- are donated.
+     · These 24 e- are accepted by O2 which as a reactant had an oxidation
+        state of 0 which is then converted to -2 in CO2 and H2O
+
+· Anaerobic respiration
+     · Terminal electron acceptors can be any oxidized species like Fe(III),
+        Mn(IV), CO3-, NO3- except oxygen
+     · Facultative bacteria can switch electron acceptors depending on change
+        in nutrient availability or environmental conditions.
+
+· Fermentative
+     · Bacteria that can utilize organic compounds as both electron donor and
+        electron acceptor such as coliforms
+     · C6H12O6 ® 3CO2 + 3CH4
+· Indicator organisms, not always pathogenic                                    Coliforms
+     · Coliform bacteria are defined as rod-shaped, Gram-negative non-spore
+        forming, motile or non-motile bacteria which can ferment lactose with
+        the production of acid and gas when incubated at 35­37°C.
+     · Normal inhabitants of the gastro-intestinal tract of warm-blooded
+        animals
+     · Best example: Escherichia coli (E. coli)
+
+· Various methods for detection and enumeration
+     · Most Probable Number [MPN] (fermentative bacterial tube tests were in
+        use prior to 1900; Winslow, 1916)
+     · Plate counts ­ spread plates or pour plates (in use prior to 1900)
+     · Membrane filtration in combination with plating or microscopy (prior to
+        Daglia, 1954; Mara, 1973)
+Coliform detection: plate counts and colony forming
+units (cfu)
+Coliform detection: Membrane filtration and optical
+microscopy
+
+Type of microorganism: Staphylococcus (Gram +ve)
+Method of isolation: spread plate technique
+Source: Ground water ( Benapur-KGP)
+Magnification : 100X (Motic Microscope)
+
+                                                                Type of microorganism: Coli form (Gram ­ve)
+                                                                Method of isolation: fermentation tube method
+                                                                Source: waste water (1:100 dilution)
+                                                                Magnification : 100X (Motic Microscope)
+
+                                                  100 X
+
+Type of microorganism: Coli form                         100 X
+Date: 3-4-12
+Method of isolation: Fermentation tube method
+Source: waste water (1:100 dilution)
+Coliform detection: membrane filtration
+and SEM
+
+Membrane filtration and plating  SEM photos of E.coli
+· Masters G and Ela WP (2012). Introduction to Environmental Engineering
+  and Science. Prentice Hall, NJ, US.
+
+· Goel (2019) Water and Wastewater Engineering, Cambridge University
+  Press, Delhi.
+Standard BOD5 tests are conducted at 20°C. Any change in temperature will result in a change in degradation
+rate. At what temperature will the degradation rate increase 3-fold compared to the rate at 20°C?
+Assume theta = 1.047
+Solution:
+Temperature = 43.92 °C
+
+The BOD5 measured for a wastewater sample is 500 mg/L. The reaction rate constant for the sample was found
+
+to be 0.3 1/d. Determine the ultimate carbonaceous BOD of this sample.           Problem
+
+Solution:
+Ultimate carbonaceous BOD = 643.61 mg/L
+
+If the BOD test is conducted at 27°C for 3 days instead of 5 days as is done in
+India, what is BOD3 for a water sample with ultimate CBOD of 500 mg/L and k20
+= 0.2 1/d?
+Solution
+k27 = 0.276 1/d, BOD3 = 281.5 mg/L.
+Week 8: Water Quality, Reuse and Recycling
+Lecture 04: Nitrogen species in rivers and the DO
+Sag Curve ­ Part 1
+§ Nitrogen species in water
+§ Streeter-Phelps DO Sag Curve
+§ Ammonia
+§ Nitrite and nitrate
+§ Deoxygenation
+§ Reoxygenation and reaeration
+Wastewater discharge
+                    RIVER
+
+     Nitrogen species in water
+
+  Changes in nitrogen species in polluted water under
+    aerobic conditions for a single point discharge of
+                    municipal wastewater
+
+(Source: Masters and Ela, 2012)
+                                                       Dissolved
+                                                      oxygen sag
+
+                                                         curve
+
+Schematic for the Streeter-Phelps model for DO concentration in a flowing water body.
+
+Oxygen inputs (gains) into water ­ oxygenation or aeration or reaeration:
+from the atmosphere and photosynthesis (aquatic plants and algae)
+Oxygen outputs (losses) from water - deoxygenation: bacterial degradation of
+organic matter, respiration by phytoplankton
+
+Source: Goel (2019) Water and Wastewater Engineering, Cambridge University Press, Delhi.
+Self-purification capacity of a river or
+            the DO Sag curve
+
+                                                                                              DO deficit = D = ! -DO
+
+                                                                                    Based on Masters and Ela, 2012
+Rate of change of deficit = rate of deoxygenation ­ rate of oxygenation
+
+!"  =  !#  -  $  =  !%&'!#  -  $
+!#
+
+Integrating from t=0 to t results in:  = '!("                            &'!# - &'## + %&'##     Dissolved
+                                                                                                 oxygen sag
+                                                                  '#&'!
+                                                                                                    curve
+Where, D is the DO deficit which is the difference between saturated dissolved
+oxygen DOs and actual dissolved oxygen DO, D = DOs - DO
+
+L0 = ultimate carbonaceous BOD, kd= deoxygenation rate constant and ko=
+oxygenation or reaeration rate constant. Also,
+
+Substituting for D from the above equation:
+
+ = ) -         !%    &'!# - &'## - %&'##
+              $ - !
+
+Results in the Streeter-Phelps oxygen sag equation (Streeter-Phelps 1925).
+
+       Source: Goel (2019) Water and Wastewater Engineering, Cambridge University Press, Delhi.
+Assuming the stream to be constant cross-sectional area,                                        Dissolved
+                                                                                                oxygen sag
+x= v * t
+Where, v is the velocity of water in the river or stream, and x is the distance                    curve
+traveled from the disposal point of sewage in time t,
+Now the above equation reduces to :
+
+ = !%                '!*  '#*         '#*
+       $ - !      + -  + + % +
+
+Time at which DO level reaches minimum, that is, the stream conditions are
+worst is called critical time.
+
+Critical time is calculated by settling the derivative of oxygen deficit (D) as
+zero. Thus:
+
+tc =     ,   ln  '#  1 - "# '#&'!
+      '#&'!      '!
+                                '!("
+
+      Source: Goel (2019) Water and Wastewater Engineering, Cambridge University Press, Delhi.
+· As long as the rate of          Dissolved
+   deoxygenation exceeds the      oxygen sag
+   rate of reaeration, the DO in
+   the river drops.                  curve
+
+· At the critical point, both
+   rates are equal.
+
+· Beyond the Critical point,
+   reaeration exceeds
+   deoxygenation, the DO
+   curve climbs toward
+   saturation, and the river
+   recovers ­ this is the self-
+   purification capacity of the
+   river.
+
+Source: Masters and Ela, 2012
+Ø kT = k20(T-20)                             , Theta (for kd) = 1.047
+                                             , Theta (for ko) = 1.024
+
+Typical values for the BOD rate constant kd at 20° C
+
+Sample            kd (day-1)a                Kd (day-1)b               Rate constants
+
+Raw sewage        0.35-0.70                  0.15-0.30
+
+Well-treated sewage 0.12-0.23                0.05-0.10
+
+Polluted river water 0.12-0.23               0.05-0.10
+
+aLowercase k reaction rates to the base e.
+bUppercase K reaction rates to the base 10.
+
+Source: Masters and Ela, 2012
+Typical reaeration constants for various bodies of water
+
+Water body                        Range of ko at 20° C (day-1)a
+Small ponds and backwaters        0.10-0.23
+Sluggish streams and large lakes  0.23-0.35
+Large streams of low velocity     0.35-0.46
+Large streams of normal velocity  0.46-0.69
+Swift streams                     0.69-1.15
+Rapids and waterfalls             > 1.15
+
+aBase e.
+
+Source: Masters and Ela, 2012
+Factors affecting the DO sag curve                                                        Dissolved
+Ø Seasonal changes: During summer, due to decrease in water level,                        oxygen sag
+
+   wastewater concentration increases, resulting in higher BOD concentration in              curve
+   the river or stream, thereby bringing down DO levels.
+Ø Temperature effect: With an increase in temperature, wastewater
+   decomposition is faster. Thus, rate of deoxygenation increases and DO level
+   decreases. The critical time is achieved sooner in summer compared to winter
+   due to difference in water temperature.
+Ø Effect of photosynthesis: Photosynthetic organisms like algae and aquatic
+   plants add DO during the daytime, and consume DO during night time due to
+   respiration.
+Ø Nitrification: Another secondary dip in DO sag curve is observed downstream
+   of the discharge point due to conversion of organic nitrogen and ammonia to
+   nitrites and nitrates.
+Ø Wastewater concentration: As wastewater concentration increases, the
+   amount of DO consumed also increases leading to greater depletion in DO
+   levels.
+
+Source: Goel (2019) Water and Wastewater Engineering, Cambridge University Press, Delhi.
+A river with a flow rate of 1000 cumecs (m3/sec) has a BOD of 10 mg/L and receives            Problem
+multiple discharges of wastewater from both sides. One wastewater discharge has a
+flow rate of 10 cumec and a BOD of 300 mg/L (it is untreated sewage) while the other     Wastewater discharge, Q1
+discharge from the opposite bank is 50 cumecs and 200 mg/L of BOD (wastewater
+after primary settling). Calculate the BOD downstream of the two discharges. The
+DO levels in the river upstream of the wastewater discharges is 5 mg/L and
+wastewaters have zero DO. Calculate the DO levels downstream of the two
+discharges.
+
+            River upstream of  Wastewater discharges                                     Qr  RIVER
+            wastewater
+Flow, m3/s  discharge          Q1 = 10     Q2 = 50                                       Wastewater discharge, Q2
+BOD, mg/L                      BOD1 = 300  BOD2 = 200
+DO, mg/L    Qr = 1000          DO1 = 0     DO2 = 0
+
+            BODr = 10
+            DOr = 5
+
+Flow rate of the river downstream of the discharges, Qtotal =Qr+Q1+Q2 = 1060 m3/s
+BOD of the river downstream of the discharges, BODdownstream =[ BODi* Qi]/Qtotal = 21.7
+mg/L
+
+DO of the river downstream of the discharges, DOdownstream=[ DOj* Qj]/Qtotal =4.72 mg/L
+
+                                                                                                    13
+· Masters G and Ela WP (2012). Introduction to Environmental Engineering
+  and Science. Prentice Hall, NJ, US.
+
+· Goel (2019) Water and Wastewater Engineering, Cambridge University
+  Press, Delhi.
+Week 8: Water Quality, Reuse and Recycling
+Lecture 05: NGT, WQI and reuse and recycling of wastewater
+§ National Green Tribunal
+§ Wastewater discharge standards
+§ Water Quality Index
+§ Zero discharge goal
+§ Reuse and recycling of wastewater
+§ Natural justice
+§ Irrigation
+§ Sewers
+§ Water bodies
+§ Marine
+§ Secondary wastewater treatment
+§ Tertiary wastewater treatment
+                      National Green Tribunal
+
+Ø Established on 18.10.2010 under the National Green Tribunal Act 2010.
+Ø Goal: effective and expeditious disposal of cases relating to environmental protection and conservation of
+
+   forests and other natural resources including enforcement of any legal right relating to environment and
+   giving relief and compensation for damages to persons and property and for matters connected.
+Ø Specialized body equipped with the necessary expertise and not bound by the Code of Civil Procedure,
+   1908, but guided by principles of natural justice.
+Ø The Tribunal's endeavor for disposal of applications or appeals finally
+   within 6 months of filing of the same.
+Ø New Delhi is the Principal Place of Sitting of the Tribunal and Bhopal,
+   Pune, Kolkata and Chennai shall be the other 4 places of sitting of
+   the Tribunal.
+Sl. Parameter Inland surface Public             Land for Marine/coastal areas
+                                                irrigation
+No          water                       sewers
+
+    2       3(a)                        3(b)    3©   3(d)
+
+1 Colour and See 6 of Annexure -1l                                               Standards for
+      odour                                                                       wastewater
+                                                                               discharges, India
+2 Suspended 100                         600     200  (a) For process
+      Solids, mg/l,                                                                  (CPCB)
+      max.                                           wastewater
+
+                                                     (b) For cooling waste
+
+                                                     effluent 10
+
+                                                     percent above
+
+                                                     total suspended
+
+                                                     matter of influent
+
+3 Particle size Shall pass 850 -                -    (a) Floatable solids,
+
+    of suspended micron IS sieve                     solids max. 3 mm
+
+    solids                                           (b) Settleable solids,
+
+                                                     max 856 microns
+
+4 pH value 5.5 to 9.0                   5.5 to 9.0 5.5 to 9.0 5.5 to 9.0
+
+5 Temperature Shall not exceed                       Shall not exceed 5° C
+                         5°C above the               above the receiving
+                         receiving                   temperature
+                         temperature
+Sl. Parameter            Inland   Public  Land for Marine/coa
+No                       surface  sewers  irrigation stal areas
+                         water    20
+6 Oil and grease, mg/l,           -       10   20
+         max.            10       50
+                                  -
+7 Total Residual         1        -       -    1                   Standards for
+                                  350                               wastewater
+Chlorine, mg/l, max.                                             discharges, India
+                                  -
+8 Ammoniacal nitrogen 50                  -    50                      (CPCB)
+         (as N), mg/l, max.
+
+9 Total Kjeldahl nitrogen 100             -    100
+         (as N), mg/l, max.
+
+10 Free ammonia (as      5                -    5
+
+NH3), mg/l, max.
+
+11 Biochemical oxygen 30                  100  100
+         demand (3 days at
+         27°C), mg/l, max.
+
+12 Chemical oxygen       250              -    250
+
+demand, mg/l, max.
+         Revised Sewage discharge standards (NGT Order, 2018)
+Sewage Treatment Plants (STPs) - (Applicable to all modes of disposal)
+
+                         1            2            3            4
+                    Mega and                             Deep Marine
+                  Metropolitan  Class I cities  Others
+                                   5.5-9.0      5.5-9.0     outfalls
+                       cities                               5.5-9.0
+                                     20           30
+pH                5.5-9.0            30           50           30
+Biochemical                          100         150           50
+Oxygen Demand       10               15            -          150
+(BOD)               20                1            1            -
+Total Suspended     50                                          -
+Solids (TSS)                         230
+Chemical Oxygen                     1000
+Demand (COD)
+
+Nitrogen-Total    10
+
+Phosphorus-Total  1
+
+Fecal Coliforms (MPN/100 mL)
+
+Desirable         100                           1000     1000
+                                                10000    10000
+Permissible       230
+Class                Population Size     No. of UAs/Towns  No. of UAs/Towns
+                                                 2001              2011
+Metropolitan cities  Out of above, more
+                     than 10,00,000               35                53
+Class I
+All classes          1,00,000 above      393               465
+i Statutory Towns                        5161              7935
+ii Census Towns                          3799              4041                        Classification
+                                         1362              3894                         of cities in
+                                                                                           India
+
+Ø All places with a municipality, corporation, cantonment board or notified town area
+
+   committee, etc. known as Statutory Town.
+Ø All other places which satisfied the following criteria are known as Census Town: A
+
+   minimum population of 5,000; At least 75 per cent of the male main workers engaged
+   in non-agricultural pursuits; A density of population of at least 400 per sq. km.
+Ø The number of metropolitan cities having million plus population has increased from
+
+   35 to 53 as per 2011 Census.
+Source: https://mohua.gov.in/cms/number-of-cities--towns-by-city-size-class.php
+               Classification of cities in India
+
+Ø Class I towns with more than 1, 00,000 population,
+Ø Class II towns with 50,000 to 99,999 population,
+Ø Class III towns with 20,000 to 49,999 population,
+Ø Class IV towns with 10,000 to 19,999 population,
+Ø Class V towns with 5000 to 9,999 population
+Ø Class VI towns with less than 5,000 population.
+Ø Water quality indices (WQI) provide a uniform scale for comparison of water quality in     Water Quality
+   any part of the world with a single value since it is difficult to compare several water       Index
+   quality parameters for different water sources at the same time.
+
+Ø WQI can be used to compare water quality spatially as well as temporally.
+Ø Several water quality indices are available in the literature.
+Ø Earliest one is by Horton (1965) followed by the USA-National Sanitation Foundation
+
+   (NSF) in 1970.
+Ø The NSF-WQI was based on the Delphi approach where a panel of 142 experts from all
+
+   over the United States with expertise in various aspects of water quality management
+   provided a list of the most important water quality parameters and their relationship
+   with water quality (Canter 1999).
+Ø Charts correlating the value of each water quality parameter with a quality index were
+   generated by averaging the responses of experts and are available in the same text or
+   on various websites.
+Water quality parameters included in NSF WQI  Water Quality Index Legend
+and their weights
+                                              Range   Quality
+ Water quality parameter Weight (Wi)          90-100  Excellent
+ (Qi)                                         70-90   Good
+                                              50-70   Medium
+ Dissolved Oxygen (DO), 0.17                  25-50   Bad
+ percent of DO saturation                     0-25    Very Bad
+
+Fecal Coliform (colonies 0.16                                             Water Quality
+or cfu/100 ml)                                                                 Index
+
+pH                  0.11
+
+Biochemical oxygen  0.11
+
+demand, mg/l
+
+Temperature change, 0.1
+degree C
+
+Total phosphate, mg/l 0.1
+
+Nitrates, mg/l      0.1
+
+Turbidity, NTU      0.08
+
+Total Solids (TS), mg/l 0.07
+
+Overall WQI         1                         Goel, 2019
+                         Water Quality
+                               Index
+
+Goel, 2019
+                          Water Quality
+                                Index
+
+Goel, 2019
+           Reuse and recycling of wastewater
+
+· "Zero discharge" goal is achievable only if conventional and
+  advanced wastewater treatment is done
+
+· The treated effluent can be used for various applications:
+    · Irrigation or horticulture
+    · Aquaculture and eco-restoration
+    · Groundwater recharge
+    · Treatment to the level of drinking water
+    Two important cases of `wastewater to drinking water'
+    treatment: Namibia since 1968 and Singapore since 1998.
+
+                                                                              Goel, 2019
+Primary wastewater treatment: removal
+          of objectionable solids
+
+Secondary wastewater treatment:                           Wastewater
+removal of biodegradable material                     treatment for reuse
+
+                                                          and recycling
+
+Tertiary wastewater treatment: removal
+         of nutrients like N and P
+
+ Higher levels of wastewater treatment:   Goel, 2019
+removal of other contaminants like heavy
+
+        metals, pesticides and other
+               micropollutants
+· The most common use of treated wastewater is for irrigation or                         Wastewater
+  horticulture since the effluent from a conventional wastewater treatment                   reuse
+  plant is high in nutrients like N and P.
+     · Landscape irrigation - it encompasses irrigation of parks, golf courses,          applications
+        playgrounds, and landscaped areas around offices and residences.
+
+· Treated wastewater is often used by industries for housekeeping, cooling
+  and process needs.
+
+· Treated wastewater can be used to recharge ground water aquifers.
+
+· Development of marshes, manmade lakes, golf course, storage ponds
+
+· Treated wastewater can be used for fire protection, toilet flushing, and air
+  conditioning.
+
+· In many water-scarce areas, conventionally treated wastewater (upto
+  secondary treatment) is further treated (tertiary and higher levels) for
+  removal of nutrients, heavy metals, pesticides, and other micropollutants
+  and used even for drinking.
+
+· Treated wastewater can be used to replenish stream flows, conserve
+  ecosystems, recreational uses and improve stream navigability.
+
+                                                                             Goel, 2019
+         Reuse applications for secondary treated wastewater
+
+ · Non-food crop and restricted landscape irrigation
+
+      · Fodder and fiber crops only
+
+ · Surface irrigation of orchards and vineyards
+ · Groundwater recharge of aquifers for non-potable
+
+   purposes
+ · Wetlands and habitat conservation
+ · Stream augmentation
+ · Industrial water use like cooling water and boiler feed
+
+   water
+
+USEPA, 2012; Goel, 2019
+
+                                                                                                                                                                                                                       17
+        Reuse applications for tertiary or higher treated wastewater
+
+ For higher level wastewater reuse applications, tertiary treatment
+ which includes coagulation, chemical or biological nutrient removal,
+ filtration and disinfection is necessary. These uses include the
+ following (USEPA 2012):
+ · Food crop irrigation
+ · Toilet flushing and vehicle washing
+ · Unrestricted recreational uses
+ · Landscape irrigation for golf courses and other areas
+
+                                                                                                                                                                                            18
+
+USEPA, 2012; Goel, 2019
+                Methods for land application or irrigation
+
+· Surface irrigation or overland flow
+     · Ridge and furrow irrigation or sheet flow
+     · Land is graded (gentle slope); excess water flows down the slope into a
+        cross-ditch for collection and disposal
+
+· Flooding
+     · Land is flat and enclosed by dykes
+     · Water is spread to a depth of 2.5 to 60 cm
+     · Drains are laid below surface to collect excess water
+
+· Rapid infiltration
+     · For recharging local groundwater table
+
+· Constructed wetlands
+     · Aquatic plants provide a substratum for microbial growth and oxygen for
+        aerobic decomposition of organic matter in wastewater
+     · Nutrients from wastewater are utilized by plants and microbes for growth
+     · Plants may need to be harvested
+
+                                                                              Goel, 2019
+
+                                                                                                                                                                                         19
+· Masters G and Ela WP (2012). Introduction to Environmental Engineering
+  and Science. Prentice Hall, NJ, US.
+
+· Goel (2019) Water and Wastewater Engineering, Cambridge University
+  Press, Delhi.
+
+· Canter, LW (1996) Environmental Impact Assessment, McGraw Hill
+  Education, New Delhi.
+

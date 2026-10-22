@@ -1,0 +1,4619 @@
+{
+  "weeks": [
+    {
+      "week": 1,
+      "title": "Environmental Concerns, Population Growth and Resource Consumption",
+      "examPriority": "high",
+      "atAGlance": [
+        "Contaminant = present; pollutant = present + harm (concentration + toxicity + exposure).",
+        "Population models: arithmetic P0+nX; geometric P0(1+r)^n; exponential P0 e^(rn). Same r → arithmetic < geometric < exponential.",
+        "Worked: P0=1000, r=0.1, n=10 → 2000 / 2594 / 2718.",
+        "IPAT: I = P × A × T. Impact scales with population, affluence, and technology intensity.",
+        "EF demand vs biocapacity supply; both in global hectares (gha). World EF ~2.8 gha/cap vs BC ~1.6 gha/cap.",
+        "Earth Overshoot Day: date when annual demand exceeds Earth’s yearly biocapacity.",
+        "EPI (Energy Performance Index) = annual energy / floor area (kWh/m²·y); LCA tracks cradle-to-grave burdens.",
+        "Petropolis = fossil-fuel-dependent city; urban metabolism = city as organism of energy/material flows."
+      ],
+      "definitions": [
+        {
+          "term": "Contaminant",
+          "definition": "Any substance present in air, water, or soil that is not normally there, or present above background levels.",
+          "trap": "Presence alone ≠ pollution. Without demonstrated adverse effect it remains a contaminant."
+        },
+        {
+          "term": "Pollutant",
+          "definition": "A contaminant that causes adverse effects on humans, biota, or materials at the concentration and exposure of interest."
+        },
+        {
+          "term": "Natural service (ecosystem service)",
+          "definition": "Benefit humans derive from ecosystems (provisioning, regulating, supporting, cultural) without engineered substitutes."
+        },
+        {
+          "term": "Biocapacity",
+          "definition": "Regenerative capacity of ecosystems to produce useful biological materials and absorb wastes, expressed in global hectares (gha).",
+          "trap": "Biocapacity is supply; Ecological Footprint is demand. Do not swap them."
+        },
+        {
+          "term": "Global hectare (gha)",
+          "definition": "Hectare of land with world-average biological productivity. Used to compare unlike land types via equivalence factors (EQF)."
+        },
+        {
+          "term": "Ecological Footprint (EF)",
+          "definition": "Biologically productive area required to produce the resources a population consumes and to absorb its wastes (esp. CO₂), in gha."
+        },
+        {
+          "term": "Earth Overshoot Day",
+          "definition": "Calendar date when humanity’s cumulative EF since 1 Jan exceeds Earth’s biocapacity for that year."
+        },
+        {
+          "term": "Energy Performance Index (EPI)",
+          "definition": "Building energy intensity: annual energy use divided by floor area, typically kWh/m²·year."
+        },
+        {
+          "term": "IPAT",
+          "definition": "I = P × A × T: Environmental Impact = Population × Affluence × Technology (impact intensity)."
+        },
+        {
+          "term": "Petropolis",
+          "definition": "Urban form whose metabolism depends heavily on fossil fuels for transport, buildings, and goods — opposite of a solar/circular city framing."
+        }
+      ],
+      "sections": [
+        {
+          "id": "framing-terminology",
+          "title": "Environmental framing and terminology",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Environment spans atmosphere, hydrosphere, lithosphere, and biosphere. Course framing links pollution control, climate, waste, water, soil, and public health under one sustainability lens."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Air: industrial and vehicular emissions, stubble/waste burning, Urban Heat Island (UHI), climate change.",
+                "Water: scarcity of safe drinking water, wastewater loads on aquatic ecosystems.",
+                "Soil: salinization, erosion, nutrient depletion, synthetic organics.",
+                "Biodiversity: extinction, bioaccumulation of toxics."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Exam favourite: contaminant vs pollutant. Contaminant = presence; pollutant = presence + adverse effect. Always cite concentration, toxicity, and exposure pathway."
+            },
+            {
+              "type": "p",
+              "text": "UHI: urban surfaces (asphalt, concrete) store and re-radiate heat; nights stay warmer than rural surrounds. Stubble burning spikes North Indian PM in Oct–Nov."
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Do not say ‘all contaminants are pollutants’. Arsenic in groundwater can be natural yet still a pollutant if it harms health."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Natural sources: volcanoes, forest fires, dust storms.",
+                "Anthropogenic: vehicles, power plants, industry, biomass/waste burning.",
+                "Of ~30 most polluted cities globally, a large share is routinely in India (course slide claim — know the framing)."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sd-foundations",
+          "title": "Sustainable development foundations",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Brundtland (Our Common Future, 1987): development that meets the needs of the present without compromising the ability of future generations to meet their own needs."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Three pillars: environment, economy, society (equity across time and within generations).",
+                "Natural services cannot be fully substituted by technology at planetary scale.",
+                "Course objective: embed SD in daily decisions; Supreme Court M.C. Mehta vs Union of India (1991) pushed environmental education."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "link",
+              "text": "Week 2 expands Brundtland into planetary boundaries, MDGs/SDGs, and the 5 Ps. Memorize the verbatim definition here first."
+            },
+            {
+              "type": "p",
+              "text": "Resource consumption and pollution rise with population and with per-capita intensity. Quantification tools in this week: population models, IPAT, EF, Overshoot Day, EPI, LCA."
+            }
+          ]
+        },
+        {
+          "id": "population-models",
+          "title": "Population growth models",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Three classic discrete/continuous models appear in numerical questions. Always identify whether growth is fixed increment (arithmetic) or rate-based (geometric/exponential)."
+            },
+            {
+              "type": "table",
+              "title": "Arithmetic vs geometric vs exponential (P0=1000, r=0.1 or X=100, n=10)",
+              "rows": [
+                [
+                  "Model",
+                  "Formula",
+                  "Meaning",
+                  "Pn (worked)"
+                ],
+                [
+                  "Arithmetic (linear)",
+                  "Pn = P0 + nX",
+                  "Fixed increment X each period",
+                  "1000 + 10×100 = 2000"
+                ],
+                [
+                  "Geometric",
+                  "Pn = P0 (1+r)^n",
+                  "Discrete compounding at rate r",
+                  "1000×(1.1)^10 ≈ 2594"
+                ],
+                [
+                  "Exponential",
+                  "Pn = P0 e^(r n)",
+                  "Continuous compounding",
+                  "1000×e^1 ≈ 2718"
+                ]
+              ]
+            },
+            {
+              "type": "formula",
+              "expr": "Pn = P0 + nX",
+              "use": "Arithmetic: planned/fixed headcount increase; X = absolute increment per period."
+            },
+            {
+              "type": "formula",
+              "expr": "Pn = P0 (1+r)^n",
+              "use": "Geometric: percentage growth compounded once per period (census-style discrete steps)."
+            },
+            {
+              "type": "formula",
+              "expr": "Pn = P0 e^(r n)",
+              "use": "Exponential: continuous growth; for same r and n, largest of the three."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Order for identical P0, r, n: arithmetic < geometric < exponential. Drill 1000 / 0.1 / 10 → 2000, 2594, 2718."
+            },
+            {
+              "type": "p",
+              "text": "Goodness of fit: R² near 1 means the model explains almost all variance in the series. India census series often fit exponential with high R² in course examples."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "R² → 1: strong fit; model useful for short-term projection.",
+                "R² low: wrong model form, structural breaks, or policy shocks.",
+                "Carrying capacity / logistic growth appears later (Week 11 ecology); Week 1 sticks to unlimited J-curve forms."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Using r=10% as 10 instead of 0.1 in e^(rn) is a common arithmetic error. Keep r as a fraction."
+            }
+          ]
+        },
+        {
+          "id": "ipat-model",
+          "title": "IPAT and resource–pollution coupling",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "formula",
+              "expr": "I = P × A × T",
+              "use": "Impact = Population × Affluence (consumption/cap) × Technology (impact per unit consumption)."
+            },
+            {
+              "type": "p",
+              "text": "Example framing for CO₂: I ≈ population × (fossil kWh/cap·y) × (kg CO₂/kWh). Cutting T (cleaner tech) can offset rising P and A, but only if T falls faster than P×A grows."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "P: population size and growth rate.",
+                "A: GDP/cap or energy/cap — lifestyle and wealth.",
+                "T: emission factor, material intensity, efficiency of conversion."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "When factors multiply, approximate % changes add. If P +2%, A +3%, T −4%, net I ≈ +1%."
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "IPAT is a decomposition identity, not a full causal model. Do not claim it ‘proves’ one driver alone."
+            }
+          ]
+        },
+        {
+          "id": "ef-overshoot",
+          "title": "Ecological Footprint and Earth Overshoot Day",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "EF converts consumption into land/sea area needed. Biocapacity is what ecosystems can regenerate. Units: global hectares (gha)."
+            },
+            {
+              "type": "formula",
+              "expr": "EF_production ≈ P × EQF / Y_w",
+              "use": "Production P (t/y) scaled by world-average yield Y_w and equivalence factor EQF → gha."
+            },
+            {
+              "type": "formula",
+              "expr": "biocapacity = An × (Yn/Yw) × EQF",
+              "use": "National area An, national/world yield ratio, EQF — supply side of the ledger."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "EF components often include cropland, grazing, forest, fishing, built-up, carbon footprint.",
+                "Deficit mechanisms: net-import biocapacity; overharvest domestic stock; emit more CO₂ than sinks absorb.",
+                "Global: ~2.8 gha/person demand vs ~1.6 gha/person biocapacity → structural overshoot."
+              ]
+            },
+            {
+              "type": "table",
+              "title": "Illustrative Overshoot Day dates (course-style)",
+              "rows": [
+                [
+                  "Year / note",
+                  "Approx Overshoot Day"
+                ],
+                [
+                  "Late 20th c. trend",
+                  "Moved earlier as EF rose"
+                ],
+                [
+                  "2019 (pre-COVID)",
+                  "~29 July"
+                ],
+                [
+                  "2020 (lockdown)",
+                  "~22 August (later = temporary relief)"
+                ],
+                [
+                  "Recent typical",
+                  "Late July / early August band"
+                ]
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Overshoot Day later in the year = less overshoot that year. 2020 delayed because lockdown cut demand, not because biocapacity magically rose."
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "EF is not GDP. A rich efficient country can have lower EF/cap than a poorer high-biomass consumer — compare carefully."
+            }
+          ]
+        },
+        {
+          "id": "epi-lca-urban",
+          "title": "EPI, LCA, and urban metabolism",
+          "weight": "medium",
+          "blocks": [
+            {
+              "type": "formula",
+              "expr": "EPI = E_annual / A_floor",
+              "use": "kWh (or MJ) per year per m² of floor area; compare buildings and campuses."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Use 3–5 years of utility bills for a stable EPI.",
+                "Lower EPI → better energy performance for similar climate/use.",
+                "LCA (Life Cycle Assessment): inventory + impact from cradle to grave (or cradle to cradle)."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Urban metabolism treats the city as an organism: inputs (energy, water, food, materials), stocks (buildings, infrastructure), outputs (waste, emissions, heat). Petropolis = high fossil throughput."
+            },
+            {
+              "type": "ol",
+              "items": [
+                "Map flows (energy, water, materials, waste).",
+                "Normalize by population or floor area (links to EPI).",
+                "Identify leverage: efficiency, fuel switch, circular loops.",
+                "Compare to biocapacity / EF narrative at city scale."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "EPI example pattern: sum annual kWh from bills ÷ built-up m². Units must be kWh/m²·y (or consistent energy unit)."
+            },
+            {
+              "type": "callout",
+              "kind": "link",
+              "text": "Links forward to Week 5 renewable supply and Week 7 industrial ecology / circular economy."
+            }
+          ]
+        }
+      ],
+      "numbers": [
+        {
+          "label": "World population (course framing)",
+          "value": "~8.0 billion",
+          "why": "Scale of P in IPAT / global EF."
+        },
+        {
+          "label": "India population (Census 2011 figure used in course)",
+          "value": "1.21 billion",
+          "why": "National P baseline in many examples."
+        },
+        {
+          "label": "Global EF per person",
+          "value": "~2.8 gha",
+          "why": "Demand side of overshoot."
+        },
+        {
+          "label": "Global biocapacity per person",
+          "value": "~1.6 gha",
+          "why": "Supply side; gap drives Overshoot Day."
+        },
+        {
+          "label": "Earth Overshoot Day 2020",
+          "value": "~22 August",
+          "why": "Lockdown delayed overshoot — temporary demand drop."
+        },
+        {
+          "label": "Worked population trio",
+          "value": "2000 / 2594 / 2718",
+          "why": "P0=1000, r=0.1, n=10 for arithmetic / geometric / exponential."
+        },
+        {
+          "label": "EPI units",
+          "value": "kWh/m²·year",
+          "why": "Standard building intensity metric."
+        }
+      ],
+      "crossLinks": [
+        {
+          "week": 2,
+          "why": "Brundtland definition and SD pillars expand into planetary boundaries and SDGs."
+        },
+        {
+          "week": 3,
+          "why": "Air quality concerns (PM, UHI context) deepen into pollutant physics and control."
+        },
+        {
+          "week": 4,
+          "why": "Carbon footprint in EF connects to GHG accounting and climate treaties."
+        },
+        {
+          "week": 5,
+          "why": "Cutting T in IPAT via renewables — solar/wind replace fossil intensity."
+        }
+      ],
+      "examChecklist": [
+        "Define contaminant vs pollutant with one example each.",
+        "Write all three population formulas; compute 1000, 0.1, 10.",
+        "State order arithmetic < geometric < exponential for same r.",
+        "Write IPAT and interpret each letter.",
+        "EF vs biocapacity; units gha; ~2.8 vs ~1.6.",
+        "Explain Overshoot Day and why 2020 moved later.",
+        "EPI formula and units; one-line LCA purpose.",
+        "One sentence on Petropolis / urban metabolism."
+      ]
+    },
+    {
+      "week": 2,
+      "title": "Principles of Sustainable Development",
+      "examPriority": "high",
+      "atAGlance": [
+        "Brundtland 1987 verbatim: meet present needs without compromising future generations’ ability to meet theirs.",
+        "Timeline: Silent Spring (1962) → Stockholm (1972) → Brundtland (1987) → Rio (1992) → MDGs (2000) → SDGs (2015).",
+        "Nine planetary boundaries; crossed (course): biodiversity loss, climate change, N cycle, land-system change.",
+        "MDGs: 8 goals, developing focus; SDGs: 17 goals, universal, leave no one behind.",
+        "5 Ps: People, Planet, Prosperity, Peace, Partnership.",
+        "SDG Index ranks countries on progress; watch negative spillover (exports of harm).",
+        "Extensive green roof and Smart City as urban SD interventions."
+      ],
+      "definitions": [
+        {
+          "term": "Sustainable development (Brundtland)",
+          "definition": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.",
+          "trap": "Learn the sentence verbatim — MCQs often tweak one clause."
+        },
+        {
+          "term": "Planetary boundaries",
+          "definition": "Safe operating space for humanity across nine Earth-system processes; crossing raises risk of abrupt/irreversible change."
+        },
+        {
+          "term": "Anthropocene",
+          "definition": "Proposed epoch in which human activity is the dominant driver of planetary change."
+        },
+        {
+          "term": "MDGs",
+          "definition": "Millennium Development Goals (2000–2015): eight goals mainly aimed at developing countries’ poverty and basic needs."
+        },
+        {
+          "term": "SDGs",
+          "definition": "Sustainable Development Goals (Agenda 2030): 17 goals, 169 targets, universal to all countries."
+        },
+        {
+          "term": "5 Ps",
+          "definition": "People, Planet, Prosperity, Peace, Partnership — framing pillars of the 2030 Agenda."
+        },
+        {
+          "term": "SDG Index",
+          "definition": "Composite score/rank of countries’ progress toward the SDGs (e.g. SDSN reports)."
+        },
+        {
+          "term": "Negative spillover",
+          "definition": "When a country’s consumption or production imposes environmental/social costs outside its borders (e.g. imported deforestation)."
+        },
+        {
+          "term": "Extensive green roof",
+          "definition": "Lightweight vegetated roof with thin substrate; stormwater, insulation, biodiversity benefits at lower load than intensive gardens."
+        },
+        {
+          "term": "Smart City",
+          "definition": "ICT-enabled urban management aiming at efficiency, livability, and sustainability (India Smart Cities Mission as course context)."
+        }
+      ],
+      "sections": [
+        {
+          "id": "brundtland-definition",
+          "title": "Brundtland definition and pillars",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "UN Brundtland Commission (1983), chaired by Gro Harlem Brundtland. Report: Our Common Future (1987). Canonical SD definition is examined verbatim."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Write exactly: ‘Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.’"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Environment: stay within ecological limits / planetary boundaries.",
+                "Economy: livelihoods and growth that do not liquidate natural capital.",
+                "Society: intra- and inter-generational equity.",
+                "Needs of the poor often get priority language in Brundtland framing."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "SD ≠ ‘green growth’ slogan alone. If future options shrink, it fails the Brundtland test even if GDP rises."
+            }
+          ]
+        },
+        {
+          "id": "sd-timeline",
+          "title": "From Silent Spring to SDGs — timeline",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "table",
+              "title": "Milestone timeline",
+              "rows": [
+                [
+                  "Year",
+                  "Event",
+                  "Exam hook"
+                ],
+                [
+                  "1962",
+                  "Silent Spring (Rachel Carson)",
+                  "Public awakening to pesticides / ecology"
+                ],
+                [
+                  "1972",
+                  "Stockholm Conference (UNCHE)",
+                  "First major global environment conference; UNEP born"
+                ],
+                [
+                  "1987",
+                  "Brundtland / Our Common Future",
+                  "SD definition"
+                ],
+                [
+                  "1992",
+                  "Rio Earth Summit (UNCED)",
+                  "Agenda 21, UNFCCC, CBD signed"
+                ],
+                [
+                  "2000",
+                  "MDGs",
+                  "8 goals to 2015"
+                ],
+                [
+                  "2012",
+                  "Rio+20",
+                  "Bridge toward SDGs"
+                ],
+                [
+                  "2015",
+                  "SDGs / Agenda 2030 + Paris Agreement",
+                  "17 goals; climate co-timing"
+                ]
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Order drill: Silent Spring → Stockholm → Brundtland → Rio → MDGs → SDGs. Pair Rio 1992 with UNFCCC (Week 4)."
+            },
+            {
+              "type": "ol",
+              "items": [
+                "Awareness literature and local pollution crises.",
+                "International soft law and institutions (UNEP).",
+                "SD concept formalized (1987).",
+                "Harder treaty architecture (1992+).",
+                "Development goals (MDGs then universal SDGs)."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "planetary-boundaries",
+          "title": "Planetary boundaries",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Rockström et al. framework: nine boundaries defining a safe operating space. Course stresses which have been crossed."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Climate change",
+                "Biosphere integrity (biodiversity loss)",
+                "Biogeochemical flows (N and P cycles)",
+                "Land-system change",
+                "Freshwater use",
+                "Ocean acidification",
+                "Atmospheric aerosol loading",
+                "Stratospheric ozone depletion",
+                "Novel entities (chemical pollution)"
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Crossed (course emphasis): biodiversity loss, climate change, nitrogen cycle, land-system change. Ozone is a recovery success story (links Montreal, Week 3)."
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "‘Nine boundaries’ ≠ ‘nine already crossed’. Know the list and the crossed subset separately."
+            },
+            {
+              "type": "p",
+              "text": "Anthropocene framing: human forcing rivals geologic drivers. SD policy = keep humanity inside the safe space while meeting needs."
+            }
+          ]
+        },
+        {
+          "id": "mdg-vs-sdg",
+          "title": "MDGs vs SDGs and the 5 Ps",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "table",
+              "title": "MDG vs SDG comparison",
+              "rows": [
+                [
+                  "Feature",
+                  "MDGs",
+                  "SDGs"
+                ],
+                [
+                  "Count",
+                  "8 goals",
+                  "17 goals / 169 targets"
+                ],
+                [
+                  "Period",
+                  "2000–2015",
+                  "2015–2030"
+                ],
+                [
+                  "Scope",
+                  "Primarily developing countries",
+                  "Universal — all countries"
+                ],
+                [
+                  "Focus",
+                  "Poverty, health, education basics",
+                  "People + planet + prosperity + peace + partnership"
+                ],
+                [
+                  "Environment",
+                  "Limited explicit goals",
+                  "Embedded across multiple goals (e.g. 13, 14, 15)"
+                ],
+                [
+                  "Motto",
+                  "Halve extreme poverty etc.",
+                  "Leave no one behind"
+                ]
+              ]
+            },
+            {
+              "type": "ul",
+              "items": [
+                "People — dignity, equality, healthy lives.",
+                "Planet — protect ecosystems for present and future.",
+                "Prosperity — progress in harmony with nature.",
+                "Peace — just, inclusive societies.",
+                "Partnership — Global Partnership for Sustainable Development."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "5 Ps mnemonic: People, Planet, Prosperity, Peace, Partnership. MDG→SDG = from 8/developing to 17/universal."
+            }
+          ]
+        },
+        {
+          "id": "sdg-index-spillover",
+          "title": "SDG Index, spillovers, urban interventions",
+          "weight": "medium",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "SDG Index scores countries on goal progress. High domestic scores can hide negative spillover: pollution, land use, or labour impacts exported via trade."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Negative spillover = harm abroad from domestic consumption patterns. Exam may contrast rank vs responsibility."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Extensive green roof: thin growing medium, low structural load; reduces runoff, cools roof, adds habitat.",
+                "Intensive green roof: deeper soil, trees/gardens — heavier, more amenity, higher cost.",
+                "Smart City: sensors, data, e-governance for mobility, energy, water, waste — SD only if equity and environment are designed in."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Smart ≠ automatically sustainable. ICT without demand reduction can raise energy use (rebound)."
+            },
+            {
+              "type": "callout",
+              "kind": "link",
+              "text": "Week 1 EF/overshoot = biophysical budget; Week 2 SDGs = governance targets on that budget."
+            }
+          ]
+        },
+        {
+          "id": "sd-transformations",
+          "title": "Implementing SD — transformations and trade-offs",
+          "weight": "medium",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Course/SDSN-style transformations group SDGs into actionable clusters (education, health, energy decarbonization, sustainable food, cities, digital). Trade-offs are normal: biofuel land vs food (Week 6), densification vs green space."
+            },
+            {
+              "type": "ol",
+              "items": [
+                "Set measurable targets (SDG indicators).",
+                "Stay within planetary boundaries (biophysical).",
+                "Finance and partnership (5th P).",
+                "Monitor spillovers, not only domestic KPIs.",
+                "Iterate policy with science–policy bodies (IPCC link in Week 4)."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Be ready to map one local intervention (green roof / Smart City measure) to at least two SDGs (e.g. 11 cities, 13 climate)."
+            }
+          ]
+        }
+      ],
+      "numbers": [
+        {
+          "label": "Brundtland report year",
+          "value": "1987",
+          "why": "Verbatim SD definition source."
+        },
+        {
+          "label": "Planetary boundaries count",
+          "value": "9",
+          "why": "Safe operating space framework."
+        },
+        {
+          "label": "Boundaries emphasized as crossed",
+          "value": "Biodiversity, climate, N cycle, land-system",
+          "why": "High-frequency MCQ set."
+        },
+        {
+          "label": "MDG count / horizon",
+          "value": "8 goals / 2000–2015",
+          "why": "Contrast with SDGs."
+        },
+        {
+          "label": "SDG count / horizon",
+          "value": "17 goals / 2015–2030",
+          "why": "Agenda 2030."
+        },
+        {
+          "label": "5 Ps",
+          "value": "People, Planet, Prosperity, Peace, Partnership",
+          "why": "2030 Agenda framing."
+        },
+        {
+          "label": "Rio Earth Summit",
+          "value": "1992",
+          "why": "UNFCCC/CBD/Agenda 21 milestone."
+        }
+      ],
+      "crossLinks": [
+        {
+          "week": 1,
+          "why": "Brundtland sentence and EF/biocapacity are the biophysical side of SD."
+        },
+        {
+          "week": 3,
+          "why": "Ozone boundary recovery via Montreal shows governance success."
+        },
+        {
+          "week": 4,
+          "why": "Rio 1992 → UNFCCC; climate boundary is SDG 13 core."
+        },
+        {
+          "week": 5,
+          "why": "Energy access and decarbonization sit inside SDG 7 and SEE trilemma."
+        }
+      ],
+      "examChecklist": [
+        "Recite Brundtland definition word-perfect.",
+        "Order Silent Spring → Stockholm → Brundtland → Rio → MDGs → SDGs with years.",
+        "List 9 planetary boundaries; name crossed ones.",
+        "Fill MDG vs SDG comparison table from memory.",
+        "Name the 5 Ps.",
+        "Define negative spillover with one trade example.",
+        "Extensive vs intensive green roof in one line each.",
+        "One Smart City benefit + one rebound risk."
+      ]
+    },
+    {
+      "week": 3,
+      "title": "Understanding Air Pollution",
+      "examPriority": "high",
+      "atAGlance": [
+        "Ambient air = outdoor air in the troposphere that we breathe in the open environment.",
+        "Primary = emitted as-is; secondary = formed in atmosphere (e.g. O₃, some aerosols).",
+        "Criteria pollutants regulated for ambient standards; hazardous air pollutants (HAPs) are toxics at low dose.",
+        "DALR ≈ 9.8 °C/km; compare to ELR to judge stability / inversion.",
+        "PM0.1 (ultrafine) penetrates deepest into alveoli/bloodstream pathway framing.",
+        "Ground-level O₃ is secondary (NOx + VOC + sunlight); Montreal 1987 targets ODS.",
+        "NAQI = MAX of sub-indices; control: SCR → N₂+H₂O; FGD for SO₂; ESP 95–99%.",
+        "ASEAN Haze Agreement 2002 — transboundary smoke from land/forest fires."
+      ],
+      "definitions": [
+        {
+          "term": "Ambient air",
+          "definition": "Outdoor air in the surrounding environment (troposphere) as distinct from indoor or workplace air."
+        },
+        {
+          "term": "Primary pollutant",
+          "definition": "Emitted directly from sources (e.g. SO₂, NO, CO, primary PM)."
+        },
+        {
+          "term": "Secondary pollutant",
+          "definition": "Formed by atmospheric reactions (e.g. O₃, secondary PM/sulfate/nitrate).",
+          "trap": "O₃ at ground level is secondary; do not call stack O₃ a primary emission."
+        },
+        {
+          "term": "Criteria pollutant",
+          "definition": "Common pollutant with ambient air quality standards (typically SO₂, NO₂, CO, O₃, PM, Pb in many regimes)."
+        },
+        {
+          "term": "Hazardous air pollutant (HAP)",
+          "definition": "Toxic pollutant harmful at low concentrations (carcinogens, etc.); regulated differently from criteria set."
+        },
+        {
+          "term": "DALR",
+          "definition": "Dry Adiabatic Lapse Rate ≈ 9.8 °C/km: cooling rate of a dry air parcel rising adiabatically."
+        },
+        {
+          "term": "Temperature inversion",
+          "definition": "Layer where temperature increases with height; suppresses vertical mixing and traps pollutants."
+        },
+        {
+          "term": "NAQI",
+          "definition": "National Air Quality Index: overall index taken as the maximum of pollutant sub-indices for the period.",
+          "trap": "NAQI is MAX, not average, of sub-indices."
+        },
+        {
+          "term": "ODS",
+          "definition": "Ozone-Depleting Substances (CFCs, halons, etc.) controlled under the Montreal Protocol (1987)."
+        }
+      ],
+      "sections": [
+        {
+          "id": "air-basics-classification",
+          "title": "Ambient air and pollutant classification",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Ambient air quality drives outdoor exposure. Indoor air pollution (cooking fuels, etc.) is a separate but linked health burden."
+            },
+            {
+              "type": "table",
+              "title": "Primary vs secondary; criteria vs hazardous",
+              "rows": [
+                [
+                  "Axis",
+                  "Type A",
+                  "Type B"
+                ],
+                [
+                  "Formation",
+                  "Primary: direct emission",
+                  "Secondary: atmospheric chemistry"
+                ],
+                [
+                  "Examples",
+                  "SO₂, CO, NO, primary PM",
+                  "O₃, secondary sulfate/nitrate PM"
+                ],
+                [
+                  "Regulation style",
+                  "Criteria: ambient standards",
+                  "HAPs: toxics lists / stricter controls"
+                ]
+              ]
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Natural sources: volcanoes, dust, wildfires, biogenic VOCs.",
+                "Anthropogenic: combustion, industry, vehicles, agriculture, waste burning.",
+                "Size matters for PM: coarse vs fine vs ultrafine deposition depth."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "PM0.1 (ultrafine) — deepest respiratory penetration in course framing. PM2.5 dominates health-burden discussion."
+            }
+          ]
+        },
+        {
+          "id": "lapse-rates-inversions",
+          "title": "Lapse rates, stability, and inversions",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "formula",
+              "expr": "DALR ≈ 9.8 °C/km (≈ 1 °C/100 m)",
+              "use": "Dry parcel cooling with height; compare with environmental lapse rate (ELR)."
+            },
+            {
+              "type": "table",
+              "title": "Stability rules (course)",
+              "rows": [
+                [
+                  "Condition",
+                  "Stability",
+                  "Vertical mixing"
+                ],
+                [
+                  "DALR = ELR",
+                  "Neutral",
+                  "No strong boost/suppress"
+                ],
+                [
+                  "DALR < ELR",
+                  "Stable",
+                  "Resists vertical motion — traps pollution"
+                ],
+                [
+                  "DALR > ELR",
+                  "Unstable",
+                  "Supports mixing / dispersion"
+                ],
+                [
+                  "MALR < ELR < DALR",
+                  "Conditional",
+                  "Depends on saturation"
+                ]
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Inversion: temperature rises with height in a layer. Nighttime radiation inversions and subsidence inversions both worsen urban smog episodes."
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Stable atmosphere ≠ ‘good weather for air quality’. Stable/inversion = poor dispersion."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Memorize DALR ≈ 9.8 °C/km and the three comparison cases with ELR."
+            }
+          ]
+        },
+        {
+          "id": "ozone-montreal",
+          "title": "Ozone: tropospheric smog vs stratospheric ODS",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Tropospheric (ground-level) O₃: secondary pollutant from NOx + VOCs + sunlight. Respiratory irritant; criteria pollutant."
+            },
+            {
+              "type": "p",
+              "text": "Stratospheric O₃: protective UV shield. ODS (CFCs, halons, etc.) catalytically destroy it. Montreal Protocol (1987) phases down ODS — major policy success."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Do not confuse ‘good up high, bad nearby’ ozone.",
+                "Montreal 1987 ≠ Kyoto/Paris (those are climate, Week 4).",
+                "Some ODS are also strong GHGs — dual benefit of phase-out."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "O₃ is secondary. Montreal Protocol year = 1987. Link to planetary boundary recovery (Week 2)."
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Attributing ground-level O₃ solely to ‘ozone hole chemistry’ is wrong — different altitude, different problem."
+            }
+          ]
+        },
+        {
+          "id": "naqi-health",
+          "title": "NAQI and health framing",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "formula",
+              "expr": "NAQI = MAX(sub-indices of criteria pollutants)",
+              "use": "Overall category follows the worst pollutant sub-index for the averaging period."
+            },
+            {
+              "type": "p",
+              "text": "Sub-indices map concentrations to a common 0–500-style scale. Reporting the max avoids masking a spike in one pollutant by averaging with clean others."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "If PM2.5 sub-index = 280 and others < 100, NAQI = 280. Not the mean."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Short-term: asthma attacks, hospital admissions.",
+                "Long-term: cardiopulmonary mortality, DALYs from ambient + household air pollution.",
+                "Children and elderly are sensitive subgroups."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "control-technologies",
+          "title": "Control technologies: SCR, FGD, ESP",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "table",
+              "title": "Key end-of-pipe controls",
+              "rows": [
+                [
+                  "Technology",
+                  "Target",
+                  "Exam fact"
+                ],
+                [
+                  "SCR (Selective Catalytic Reduction)",
+                  "NOx",
+                  "Reduces NOx to N₂ + H₂O with ammonia/urea + catalyst"
+                ],
+                [
+                  "FGD (Flue Gas Desulfurization)",
+                  "SO₂",
+                  "Scrubs SO₂ from flue gas (wet/dry lime/limestone systems)"
+                ],
+                [
+                  "ESP (Electrostatic Precipitator)",
+                  "PM",
+                  "Typical collection efficiency ~95–99%"
+                ],
+                [
+                  "Bag filters / cyclones",
+                  "PM",
+                  "Fabric filtration; cyclones for coarser fractions"
+                ]
+              ]
+            },
+            {
+              "type": "formula",
+              "expr": "SCR: NOx → N₂ + H₂O",
+              "use": "Remember products: nitrogen gas and water — not ‘filtered NOx sludge’ as the main story."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Match: SCR↔NOx; FGD↔SO₂; ESP↔PM at 95–99%. Primary prevention (fuel switch) still beats end-of-pipe alone."
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "ESP does not remove SO₂ or NOx gases. Wrong pairing loses easy marks."
+            }
+          ]
+        },
+        {
+          "id": "transboundary-haze",
+          "title": "Transboundary haze and regional cooperation",
+          "weight": "medium",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "ASEAN Agreement on Transboundary Haze Pollution (2002) addresses smoke from land and forest fires crossing borders in Southeast Asia."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Drivers: peat/forest clearing, dry season fires, agricultural burning.",
+                "Impacts: ambient PM spikes, health, aviation, tourism.",
+                "Governance lesson: airsheds ignore borders — needs regional law."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "link",
+              "text": "Compare with North India stubble burning (Week 1 concern) — similar PM pathway, different legal instrument."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "ASEAN Haze Agreement year = 2002."
+            }
+          ]
+        }
+      ],
+      "numbers": [
+        {
+          "label": "DALR",
+          "value": "~9.8 °C/km",
+          "why": "Stability / inversion analysis."
+        },
+        {
+          "label": "ESP efficiency",
+          "value": "95–99%",
+          "why": "Standard PM control figure."
+        },
+        {
+          "label": "Montreal Protocol",
+          "value": "1987",
+          "why": "ODS control landmark."
+        },
+        {
+          "label": "ASEAN Haze Agreement",
+          "value": "2002",
+          "why": "Transboundary air cooperation."
+        },
+        {
+          "label": "NAQI rule",
+          "value": "MAX of sub-indices",
+          "why": "Index construction MCQ."
+        },
+        {
+          "label": "Ultrafine PM",
+          "value": "PM0.1",
+          "why": "Deepest penetration framing."
+        }
+      ],
+      "crossLinks": [
+        {
+          "week": 1,
+          "why": "Major air concerns and UHI/stubble context introduced."
+        },
+        {
+          "week": 2,
+          "why": "Ozone boundary and Montreal as SD governance success."
+        },
+        {
+          "week": 4,
+          "why": "Some air pollutants/ODS overlap with GHG and climate policy."
+        },
+        {
+          "week": 5,
+          "why": "Cleaner energy supply reduces primary combustion emissions."
+        }
+      ],
+      "examChecklist": [
+        "Define ambient air; primary vs secondary with O₃ example.",
+        "Criteria vs HAP in one contrast sentence.",
+        "DALR value; three ELR comparison cases; define inversion.",
+        "PM0.1 deepest penetration.",
+        "NAQI = MAX sub-index — worked mini example.",
+        "SCR products N₂+H₂O; FGD for SO₂; ESP 95–99%.",
+        "Montreal 1987 ODS; ASEAN Haze 2002.",
+        "Good-up-high vs bad-nearby ozone one-liner."
+      ]
+    },
+    {
+      "week": 4,
+      "title": "Climate Change: Scientific Basis, Mitigation and Adaptation",
+      "examPriority": "high",
+      "atAGlance": [
+        "Weather = short-term state; climate = long-term statistics, typically ≥30 years.",
+        "Key GHGs: CO₂, CH₄, N₂O, O₃ (tropospheric), fluorinated gases (CFCs/HFCs/etc.).",
+        "GWP(CO₂) = 1 by definition; compare others over a chosen time horizon (often 100 y).",
+        "CFCs are anthropogenic (no significant natural source) — strong ODS and GHG link.",
+        "Ice–albedo feedback: melt → lower albedo → more absorption → more melt.",
+        "UNFCCC 1992 → Kyoto 1997 (force 2005, Annex I −5.2%) → Paris 2015; CBDR principle.",
+        "IPCC assesses literature; does not produce original research. Peace Nobel 2007 (with Gore).",
+        "Mitigation = cut causes; adaptation = live with impacts; carbon credits trade verified reductions."
+      ],
+      "definitions": [
+        {
+          "term": "Weather",
+          "definition": "Atmospheric conditions over short timescales (hours to days) at a place."
+        },
+        {
+          "term": "Climate",
+          "definition": "Long-term statistics of weather, conventionally described over periods of about 30 years or more.",
+          "trap": "One hot week is weather, not proof of climate change by itself."
+        },
+        {
+          "term": "Greenhouse gas (GHG)",
+          "definition": "Gas that absorbs/emits infrared radiation, warming the troposphere (enhanced greenhouse effect when concentrations rise)."
+        },
+        {
+          "term": "GWP",
+          "definition": "Global Warming Potential: cumulative radiative forcing of a mass of gas relative to the same mass of CO₂ over a chosen time horizon."
+        },
+        {
+          "term": "Albedo",
+          "definition": "Fraction of incident solar radiation reflected by a surface; ice/snow high, open ocean/forest lower."
+        },
+        {
+          "term": "UNFCCC",
+          "definition": "United Nations Framework Convention on Climate Change (adopted 1992, Rio) — parent climate treaty."
+        },
+        {
+          "term": "CBDR",
+          "definition": "Common But Differentiated Responsibilities — shared climate duty with different obligations by capacity/history."
+        },
+        {
+          "term": "Mitigation",
+          "definition": "Actions that reduce GHG emissions or enhance sinks."
+        },
+        {
+          "term": "Adaptation",
+          "definition": "Adjustments in systems to moderate harm or exploit opportunities from climate change."
+        },
+        {
+          "term": "Carbon credit",
+          "definition": "Tradable certificate representing a verified reduction/removal of GHGs, typically 1 tCO₂e."
+        }
+      ],
+      "sections": [
+        {
+          "id": "weather-vs-climate",
+          "title": "Weather vs climate and the enhanced greenhouse effect",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Climate change science starts by separating weather noise from climate signal. Standards use multi-decadal baselines (≥30 y)."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Climate ≈ ≥30-year statistics. Quote this threshold in definitions."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Natural greenhouse effect keeps Earth habitable.",
+                "Enhanced effect: anthropogenic GHG rise → extra trapping of IR → warming.",
+                "Indicators: global mean temperature, sea level, ice mass, extremes frequency."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "‘Climate has always changed’ does not refute anthropogenic forcing rates in the instrumental era."
+            }
+          ]
+        },
+        {
+          "id": "ghgs-gwp",
+          "title": "Five GHG families and GWP",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "table",
+              "title": "Major GHGs (course set)",
+              "rows": [
+                [
+                  "Gas / group",
+                  "Notes",
+                  "GWP hook"
+                ],
+                [
+                  "CO₂",
+                  "Dominant stock GHG from fossil fuels & land use",
+                  "GWP ≡ 1"
+                ],
+                [
+                  "CH₄",
+                  "Agriculture, fossil leaks, waste",
+                  "Much higher than 1 over 100 y"
+                ],
+                [
+                  "N₂O",
+                  "Fertilizer, industry",
+                  "High GWP; long-lived"
+                ],
+                [
+                  "Tropospheric O₃",
+                  "Secondary; also air pollutant (Week 3)",
+                  "Forcing agent"
+                ],
+                [
+                  "Fluorinated (CFCs, HFCs, PFCs, SF₆)",
+                  "Industrial; CFCs also ODS",
+                  "Very high GWPs"
+                ]
+              ]
+            },
+            {
+              "type": "formula",
+              "expr": "GWP(CO₂) = 1",
+              "use": "Reference; other gases reported as CO₂-equivalents via GWP × mass."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "CFCs are anthropogenic — essentially no natural source. Dual role: ODS (Montreal) and GHG."
+            },
+            {
+              "type": "p",
+              "text": "CO₂e accounting: multiply mass of each gas by its GWP and sum. Horizon choice (20 vs 100 y) changes CH₄’s apparent weight."
+            }
+          ]
+        },
+        {
+          "id": "feedbacks-albedo",
+          "title": "Ice–albedo and other feedbacks",
+          "weight": "medium",
+          "blocks": [
+            {
+              "type": "ol",
+              "items": [
+                "Warming melts ice/snow.",
+                "Surface albedo falls (darker ocean/land exposed).",
+                "More solar absorption.",
+                "Further warming — positive feedback."
+              ]
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Water vapour feedback: warmer air holds more H₂O (itself a GHG).",
+                "Cloud feedbacks: sign/magnitude more uncertain — exam: name uncertainty, don’t invent certainty.",
+                "Permafrost carbon: thaw can release CH₄/CO₂."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Ice–albedo = classic positive feedback. Draw the four-step loop in 30 seconds."
+            }
+          ]
+        },
+        {
+          "id": "climate-treaties",
+          "title": "UNFCCC, Kyoto, Paris, CBDR",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "table",
+              "title": "Treaty timeline",
+              "rows": [
+                [
+                  "Instrument",
+                  "Year",
+                  "Core exam fact"
+                ],
+                [
+                  "UNFCCC",
+                  "1992 (Rio)",
+                  "Framework convention; CBDR rooted here"
+                ],
+                [
+                  "Kyoto Protocol",
+                  "Adopted 1997; in force 2005",
+                  "Annex I aggregate target about −5.2% vs 1990 (commitment period framing)"
+                ],
+                [
+                  "Paris Agreement",
+                  "2015",
+                  "NDCs, well-below 2 °C / pursue 1.5 °C language"
+                ]
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Annex I: industrialized parties with quantified Kyoto targets. Non-Annex I: developing parties without the same Kyoto QELRCs. Paris shifts to nationally determined contributions for all parties."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Kyoto: 1997 adopt / 2005 force / Annex I ≈ 5.2% reduction. Paris: 2015. UNFCCC: 1992."
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Montreal (ODS, 1987) is not a Kyoto substitute. Different problem, different treaty."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "CBDR: common responsibility for the climate system; differentiated duties.",
+                "Equity and historical emissions inform differentiation debates.",
+                "Finance, technology transfer, capacity building are CBDR operational tools."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ipcc-nobel",
+          "title": "IPCC role and Nobel 2007",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "IPCC (Intergovernmental Panel on Climate Change) assesses peer-reviewed science and produces Assessment Reports. It does not conduct original experimental research as its mandate."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "IPCC = assessment body, not a primary research lab. Nobel Peace Prize 2007 awarded to IPCC and Al Gore."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Working groups cover physical science, impacts/adaptation, mitigation.",
+                "Uncertainty language is calibrated (likely, very likely, etc.).",
+                "Policy-relevant, not policy-prescriptive — informs negotiators."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Saying ‘IPCC invented climate models from scratch as new data’ misstates the assessment role."
+            }
+          ]
+        },
+        {
+          "id": "mitigation-adaptation-credits",
+          "title": "Mitigation, adaptation, and carbon credits",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "table",
+              "title": "Mitigation vs adaptation",
+              "rows": [
+                [
+                  "",
+                  "Mitigation",
+                  "Adaptation"
+                ],
+                [
+                  "Aim",
+                  "Reduce emissions / enhance sinks",
+                  "Reduce vulnerability to impacts"
+                ],
+                [
+                  "Examples",
+                  "RE power, efficiency, afforestation",
+                  "Sea walls, drought-resistant crops, early warning"
+                ],
+                [
+                  "Scale logic",
+                  "Global public good (GHG mix globally)",
+                  "Often local/regional benefits"
+                ]
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Carbon credit numerical pattern: project baseline emissions − project emissions = reductions. Credits issued for verified tonnes CO₂e; one credit ↔ 1 tCO₂e in standard markets."
+            },
+            {
+              "type": "formula",
+              "expr": "Credits ≈ (E_baseline − E_project) × verification factor",
+              "use": "Additionality and MRV required; double-counting forbidden in good practice."
+            },
+            {
+              "type": "ol",
+              "items": [
+                "Establish baseline (what would happen without project).",
+                "Implement mitigation project; monitor emissions.",
+                "Verify reductions; issue credits.",
+                "Buyer retires credit against a claim / compliance obligation."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Both mitigation and adaptation are needed. Credits are mitigation finance tools — they do not replace adaptation."
+            },
+            {
+              "type": "callout",
+              "kind": "link",
+              "text": "Week 5–6 renewables = major mitigation pathway; Week 2 SDG 13 frames policy goals."
+            }
+          ]
+        }
+      ],
+      "numbers": [
+        {
+          "label": "Climate averaging period",
+          "value": "≥30 years",
+          "why": "Weather vs climate definition."
+        },
+        {
+          "label": "GWP of CO₂",
+          "value": "1",
+          "why": "Reference gas."
+        },
+        {
+          "label": "UNFCCC",
+          "value": "1992",
+          "why": "Parent treaty year."
+        },
+        {
+          "label": "Kyoto adopt / force",
+          "value": "1997 / 2005",
+          "why": "Protocol timeline."
+        },
+        {
+          "label": "Annex I Kyoto aggregate",
+          "value": "~5.2% reduction",
+          "why": "Quantified target hook."
+        },
+        {
+          "label": "Paris Agreement",
+          "value": "2015",
+          "why": "NDC era."
+        },
+        {
+          "label": "IPCC Nobel Peace Prize",
+          "value": "2007",
+          "why": "With Al Gore."
+        },
+        {
+          "label": "Carbon credit unit",
+          "value": "1 tCO₂e",
+          "why": "Trading denomination."
+        }
+      ],
+      "crossLinks": [
+        {
+          "week": 1,
+          "why": "Carbon footprint inside EF; IPAT technology term for fossil intensity."
+        },
+        {
+          "week": 2,
+          "why": "Rio 1992 and climate planetary boundary / SDG 13."
+        },
+        {
+          "week": 3,
+          "why": "O₃ dual role; ODS/Montreal overlap with fluorinated GHGs."
+        },
+        {
+          "week": 5,
+          "why": "Solar and wind as primary mitigation technologies."
+        }
+      ],
+      "examChecklist": [
+        "Weather vs climate with ≥30 y.",
+        "List five GHG groups; GWP(CO₂)=1; CFCs anthropogenic.",
+        "Draw ice–albedo positive feedback.",
+        "UNFCCC 1992; Kyoto 1997/2005/−5.2%; Paris 2015.",
+        "Define CBDR.",
+        "IPCC does not do original research; Nobel 2007.",
+        "Mitigation vs adaptation table.",
+        "Carbon credit = verified 1 tCO₂e pattern (baseline − project)."
+      ]
+    },
+    {
+      "week": 5,
+      "title": "Renewable Energy I (Solar and Wind Energy)",
+      "examPriority": "high",
+      "atAGlance": [
+        "RE: energy from resources that replenish on human timescales (solar, wind, hydro, geothermal, ocean, bio).",
+        "SEE trilemma: Security, Equity (access/affordability), Environmental sustainability — balance all three.",
+        "Betz limit: max Cp = 16/27 ≈ 59.3%; P_max = (8/27) ρ A v³.",
+        "Power in wind P = ½ ρ A v³; power scales with v³ — site wind speed dominates.",
+        "Trombe wall: passive solar heating via glazed thermal mass wall.",
+        "PV = photovoltaic electricity; CSP = concentrated solar thermal → heat/steam/power.",
+        "Active solar uses pumps/fans/controls; passive uses design/orientation/materials.",
+        "Capacity factor = actual energy / (rated power × time); technical potential = resource that is usable with tech constraints."
+      ],
+      "definitions": [
+        {
+          "term": "Renewable energy",
+          "definition": "Energy derived from natural processes that are replenished continuously or on short timescales relative to use."
+        },
+        {
+          "term": "SEE trilemma",
+          "definition": "Energy policy triangle: Security of supply, Equity (access/affordability), Environmental sustainability."
+        },
+        {
+          "term": "Betz limit",
+          "definition": "Theoretical maximum power coefficient for a wind turbine in open flow: Cp,max = 16/27.",
+          "trap": "Real turbines are below Betz; Betz is an upper bound, not a typical operating point."
+        },
+        {
+          "term": "Trombe wall",
+          "definition": "Passive solar system: dark high-mass wall behind glazing absorbs sun and releases heat to the interior with time lag."
+        },
+        {
+          "term": "Photovoltaics (PV)",
+          "definition": "Direct conversion of sunlight to electricity via semiconductor cells/modules."
+        },
+        {
+          "term": "CSP",
+          "definition": "Concentrating Solar Power: mirrors/lenses concentrate sunlight to heat a fluid for thermal power or storage."
+        },
+        {
+          "term": "Active solar",
+          "definition": "Systems using mechanical/electrical power (pumps, fans, tracking) to collect/move solar heat or run collectors."
+        },
+        {
+          "term": "Passive solar",
+          "definition": "Building design that collects, stores, and distributes solar heat without (or with minimal) active machinery."
+        },
+        {
+          "term": "Capacity factor",
+          "definition": "CF = energy produced over a period ÷ (nameplate capacity × hours in period)."
+        },
+        {
+          "term": "Technical potential",
+          "definition": "RE resource that can be captured with available technology and practical constraints (less than theoretical; more than economic in many framings)."
+        }
+      ],
+      "sections": [
+        {
+          "id": "re-and-trilemma",
+          "title": "RE definition and the SEE trilemma",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Renewables displace fossil fuel combustion — cutting I via T in IPAT and supporting SDG 7. Policy must still keep lights on and bills fair."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Security: reliability, diversity, resilience of supply.",
+                "Equity: access, affordability, just transition.",
+                "Environment: low local pollution and low GHG intensity."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "SEE = Security, Equity, Environment. Name all three; one-sided optimization fails the trilemma."
+            },
+            {
+              "type": "callout",
+              "kind": "link",
+              "text": "Links Week 2 SDGs and Week 4 mitigation; Week 6 extends to geothermal, ocean, hydro, bio."
+            }
+          ]
+        },
+        {
+          "id": "wind-power-betz",
+          "title": "Wind power and Betz limit",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "formula",
+              "expr": "P = (1/2) ρ A v³",
+              "use": "Kinetic power in airflow through rotor swept area A; ρ air density; v wind speed."
+            },
+            {
+              "type": "formula",
+              "expr": "Cp,max = 16/27 ≈ 0.593",
+              "use": "Betz: maximum fraction of wind power extractable by an ideal actuator disk."
+            },
+            {
+              "type": "formula",
+              "expr": "P_max = (8/27) ρ A v³",
+              "use": "Because (1/2)×(16/27) = 8/27 — memorize this compact form."
+            },
+            {
+              "type": "table",
+              "title": "v³ scaling intuition",
+              "rows": [
+                [
+                  "Change in v",
+                  "Power factor",
+                  "Implication"
+                ],
+                [
+                  "v → 2v",
+                  "×8",
+                  "Doubling wind speed → 8× power"
+                ],
+                [
+                  "v → 1.1v",
+                  "×1.331",
+                  "Small speed gains matter a lot"
+                ],
+                [
+                  "A → 2A",
+                  "×2",
+                  "Area helps linearly; speed dominates"
+                ]
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Drill: P ∝ v³; Betz 16/27; P_max = (8/27)ρAv³. Site selection cares more about wind resource than blade area alone."
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Applying Betz Cp to P_max formula twice (double-counting) is a common error. Use either Cp×½ρAv³ or 8/27 form once."
+            }
+          ]
+        },
+        {
+          "id": "solar-pv-csp",
+          "title": "Solar: PV vs CSP; active vs passive",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "table",
+              "title": "PV vs CSP",
+              "rows": [
+                [
+                  "",
+                  "PV",
+                  "CSP"
+                ],
+                [
+                  "Conversion",
+                  "Light → electricity (photovoltaic)",
+                  "Concentrated heat → steam/engine/storage"
+                ],
+                [
+                  "Direct/diffuse",
+                  "Works with diffuse light (lower output)",
+                  "Needs strong direct normal irradiance"
+                ],
+                [
+                  "Storage hook",
+                  "Batteries / grid",
+                  "Thermal storage common (molten salt etc.)"
+                ],
+                [
+                  "Tracking",
+                  "Optional",
+                  "Usually essential"
+                ]
+              ]
+            },
+            {
+              "type": "table",
+              "title": "Active vs passive solar",
+              "rows": [
+                [
+                  "",
+                  "Active",
+                  "Passive"
+                ],
+                [
+                  "Hardware",
+                  "Pumps, fans, controls, collectors",
+                  "Orientation, glazing, mass, shading"
+                ],
+                [
+                  "Example",
+                  "Solar water heater with circulating pump",
+                  "Trombe wall, sunspaces, overhangs"
+                ],
+                [
+                  "Energy input",
+                  "Needs auxiliary electricity",
+                  "Uses building physics"
+                ]
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Trombe wall: south-facing (N hemisphere) glazed gap + massive dark wall. Day: sun heats wall; night: heat conducts/convects indoors. Classic passive exam example."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Match Trombe → passive. CSP ≠ PV. Diffuse-cloud climates favour PV over CSP."
+            }
+          ]
+        },
+        {
+          "id": "capacity-factor-potential",
+          "title": "Capacity factor and resource potential",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "formula",
+              "expr": "CF = E_actual / (P_rated × Δt)",
+              "use": "Dimensionless (or %); wind/solar CF << 1 because resource is variable."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Theoretical potential: physical upper bound of the resource.",
+                "Technical potential: after technology, siting, and system constraints.",
+                "Economic potential: what clears cost thresholds.",
+                "Market/sustainable potential: further policy and sustainability filters."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Capacity factor ≠ efficiency. CF is utilization of nameplate over time; Betz Cp is aerodynamic efficiency bound."
+            },
+            {
+              "type": "p",
+              "text": "Example pattern: 2 MW turbine, 8760 h/y, CF=0.35 → annual energy ≈ 2×8760×0.35 MWh."
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Equating technical potential to ‘what is installed today’ understates resource; equating it to theoretical overstates deployable RE."
+            }
+          ]
+        },
+        {
+          "id": "solar-wind-systems",
+          "title": "System notes: siting, variability, hybridization",
+          "weight": "medium",
+          "blocks": [
+            {
+              "type": "ul",
+              "items": [
+                "Wind: hub height, roughness, wakes, cut-in/rated/cut-out speeds.",
+                "Solar PV: tilt, azimuth, temperature derating, soiling.",
+                "CSP: DNI maps, water use for some wet-cooled plants.",
+                "Hybrids + storage improve effective capacity value toward SEE security."
+              ]
+            },
+            {
+              "type": "ol",
+              "items": [
+                "Map resource (wind atlas / solar irradiance).",
+                "Estimate technical potential and CF.",
+                "Size machines; apply Betz-aware power curve thinking for wind.",
+                "Integrate grid, storage, and demand response."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Be ready for a numerical: given ρ, A, v, compute P and P_max; optionally multiply by CF for energy."
+            }
+          ]
+        },
+        {
+          "id": "re-exam-comparisons",
+          "title": "Exam comparisons and policy hooks",
+          "weight": "medium",
+          "blocks": [
+            {
+              "type": "ul",
+              "items": [
+                "Solar resource is vast but dilute — area and conversion efficiency matter.",
+                "Wind resource highly site-specific — v³ amplifies differences.",
+                "Both are variable → grid flexibility is part of the technology story.",
+                "Lifecycle impacts exist (materials, land) but operational GHG ≈ 0."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "link",
+              "text": "Week 6 ocean/hydro/geo/bio complete the RE portfolio and add different dispatch/storage characters."
+            }
+          ]
+        }
+      ],
+      "numbers": [
+        {
+          "label": "Betz Cp,max",
+          "value": "16/27 ≈ 59.3%",
+          "why": "Hard ceiling for ideal wind turbine."
+        },
+        {
+          "label": "P_max coefficient",
+          "value": "8/27",
+          "why": "P_max = (8/27)ρAv³."
+        },
+        {
+          "label": "Wind power scaling",
+          "value": "P ∝ v³",
+          "why": "Doubling v → 8× P."
+        },
+        {
+          "label": "Hours in non-leap year",
+          "value": "8760",
+          "why": "CF energy calculations."
+        },
+        {
+          "label": "SEE trilemma",
+          "value": "Security, Equity, Environment",
+          "why": "Policy framing."
+        }
+      ],
+      "crossLinks": [
+        {
+          "week": 1,
+          "why": "Lowers T in IPAT; EPI of buildings can include on-site solar."
+        },
+        {
+          "week": 2,
+          "why": "SDG 7 and SEE balance inside sustainable development."
+        },
+        {
+          "week": 4,
+          "why": "Core mitigation technologies for NDCs."
+        },
+        {
+          "week": 6,
+          "why": "Continues RE with geothermal, ocean, hydro, bioenergy."
+        }
+      ],
+      "examChecklist": [
+        "Define RE; list SEE legs.",
+        "Write P=½ρAv³ and P_max=(8/27)ρAv³; state Betz 16/27.",
+        "Explain v³ scaling with ×8 for 2v.",
+        "PV vs CSP table; active vs passive; Trombe wall = passive.",
+        "Capacity factor formula; contrast with Betz Cp.",
+        "Technical vs theoretical potential one-liner.",
+        "One worked wind power numerical setup."
+      ]
+    },
+    {
+      "week": 6,
+      "title": "Renewable Energy II (Geothermal, Ocean, Hydroelectricity, Bioenergy)",
+      "examPriority": "high",
+      "atAGlance": [
+        "EGS: Enhanced Geothermal Systems — create permeability in hot dry rock and circulate fluid.",
+        "Geothermal heat rate Q = ṁ cp ΔT.",
+        "Ocean resource rank (TWh/y): OTEC 44000 ≫ wave 29500 ≫ tidal 1200.",
+        "Tidal: spring (aligned Sun–Moon–Earth) vs neap (right angle); P_avg from range/stream resource.",
+        "Wave energy density E ∝ H² (e.g. E = ⅛ ρ g H²).",
+        "Hydro: PE = mgz; e_hydro = P_elec / (ṁ g z).",
+        "Fast pyrolysis: 400–600 °C, no O₂ → bio-oil + gas + char.",
+        "AD: hydrolysis first step; biofuels 1st/2nd/3rd generation by feedstock."
+      ],
+      "definitions": [
+        {
+          "term": "EGS",
+          "definition": "Enhanced Geothermal System: engineered reservoir — stimulate fractures in hot rock, circulate water/brine, extract heat where natural hydrothermal flow is inadequate."
+        },
+        {
+          "term": "OTEC",
+          "definition": "Ocean Thermal Energy Conversion: power from temperature difference between warm surface and cold deep seawater."
+        },
+        {
+          "term": "Spring tide",
+          "definition": "Higher tidal range when Sun, Moon, and Earth are aligned (new/full moon)."
+        },
+        {
+          "term": "Neap tide",
+          "definition": "Lower tidal range when Sun and Moon pull at right angles (quarter moons)."
+        },
+        {
+          "term": "Fast pyrolysis",
+          "definition": "Rapid heating of biomass to ~400–600 °C in absence of oxygen to maximize liquid bio-oil yield."
+        },
+        {
+          "term": "Anaerobic digestion (AD)",
+          "definition": "Microbial breakdown of organic matter without oxygen to biogas (CH₄+CO₂); starts with hydrolysis."
+        },
+        {
+          "term": "First-generation biofuel",
+          "definition": "From food crops (sugarcane ethanol, corn ethanol, biodiesel from edible oils)."
+        },
+        {
+          "term": "Second-generation biofuel",
+          "definition": "From lignocellulosic non-food biomass / residues — reduces food competition."
+        },
+        {
+          "term": "Third-generation biofuel",
+          "definition": "From algae / advanced microbial systems with high areal yield potential."
+        }
+      ],
+      "sections": [
+        {
+          "id": "geothermal-egs",
+          "title": "Geothermal energy and EGS",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Conventional hydrothermal uses naturally permeable hot reservoirs. EGS expands the map to hot dry rock by creating heat-exchange pathways."
+            },
+            {
+              "type": "formula",
+              "expr": "Q = ṁ cp ΔT",
+              "use": "Heat extraction rate: mass flow × specific heat × temperature drop (wellhead vs reinjection/datum)."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Direct use: district heat, greenhouses, baths.",
+                "Power: flash / binary plants depending on temperature.",
+                "EGS risks: induced seismicity, water use — exam awareness, not detail engineering."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Q=ṁcpΔT is the geothermal workhorse numerical. Convert L/s → kg/s with density if needed."
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "EGS ≠ only volcanic sites. Point of EGS is enabling non-hydrothermal geology."
+            }
+          ]
+        },
+        {
+          "id": "ocean-energy-rank",
+          "title": "Ocean energy: OTEC, wave, tidal ranking",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "table",
+              "title": "Theoretical ocean energy potentials (course)",
+              "rows": [
+                [
+                  "Resource",
+                  "Potential (TWh/y)",
+                  "Rank memory"
+                ],
+                [
+                  "OTEC",
+                  "44000",
+                  "Largest"
+                ],
+                [
+                  "Wave",
+                  "29500",
+                  "Middle"
+                ],
+                [
+                  "Tidal",
+                  "1200",
+                  "Smallest of the three"
+                ]
+              ]
+            },
+            {
+              "type": "p",
+              "text": "OTEC cycles: closed (working fluid, e.g. ammonia), open (seawater flash → steam → condenser), hybrid. Needs large ΔT (tropical surface vs deep cold)."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Memorize order and numbers: OTEC 44000 ≫ wave 29500 ≫ tidal 1200 TWh/y."
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Largest theoretical ≠ easiest to deploy. Tidal sites are localized; OTEC is tech-hard despite huge potential."
+            }
+          ]
+        },
+        {
+          "id": "tidal-wave-power",
+          "title": "Tidal and wave power formulas",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Tidal barrage/ lagoon: exploit potential energy of tidal range. Tidal stream: kinetic power when currents ≳ 1.5–2 m/s. Average power depends on range, basin area, or stream speed distribution over the lunar cycle."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Spring tides: Sun–Moon–Earth aligned → larger range → more energy.",
+                "Neap tides: quadrature → smaller range.",
+                "P_avg over a fortnight blends springs and neaps — design uses mean resource carefully."
+              ]
+            },
+            {
+              "type": "formula",
+              "expr": "E = (1/8) ρ g H²",
+              "use": "Mean wave energy density per unit sea surface; E ∝ H²."
+            },
+            {
+              "type": "formula",
+              "expr": "P_W ≈ (ρ g² H² T) / 32",
+              "use": "Deep-water wave power per unit crest length (course form); height and period both matter."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Wave energy ∝ H² — height measurement errors dominate. Spring vs neap definition is a free MCQ."
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Confusing wave height H with tidal range. Different phenomena, different formulas."
+            }
+          ]
+        },
+        {
+          "id": "hydropower",
+          "title": "Hydropower: PE and efficiency",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "formula",
+              "expr": "PE = m g z",
+              "use": "Potential energy of mass m raised/lowered through head z."
+            },
+            {
+              "type": "formula",
+              "expr": "e_hydro = P_elec / (ṁ g z)",
+              "use": "Hydropower efficiency: electric output over hydraulic power of flow ṁ through head z."
+            },
+            {
+              "type": "p",
+              "text": "Hydraulic power ≈ ρ Q g z with Q volumetric flow. Large dams store energy; run-of-river has less storage. Head and flow dominate — free-stream kinetic of a river is usually secondary behind a dam."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Given P_elec, z, Q, compute e_hydro = P / (ρQg z). Units: W, m, m³/s."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Pros: dispatchable (with storage), mature, low operating GHG.",
+                "Cons: ecosystem/social displacement, methane from some reservoirs, drought risk to CF."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bioenergy-pathways",
+          "title": "Bioenergy: pyrolysis, AD, biofuel generations",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "table",
+              "title": "Thermochemical contrast",
+              "rows": [
+                [
+                  "Process",
+                  "Conditions",
+                  "Main products"
+                ],
+                [
+                  "Fast pyrolysis",
+                  "400–600 °C, no O₂",
+                  "Bio-oil + syngas + char"
+                ],
+                [
+                  "Combustion",
+                  "Excess air",
+                  "Heat + CO₂ + H₂O + ash"
+                ],
+                [
+                  "Gasification",
+                  "Partial oxidation",
+                  "Syngas (CO/H₂)"
+                ]
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Fast pyrolysis window 400–600 °C and anaerobic. If O₂ is plentiful, you are combusting, not pyrolysing."
+            },
+            {
+              "type": "p",
+              "text": "Anaerobic digestion steps (simplified): hydrolysis → acidogenesis → acetogenesis → methanogenesis. Hydrolysis of complex polymers is the first step — rate-limiting for many feedstocks."
+            },
+            {
+              "type": "table",
+              "title": "Biofuel generations",
+              "rows": [
+                [
+                  "Generation",
+                  "Feedstock",
+                  "Issue / advantage"
+                ],
+                [
+                  "1st",
+                  "Food crops (sugar, starch, edible oil)",
+                  "Food vs fuel conflict"
+                ],
+                [
+                  "2nd",
+                  "Lignocellulose, wastes, residues",
+                  "Less food competition; harder conversion"
+                ],
+                [
+                  "3rd",
+                  "Algae / advanced microbes",
+                  "High yield potential; still scaling"
+                ]
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Calling corn ethanol ‘2nd gen’ is wrong. 2nd gen = non-food lignocellulosic pathway."
+            },
+            {
+              "type": "callout",
+              "kind": "link",
+              "text": "Biofuel land-use trade-offs return to Week 2 planetary land boundary and SDG conflicts."
+            }
+          ]
+        },
+        {
+          "id": "re-ii-integration",
+          "title": "Portfolio integration and exam synthesis",
+          "weight": "medium",
+          "blocks": [
+            {
+              "type": "ul",
+              "items": [
+                "Geothermal/hydro: higher capacity factors than variable solar/wind when resource allows.",
+                "Ocean: large theoretical totals, niche near-term sites.",
+                "Bioenergy: storable chemical energy but sustainability depends on feedstock.",
+                "Match technology to SEE trilemma locally."
+              ]
+            },
+            {
+              "type": "ol",
+              "items": [
+                "Identify resource class and formula (Q, PE, E∝H², Betz from Week 5).",
+                "Quote signature number (OTEC/wave/tidal; pyrolysis T; Betz).",
+                "State one sustainability caveat.",
+                "Link to mitigation (Week 4) or SDG (Week 2)."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Cross-week numericals often mix Week 5 wind with Week 6 hydro/geo heat — keep formula sheets separate by resource."
+            }
+          ]
+        }
+      ],
+      "numbers": [
+        {
+          "label": "OTEC potential",
+          "value": "44000 TWh/y",
+          "why": "Largest ocean resource in course ranking."
+        },
+        {
+          "label": "Wave potential",
+          "value": "29500 TWh/y",
+          "why": "Middle of ocean trio."
+        },
+        {
+          "label": "Tidal potential",
+          "value": "1200 TWh/y",
+          "why": "Smallest of the three."
+        },
+        {
+          "label": "Fast pyrolysis temperature",
+          "value": "400–600 °C",
+          "why": "With no O₂."
+        },
+        {
+          "label": "Wave energy scaling",
+          "value": "E ∝ H²",
+          "why": "Height dominates energy density."
+        },
+        {
+          "label": "AD first step",
+          "value": "Hydrolysis",
+          "why": "Process sequence MCQ."
+        },
+        {
+          "label": "Tidal stream speed interest",
+          "value": "~1.5–2 m/s+",
+          "why": "Practical stream sites."
+        }
+      ],
+      "crossLinks": [
+        {
+          "week": 2,
+          "why": "Land/food conflicts of 1st-gen biofuels vs planetary boundaries."
+        },
+        {
+          "week": 4,
+          "why": "All pathways as mitigation options with different CF and impacts."
+        },
+        {
+          "week": 5,
+          "why": "Completes RE suite after solar/wind; shared CF and potential language."
+        },
+        {
+          "week": 1,
+          "why": "Biomass burning as pollution vs controlled bioenergy — different framing."
+        }
+      ],
+      "examChecklist": [
+        "Define EGS; write Q=ṁcpΔT.",
+        "Ocean rank: 44000 / 29500 / 1200 TWh/y.",
+        "Spring vs neap; wave E∝H²; state E=⅛ρgH².",
+        "Hydro PE=mgz and e_hydro=P/(ṁgz).",
+        "Fast pyrolysis 400–600 °C, no O₂.",
+        "AD: hydrolysis first.",
+        "1st vs 2nd vs 3rd gen biofuels with one feedstock each.",
+        "One sustainability caveat per ocean/hydro/bio."
+      ]
+    },
+    {
+      "week": 7,
+      "title": "Industrial Ecology and Circular Economy",
+      "examPriority": "high",
+      "atAGlance": [
+        "Urban metabolism = anabolism (build stocks) + catabolism (wastes/emissions).",
+        "Linear slogan: Take-Make-Waste. Circular slogan: Borrow-Use-Return.",
+        "CE principles: eliminate waste/pollution; circulate at highest value; regenerate nature.",
+        "CE elements: closed cycles + renewable energy + systems thinking.",
+        "9R ladder R0-R9: tighter (lower-R) loop = more circular.",
+        "Exam order among subset: Recycle < Repurpose < Repair < Rethink.",
+        "Five circular business models; nesting IS subset of IE subset of CE; Kalundborg and Kujala.",
+        "CE supports SDG 12; limited by thermodynamics, rebound, lock-in, boundaries."
+      ],
+      "definitions": [
+        {
+          "term": "Urban metabolism",
+          "definition": "Sum of technical and socioeconomic processes in a city that produce growth, energy use, and waste elimination — matter and energy flows through the urban system.",
+          "trap": "Not only waste management; includes inflows, stocks, and outflows."
+        },
+        {
+          "term": "Anabolism (urban)",
+          "definition": "Processes that build and maintain urban stocks (buildings, infrastructure, products).",
+          "trap": "Do not swap with catabolism."
+        },
+        {
+          "term": "Catabolism (urban)",
+          "definition": "Processes that break down stocks and generate wastes, emissions, and heat leaving the city.",
+          "trap": "Do not swap with anabolism."
+        },
+        {
+          "term": "Linear economy",
+          "definition": "One-way Take-Make-Waste throughput that depletes natural capital and runs down the parent ecosystem.",
+          "trap": "An efficient linear plant is still linear, not circular."
+        },
+        {
+          "term": "Circular economy",
+          "definition": "Keep products and materials at highest utility via reuse, repair, remanufacture, recycle; minimize virgin inputs and waste; regenerate natural systems.",
+          "trap": "Recycling alone is not a circular economy."
+        },
+        {
+          "term": "9R framework",
+          "definition": "Preferred hierarchical circular strategies from Refuse (R0) to Recover (R9). Tighter loops need fewer external inputs.",
+          "trap": "Order matters more than listing names."
+        },
+        {
+          "term": "Refuse (R0)",
+          "definition": "Say no to unnecessary, single-use, or non-recyclable items so they never enter the system.",
+          "trap": "Refuse is not the same as Reduce."
+        },
+        {
+          "term": "Rethink (R1)",
+          "definition": "Redesign product, service, or ownership so waste is avoided (e.g. shared printers instead of one per desk).",
+          "trap": "Not just think green; it is redesign of delivery or ownership."
+        },
+        {
+          "term": "Reduce (R2)",
+          "definition": "Use less dangerous, wasteful, or non-recyclable product so waste and resource demand fall (source reduction).",
+          "trap": "Source reduction is not recycling."
+        },
+        {
+          "term": "Reuse (R3)",
+          "definition": "Use again with little or no reprocessing (refill bottle, donate clothes).",
+          "trap": "Melting plastic into new pellets is recycle, not reuse."
+        },
+        {
+          "term": "Repair (R4)",
+          "definition": "Restore performance and postpone replacement; preserves embodied value.",
+          "trap": "Preserves more value than recycle."
+        },
+        {
+          "term": "Refurbish (R5)",
+          "definition": "Life-extend a component into a second life cycle; role may change.",
+          "trap": "Not the same as remanufacture."
+        },
+        {
+          "term": "Remanufacture (R6)",
+          "definition": "Industrial rebuild to like-new or better-than-new condition, typically with warranty; keeps more embodied energy than material recycle.",
+          "trap": "Remanufacture is not simple repair."
+        },
+        {
+          "term": "Repurpose (R7)",
+          "definition": "Give discarded product or material a new function (e.g. turbine blades used as structures).",
+          "trap": "Goal is to slow virgin throughput."
+        },
+        {
+          "term": "Recycle (R8)",
+          "definition": "Convert waste into new materials or objects; lower on the circularity ladder than repair or reuse.",
+          "trap": "Less circular than repair, reuse, or rethink."
+        },
+        {
+          "term": "Recover (R9)",
+          "definition": "Recover resources or energy so less material goes to final disposal; lowest R preference before dump.",
+          "trap": "Energy recovery is not preferred over material loops."
+        },
+        {
+          "term": "Industrial ecology (IE)",
+          "definition": "Study and design of industrial systems that mimic ecosystems: material and energy cycling and controlled exchanges with nature. Scales from park to city to nation to globe.",
+          "trap": "IE is broader than one eco-park case."
+        },
+        {
+          "term": "Industrial symbiosis (IS)",
+          "definition": "Firms share resources so one plant's by-product, waste, energy, or water becomes another's feedstock.",
+          "trap": "IS is a subset of IE, not a synonym for all of CE."
+        },
+        {
+          "term": "Butterfly diagram",
+          "definition": "Biological and technical cycles that keep materials circulating at highest value (Ellen MacArthur framing).",
+          "trap": "Repair and reuse sit above shred-to-recycle."
+        }
+      ],
+      "sections": [
+        {
+          "id": "urban-metabolism-linear-limits",
+          "title": "Urban metabolism and linear limits",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Society depends on natural resources. Cities act like organisms: they take in materials and energy, build stocks, and expel wastes. Mapping inflows and outflows shows whether the urban system is sustainable."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Anabolism: build and maintain urban stocks (buildings, roads, goods).",
+                "Catabolism: generate wastes, emissions, and heat that leave the city.",
+                "Urban metabolism = anabolism + catabolism as matter and energy accounting.",
+                "Over-exploitation of resources stresses ecosystems that supply the city."
+              ]
+            },
+            {
+              "type": "table",
+              "title": "Linear vs circular urban economy",
+              "rows": [
+                [
+                  "Aspect",
+                  "Linear",
+                  "Circular"
+                ],
+                [
+                  "Slogan",
+                  "Take-Make-Waste",
+                  "Borrow-Use-Return"
+                ],
+                [
+                  "Flow",
+                  "One-way throughput",
+                  "Closed / cascading loops"
+                ],
+                [
+                  "Relation to nature",
+                  "Extract and dump",
+                  "Regenerate / minimize virgin take"
+                ],
+                [
+                  "Long-run effect",
+                  "Runs down parent ecosystem",
+                  "Aims to keep natural capital intact"
+                ]
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Closing loops cuts virgin extraction, landfill, and emissions, and opens new business models. Benefits span environmental, social, and economic dimensions."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Memorize exact slogans: Take-Make-Waste vs Borrow-Use-Return. Also anabolism = build stocks; catabolism = wastes/emissions."
+            }
+          ]
+        },
+        {
+          "id": "ce-principles-elements",
+          "title": "CE principles, elements, and SDG link",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Circular economy redesigns production and consumption so materials stay in use. It is a pathway toward sustainability, not a synonym for sustainability itself."
+            },
+            {
+              "type": "ol",
+              "items": [
+                "Eliminate waste and pollution by design.",
+                "Circulate products and materials at their highest value.",
+                "Regenerate natural systems."
+              ]
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Element 1 — Closed cycles: keep materials looping (reuse to remanufacture to recycle).",
+                "Element 2 — Renewable energy: power loops without fossil lock-in.",
+                "Element 3 — Systems thinking: design across firms, cities, and supply chains."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "link",
+              "text": "CE strongly supports SDG 12 (Responsible Consumption and Production). Sustainability is the broader 3-pillar goal; CE is one operational route."
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "High recycling rates alone do not prove circularity if consumption still grows and losses remain (e.g. even high Al can recycling leaves virgin demand if use expands)."
+            }
+          ]
+        },
+        {
+          "id": "9r-hierarchy",
+          "title": "9R hierarchy (R0-R9) — exam core",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The 9Rs define preferred strategies. Rule: tighter loop (lower R number) = more circular; longer loop = less preferred. Always state order, not a random list."
+            },
+            {
+              "type": "table",
+              "title": "Full 9R ladder with examples",
+              "rows": [
+                [
+                  "R",
+                  "Strategy",
+                  "Example"
+                ],
+                [
+                  "R0",
+                  "Refuse",
+                  "Decline free single-use plastic giveaways"
+                ],
+                [
+                  "R1",
+                  "Rethink",
+                  "Shared office printers instead of one per desk"
+                ],
+                [
+                  "R2",
+                  "Reduce",
+                  "Lightweight packaging; less hazardous chemistry"
+                ],
+                [
+                  "R3",
+                  "Reuse",
+                  "Refill bottles; donate usable clothes"
+                ],
+                [
+                  "R4",
+                  "Repair",
+                  "Fix a phone screen; right-to-repair parts"
+                ],
+                [
+                  "R5",
+                  "Refurbish",
+                  "Restore used laptop for resale as second life"
+                ],
+                [
+                  "R6",
+                  "Remanufacture",
+                  "Rebuild electric motor to like-new with warranty"
+                ],
+                [
+                  "R7",
+                  "Repurpose",
+                  "Wind turbine blades reused as park structures"
+                ],
+                [
+                  "R8",
+                  "Recycle",
+                  "Melt PET bottles into new polymer feedstock"
+                ],
+                [
+                  "R9",
+                  "Recover",
+                  "Incinerate residual waste with energy recovery"
+                ]
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Assignment ordering pattern among a subset: Recycle < Repurpose < Repair < Rethink (least to most circular). Value retention: repair keeps more embodied value than shredding for recycle (Butterfly logic)."
+            },
+            {
+              "type": "p",
+              "text": "Remanufacture CO2 numerical (course example): new motor emits about 5.0 t CO2; remanufacture about 1.5 t CO2. Saving per motor = 3.5 t. For 65 motors: 3.5 x 65 = 227.5 t CO2 avoided."
+            },
+            {
+              "type": "formula",
+              "expr": "CO2 saved = (CO2_new - CO2_reman) x N = 3.5 t/motor x 65 = 227.5 t",
+              "use": "Compare remanufacture vs new production for embodied GHG; exam numerical."
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Reuse is not recycle. Melting plastic is R8 Recycle. Rethink means redesign of product/service/ownership — not just repairing what exists."
+            }
+          ]
+        },
+        {
+          "id": "five-circular-business-models",
+          "title": "Five circular business models",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Firms operationalize 9R ideas through business model choice. Match each model to its defining trait and a named example."
+            },
+            {
+              "type": "table",
+              "title": "Five circular business models",
+              "rows": [
+                [
+                  "Model",
+                  "Defining trait",
+                  "Course-style example"
+                ],
+                [
+                  "Circular supplies",
+                  "Renewable, recyclable, or biodegradable inputs",
+                  "AkzoNobel steam from waste incineration; AeroFarms local food"
+                ],
+                [
+                  "Product-as-service",
+                  "Lease / pay-per-use; provider owns risk and end-of-life",
+                  "Rolls-Royce power by the hour"
+                ],
+                [
+                  "Product life extension",
+                  "Repair, refurbish, remanufacture, upgrade",
+                  "Patagonia repair / Don't buy this jacket"
+                ],
+                [
+                  "Sharing platform",
+                  "Raise utilization of underused assets",
+                  "Shared delivery fleets / pooling"
+                ],
+                [
+                  "Recovery and recycling",
+                  "Closed-loop by-product or waste to feedstock",
+                  "Take-back and recycle into new product (Timberland-style)"
+                ]
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "MCQs often give a vignette (lease engine hours; shared printers; take-back shoes) — map vignette to one of the five models."
+            }
+          ]
+        },
+        {
+          "id": "industrial-ecology-symbiosis",
+          "title": "Industrial ecology and industrial symbiosis",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Industrial ecology designs industry like ecosystems: materials and energy cycle; exchanges with nature (extraction and emissions) are managed. Industrial symbiosis is network-level by-product exchange among firms."
+            },
+            {
+              "type": "formula",
+              "expr": "IS ⊂ IE ⊂ CE",
+              "use": "Nesting assertion: industrial symbiosis inside industrial ecology inside circular economy."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "By-product synergies: waste of A becomes feedstock of B.",
+                "Utility / infrastructure synergies: shared steam, water, energy grids.",
+                "Knowledge synergies: joint learning and process design."
+              ]
+            },
+            {
+              "type": "table",
+              "title": "Flagship cases",
+              "rows": [
+                [
+                  "Case",
+                  "Where",
+                  "What to remember"
+                ],
+                [
+                  "Kalundborg Eco-Industrial Park",
+                  "Denmark",
+                  "Pioneer IS network (from ~1961 water pipe; industrial symbiosis term 1989); multi-firm commercial by-product exchanges over decades"
+                ],
+                [
+                  "Kujala Waste Centre",
+                  "Lahti, Finland",
+                  "Waste-centre hub integrating material and energy recovery in a regional IS setup"
+                ]
+              ]
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Example flows: waste heat to greenhouses; tyre shavings to construction; fish-farm sludge to fertilizer.",
+                "Exam assertion: symbiosis raises cluster efficiency because waste becomes feedstock."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Name Kalundborg and Kujala. Define IS as firm-to-firm resource sharing. State nesting IS ⊂ IE ⊂ CE."
+            }
+          ]
+        },
+        {
+          "id": "ce-limitations",
+          "title": "Limitations of circular economy",
+          "weight": "medium",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "CE is necessary but not automatically sufficient. Exams often ask for at least two limitations."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Thermodynamics: every cycle still consumes resources and emits wastes; perfect closure is impossible.",
+                "System boundaries: spatial problem-shifting along the life cycle; temporal trade-offs.",
+                "Physical scale and rebound (boomerang) effect: efficiency can raise total consumption.",
+                "Path-dependency and lock-in of early technologies and infrastructure.",
+                "Governance: hard to manage inter-organization and inter-sector material flows.",
+                "High recycling alone fails if consumption grows and residual losses remain."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Do not claim CE abolishes the laws of thermodynamics. Always pair CE praise with at least one hard limit."
+            }
+          ]
+        },
+        {
+          "id": "ce-exam-synthesis",
+          "title": "Synthesis: from city flows to policy",
+          "weight": "medium",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Week 7 story arc: diagnose linear urban metabolism, apply CE principles and 9R, choose circular business models, build IS networks, stay honest about limitations, link to SDG 12 and later waste Rules (W9/W12)."
+            },
+            {
+              "type": "callout",
+              "kind": "link",
+              "text": "Same preference logic as W9 waste hierarchy (prevent/reuse before recycle/recover). Policy tools (EPR, Plastic/E-waste/C&D Rules) in W12 operationalize CE."
+            }
+          ]
+        }
+      ],
+      "numbers": [
+        {
+          "label": "SDG linked to CE",
+          "value": "SDG 12",
+          "why": "Responsible Consumption and Production"
+        },
+        {
+          "label": "Remanufacture CO2 save per motor",
+          "value": "3.5 t CO2",
+          "why": "5.0 t new minus 1.5 t reman"
+        },
+        {
+          "label": "Remanufacture CO2 save for 65 motors",
+          "value": "227.5 t CO2",
+          "why": "3.5 x 65"
+        },
+        {
+          "label": "Nesting",
+          "value": "IS ⊂ IE ⊂ CE",
+          "why": "Standard exam assertion"
+        },
+        {
+          "label": "Kalundborg IS term first used",
+          "value": "1989",
+          "why": "Historical marker; network began ~1961"
+        }
+      ],
+      "crossLinks": [
+        {
+          "week": 9,
+          "why": "Waste hierarchy / 4Rs mirror 9R preference (prevent and reuse before recycle)."
+        },
+        {
+          "week": 12,
+          "why": "EPR and Plastic/E-waste/C&D Rules put CE into enforceable procedure."
+        },
+        {
+          "week": 2,
+          "why": "SDG spine — especially SDG 12."
+        },
+        {
+          "week": 1,
+          "why": "IPAT and throughput framing of resource consumption."
+        }
+      ],
+      "examChecklist": [
+        "State Take-Make-Waste vs Borrow-Use-Return exactly.",
+        "Define urban anabolism vs catabolism.",
+        "Recite full 9R order R0-R9; rule tighter = better.",
+        "Order Recycle < Repurpose < Repair < Rethink.",
+        "Reuse is not recycle; rethink is not repair.",
+        "Match all five circular business models to vignettes.",
+        "Define IS; name Kalundborg and Kujala; write IS ⊂ IE ⊂ CE.",
+        "List at least 2 CE limitations; link CE to SDG 12.",
+        "Compute 3.5 t x 65 = 227.5 t remanufacture CO2 save."
+      ]
+    },
+    {
+      "week": 8,
+      "title": "Water Quality, Reuse and Recycling",
+      "examPriority": "high",
+      "atAGlance": [
+        "Global water: ~97.5% salt / ~2.5% fresh; usable freshwater is tiny.",
+        "Withdrawal is not consumption (consumption = water not returned).",
+        "India BOD often BOD3 at 27 C; COD is usually greater than or equal to BOD.",
+        "NBOD approx NH3-N x 4.57; DO sag then recovery via reaeration.",
+        "NSF-WQI: DO weight 0.17 (highest); fecal coliform 0.16.",
+        "CPCB BOD3 maxima: inland 30 / sewers 350 / irrigation 100 mg/L.",
+        "NGT Act date 18.10.2010; endeavor dispose in 6 months; 5 seats.",
+        "Tertiary treatment needed for food-crop / unrestricted recreation reuse."
+      ],
+      "definitions": [
+        {
+          "term": "Withdrawal",
+          "definition": "Water extracted from surface or groundwater sources.",
+          "trap": "Not the same as consumption."
+        },
+        {
+          "term": "Consumption",
+          "definition": "Withdrawn water not returned to the source (evaporation, incorporation in product, transpired).",
+          "trap": "Drinking and cooking are consumptive uses."
+        },
+        {
+          "term": "Point source",
+          "definition": "Identifiable discrete outlet such as a pipe or drain.",
+          "trap": "Urban stormwater runoff is typically non-point."
+        },
+        {
+          "term": "BOD",
+          "definition": "Microbial oxygen demand to stabilize biodegradable organics. In India often reported as BOD3 at 27 C.",
+          "trap": "Not always BOD5 at 20 C (US/standard lab convention)."
+        },
+        {
+          "term": "COD",
+          "definition": "Oxygen demand measured with a strong chemical oxidant; usually greater than or equal to BOD.",
+          "trap": "High theoretical O2 demand can still mean low BOD if organics are hard to biodegrade."
+        },
+        {
+          "term": "DO sag",
+          "definition": "Dissolved oxygen drops after an organic load, then recovers as reaeration catches up.",
+          "trap": "Before the critical point, deoxygenation exceeds reaeration."
+        },
+        {
+          "term": "WQI",
+          "definition": "Aggregated water-quality score from weighted sub-index values of selected parameters.",
+          "trap": "Band is not a single-parameter reading."
+        },
+        {
+          "term": "NGT",
+          "definition": "Specialized National Green Tribunal under the 2010 Act; natural justice; expert plus judicial members.",
+          "trap": "Also heavily tested in Week 12."
+        }
+      ],
+      "sections": [
+        {
+          "id": "hydrologic-cycle-scarcity",
+          "title": "Hydrologic cycle and scarcity",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Most Earth water is saline. Freshwater is scarce and unevenly distributed. Off-stream uses withdraw water; instream uses leave water in the channel. Environmental flows must remain for ecosystems."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "About 97.5% of global water is salt water; about 2.5% is fresh.",
+                "Of freshwater, groundwater is a large share (~30.1%); surface freshwater is a tiny slice (~0.3% of freshwater).",
+                "Municipal wastewater is often ~80% of urban water use; Indian cities cited ~87%.",
+                "Household design figure often ~100 L per capita per day in course notes."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "97.5% salt / 2.5% fresh is a staple MCQ. Always separate withdrawal from consumption."
+            }
+          ]
+        },
+        {
+          "id": "pollution-sources-parameters",
+          "title": "Pollution sources and quality parameters",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Point sources have a clear outlet. Non-point sources are diffuse (agriculture, urban runoff). Quality is judged with physical, chemical, and biological parameters."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Physical / chemical: SS, pH, temperature, oil and grease, residual chlorine.",
+                "Nitrogen species: NH3-N, TKN; also phosphorus for eutrophication.",
+                "Oxygen demand: BOD, COD; pathogens via fecal coliform.",
+                "DO is both a quality parameter and the driver of sag curves."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Primary clarification removes settleable solids; it is not the main BOD-removal step. Secondary biological treatment targets BOD."
+            }
+          ]
+        },
+        {
+          "id": "oxygen-demand-maths",
+          "title": "Oxygen demand maths",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Oxygen demand links organics to DO depletion. COD is a chemical upper bound; BOD is the biodegradable share. Nitrogenous BOD follows carbonaceous BOD in time."
+            },
+            {
+              "type": "formula",
+              "expr": "NBOD ≈ (NH3-N) x 4.57",
+              "use": "Estimate nitrogenous oxygen demand from ammonia nitrogen concentration."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "India standard for many discharge limits: BOD3 at 27 C.",
+                "COD is typically greater than or equal to BOD.",
+                "Hardness often expressed as CaCO3 equivalent.",
+                "TS / VS solids lab data also appear in bioprocess suitability (shared with W9)."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Memorize factor 4.57 for NBOD. Memorize BOD3 @ 27 C as the India convention."
+            }
+          ]
+        },
+        {
+          "id": "do-sag-streeter-phelps",
+          "title": "DO sag / Streeter-Phelps",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "After a wastewater mix, DO falls as microbes oxidize organics, then rises as reaeration restores oxygen. The lowest DO is the critical point at critical time tc."
+            },
+            {
+              "type": "formula",
+              "expr": "D = DOsat - DO",
+              "use": "Oxygen deficit definition used in sag analysis."
+            },
+            {
+              "type": "ol",
+              "items": [
+                "Mix effluent with river (mass balance on BOD and DO).",
+                "Deoxygenation rate exceeds reaeration → deficit grows.",
+                "At critical point, rates balance; DO is minimum.",
+                "Downstream, reaeration dominates → recovery."
+              ]
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Nitrification sequence: Org-N → NH3 → NO2 (Nitrosomonas) → NO3 (Nitrobacter).",
+                "Nitrification adds a second oxygen demand pulse (NBOD)."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Qualitative DO sag rules are frequently tested even when full Streeter-Phelps algebra is not."
+            }
+          ]
+        },
+        {
+          "id": "wqi-nsf",
+          "title": "Water Quality Index (NSF-WQI)",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "WQI compresses many parameters into one score. Horton (1965) and NSF (1970 Delphi) weights are classic. Weighted Qi values are summed."
+            },
+            {
+              "type": "formula",
+              "expr": "WQI = Σ (Qi · Wi)",
+              "use": "Compute NSF-style index from sub-index Qi and weight Wi."
+            },
+            {
+              "type": "table",
+              "title": "NSF top parameter weights",
+              "rows": [
+                [
+                  "Parameter",
+                  "Weight Wi"
+                ],
+                [
+                  "DO",
+                  "0.17"
+                ],
+                [
+                  "Fecal coliform",
+                  "0.16"
+                ],
+                [
+                  "pH",
+                  "0.11"
+                ],
+                [
+                  "BOD",
+                  "0.11"
+                ],
+                [
+                  "Temperature change",
+                  "0.10"
+                ],
+                [
+                  "Phosphate",
+                  "0.10"
+                ]
+              ]
+            },
+            {
+              "type": "table",
+              "title": "WQI quality bands",
+              "rows": [
+                [
+                  "Score",
+                  "Band"
+                ],
+                [
+                  "90-100",
+                  "Excellent"
+                ],
+                [
+                  "70-90",
+                  "Good"
+                ],
+                [
+                  "50-70",
+                  "Medium"
+                ],
+                [
+                  "25-50",
+                  "Bad"
+                ],
+                [
+                  "0-25",
+                  "Very Bad"
+                ]
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "DO weight 0.17 is the single most tested NSF number. Know band cut-points."
+            }
+          ]
+        },
+        {
+          "id": "standards-ngt-reuse",
+          "title": "Discharge standards, NGT, and reuse",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Discharge limits depend on destination. Reuse for food crops or unrestricted recreation needs tertiary polishing. ZLD is an aspiration for some industrial clusters."
+            },
+            {
+              "type": "table",
+              "title": "CPCB-style maxima (course)",
+              "rows": [
+                [
+                  "Parameter",
+                  "Inland surface",
+                  "Public sewers",
+                  "Land irrigation"
+                ],
+                [
+                  "SS (mg/L)",
+                  "100",
+                  "600",
+                  "200"
+                ],
+                [
+                  "BOD3 at 27 C (mg/L)",
+                  "30",
+                  "350",
+                  "100"
+                ],
+                [
+                  "pH",
+                  "5.5-9.0",
+                  "5.5-9.0",
+                  "5.5-9.0"
+                ]
+              ]
+            },
+            {
+              "type": "ul",
+              "items": [
+                "NGT established 18.10.2010 under the NGT Act 2010.",
+                "Principal bench New Delhi; other benches Bhopal, Pune, Kolkata, Chennai.",
+                "Natural justice; endeavor to dispose cases in 6 months.",
+                "Not bound by CPC 1908 procedure (detailed again in W12)."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "BOD inland 30 vs sewer 350 vs irrigation 100 is a high-yield triplet. NGT date 18.10.2010 appears in both W8 and W12."
+            },
+            {
+              "type": "callout",
+              "kind": "link",
+              "text": "Water Act 1974 and EPA Rules give legal teeth to these standards — see Week 12."
+            }
+          ]
+        }
+      ],
+      "numbers": [
+        {
+          "label": "Salt / fresh fractions",
+          "value": "97.5% / 2.5%",
+          "why": "Global water split"
+        },
+        {
+          "label": "NBOD factor",
+          "value": "4.57",
+          "why": "Multiply NH3-N"
+        },
+        {
+          "label": "NSF DO weight",
+          "value": "0.17",
+          "why": "Highest NSF weight"
+        },
+        {
+          "label": "BOD inland / sewer / irrigation",
+          "value": "30 / 350 / 100 mg/L",
+          "why": "CPCB-style BOD3 @ 27 C"
+        },
+        {
+          "label": "NGT date",
+          "value": "18.10.2010",
+          "why": "Establishment date"
+        },
+        {
+          "label": "NGT disposal endeavor",
+          "value": "6 months",
+          "why": "Statutory endeavor"
+        }
+      ],
+      "crossLinks": [
+        {
+          "week": 12,
+          "why": "Water Act 1974, NGT structure, and powers."
+        },
+        {
+          "week": 7,
+          "why": "Wastewater as circular resource (nutrient and energy recovery)."
+        },
+        {
+          "week": 9,
+          "why": "Landfill leachate is a water-pollution pathway."
+        }
+      ],
+      "examChecklist": [
+        "Recall 97.5% salt / 2.5% fresh; withdrawal vs consumption.",
+        "State BOD3 @ 27 C as India convention; COD >= BOD.",
+        "NBOD factor 4.57; DO sag qualitative stages.",
+        "NSF DO weight 0.17; recite WQI bands.",
+        "BOD limits 30 / 350 / 100 by destination.",
+        "NGT date, five seats, 6-month endeavor.",
+        "Point vs non-point; primary vs secondary treatment role."
+      ]
+    },
+    {
+      "week": 9,
+      "title": "Solid Waste Management (including E-waste)",
+      "examPriority": "high",
+      "atAGlance": [
+        "Hierarchy PRRRD: Prevent > Reuse > Recycle > Recover > Dispose.",
+        "4Rs: Reduce, Reuse, Recycle, Recover (source reduction first).",
+        "Indian MSW: organics dominate; average C/N about 33.4.",
+        "Collection often 50-70% of MSW budget; source segregation is critical.",
+        "Open dump hazards vs sanitary landfill (engineered cells, liners, LFG, leachate).",
+        "Toxic five in MSW context: As, Cr, Cd, Hg, Pb (Fe is not on this list).",
+        "E-waste Rules 2011 introduce clear EPR; MSW Rules 2000 then 2016 (10 SLBs).",
+        "Surat plague 1994 linked to poor SWM; pyrolysis = thermal breakdown with no air."
+      ],
+      "definitions": [
+        {
+          "term": "Solid waste",
+          "definition": "Waste that is not free-flowing liquid or gas; containerized liquid or gas wastes can still be counted as solid waste under rules.",
+          "trap": "Do not assume only dry solids count."
+        },
+        {
+          "term": "ISWM",
+          "definition": "Integrated Solid Waste Management: coordinated policies and technologies from generation through disposal.",
+          "trap": "Not a single technology fix."
+        },
+        {
+          "term": "Waste hierarchy (PRRRD)",
+          "definition": "Prevent > Reuse > Recycle > Recover > Dispose — preference order for managing waste.",
+          "trap": "Landfill is last even if engineered."
+        },
+        {
+          "term": "Volatile solids (VS)",
+          "definition": "Fraction of total solids lost on ignition; proxy for organic content.",
+          "trap": "VS% of wet mass is not the same as VS% of TS."
+        },
+        {
+          "term": "Sanitary landfill",
+          "definition": "Engineered disposal with cells, daily cover, liners, leachate collection, and landfill-gas control.",
+          "trap": "Not the same as an open dump."
+        },
+        {
+          "term": "Pyrolysis",
+          "definition": "Thermal breakdown of organics in the complete absence of air.",
+          "trap": "Not incineration (with air) and not gasification (limited air/oxygen)."
+        },
+        {
+          "term": "Anaerobic digestion",
+          "definition": "Biological treatment without oxygen that produces biogas.",
+          "trap": "Not composting (which is aerobic)."
+        },
+        {
+          "term": "EPR",
+          "definition": "Extended Producer Responsibility: producer remains responsible for end-of-life collection and recycling.",
+          "trap": "Course frames clear EPR first in E-waste Rules 2011."
+        },
+        {
+          "term": "Urban mining",
+          "definition": "Recover metals and rare earth elements from discarded electronics.",
+          "trap": "India lacks rich natural REE deposits — urban mining matters."
+        }
+      ],
+      "sections": [
+        {
+          "id": "iswm-hierarchy-4rs",
+          "title": "ISWM, hierarchy, and 4Rs",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Integrated SWM coordinates generation, collection, processing, and disposal. Preference always starts with prevention and source reduction."
+            },
+            {
+              "type": "ol",
+              "items": [
+                "Prevent — avoid creating waste (green design).",
+                "Reuse — use product again.",
+                "Recycle — remake materials.",
+                "Recover — energy or material recovery from residual.",
+                "Dispose — sanitary landfill as last resort."
+              ]
+            },
+            {
+              "type": "ul",
+              "items": [
+                "4Rs: Reduce, Reuse, Recycle, Recover.",
+                "EcoMark: BIS environmental label; symbol is an earthen pot."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "PRRRD order and 4Rs are first-line MCQs. EcoMark earthen pot is a classic trick question."
+            },
+            {
+              "type": "callout",
+              "kind": "link",
+              "text": "Same preference logic as Week 7 nine-R ladder: keep products whole before shredding materials."
+            }
+          ]
+        },
+        {
+          "id": "generation-composition",
+          "title": "Generation and composition",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "MSW generation rises with income. Paper fraction rises with income; Indian MSW remains organic-rich. Hazardous traces matter even at low mass fraction."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Average C/N of Indian MSW about 33.4 (composting suitability marker).",
+                "Toxic five to memorize: Arsenic, Chromium, Cadmium, Mercury, Lead.",
+                "Iron is a nutrient metal — do not put Fe in the toxic-five list.",
+                "Electronics growth cited at about 17-21% per year."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Fe is not one of the toxic five. If an option list sneaks in iron, reject it."
+            }
+          ]
+        },
+        {
+          "id": "collection-segregation",
+          "title": "Collection and segregation",
+          "weight": "medium",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Source segregation decides whether organics, recyclables, and toxics can be treated separately. Collection logistics dominate municipal budgets."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Collection often consumes 50-70% of the MSW management budget.",
+                "Mixed collection contaminates recyclables and organics.",
+                "Transfer stations and route design cut haul costs."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "50-70% budget share for collection is a high-yield number."
+            }
+          ]
+        },
+        {
+          "id": "characterization-maths",
+          "title": "Characterization maths (moisture, TS, VS)",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Lab moisture, total solids, and volatile solids decide if waste suits composting, AD, or incineration."
+            },
+            {
+              "type": "formula",
+              "expr": "TS = 100% - moisture%; VS (% of TS) = (mass lost on ignition / TS mass) x 100%",
+              "use": "Convert wet-basis moisture to TS and then to organic fraction of solids."
+            },
+            {
+              "type": "p",
+              "text": "Worked pattern: 40% moisture means TS = 60%. If 50 of those 60 units are lost on ignition, VS = 50/60 = 83.3% of TS."
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Always check whether VS is reported on wet mass or on TS basis before comparing numbers."
+            }
+          ]
+        },
+        {
+          "id": "treatment-disposal",
+          "title": "Treatment and disposal",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Options include recycling, composting, anaerobic digestion, incineration, gasification, pyrolysis, and sanitary landfill. Open dumping is unacceptable."
+            },
+            {
+              "type": "table",
+              "title": "Open dump vs sanitary landfill",
+              "rows": [
+                [
+                  "Feature",
+                  "Open dump",
+                  "Sanitary landfill"
+                ],
+                [
+                  "Cover",
+                  "None / irregular",
+                  "Daily soil/cover"
+                ],
+                [
+                  "Liners",
+                  "None",
+                  "Engineered liners"
+                ],
+                [
+                  "Leachate",
+                  "Uncontrolled to soil/GW",
+                  "Collected and treated"
+                ],
+                [
+                  "Landfill gas",
+                  "Fugitive CH4; fire/explosion risk",
+                  "Collected / flared / used"
+                ],
+                [
+                  "VOCs / vectors",
+                  "High",
+                  "Controlled"
+                ]
+              ]
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Pyrolysis: thermal breakdown with complete absence of air.",
+                "Incineration: combustion with air; volume reduction plus energy option.",
+                "AD: biogas; composting: aerobic humus product.",
+                "Surat plague 1994: classic Indian case linking poor SWM to public-health disaster."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Pyrolysis = no air. Surat 1994. Open dump vs sanitary landfill contrast table."
+            }
+          ]
+        },
+        {
+          "id": "e-waste",
+          "title": "E-waste and EPR",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "E-waste holds both toxics and valuable metals including rare earths. Formal recycling and EPR are the policy answer."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "E-waste (Management and Handling) Rules 2011 — course landmark for EPR.",
+                "WEEE framed in six categories in course materials.",
+                "Authorized recyclers only; informal backyard recovery is hazardous.",
+                "MSW Rules 2000 superseded/strengthened by SWM Rules 2016 with 10 Service Level Benchmarks."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "link",
+              "text": "Legal detail of Rules years and Almitra Patel enforcement continue in Week 12."
+            }
+          ]
+        }
+      ],
+      "numbers": [
+        {
+          "label": "C/N Indian MSW",
+          "value": "~33.4",
+          "why": "Composting suitability marker"
+        },
+        {
+          "label": "Collection budget share",
+          "value": "50-70%",
+          "why": "Dominant MSW cost"
+        },
+        {
+          "label": "Electronics growth",
+          "value": "17-21%/y",
+          "why": "E-waste pressure"
+        },
+        {
+          "label": "Surat plague",
+          "value": "1994",
+          "why": "SWM-public health case"
+        },
+        {
+          "label": "MSW Rules",
+          "value": "2000 / 2016",
+          "why": "2016 has 10 SLBs"
+        },
+        {
+          "label": "E-waste Rules",
+          "value": "2011",
+          "why": "EPR landmark"
+        },
+        {
+          "label": "WEEE categories",
+          "value": "6",
+          "why": "Course framing"
+        }
+      ],
+      "crossLinks": [
+        {
+          "week": 7,
+          "why": "9R / CE preference mirrors PRRRD hierarchy."
+        },
+        {
+          "week": 12,
+          "why": "MSW, E-waste, Plastic, C&D, BMW Rules; Almitra Patel SWM."
+        },
+        {
+          "week": 8,
+          "why": "Dump leachate pollutes surface and groundwater."
+        }
+      ],
+      "examChecklist": [
+        "Recite PRRRD and 4Rs order.",
+        "Contrast open dump vs sanitary landfill.",
+        "Work a VS/TS moisture example.",
+        "C/N 33.4; EcoMark earthen pot.",
+        "Toxic five (exclude Fe).",
+        "Pyrolysis = no air; AD yields biogas.",
+        "EPR + E-waste Rules 2011; WEEE 6 categories.",
+        "Surat 1994 plague link."
+      ]
+    },
+    {
+      "week": 10,
+      "title": "Noise Pollution",
+      "examPriority": "high",
+      "atAGlance": [
+        "Noise = unwanted sound with physiological, psychological, or interference effects.",
+        "Lp = 20 log10(Prms / 20 uPa); 0 dB corresponds to 20 uPa.",
+        "Wavelength lambda = c/f; speed c approx 20.05 sqrt(T) with T in kelvin.",
+        "Point source: about -6 dB per distance doubling; line source: about -3 dB.",
+        "Two equal incoherent sources: +3 dB; if levels differ by >=10 dB, total ~ louder source.",
+        "A-weighting mimics human ear; preferred for environmental and occupational limits.",
+        "Occupational caution: >=85 dB(A) for 8 h.",
+        "Control hierarchy: source then path then receiver (PPE last)."
+      ],
+      "definitions": [
+        {
+          "term": "Noise",
+          "definition": "Unwanted sound that causes undesired physiological or psychological effects or interferes with activities.",
+          "trap": "Not defined only as any loud sound."
+        },
+        {
+          "term": "Sound Pressure Level (Lp)",
+          "definition": "Lp = 20 log10(Prms / P0) with P0 = 20 uPa.",
+          "trap": "0 dB is not absolute silence; it is the reference threshold."
+        },
+        {
+          "term": "Leq",
+          "definition": "Energy-equivalent continuous sound level over a period.",
+          "trap": "Not the arithmetic average of dB readings."
+        },
+        {
+          "term": "Ldn",
+          "definition": "Day-night level with a night-time penalty.",
+          "trap": "Do not confuse with Leq."
+        },
+        {
+          "term": "TTS",
+          "definition": "Temporary Threshold Shift — hearing sensitivity drop that can recover after quiet rest.",
+          "trap": "TTS is not permanent."
+        },
+        {
+          "term": "PTS",
+          "definition": "Permanent Threshold Shift — irreversible hearing loss from noise.",
+          "trap": "PTS does not recover with rest."
+        },
+        {
+          "term": "Octave band",
+          "definition": "Frequency band spanning a factor of two; geometric mean characterizes the band center.",
+          "trap": "Example: 700-1400 Hz center is sqrt(700x1400)."
+        },
+        {
+          "term": "Phon",
+          "definition": "Loudness level unit referenced to a 1 kHz tone.",
+          "trap": "Not identical to dB SPL for other frequencies."
+        }
+      ],
+      "sections": [
+        {
+          "id": "sound-fundamentals",
+          "title": "Sound fundamentals",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Sound needs a medium. Hearing spans roughly 20 uPa to about 200 Pa. Levels are expressed as sound power (Lw), intensity (LI), or pressure (Lp)."
+            },
+            {
+              "type": "formula",
+              "expr": "lambda = c / f",
+              "use": "Relate wavelength, wave speed, and frequency."
+            },
+            {
+              "type": "formula",
+              "expr": "c ≈ 20.05 √T   (T in kelvin)",
+              "use": "Estimate speed of sound in air from absolute temperature."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Know lambda = c/f and the 20.05 sqrt(T) approximation together."
+            }
+          ]
+        },
+        {
+          "id": "spl-db-arithmetic",
+          "title": "SPL formula and dB arithmetic",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "formula",
+              "expr": "Lp = 20 log10(Prms / 20 μPa)",
+              "use": "Convert RMS pressure to sound pressure level in dB."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "10x intensity increase → +10 dB.",
+                "10x pressure increase → +20 dB.",
+                "Two equal incoherent sources → +3 dB.",
+                "If two levels differ by 10 dB or more, total ≈ louder source alone."
+              ]
+            },
+            {
+              "type": "formula",
+              "expr": "Ltot = 10 log10 Σ 10^(Li/10)",
+              "use": "Energy sum of incoherent noise sources."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "+3 dB for equal sources and >=10 dB dominance rule are frequent MCQs."
+            }
+          ]
+        },
+        {
+          "id": "propagation-point-line",
+          "title": "Propagation: point vs line sources",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Geometric spreading depends on source shape. Point sources spread over a sphere; line sources (busy road) spread over a cylinder."
+            },
+            {
+              "type": "table",
+              "title": "Distance doubling rules",
+              "rows": [
+                [
+                  "Source type",
+                  "Intensity law",
+                  "Level change per distance doubling"
+                ],
+                [
+                  "Point",
+                  "I ∝ 1/r²",
+                  "about -6 dB"
+                ],
+                [
+                  "Line",
+                  "I ∝ 1/r",
+                  "about -3 dB"
+                ]
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Do not apply -6 dB doubling to a highway line source; use about -3 dB."
+            }
+          ]
+        },
+        {
+          "id": "weighting-audiometry",
+          "title": "A-weighting and audiometry",
+          "weight": "medium",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Human hearing is less sensitive at low frequencies. A-weighting approximates that response for environmental and occupational assessment. B and C weightings are less common in modern limits."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Course sample corrections at 100 Hz: A about -19.1 dB; B about -5.6; C about -0.3.",
+                "Speech frequencies matter for communication interference.",
+                "Audiograms track TTS and PTS over time."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "A-weighting is the default for dB(A) limits. State why: matches ear response."
+            }
+          ]
+        },
+        {
+          "id": "effects-occupational",
+          "title": "Effects and occupational limits",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "ul",
+              "items": [
+                "Hearing loss (TTS then PTS), sleep disturbance, annoyance, cardiovascular stress.",
+                "Conversation roughly comfortable near 60 dB; pain near ~140 dB (anchors).",
+                "Occupational caution threshold: 85 dB(A) for 8-hour exposure."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "TTS can recover; PTS cannot. Do not treat them as synonyms."
+            }
+          ]
+        },
+        {
+          "id": "control-hierarchy-zoning",
+          "title": "Control hierarchy and zoning",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "ol",
+              "items": [
+                "Source control — quieter machines, enclosure, maintenance.",
+                "Path control — barriers, distance, absorptive surfaces.",
+                "Receiver control — PPE, exposure time limits (last line)."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "CPCB ambient standards differ by zone: silence, residential, commercial, industrial (day/night pairs). Legal hooks sit under Air Act / EPA (Week 12)."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Always answer control questions in order: source → path → receiver."
+            }
+          ]
+        }
+      ],
+      "numbers": [
+        {
+          "label": "Reference pressure P0",
+          "value": "20 μPa",
+          "why": "0 dB SPL"
+        },
+        {
+          "label": "Point-source doubling",
+          "value": "-6 dB",
+          "why": "I ∝ 1/r²"
+        },
+        {
+          "label": "Line-source doubling",
+          "value": "-3 dB",
+          "why": "I ∝ 1/r"
+        },
+        {
+          "label": "Equal sources combine",
+          "value": "+3 dB",
+          "why": "Incoherent energy sum"
+        },
+        {
+          "label": "Occupational caution",
+          "value": "85 dB(A) / 8 h",
+          "why": "Hearing-risk threshold"
+        },
+        {
+          "label": "Speed of sound",
+          "value": "c ≈ 20.05 √T",
+          "why": "T in kelvin"
+        }
+      ],
+      "crossLinks": [
+        {
+          "week": 12,
+          "why": "Air Act / EPA ambient noise powers and CPCB zoning standards."
+        }
+      ],
+      "examChecklist": [
+        "Write Lp = 20 log(Prms/20 μPa) and lambda = c/f.",
+        "Apply -6 dB (point) vs -3 dB (line) rules.",
+        "Combine equal sources (+3 dB); apply >=10 dB dominance.",
+        "Explain A-weighting purpose.",
+        "State 85 dB(A)/8 h; contrast TTS vs PTS.",
+        "Control hierarchy source → path → receiver."
+      ]
+    },
+    {
+      "week": 11,
+      "title": "Ecology and Soil Pollution",
+      "examPriority": "high",
+      "atAGlance": [
+        "Ecology from oikos = house; energy flows one-way; nutrients cycle.",
+        "Niche is functional role; habitat is place — they are not synonyms.",
+        "Logistic growth: dN/dt = rN(1 - N/K); carrying capacity K bends J-curve to S-curve.",
+        "BCF = Cbiota / Cwater; rises with Kow (hydrophobicity).",
+        "Trio: bioconcentration / bioaccumulation / biomagnification.",
+        "DDT gull example BCF about 1.2 x 10^5.",
+        "USLE: A = R K L S C P; unit plot 72.6 ft x 5.5 ft at 9% slope.",
+        "Manage erosion mainly via C (cover) and P (practice) levers."
+      ],
+      "definitions": [
+        {
+          "term": "Ecology",
+          "definition": "Study of interrelationships of organisms with biotic and abiotic environment.",
+          "trap": "Not a political slogan; it is a science of interactions."
+        },
+        {
+          "term": "Niche",
+          "definition": "Functional role and position of a species including resources used and interactions.",
+          "trap": "Habitat is not niche."
+        },
+        {
+          "term": "BCF",
+          "definition": "Bioconcentration Factor = Cbiota / Cwater (often L/kg).",
+          "trap": "BCF is not biomagnification."
+        },
+        {
+          "term": "Bioconcentration",
+          "definition": "Uptake from water into organism tissues (direct aqueous route).",
+          "trap": "Does not include dietary uptake."
+        },
+        {
+          "term": "Bioaccumulation",
+          "definition": "Buildup in an organism over time from all routes (water, food, air, sediment).",
+          "trap": "Includes diet; broader than bioconcentration."
+        },
+        {
+          "term": "Biomagnification",
+          "definition": "Increase in concentration across successive trophic levels.",
+          "trap": "Classic DDT-in-birds example."
+        },
+        {
+          "term": "Kow",
+          "definition": "Octanol-water partition coefficient = Coctanol / Cwater; proxy for hydrophobicity and fatty-tissue affinity.",
+          "trap": "High log Kow tends to mean high BCF."
+        },
+        {
+          "term": "USLE",
+          "definition": "Universal Soil Loss Equation A = R K L S C P for average annual sheet and rill erosion.",
+          "trap": "Does not predict gully or stream-bank erosion."
+        },
+        {
+          "term": "NPP",
+          "definition": "Net Primary Productivity = GPP minus autotrophic respiration.",
+          "trap": "Respiration is a fraction of GPP, not of NPP."
+        }
+      ],
+      "sections": [
+        {
+          "id": "ecosystem-structure-function",
+          "title": "Ecosystem structure and function",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "An ecosystem is community plus abiotic environment. Energy enters via photosynthesis and leaves as heat. Nutrients are recycled by decomposers."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Energy flow is unidirectional; nutrient flow is cyclic.",
+                "Solar spectrum note: ~99% of energy between 136-4000 nm; roughly 7% UV and 46% IR in course framing.",
+                "Services: provisioning, regulating, cultural (and supporting).",
+                "Nitrogen often limits agricultural soils."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "One-line exam answer: energy one-way, nutrients cycle."
+            }
+          ]
+        },
+        {
+          "id": "niche-webs-pyramids",
+          "title": "Niche, food webs, and pyramids",
+          "weight": "medium",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Producers fix energy; herbivores and carnivores transfer it; decomposers close nutrient loops. Energy pyramids narrow upward because transfer is inefficient."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Niche = role; habitat = address.",
+                "Food webs show multiple pathways; chains are simplified slices.",
+                "Decomposers recycle nutrients back to producers."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Habitat ≠ niche is one of the most common ecology MCQ traps."
+            }
+          ]
+        },
+        {
+          "id": "population-growth",
+          "title": "Population growth models",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "formula",
+              "expr": "dN/dt = rN   (exponential)",
+              "use": "Unlimited growth when density dependence is negligible (N much less than K)."
+            },
+            {
+              "type": "formula",
+              "expr": "dN/dt = rN(1 - N/K)   (logistic)",
+              "use": "Density-dependent growth approaching carrying capacity K; J-curve becomes S-curve."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "State logistic equation and interpret K as carrying capacity. When N << K, logistic ≈ exponential."
+            }
+          ]
+        },
+        {
+          "id": "contaminant-fate-bbb",
+          "title": "Contaminant fate: BCF and BBB trio",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "formula",
+              "expr": "BCF = Cbiota / Cwater",
+              "use": "Quantify uptake from water into biota; rises with Kow."
+            },
+            {
+              "type": "table",
+              "title": "BBB distinctions",
+              "rows": [
+                [
+                  "Term",
+                  "Route / scale",
+                  "Key idea"
+                ],
+                [
+                  "Bioconcentration",
+                  "Organism vs water",
+                  "Direct aqueous uptake"
+                ],
+                [
+                  "Bioaccumulation",
+                  "Organism over time",
+                  "All exposure routes"
+                ],
+                [
+                  "Biomagnification",
+                  "Food chain",
+                  "Concentration rises up trophic levels"
+                ]
+              ]
+            },
+            {
+              "type": "p",
+              "text": "DDT example (course): water about 5 x 10^-5 ppm → gull about 6 ppm → magnification factor about 1.2 x 10^5. Another BCF drill: 3.6 mg/kg divided by 0.00012 mg/L = 3 x 10^4."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Memorize DDT BCF ~1.2e5 and the BBB table. High Kow → fatty tissue → high BCF."
+            }
+          ]
+        },
+        {
+          "id": "soil-pollution-erosion",
+          "title": "Soil pollution and erosion",
+          "weight": "medium",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Soil pollution comes from dumps, agrochemicals, and industrial spills. Overgrazing removes cover and accelerates erosion. Horizon B2 often shows maximum colloid accumulation."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Example composition: OM 5%; if 80% of OM is humus → humus 4%.",
+                "NPP example: GPP 2500, respiration 35% of GPP → NPP = 1625."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "link",
+              "text": "Open dumps (W9) are a direct soil and groundwater pollution path."
+            }
+          ]
+        },
+        {
+          "id": "usle",
+          "title": "USLE and erosion control levers",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "formula",
+              "expr": "A = R K L S C P",
+              "use": "Average annual sheet/rill soil loss; product of six factors."
+            },
+            {
+              "type": "table",
+              "title": "USLE factors",
+              "rows": [
+                [
+                  "Symbol",
+                  "Meaning"
+                ],
+                [
+                  "A",
+                  "Average annual soil loss"
+                ],
+                [
+                  "R",
+                  "Rainfall erosivity"
+                ],
+                [
+                  "K",
+                  "Soil erodibility"
+                ],
+                [
+                  "L",
+                  "Slope length"
+                ],
+                [
+                  "S",
+                  "Slope steepness"
+                ],
+                [
+                  "C",
+                  "Cover and management"
+                ],
+                [
+                  "P",
+                  "Support practice (terraces, contours)"
+                ]
+              ]
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Unit plot definition: 72.6 ft long x 5.5 ft wide, 9% slope.",
+                "Worked: R=250, K=0.3, LS=1.8, C=0.4, P=0.5 → A = 27.",
+                "Farmers and planners mainly manipulate C and P."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Mnemonic: Rain Kills Loose Soil; Cover and Practice save it. Know unit plot dimensions and that C and P are the levers."
+            }
+          ]
+        }
+      ],
+      "numbers": [
+        {
+          "label": "DDT BCF (gull example)",
+          "value": "~1.2 x 10^5",
+          "why": "Water 5e-5 ppm to gull 6 ppm"
+        },
+        {
+          "label": "Sample BCF calculation",
+          "value": "3 x 10^4",
+          "why": "3.6 mg/kg / 0.00012 mg/L"
+        },
+        {
+          "label": "USLE unit plot",
+          "value": "72.6 ft x 5.5 ft, 9%",
+          "why": "Standard plot definition"
+        },
+        {
+          "label": "USLE worked A",
+          "value": "27",
+          "why": "250x0.3x1.8x0.4x0.5"
+        },
+        {
+          "label": "NPP example",
+          "value": "1625",
+          "why": "GPP 2500 with R=35%"
+        }
+      ],
+      "crossLinks": [
+        {
+          "week": 9,
+          "why": "Dump contaminants reach soil and food chains."
+        },
+        {
+          "week": 3,
+          "why": "Air toxics context for pollutant fate."
+        },
+        {
+          "week": 4,
+          "why": "Climate stress interacts with ecosystem function."
+        }
+      ],
+      "examChecklist": [
+        "Energy unidirectional vs nutrients cycle.",
+        "Niche vs habitat.",
+        "Write logistic equation; interpret K.",
+        "BCF formula + BBB distinctions.",
+        "High Kow → bioconcentrate.",
+        "USLE letters, C/P levers, unit plot.",
+        "DDT magnification ~1.2e5."
+      ]
+    },
+    {
+      "week": 12,
+      "title": "Environmental Policies and Legislation",
+      "examPriority": "high",
+      "atAGlance": [
+        "Movements: Bishnoi 1730 (Khejri) → Chipko 1973 → Jungle Bachao 1979 → Appiko 1982-83.",
+        "Acts timeline W-A-E-N: Water 1974, Air 1981 (am 1987), EPA 1986 (am 1991), NGT 2010.",
+        "Act = WHAT (substance); Rules = HOW (procedure).",
+        "Rules years: HW89, BMW98, Fly ash99, MSW00/16, Batteries01, Plastic/E-waste11, C&D16.",
+        "Doctrines: absolute liability, polluter pays, precautionary, public trust, sustainable development.",
+        "NGT: 18.10.2010; Delhi + Bhopal, Pune, Kolkata, Chennai; 6 months; not CPC-bound.",
+        "Landmark cases: Ratlam, Oleum, Doon Valley, TTZ (255), Vellore, Kamal Nath, Peddashpur, Almitra, Alaknanda.",
+        "River Ib Barrage EIA: even 6 m meets only ~14.6% of 94.8 MCM/y demand."
+      ],
+      "definitions": [
+        {
+          "term": "Act vs Rules",
+          "definition": "An Act states the legal substance (WHAT). Rules under the Act prescribe procedure and detail (HOW).",
+          "trap": "Rules are not weaker Acts; they operationalize Acts."
+        },
+        {
+          "term": "Water (Prevention and Control of Pollution) Act 1974",
+          "definition": "Prevents and controls water pollution and aims to restore wholesomeness of water; creates CPCB/SPCBs.",
+          "trap": "Course also notes later amendment (2003)."
+        },
+        {
+          "term": "Air (Prevention and Control of Pollution) Act 1981",
+          "definition": "Consent regime for listed industries; limits key air pollutants (PM, Pb, CO, SO2, NOx, VOCs, etc.).",
+          "trap": "Amended 1987 — memorize amendment year."
+        },
+        {
+          "term": "Environment (Protection) Act 1986",
+          "definition": "Umbrella statute: Central Government powers to protect and improve environment, set standards, and regulate hazardous substances.",
+          "trap": "Post-Bhopal/Oleum era tool; amended 1991."
+        },
+        {
+          "term": "NGT",
+          "definition": "National Green Tribunal: expert environmental court; natural justice; not bound by CPC 1908; endeavor to dispose cases in 6 months.",
+          "trap": "Principal bench is New Delhi."
+        },
+        {
+          "term": "Absolute liability",
+          "definition": "Hazardous industry is fully liable for harm; traditional strict-liability exceptions do not apply.",
+          "trap": "Oleum modified Rylands-style strict liability into absolute liability."
+        },
+        {
+          "term": "Polluter Pays",
+          "definition": "Polluter must fund remediation of past and present pollution.",
+          "trap": "Vellore / Peddashpur line of cases."
+        },
+        {
+          "term": "Precautionary principle",
+          "definition": "Act to prevent harm on potential threat; burden of proof lies on the project proposer.",
+          "trap": "Himayat/Osman Sagar / Peddashpur oil-industry rejection."
+        },
+        {
+          "term": "Public Trust Doctrine",
+          "definition": "State is trustee of commons (air, water, sea, forests) for the public; cannot alienate them for private exploitation.",
+          "trap": "Kamal Nath / Beas motel lease."
+        },
+        {
+          "term": "Sustainable development (Indian SC)",
+          "definition": "Development that does not exhaust natural assets or destroy the environment; first applied by SC in Doon Valley 1987.",
+          "trap": "Doon Valley is the first SC SD application in India (course)."
+        },
+        {
+          "term": "EIA",
+          "definition": "Environmental Impact Assessment: predict and evaluate impacts before decision; consult public; condition clearances.",
+          "trap": "Even rapid EIA must capture key impacts before build."
+        },
+        {
+          "term": "EPR",
+          "definition": "Extended Producer Responsibility for end-of-life products.",
+          "trap": "Course: first clearly defined in E-waste Rules 2011."
+        }
+      ],
+      "sections": [
+        {
+          "id": "environmental-movements",
+          "title": "Environmental movements (pre-statute roots)",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "People's movements precede modern statutes. Know year, region, and one hook for each."
+            },
+            {
+              "type": "table",
+              "title": "Movement timeline",
+              "rows": [
+                [
+                  "Movement",
+                  "Year / region",
+                  "Hook"
+                ],
+                [
+                  "Bishnoi",
+                  "1730; Thar / Khejarli",
+                  "Opposed felling of Khejri trees by Abhay Singh's officials; sacrifice legacy of Guru Jambeshwar followers"
+                ],
+                [
+                  "Chipko",
+                  "1973; Himalaya (Uttarakhand)",
+                  "Tree-hugging; Sunderlal Bahuguna; Right Livelihood Award 1987"
+                ],
+                [
+                  "Jungle Bachao",
+                  "1979",
+                  "Forest protection strand"
+                ],
+                [
+                  "Appiko",
+                  "1982-83; Western Ghats (Karnataka)",
+                  "Southern echo of Chipko"
+                ]
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Industrial and digital revolutions create new waste streams (e-waste, plastics, REE) that later Rules address."
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Bishnoi + Khejri + 1730 is the oldest hook. Chipko 1973 vs Appiko 1982-83 is a frequent pair."
+            }
+          ]
+        },
+        {
+          "id": "core-acts-waen",
+          "title": "Core Acts — W-A-E-N timeline",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Memorize Water → Air → EPA → NGT with years and key amendments. Act states WHAT; Rules state HOW."
+            },
+            {
+              "type": "table",
+              "title": "Core Acts comparison",
+              "rows": [
+                [
+                  "Aspect",
+                  "Water 1974",
+                  "Air 1981",
+                  "EPA 1986"
+                ],
+                [
+                  "Focus",
+                  "Water pollution / wholesomeness",
+                  "Air pollution / consent",
+                  "Umbrella environment"
+                ],
+                [
+                  "Institutions",
+                  "CPCB / SPCBs",
+                  "Boards + consent",
+                  "Central Govt wide powers + Rules"
+                ],
+                [
+                  "Context",
+                  "Stockholm-era water focus",
+                  "Industry / vehicles",
+                  "Post-Bhopal comprehensive"
+                ],
+                [
+                  "Key amendment",
+                  "Noted 2003",
+                  "1987",
+                  "1991"
+                ]
+              ]
+            },
+            {
+              "type": "formula",
+              "expr": "W(1974) → A(1981, am 1987) → E(1986, am 1991) → N(2010)",
+              "use": "Timeline mnemonic W-A-E-N for Act years."
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Do not confuse Act years with Rules years. Air amendment 1987 and EPA amendment 1991 are separate traps."
+            }
+          ]
+        },
+        {
+          "id": "rules-ecosystem",
+          "title": "Rules ecosystem under EPA",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Most operational detail sits in Rules. Learn the year ladder cold."
+            },
+            {
+              "type": "table",
+              "title": "Key Rules years",
+              "rows": [
+                [
+                  "Rules",
+                  "Year"
+                ],
+                [
+                  "Hazardous Wastes",
+                  "1989"
+                ],
+                [
+                  "Bio-Medical Waste",
+                  "1998"
+                ],
+                [
+                  "Fly ash",
+                  "1999"
+                ],
+                [
+                  "Municipal Solid Waste / SWM",
+                  "2000 then 2016"
+                ],
+                [
+                  "Batteries",
+                  "2001"
+                ],
+                [
+                  "Plastic Waste",
+                  "2011"
+                ],
+                [
+                  "E-waste",
+                  "2011"
+                ],
+                [
+                  "Construction & Demolition",
+                  "2016"
+                ]
+              ]
+            },
+            {
+              "type": "ul",
+              "items": [
+                "BMW colour segregation (course key): blue = sharp metals (needles/scalpels); white = glassware/vials.",
+                "Yellow/red cover anatomical waste, blood-contaminated items, expired medicines, lab waste, contaminated recyclables.",
+                "EPR first clearly framed in E-waste Rules 2011 (course)."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Follow the course BMW colour key even if modern 2016 practice differs — exams track the taught key."
+            }
+          ]
+        },
+        {
+          "id": "doctrines-landmark-cases",
+          "title": "Doctrines and landmark judgments",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "PILs (especially M.C. Mehta line) and NGT orders shaped doctrines. Match case → year → holding."
+            },
+            {
+              "type": "table",
+              "title": "Landmark cases",
+              "rows": [
+                [
+                  "Case",
+                  "Year",
+                  "Holding / remedies"
+                ],
+                [
+                  "Ratlam Municipality",
+                  "1980",
+                  "Lack of funds is not a defence to sanitation duties (CrPC 133 / municipal duties)"
+                ],
+                [
+                  "Oleum gas leak (M.C. Mehta)",
+                  "1986",
+                  "Absolute liability; relocate hazardous industry from habitation; linked to EPA era"
+                ],
+                [
+                  "Doon Valley limestone",
+                  "1987",
+                  "First SC use of Sustainable Development; most mines closed (Forest Conservation Act 1980)"
+                ],
+                [
+                  "Taj Trapezium (TTZ)",
+                  "—",
+                  "Protect Taj + 255 monuments: coal ban/CNG, relocate tanneries, green belt (Mathura refinery pressure)"
+                ],
+                [
+                  "Vellore Citizens (Palar tanneries)",
+                  "1996",
+                  "Polluter Pays + Sustainable Development; fine + CETP contribution despite jobs/forex argument"
+                ],
+                [
+                  "M.C. Mehta v. Kamal Nath (Beas motel)",
+                  "1996",
+                  "Public Trust — State cannot lease commons for private commercial exploitation"
+                ],
+                [
+                  "Peddashpur / Himayat-Osman Sagar",
+                  "—",
+                  "Reject vegetable oil industry near drinking-water reservoirs; precautionary + burden on proposer"
+                ],
+                [
+                  "Almitra H. Patel",
+                  "1996 onward",
+                  "Strict SWM Rules enforcement; capacity excuses rejected"
+                ],
+                [
+                  "Alaknanda Hydro (NGT)",
+                  "2016",
+                  "Act of God fails fully; no-fault liability; project muck ~30% of damage"
+                ],
+                [
+                  "Env. education (M.C. Mehta)",
+                  "—",
+                  "Cinema/TV environmental awareness mandate"
+                ],
+                [
+                  "Godavarman line",
+                  "—",
+                  "Led to CAMPA for compensatory afforestation funds"
+                ]
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Highest-yield matches: Oleum→absolute liability; Vellore→polluter pays; Kamal Nath→public trust; Doon Valley→first SD; Ratlam→funds no defence; TTZ→255 monuments."
+            }
+          ]
+        },
+        {
+          "id": "ngt-structure-powers",
+          "title": "NGT structure and powers",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "NGT Act 2010 created a specialized tribunal for environmental disputes. It blends judicial and expert members."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Established 18 October 2010.",
+                "Principal bench: New Delhi.",
+                "Other benches: Bhopal, Pune, Kolkata, Chennai.",
+                "Guided by natural justice; not bound by CPC 1908.",
+                "Endeavor to dispose applications/appeals within 6 months.",
+                "Powers: restore environment, impose penalties, direct compliance.",
+                "Course note: Wildlife (Protection) Act 1972 is not under NGT original jurisdiction (assignment)."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Pack: date 18.10.2010 + 5 seats + 6 months + natural justice + not CPC-bound."
+            }
+          ]
+        },
+        {
+          "id": "rapid-eia-river-ib",
+          "title": "Rapid EIA case — River Ib Barrage (Odisha)",
+          "weight": "high",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "River Ib Barrage rapid EIA shows why alternatives analysis matters. Objectives included irrigating about 800 ha and supplying drinking/industrial water to Jharsuguda, Brajrajnagar, and Belpahar."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Tools: RS/GIS, DEM, submergence mapping, yield, evaporation, storage.",
+                "Alternatives tested barrage heights of 4 m, 5 m, and 6 m.",
+                "Annual demand about 94.8 MCM; inflow about 65.5 MCM/y — inflow already below demand.",
+                "Even 6 m height met only about 14.6% of the 94.8 MCM/y demand.",
+                "Conclusion: barrage alone is inadequate; EIA must condition or reject before build."
+              ]
+            },
+            {
+              "type": "formula",
+              "expr": "Even 6 m storage ≈ 14.6% of 94.8 MCM/y demand",
+              "use": "Show alternative height still fails demand; EIA rejects build-first thinking."
+            },
+            {
+              "type": "ol",
+              "items": [
+                "Predict impacts.",
+                "Design mitigation.",
+                "Consult stakeholders.",
+                "Condition clearance before construction."
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "exam",
+              "text": "Numbers to lock: 94.8 MCM demand; ~14.6% met at 6 m; inflow 65.5 MCM < demand."
+            }
+          ]
+        },
+        {
+          "id": "international-hooks",
+          "title": "International hooks (assignment-ready)",
+          "weight": "medium",
+          "blocks": [
+            {
+              "type": "table",
+              "title": "Treaty → theme",
+              "rows": [
+                [
+                  "Instrument",
+                  "Theme"
+                ],
+                [
+                  "Vienna Convention / Montreal",
+                  "Ozone"
+                ],
+                [
+                  "Basel Convention",
+                  "Hazardous waste trade"
+                ],
+                [
+                  "UNFCCC / Paris Agreement",
+                  "Climate; NDCs nationally determined; reporting obligations binding"
+                ],
+                [
+                  "Stockholm Convention",
+                  "POPs (not climate)"
+                ]
+              ]
+            },
+            {
+              "type": "callout",
+              "kind": "trap",
+              "text": "Stockholm is POPs, not climate. Paris NDCs are nationally determined; do not call the targets themselves identically binding across all parties."
+            }
+          ]
+        }
+      ],
+      "numbers": [
+        {
+          "label": "Bishnoi / Chipko / Jungle Bachao / Appiko",
+          "value": "1730 / 1973 / 1979 / 1982-83",
+          "why": "Movement timeline"
+        },
+        {
+          "label": "Chipko award",
+          "value": "1987",
+          "why": "Right Livelihood Award"
+        },
+        {
+          "label": "W-A-E-N Acts",
+          "value": "1974 / 1981 / 1986 / 2010",
+          "why": "Core statute years"
+        },
+        {
+          "label": "Air / EPA amendments",
+          "value": "1987 / 1991",
+          "why": "Amendment traps"
+        },
+        {
+          "label": "NGT establishment",
+          "value": "18.10.2010",
+          "why": "Exact date"
+        },
+        {
+          "label": "NGT disposal endeavor",
+          "value": "6 months",
+          "why": "Statutory endeavor"
+        },
+        {
+          "label": "TTZ monuments",
+          "value": "255",
+          "why": "Taj Trapezium protection scope"
+        },
+        {
+          "label": "Ib Barrage demand met at 6 m",
+          "value": "~14.6% of 94.8 MCM/y",
+          "why": "EIA inadequacy proof"
+        },
+        {
+          "label": "Alaknanda muck share",
+          "value": "~30%",
+          "why": "NGT 2016 damage attribution"
+        }
+      ],
+      "crossLinks": [
+        {
+          "week": 8,
+          "why": "NGT intro and discharge standards under Water Act / EPA."
+        },
+        {
+          "week": 9,
+          "why": "MSW / E-waste / Plastic Rules, EPR, Almitra SWM."
+        },
+        {
+          "week": 7,
+          "why": "CE operationalized via EPR and waste Rules."
+        },
+        {
+          "week": 10,
+          "why": "Noise ambient standards under Air / EPA framework."
+        }
+      ],
+      "examChecklist": [
+        "Movement dates/regions (Bishnoi Khejri; Chipko vs Appiko).",
+        "W-A-E-N timeline + Act vs Rules distinction.",
+        "Full Rules year list (HW89 through C&D16).",
+        "Absolute liability (Oleum) vs traditional strict-liability exceptions.",
+        "Ratlam: funds defence fails.",
+        "TTZ remedy bundle + 255 monuments.",
+        "Vellore: polluter pays despite jobs/forex.",
+        "Kamal Nath = public trust.",
+        "Doon Valley = first sustainable development.",
+        "Precautionary = burden on proposer (Peddashpur).",
+        "NGT: date, benches, natural justice, 6 months, not CPC-bound.",
+        "Ib Barrage: why 6 m still fails (14.6% of 94.8 MCM).",
+        "EPR first clear definition → E-waste Rules 2011.",
+        "BMW colour (course key) + education/CAMPA hooks."
+      ]
+    }
+  ]
+}

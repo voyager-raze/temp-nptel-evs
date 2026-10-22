@@ -1,0 +1,259 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                 Week 09
+                                               Lecture 03
+                     Municipal Solid Waste Composition and Collection
+Welcome everyone. This is lecture 3 of week 9. So, we are covering solid waste
+management and, in this lecture, we are going to look at MSW, Municipal Solid Waste
+Composition and Collection.
+
+Some of the concepts that we are going to cover today are the composition and how to
+measure it. We already saw a little bit in the previous lecture and today we will go into a
+little more detail. Then we will look at the characteristics of Indian municipal solid
+waste.
+I will show you some examples from Kharagpur itself and then we will look at MSW
+collection and collection rates. These are the keywords for this particular lecture. We
+have composition, characterization, proximate analysis, ultimate analysis, moisture
+content, total solids, volatile solids, fixed solids, energy value, bulk density, collection
+and service level benchmarks.
+
+So, what I am going to talk about in this particular slide is how we analyze the
+composition of MSW. The first part is physical composition and the remaining part is the
+chemical characterization. We also have biological characterization, but since it is out of
+the scope of this course, I am not going to be talking about that. I will restrict myself to
+physical and chemical composition. A sample is taken, it can vary in size, it can be about
+50 to 100. Ideally, it should be 100 kg.
+
+It is coned. So, basically a cone of all the waste is formed and that is called coning. It is
+then quartered. So, that cone is split into four quarters and one quarter after mixing, all
+this is done after mixing the entire content of the waste. So, that it is as uniformly mixed
+as possible and then one quarter is taken for analysis.
+So, in this case, it would be 25 kg. What we will cover is physical composition and
+chemical characterization. Now, physical composition requires waste segregation. So, in
+the previous lecture, I was giving you information about paper, plastic, metal, glass and
+so on. How is that done? So, a large sample is taken, it is quartered, the sample is taken,
+it is quartered and the different fractions of paper, glass, metal, solids, whatever materials
+are there in the waste, they are manually segregated.
+So, that is the first step is waste segregation of that large sample and then you weigh it,
+weigh the individual fractions and you have the total weight. So, you can determine the
+percentage of individual fractions. That is a very simple exercise and I said a little bit
+about it in the last lecture. Today, we are going to look at chemical characterization of
+MSW. So, we have moisture content, we have proximate analysis, we need to determine
+the total solids, volatile and fixed solids.
+Then we have ultimate analysis. I would not go into too many details. Ultimate analysis
+also means elemental analysis. So, we have different types of high tech instruments
+which are used to determine the amount of carbon, hydrogen, nitrogen, sulphur and
+oxygen in the sample. That is a fairly expensive method and you need a particular type
+of instrument for doing this kind of analysis.
+Then we have organic carbon. Organic carbon also requires a fairly sophisticated
+instrument called the TOC analyzer. TOC stands for total organic carbon and you can
+take a solid sample, you cannot inject it, you can place it in the instrument and it gets
+combusted at very high temperature and based on a calibration, you can determine the
+organic carbon percentage in the entire sample. And the last point is calorific value. I will
+show you an example of how to measure that as well.
+So, we will start with moisture content. Samples of 100 g can be taken and all
+measurements should be ideally done in triplicate. Once you take this sample in a
+crucible, you dry it to a constant weight in an oven at 105  for 24 hours, minimum 24
+hours. But what we often find is that if the sample is really wet, you will have to perhaps
+dry it for a longer period of time and you take measurements at hourly intervals when you
+start getting the same weight, there is no further change in weight, then that is considered
+the final reading. You cool the sample in a desiccator and record the difference in the
+weight, the initial weight and the final weight.
+
+So, the weight lost during the process of drying is called moisture content. Then we
+come to calorific value. For determining calorific value, we use an instrument called a
+bomb calorimeter. It is a very simple instrument, it is got a little bomb, it is literally called
+a bomb and it has two hemispheres into which a small amount of sample is placed. It is
+then combusted within that bomb device and because of the combustion, the water
+temperature in the calorimeter increases.
+
+There are equations which are there in the textbooks and so on and the difference in
+temperature will allow you to determine the gross as well as net calorific value at
+constant volume. This is very important when we think about using different fractions of
+municipal solid waste for energy generation. Then we come to total solids, volatile solids
+and fixed solids. We then look at total solids, volatile solids and fixed solids. You can use
+the same methods.
+
+These are standard methods that we use for a whole range of samples. You can use it for
+sediment, you can use it for sludge and you can use it for municipal solid waste or any
+other type of solid waste. So these are solid or semi-solid samples from either water or
+waste water treatment plants or they can be even from municipal solid waste. Like I said
+any solid material is, any solid material can be analyzed using these methods. So total
+solids are what is left in the sample after the moisture has been removed.
+
+So total solids are defined as the solids left in the sample after it has been dried at 105 .
+You can take these total solids after drying and put them in what is called a muffle
+furnace. The muffle furnace has a much higher temperature. It goes up to 550 . It goes
+far beyond 550 but you are supposed to set it at 550  and after the entire sample has
+been combusted you can take it out and take the difference of the initial weight and the
+final weight.
+
+The fraction of solids that is remaining is defined as fixed solids and the material that gets
+ignited and destroyed that is called volatile solids. So I will give you a simple example in
+this particular slide. You take a sample 100 g and it is a wet sample. It is not a dry
+sample. So, because it is a wet sample it has moisture content and that is the first step in
+the analysis.
+After drying in a hot air oven at 105  to constant weight let us say in this hypothetical
+
+example the sample weight after drying is 60 g that is the remaining weight. What is our
+
+moisture content? Because we started with 100 g we are left with 60 g that means our
+
+loss is 40 g out of 100. So, the moisture content is whatever is lost in the drying process
+
+and that   40  ×100 again is your moisture content.  So that is 40 % of the wet weight of
+          100
+
+sample. It is very important to ensure that you keep in mind whether the sample weight
+
+is wet weight or dry weight because the next step we are going to talk about dry weight.
+
+So, this determines 40 % of the wet weight of the sample is the moisture content and
+therefore the remaining weight is the dry weight of the sample. So, 60 % of the sample is
+solids and we call it total solids that is the dry weight that is also the dry weight of the
+sample. Now when you take these dry solids and burn them literally burn them in a
+muffle furnace at 550  in this hypothetical example the sample weight after burning is
+let us say 10 g. This is what is remaining this is the ash content of the sample it is also
+called fixed solids. So, 10 g out of 60 is fixed solids but on a dry weight basis.
+
+If you say 10 out of 100 then it is on a wet weight basis. If you say 10 out of 60 it is on
+the dry weight basis and we write it the way it is written over here
+  =   +  . Volatile solids are going to be the
+remaining weight. So, whatever was lost in the burning process was 50 g out of 60.
+So,  50  ×100 in this case is 83 % of the total solids. Fixed solids are 16.7 % of the total
+     60
+
+solids. What I am going to show you in this slide and in the next few slides are actual
+
+numbers that we found in a study that we did quite some time back and we took 5
+
+samples from 4 vats. Now back in those days the door-to-door collection system had not
+
+come into place in Kharagpur and in Kharagpur we had community vat system.
+
+So, Kharagpur city had community vat system. These are concrete vats which are fairly
+large in size. They are more than 1 m × 1 m × 1 m and sometimes they are bigger than
+that, they are never smaller than that. Bulk samples were removed from each of the vats
+on 5 consecutive days from each vat and each vat was representative of the waste from a
+particular ward. So, you know that the city is divided into different wards and only 4 vats
+from each ward were sampled.
+
+So that was 25 kg from each vat for 5 times. The recyclable materials were removed
+manually. So manual segregation of the sample was done to determine the recyclable
+fraction. What are the recyclables? Paper, plastic, glass, metal, rubber, leather and so on.
+So, this material was removed and weighed and I will show you results for that.
+
+What was left behind is a mixture of dirt, grass, vegetation, leftover vegetation from
+basically from street sweeping. Remember that municipal garbage or municipal solid
+waste has a significant fraction from road sweeping, street sweeping or we use the term
+leaf litter. So this mixed residue that was remaining after removing the recyclables was a
+mixture of soil, dirt, grass and other vegetation material. And 2 kg of this mixed residue
+was then taken for chemical characterization. And this first step is the physical
+characterization and the remaining is chemical characterization.
+So, the moisture content, organic carbon, total solids, volatile solids, fixed solids, all of
+that was measured just as we described, just as I described in the previous slide. The
+calorific value and in those days we did not have a TOC analyzer, we measured the COD.
+I am going to skip that because it is not important. So these are the results we got. This is
+the physical composition of the waste, okay.
+
+So, this is the mixed residue. We have 80 % mixed residue. Plastic was 1 % plus
+polythene bags, polyethylene bags, the carry bags that we see in our markets and so on
+constituted 8 % by weight. The remaining was 3 % textiles, 8 % paper, < 1 % glass and
+metals, okay. This 0 is not 0, it is < 1 percent. So, in tabulated form we have the
+chemical composition or the physicochemical, whatever you want to call it, the
+physicochemical composition of the waste.
+So, the moisture content for, remember we have 20 samples. We have 5 days and 4 bins
+or 4 community bins. So we have 20 samples. This is the average moisture content was
+42 %with one standard deviation being 10.25 %
+Total solids are 100 minus 42, so that is 58.36 with a standard deviation of 11.57. Out of
+the total solids 19.63 were volatile solids with a standard deviation again close to 10
+%and fixed solids of 80.35 %with a standard deviation of 9.54 %. So organic carbon was
+measured in terms of potassium terpthalate equivalence in the COD test and that was 8.92
+%with a standard deviation of 5.79 %. The COD was also measured for this waste and
+that is how many mg O2/ mg MSW is required.
+
+So, remember COD from the water quality test and the same method was used after
+solubilizing the MSW fraction and then doing a COD test on it and you can see that the
+COD test is very low value has been obtained. It is not really a good method for doing it,
+the above method organic carbon is considered acceptable this is the same method that is
+used for determining soil organic carbon. But like I said the current method is based on
+TOC analysis and combustion in a furnace which gives much better results. Calorific
+value was determined in terms of kcal/kg and that was fairly high so 2391 kcal/kg with a
+standard deviation of close to 10 %. More recently we did a similar study again I would
+not go into any details but just to show the composition of the waste that is generated
+from the entire city based on data provided by the municipality.
+So, 79.65 % of the total MSW comes from residential areas, 13 % comes from
+commercial areas and hotel waste is 0.39 %, garden and agriculture waste are 0.7 %,
+trade waste is less than 1 %, other types of waste are 8 % and clinical waste which is
+biomedical waste is 0.72 %. The characteristics of MSW for Indian cities is summarized
+in this slide to give you an idea of the other parameters.
+
+One of the most important parameters when we go through biological processing, we will
+not have time for going into any details in this course but the carbon to nitrogen ratio is a
+very important parameter in biological processing. Because when you are trying to grow
+microorganisms based on the organic fraction of any material including municipal solid
+waste, you have to ensure that there is adequate nitrogen and adequate phosphorus so
+either of them can be what we call limiting nutrient. So carbon to nitrogen ratio should
+not be very high and it is not very high in Indian conditions it is 33.4. Just to give you an
+idea grass which is very poor in nitrogen content has a carbon to nitrogen ratio of more
+than 50 and we want something that is low.
+
+Compost has a carbon to nitrogen ratio which should be between 10 and 20. So these are
+very important parameters to tell us whether the waste can be used for bioprocessing or
+not. The calorific value is 1530 kcal/kg which is very poor in terms of energy content.
+The moisture content of Indian waste is fairly high it is 45.7 %. Our average per capita
+solid waste generation rate is close to 0.6 these days ± 0.46 kg per capita per day. Now it
+is important to note that this is highly specific to the city or the area that you are
+sampling. So, it is very important to do these kinds of surveys and get some real data.
+
+The bulk density also varies quite widely. We have 7 cities listed in this table which is
+from the Ministry of Urban Development manual and you can see the lowest number is
+369 kg/m3 and the highest one is 537 kg/m3. We now come to the next stage after
+generation in the activity flow diagram for municipal solid waste management. So, our
+first point was generation, segregation at source, removal of the recyclables and then the
+municipality has to send a vehicle under today's conditions. In our country we have what
+is called door to door collection. So if you look at the second set of service level
+benchmarks which are required for collection we have door to door collection which is
+required from all residential, commercial, institutional establishments in covered
+vehicles.
+So, I have an example of a photograph, this is an example photo of a collection vehicle
+which has separate compartments for the different fractions of municipal solid waste.
+Now the municipality's responsibility begins with collection and the bulk of the budget
+of any urban local body in India is basically spent on collection. It is an expensive
+activity, it requires transportation in these specialized vehicles, it requires two to five
+member teams to go around and pick up the waste. So it is labor and equipment intensive
+and 50 to 70% of the solid waste management budget is spent on collection alone.
+Because they are short of funds, financial resources and technical resources in some cases
+because most of the municipalities have very little equipment for doing the remaining
+activities basically for segregation of mixed waste, for removing recyclables from mixed
+waste and for treatment and proper disposal.
+
+So, most of them stop with the collection of waste and unfortunately, they are not able to
+go beyond that. Now the bulk of the solid waste management problems in most cities are
+because of problems with collection. I will be talking about that in the next couple of
+slides. It is also very important to remember that today we have 10 service level
+benchmarks out of which four are related to collection alone.
+
+This is part of the solid waste management rules of 2016. I have already mentioned door
+to door collection is mandatory in every city. 100% segregation of waste at source is
+required. The bins should be covered for secondary collection and secondary as well as
+primary collection has to be done in covered vehicles. So waste collection rates at a
+global level are also related to income levels. I have already mentioned in the previous
+lecture that income levels are related to per capita solid waste generation rates.
+Now here you can see that even collection rates are related to the income of the country.
+Now if you can put these set of facts together you can understand that because collection
+is labor and equipment intensive it is also financially the biggest sink for the
+municipalities financial resources. So in low income countries the collection rate was
+only 39%. In lower and upper middle income countries as the income level increases the
+collection rate increases and in high income countries it is as an average it is 96%. There
+are several countries and even in India today we have certain big cities which can claim
+to be 100% efficient in terms of collection.
+
+We are somewhere here. We are actually doing pretty well in terms of collection rates. I
+will be summarizing the Indian data in the next lecture not in this case. I will stop with
+this particular lecture right here and we will continue in the next lecture. Thank you.
+

@@ -1,0 +1,273 @@
+                                            Environmental Science
+                             Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                               Indian Institute of Technology Kharagpur
+
+                                                     Week 03
+                                      (Lecture 03): AIR POLLUTION
+                                  (Local Effects & Mitigation Measures)
+
+Welcome to lecture 3 of week 3 of the NPTEL online certification course on environmental
+science. So, we will continue our discussion on air pollution. Now, in the last two lectures, we
+learned about what are the different types of air pollutants. And how their atmospheric
+concentration depends on several meteorological factors. Now, in today's lecture, we will be
+learning about what are the environmental effects of air pollution.
+So, specifically, in this lecture, we will be looking at the environmental effects of air pollution in
+the local context, and we will also learn how we can mitigate such local effects of air pollution.
+So, at the end of this lecture, you should be able to define what is smog, you should also, be able
+to differentiate between industrial smog and photochemical smog, and you should also, be able to
+explain the flue gas desulfurization technology as well as the selective catalytic reduction
+technology.
+Now so far, we have seen that anthropogenic activities give rise to a huge number of pollutants in
+the form of carbon monoxide, carbon dioxide, sulfur oxides, nitrogen oxides, particulate matter,
+chlorofluorocarbons and so on. However, the concentration of these pollutants vary because of
+several meteorological factors. Nevertheless, all these pollutants can give rise to several
+environmental effects, which can be categorized into the following three categories that is they can
+give rise to certain local issues, regional issues and global issues.
+Smog is a mixture of air pollutants (sulfur dioxide, nitrogen oxides, ozone, and particulates) that
+often form over urban areas as a result of fossil fuel combustion. Thus, smog is a byproduct of
+modern industrialization. Due to industry and the number of motor vehicles, it is more of a problem
+in large cities. The term was coined from the terms "smoke" and "fog" referring to a haze that
+pollutes the air, greatly reducing visibility and making it difficult for some people to breath.
+There are two main types of smog: photochemical and industrial smog. Industrial smog is
+produced primarily by the burning of fossil fuels. Photochemical smog is formed when sunlight
+drives chemical reactions between primary pollutants from automobiles and normal atmospheric
+compounds.
+
+Industrial smog (also called winter smog) is an obnoxious grayish haze, and is produced primarily
+by the burning of fossil fuels, particularly high sulfur coal. It usually forms in cool, humid
+environments, and consists mostly of SO2, suspended droplets of sulfuric acid, and a variety of
+suspended solid particles.
+The chemistry of industrial smog is fairly simple. When burned, most of the carbon in coal and oil
+is converted to carbon monoxide (CO) and carbon dioxide (CO2). Unburned carbon in coal also
+ends up in the atmosphere as suspended particulate matter (soot).
+When coal and oil are burned, the sulfur compounds they contain react with oxygen to produce
+sulfur dioxide (SO2) gas, some of which reacts with water vapor and is converted to tiny suspended
+droplets of sulfuric acid (H2SO4). Some of these droplets react with ammonia (NH3) in the
+atmosphere to form solid particles of ammonium sulfate [(NH4)2SO4].
+The suspended particles of such salts and soot give the resulting smog a gray color, which is why
+it is sometimes called gray air smog.
+Today, urban industrial smog is rarely a problem in most developed countries where coal and
+heavy oil are burned only in large boilers with reasonably good pollution control or with tall
+smokestacks that transfer the pollutants to downwind rural areas.
+
+One prominent technology to control SO2 emissions is the use of scrubbers. Gas absorbers (or
+scrubbers) are used extensively in industry for separation and purification of gas streams, as
+product recovery devices, and as pollution control devices. In the petrochemical, pharmaceutical
+and biotechnology industries, gas absorbers are used for product recovery and purification.
+When used for air pollution control, gas absorbers are used to remove water soluble contaminants,
+such as sulfur dioxide (SO2), acid gases such as hydrogen chloride (HCl), and hazardous air
+pollutants (e.g., mercury -Hg), from air streams.
+Gas absorbers are generally referred to as scrubbers due to the mechanisms by which gas removal
+takes place. However, the term scrubber is often used very broadly to refer to a wide range of
+different control devices, such as those used to control particulate matter emissions (e.g., venturi
+scrubber).
+When used to remove SO2 from flue gas, gas absorbers are commonly called flue gas
+desulfurization (FGD) systems.
+Flue-gas desulfurization (FGD) is a set of technologies used to remove SO2 from the flue gases of
+coal- and oil-fired power plants as well as emissions from municipal and medical waste
+incinerators and a wide range of industrial processes, including cement and lime kilns, metal
+smelters, petroleum refineries, glass furnaces, and sulfuric acid plants.
+It typically consists of a vertical and cylindrical column or tower in which the exhaust gas is
+brought into contact with a sorbent, such as limestone or lime, that absorb and react with sulfur
+dioxide in the waste gas stream to produce salts.
+FGD systems can be classified as either wet or dry either depending on the physical state of the
+sorbent.
+In a wet FGD system, the sorbent is injected into the waste gas stream as an aqueous solution and
+the pollutants dissolve in the aqueous droplets and/or react with the sorbent. Dry FGD systems
+inject either dry, powdered sorbent or an aqueous slurry that contains a high concentration of the
+sorbent. In the latter case, the water evaporates in the high temperature of the flue gas, leaving
+solid sorbent particles that react with the sorbent.
+Wet FGD technologies usually achieve higher SO2 removal efficiencies than dry ones, however,
+dry scrubbers offer several advantages over wet scrubbers. They are generally less expensive, take
+up less space, are less prone to corrosion, and have lower operating costs than a comparable wet
+scrubber system.
+
+Wet FGD systems employ a slurry of pulverized limestone mixed with water to remove SO2 from
+the combustion exhaust gas of power plants. The sorbent slurry, after reacting with SO2, falls to
+the bottom of the absorber tower, where it is collected and transferred to a waste handling system.
+In dry FGD systems, lime is used as absorbent to react and remove SO2. There are two common
+approaches: dry injection system and spray drying system. A dry injection process injects dry
+hydrated lime directly into the flue gas duct, whereas the spray dry system injects atomized lime
+slurry into a separate vessel. Both methods yield a dry final product, collected in particulate control
+devices for further treatment.
+Thus a stoichiometric ratio of 1.03 corresponds to a mass ratio of
+
+mCaCO3  =         mol Ca      100 gCaCO3 / mol Ca  
+ mSO2      1.03  mol SO2        64 gSO2 / mol SO2  
+                                                   
+
+        = 1.6094 g CaCO3        = 1.6094 kg CaCO3
+                 g SO2 removed                 kg SO2 removed
+
+The annual mass of limestone required is thus
+
+mCaCO3 = (1.6094)(5.82 × 106 ) = 9.37 × 106 kgCaCO3 / year
+
+                                                                    12
+Today, most of the smog we see is photochemical smog. First described in 1943, photochemical
+smog is made of a chemical mix of ozone, nitrogen dioxide, peroxyacetyl nitrate (PAN) and other
+related compounds. It is produced by reactions between hydroxyl radicals, nitrogen oxides and
+volatile organic compounds (VOCs) in the presence of sunlight and relatively high temperatures.
+Nitrogen oxides come from car exhaust, coal power plants, and factory emissions. VOCs are
+released from gasoline, paints, and many cleaning solvents. When sunlight hits these chemicals,
+they form airborne particles and ground-level ozone--or smog. Although less visible than
+particulate smog, photochemical smog can produce a layer of brown or grey haze over an affected
+area. This is common in cities with high numbers of automobiles and large-scale industry.
+Photochemical Smog is produced in a series of chain reactions. There are two different series
+of chemical reactions which can take place in the formation of photochemical smog. The first
+involves only nitrogen oxides formed by combustion reactions.
+
+People begin driving in the morning, nitrogen reacts with oxygen in the extreme temperatures of
+the combustion engine.
+
+After a few hours, NO combines with O2 in another combustion reaction to form NO2.
+
+Nitrogen dioxide absorbs ultraviolet light (hv), reforming NO and generating a highly reactive
+oxygen atom. The NO can then again react with more O2 to continue cycling through the reaction
+or it can participate in later reactions.
+
+In the presence of sunlight, the atomic oxygen combines with oxygen gas to form ozone. The
+ozone is consumed by NO to produce nitrogen dioxide and O2. Again, these products are able to
+be reused in earlier steps of the reaction to continue the cycle.
+
+These reactions result in the accumulation of various nitrogen oxides and some ozone.
+However, NO and NO2 can also enter into a second cycle of chemical reactions by reacting with
+volatile organic compounds (VOCs) and oxygenated organic and inorganic compounds (ROx)
+instead of ozone to form a variety of other volatile compounds.
+
+Because the nitrogen oxides react with VOCs in this second series of reactions, ozone is no longer
+broken down in the first cycle. Instead, ozone is allowed to build up. The accumulation of ozone
+and volatile organic compounds, along with the energy from the sun, forms the brown,
+photochemical smog that is seen on hot, sunny days.
+Because of the wide variety of VOCs present in the atmosphere, numerous noxious products are
+generated. As already stated, one of the main ones of these is ozone, O3, and it is the single species
+most characteristic of smog. Another class of materials formed with smog consists of oxygen-rich
+organic compounds containing nitrogen, of which peroxyacetyl nitrate, PAN, is the most common
+example. This compound, and ones similar to it, is a potent oxidizer and highly irritating to eyes
+and mucous membranes of the respiratory tract. Also associated with smog are aldehydes, which
+are irritants to eyes and the respiratory tract. The simplest aldehyde, and one commonly found in
+smoggy atmospheres, is formaldehyde.
+
+There are several factors that contribute to the formation of photochemical smog.
+In any urban setting, primary pollutants include nitrogen oxides (NO and NO2) come
+predominantly from motor vehicle and industrial emissions. VOCs in the atmosphere come from
+motor vehicle and industrial emissions, solvent vapours, paints, bitumen and other man-made
+items in the environment.
+Timing is important in the development of photochemical smog. In early morning traffic the
+concentration of nitrogen oxides and VOCs in the atmosphere increases. As the morning
+progresses, nitrogen oxides and VOCs react and produce nitrogen dioxide. A developing brown
+haze indicates an increase in nitrogen dioxide concentration.
+As sunlight intensifies, its energy increases the breakdown of nitrogen dioxide and nitrogen
+monoxide to produce ozone. The brown haze fades as nitrogen dioxide concentration decreases.
+Nitrogen dioxide also forms toxic compounds, such as PAN, when it reacts with radicals in the
+atmosphere.
+The concentration of ozone peaks, then begins to fall at around 2.00 or 3.00 pm. Ozone
+concentration in the atmosphere decreases because production of ozone slows with decreasing
+temperature and light intensity.
+Various meteorological phenomena work to either decrease or increase photochemical smog in an
+area. Rain decreases the amount of photochemical smog as it washes particles that can cause
+photochemical smog from the atmosphere. High winds also help to disperse photochemical smog
+from an area, replacing it with fresh air.
+Temperature inversions can trap photochemical smog. Normally, warm air at the surface rises,
+dispersing pollutants vertically. When a temperature inversion occurs a pocket of cool air is
+trapped below warm air, and pollutants are not dispersed. Temperature inversions can remain for
+a few days or up to several weeks.
+Topography can influence the formation of photochemical smog. Mexico City is located in a
+valley, with restricted air movement. Pollutants are trapped at ground level, and mixing in the
+atmosphere is limited. Valleys are also susceptible to temperature inversions. Sao Paulo, Brazil,
+has restricted air movement as it is situated between coast and mountains. Air is trapped above the
+city, increasing pollution concentration. Perth in Australia, situated between the Indian Ocean and
+the Darling Scarp, has a similar topography.
+
+Smog is the byproduct of our urban, convenient lifestyle. Unfortunately, smog create numerous
+problems that can endanger us all - it causes health problems, and is also environmentally
+detrimental.
+People most at risk from breathing air containing ozone include people with asthma, children,
+older adults, and people who are active outdoors, especially outdoor workers. In addition, people
+with certain genetic characteristics, and people with reduced intake of certain nutrients, such as
+vitamins C and E, are at greater risk from ozone exposure.
+
+Children are at greatest risk from exposure to ozone because their lungs are still developing and
+they are more likely to be active outdoors when ozone levels are high, which increases their
+exposure. Children are also more likely than adults to have asthma.
+
+We are only capable of absorbing oxygen into our lungs. So when ground-level ozone or smog
+enters the lungs, it causes muscles in the lungs to contract and depending on the level of exposure,
+ozone can:
+
+Cause coughing and sore or scratchy throat.
+
+Make it more difficult to breathe deeply and vigorously and cause pain when taking a deep breath.
+
+Inflame and damage the airways.
+
+Make the lungs more susceptible to infection.
+
+Aggravate lung diseases such as asthma, emphysema, and chronic bronchitis.
+
+And increase the frequency of asthma attacks.
+
+Some of these effects have been found even in healthy people, but effects can be more serious in
+people with lung diseases such as asthma.
+
+Long-term exposure to ozone is linked to aggravation of asthma, and is likely to be one of many
+causes of asthma development. Studies in locations with elevated concentrations also report
+associations of ozone with deaths from respiratory causes.
+
+Additionally, the ozone in smog damage respiratory systems in animals. In fact, this is the most
+common effect seen on animals, but neurological problems and skin irritations are also common.
+
+Plants and crops grow less when exposed to long-term air pollution. Ozone pollution harms plants
+by damaging structures called stomata, which are tiny pores on the underside of leaves that allow
+the plant to "breathe." Some types of plants can protect themselves by temporarily closing their
+stomata or producing antioxidants, but others are particularly sensitive to damage.
+
+Restricted plant growth creates poor crops, and humans end up with a smaller food supply; vital
+forests are burned to create more food crops. This is in no way sustainable - reducing the smog is
+what needs to be done, to increase plant growth and improve health. Smog is an incredible issue
+in today's world, one that has both direct and indirect health consequences. To solve this issue,
+smog itself must be tackled.
+Selective Catalytic Reduction (SCR) is a chemical process that reduces the pollution produced by
+diesel engines. Specifically, SCR turns harmful nitrogen oxide (NOx) pollution into nitrogen and
+water. It is an advanced active emissions control technology system that reduces tailpipe emissions
+of nitrogen oxides (NOx) down to near-zero levels in newer generation diesel-powered vehicles
+and equipment. The SCR system involves several components packaged together with other parts
+of the emissions control system. Each manufacturer has its own variations of the type and
+sequencing of different components in the system.
+Hot exhaust gases flow out of the engine and into the SCR system where aqueous urea (known as
+Diesel Exhaust Fluid, or DEF) is sprayed onto a special catalyst. Diesel Exhaust Fluid (DEF) is a
+non-toxic fluid composed of 32% automotive grade aqueous urea and purified water. The DEF
+sets off a chemical reaction in the exhaust on a special catalyst that converts nitrogen oxides into
+nitrogen, water, and tiny amounts of carbon dioxide (CO2), natural components of the air we
+breathe. The exhaust also passes through a particulate filter somewhere in the system and then is
+then expelled through the vehicle tailpipe.
+The design of SCR technology is such that it permits nitrogen oxide (NOx) reduction reactions to
+take place in an oxidizing atmosphere. It is called "selective" because it reduces levels of NOx
+using ammonia as a reductant within a catalyst system. The chemical reaction is known as
+"reduction" where the DEF is the reducing agent that reacts with NOx to convert the pollutants
+into nitrogen, water, and tiny amounts of CO2. The DEF is rapidly broken down to produce the
+oxidizing ammonia in the exhaust stream.
+
+The SCR system takes advantage of the property of ammonia to reduce NOx in the presence of
+high temperature and is accelerated by the presence of a catalyst. As ammonia itself cannot be
+used in vehicle because of safety reasons, urea was chosen as the ammonium producer due to its
+specificity to decompose in ammonia when temperature exceeds 150°C. Urea could be stored
+under two states: either liquid at 32% in water solution, or solid. Both storage media work using
+the same mechanism but the solid state requires pre-heating from 180 to 200°C in presence of
+water vapor.
+Since 2011, all heavy-duty diesel truck engines utilize SCR technology to comply with the latest
+emissions standards.
+SCR can reduce NOx emissions up to 90% while simultaneously reducing HC and CO emissions
+by 50-90%, and PM emissions by 30-50%. SCR systems can also be combined with a diesel
+particulate filter to achieve even greater emission reductions for PM.
+The high efficiency of SCR systems in reducing NOx emissions allows manufacturers to balance
+engine performance and maximize fuel economy, while still achieving near zero emissions. Some
+SCR-equipped heavy-duty commercial truck operators report fuel economy gains of more than
+4%.
+
+So, in the next lecture what we will do we will look into the regional issues pertaining to air
+pollution. So, today, we looked into the local issues. So, in the next lecture we will be looking into
+the regional issues pertaining to air pollution. So, on that note, I end this lecture. Thank you.
+

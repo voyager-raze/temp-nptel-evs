@@ -1,0 +1,1726 @@
+   NPTEL
+
+Week 5, Lecture 1 ­ RENEWABLE ENERGY I
+                             (Overview)
+ Renewable energy ­ importance and types
+
+EL  Applications of renewable energy sources
+NPT  Energy storage for renewable energy integration
+
+ Current status and future prospects
+
+                                                                                                                              02
+ Global energy trilemma
+ Resource potential
+
+TEL  Technical potential
+NP  Renewable energy intermittency
+
+ Energy storage
+
+                                                                                                                              03
+What is renewable energy?
+
+ Renewable energy is any form of energy that is continually replenished by
+
+     natural processes at a rate that equals or exceeds its rate of use.
+      Energy system based on renewable electricity
+
+                       NPTEL
+
+                                                                                                                                     04
+
+       (Image courtesy of Alliance to Save Energy)
+Why use renewable energy?
+
+ Healthy energy systems are secure, equitable, and environmentally
+
+     sustainable.
+      The energy trilemma
+
+                       NPTEL
+
+(Image courtesy of World Energy Council)                            05
+Why use renewable energy?
+
+ Rapidly shifting the world away from the consumption of fossil fuels and
+
+     towards cleaner renewable forms of energy is critical to attain the climate
+     goals agreed upon in Paris.
+      Energy-related CO2 emissions, 2010-2050
+
+                       NPTEL
+
+                                                                                                                                     06
+
+       (Image courtesy of International Renewable Energy Agency (IRENA))
+Why use renewable energy?
+
+ In addition to reducing CO2 emissions, renewable energy can bring
+
+     substantial socio-economic benefits at the global level.
+      Key drivers for energy transformation
+
+                       NPTEL
+
+                                                                                                                                     07
+
+       (Image courtesy of IRENA)
+Types of renewable energy sources
+
+            Solar Energy
+
+  Biomass                 NPTEL Wind Energy
+   Energy
+                          Geothermal
+Hydropower                   Energy
+
+            Ocean
+            Energy
+
+                                                                                                              08
+Types of renewable energy sources
+
+ The various forms of renewable energy depend primarily on incoming solar
+
+     radiation, which totals approximately 5.4 million exajoules (EJ) per year.
+
+                       NPTEL
+
+                                                                                                                                     09
+
+       (Image courtesy of The Open University)
+Renewable energy potential
+
+ The overall potential of renewable energy sources is assessed on the basis
+
+     of four different categories.
+      Levels of renewable energy potential
+
+                       NPTEL
+
+                                                                                                                                     10
+
+       (Image courtesy of US Department of Energy)
+Renewable energy applications
+
+ Renewable energy technologies are diverse and can serve the full range of
+
+     energy service needs. The different types of renewable energy can supply
+     electricity, thermal energy, and mechanical energy, as well as produce fuels
+     that are able to satisfy multiple energy service needs.
+
+Paths of energy from source to service  NPTEL
+
+                                                                                                                               11
+
+(Image courtesy of IPCC)
+Renewable energy applications
+
+ Renewable energy sources are already being successfully integrated into
+
+     energy supply systems and into end-use sectors.
+      Pathways for renewable energy integration to provide energy services
+
+                       NPTEL
+
+                                                                                                                                     12
+
+       (Image courtesy of IPCC)
+Energy storage for renewable integration
+
+ Electricity storage is a key technology for electricity systems with a high
+
+     share of renewables as it allows electricity to be generated when renewable
+     sources (i.e., wind and sunlight) are available and to be consumed on
+     demand.
+
+  NPTEL Electricity demand and solar power output (one day)
+
+       (Image courtesy of REN21)
+
+                                                                                                                                     13
+Energy storage for renewable integration
+
+ There is a wide range of electricity storage technologies for different
+
+     applications and services.
+      Classification of energy storage technologies
+
+                       NPTEL
+
+                                                                                                                                     14
+
+       (Image courtesy of AECOM Australia Ptv Ltd)
+Energy storage for renewable integration
+
+ Thermal energy storage provides the essential flexibility to integrate high
+
+     shares of solar and wind power.
+
+Operating temperatures and time ranges for
+thermal energy storage technologies
+
+                                                                      (PCM: Phase change
+                                                                      material, CPCM: Composite
+                                                                      phase change material,
+                                                                      WTTES: Water tank thermal
+
+                                                 Lenergy storage, UTES:
+                                                E Underground thermal energy
+                                            NPT storage)
+
+                                                                                                                               15
+
+(Image courtesy of IRENA)
+Energy storage for renewable integration
+
+ A key merit of thermal energy storage is the ability to store energy on a
+
+     seasonal basis. Surplus heat produced with renewables in the summer can
+     be retained, and then used to meet heating demand during winter.
+
+Direct molten-salt storage system
+
+                                   NPTEL
+
+(Image courtesy of IRENA)
+
+                                                                                                                               16
+Current status and future prospects
+
+ Renewable energy accounted for an estimated 12.6% of total final energy
+
+     consumption in 2020, up modestly from 8.7% in 2009.
+
+                       NPTEL
+
+(Image courtesy of REN21)                                                 17
+Current status and future prospects
+
+ Renewables are most dynamic in the electricity sector, reaching around
+
+     28% in 2019, while progress in the heat and transport sectors have been
+     much slower.
+
+Renewable energy in total final energy consumption, by final energy use,
+
+2015-2019
+
+           NPTEL
+
+                                                                                                                               18
+
+(Image courtesy of REN21)
+Current status and future prospects
+
+ Only 3 countries had renewable shares above 50% in 2019, and another 20
+
+     countries, mostly in Europe and Latin America, met at least a quarter of
+     their total final energy consumption with renewables.
+
+Renewable energy share in total final energy consumption for
+
+selected countries, 2019
+
+                          NPTEL
+
+                                                                                                                               19
+
+(Image courtesy of REN21)
+Current status and future prospects
+
+ To achieve net zero emissions by 2050, the world would need to add 825
+
+     GW of renewables each year.
+
+      Annual additions of renewable power capacity, by technology and total,
+      2016-2021, and to achieve net zero scenarios for 2030 and 2050
+
+                       NPTEL
+
+                           (IEA: International
+
+                           Energy Agency)                                     20
+
+(Image courtesy of REN21)
+NPTEL
+   NPTEL
+
+Week 5, Lecture 2 ­ RENEWABLE ENERGY I
+                             (Solar Energy ­ I)
+ Solar energy basics
+
+L  Concentrating solar power
+   TE ­ Technology overview
+   NP ­ Environmental and social impacts
+
+     ­ Status and future development
+
+                                                                                                                              02
+ Cosine effect
+ Concentrating solar power
+
+L  Parabolic troughs
+TE  Parabolic dishes
+NP  Linear-Fresnel reflectors
+
+ Solar towers
+ Heliostats
+
+                                                                                                                              03
+Direct solar energy
+
+ Solar energy is the most abundant of all energy resources. Indeed, the rate
+
+     at which solar energy is intercepted by the Earth is about 10,000 times
+     greater than the rate at which humankind consumes energy.
+     Comparison of energy resources
+
+                       NPTEL
+
+                                                                                                                                     04
+
+       (Image courtesy of IEA)
+Direct solar energy
+
+ The energy received from the sun in a single year, if entirely captured and
+
+     stored, would represent more than 6,000 years of total energy
+     consumption.
+     Global technical potential of energy sources
+
+                       NPTEL
+
+                                                                                                                                     05
+
+       (Image courtesy of IEA)
+Solar radiation basics
+
+ Solar irradiance is maximal when the sun is directly overhead. When the
+
+sun is lower in the sky, its energy is spread over a larger area, and is
+
+therefore weaker per surface area. This reduction of the receiving area
+
+caused by the cosine of the angle between the incident solar radiation and
+
+the surface normal is called the cosine effect.
+
+The cosine effect                                NPTEL
+
+(Image courtesy of IEA)                                                     06
+Solar radiation basics
+
+ To reduce the cosine effect, collectors are tilted horizontally or are
+
+     constantly moved by tracking systems in an attempt to maintain the angle
+     of incidence as close to ninety degrees as possible at all times.
+
+                       NPTEL
+
+                                                                                                                                     07
+
+       (Image courtesy of The Pennsylvania State University)
+Solar radiation basics
+
+ To reduce the cosine effect, collectors are tilted horizontally or are
+
+     constantly moved by tracking systems in an attempt to maintain the angle
+     of incidence as close to ninety degrees as possible at all times.
+
+                       NPTEL
+
+                                                        G  1000 W m2;   30o
+
+                                                           G  (1000 W m2 ) cos ( 30o )
+                                                               = 866 W m2
+
+                                                    13.4% loss
+
+                                                                                                                                     08
+
+       (Image courtesy of The Pennsylvania State University)
+Solar radiation basics
+
+ To reduce the cosine effect, collectors are tilted horizontally or are
+
+     constantly moved by tracking systems in an attempt to maintain the angle
+     of incidence as close to ninety degrees as possible at all times.
+
+                       NPTEL
+
+                                                                                                                                     09
+
+       (Image courtesy of The Pennsylvania State University)
+Solar radiation basics
+
+ Solar irradiance is of fundamental importance for harvesting high quality
+
+     solar energy and is deemed good to excellent between 10o and 40o (north
+     or south).
+      Average yearly irradiance
+
+                       NPTEL
+
+                                                                                                                                     10
+
+        (Image courtesy of IEA)
+Solar radiation basics
+
+ Solar irradiance varies over the year at diverse latitudes ­ very much at
+
+     high latitudes, especially beyond the polar circles, and very little in the
+     tropics.
+
+Total daily amount of extraterrestrial irradiance on a
+
+plane horizontal to the Earth's surface
+
+                                         NPTEL
+
+                                                                                                                               11
+
+(Image courtesy of IEA)
+Harnessing solar energy
+
+                                There are two
+
+                                     fundamental methods
+                                     to capture energy from
+                                     the sun ­ heat and
+                                     photoreaction.
+
+                         NPTEL
+
+                                                                                                                                    12
+
+(Image courtesy of Electric Radiators Direct)
+Direct solar energy technologies
+
+ Depending on the capturing mechanism, there are four major direct solar
+
+     energy technologies.
+
+                       NPTEL
+
+                                                                                                                                     13
+
+       (Image courtesy of SBC Energy Institute)
+Concentrating solar power
+
+ Concentrating solar power (CSP) plants use mirrors to concentrate sunlight
+
+     onto a receiver, which collects and transfers the solar energy to a heat
+     transfer fluid that can be used to supply heat for end-use applications or to
+     generate electricity through conventional steam turbines.
+
+                       NPTEL
+
+                                                                                                                                     14
+
+       (MRS Bulletin, 2018, 43, 920­921)
+Concentrating solar power
+
+ CSP technology depends on direct-beam irradiation, and its maximum
+
+     benefit are thus restricted to high direct normal irradiance (DNI) areas. DNI
+     is the amount of solar radiation received per unit area by a surface that is
+     always held perpendicular (or normal) to the rays that come in a straight
+     line from the direction of the sun at its current position in the sky.
+
+  NPTEL World exposure to direct normal irradiance (DNI), kWh/m²/year
+
+                                                                                                                                     15
+
+       (Image courtesy of SBC Energy Institute)
+CSP technologies
+
+ CSP is a three-stage technology that has modular and scalable
+
+     components and does not require exotic materials.
+
+                       NPTEL
+
+                                                                                                                                     16
+
+      (Image courtesy of IEA)
+CSP technologies
+
+ Four main sub-categories coexist, distinguished by the way they focus the
+
+     sun's rays and the technology used to receive the sun's energy.
+
+                       NPTEL
+
+(Image courtesy of SBC Energy Institute)                                    17
+Parabolic troughs
+
+ Parabolic troughs are the most mature of the CSP technologies and form
+
+     the bulk of existing commercial plants.
+
+                                                                 A parabolic trough collector (PTC) is a
+                                                                 linear concentrating system made of
+                                                                 long, parabolic-shaped mirrors and a
+                                                                 receiver tube placed along the focal axis
+                                                                 of the parabola. DNI is concentrated onto
+
+                   L the receiver tube, where solar energy is
+
+                                                                 absorbed by the heat transfer fluid and
+
+                   E transferred to a steam generator to
+                   T produce superheated steam that runs a
+                   NP turbine, to produce electricity.
+
+                                                                                                                                     18
+
+       (Image courtesy of IPCC; SBC Energy Institute)
+Linear-Fresnel reflectors
+
+ Linear-Fresnel reflectors are less expensive than troughs but less effective
+
+     when the sunlight is low.
+
+                                                                 LFRs approximate the parabolic shape
+                                                                 of trough systems but use long rows of
+                                                                 flat or slightly curved mirrors to reflect
+                                                                 the sun's rays onto a downward-facing
+                                                                 linear, fixed receiver. Due to the high
+
+                   L position of the receiver, collectors can be
+
+                                                                 installed closer to each other, reducing
+
+                   NPTE the land-use footprint and cost.
+
+                                                                                                                                     19
+
+       (Image courtesy of IPCC; SBC Energy Institute)
+Solar towers
+
+ Solar towers can offer higher large-scale concentration levels and flexibility.
+
+                                                                   Solar towers ­ aka central receiver
+                                                                   systems ­ comprise a field of heliostats
+                                                                   (i.e., devices that track the sun from a
+                                                                   stationary point), surrounding a central
+                                                                   receiver atop a built structure, where a
+                                                                   heat-transfer fluid is used to heat a
+                                                                   working fluid, which, in turn, is used in
+
+                    L a conventional turbine generator to
+                    NPTE produce electricity.
+
+       (Image courtesy of IPCC; SBC Energy Institute)
+
+                                                                                                                                     20
+Solar towers
+
+ Heliostats must be distanced from each other to reduce shading but also
+
+     blocking, which takes place when a heliostat intercepts part of the flux
+     reflected by another.
+
+                       NPTEL
+
+(Image courtesy of IEA)                                                        21
+Example #5.2.1: Land requirement for solar tower
+
+If the incident solar radiation averages 700 W/m2 for 8 hours in California,
+
+estimate the land area needed by a solar tower power plant using 80% efficient
+
+heliostats (2 m  8 m) to provide 10 MW of electrical power. How many
+
+heliostats will have to be installed? Assume that the efficiency of converting
+
+solar heat to electrical energy is 35% and that the land area for the solar power
+plant is twice the land area of the heliostats themselves.
+
+EL Solution:
+NPT Heat input needed to provide 10 MW of electric power for 8 h
+10 MW  8 h = 80 MWh = 228.57 MWh
+0.35  0.35
+
+Equivalent amount of solar energy needed using 80% efficient heliostats
+
+228.57 MWh = 285.71 MWh                                                            22
+0.8
+Solar radiation collected in 8 h  =    700  W     8  h  =  5600  Wh    1 MWh    =  0.0056  MWh
+                                            m2                   m2    106 Wh               m2
+                                                
+
+                                  285.71 MWh                         1 km2
+EL Required heliostat land area=                     =  51020  m2    106 m2  =  0.051 km2
+                                            MWh
+                                  0.0056     m2
+NPT Land area needed by the solar tower plant = 2 × 0.051 km2 = 0.102 km2
+
+Number of heliostats to be installed   =    51020 m2    =  153061 m2  = 3189
+                                            2m×8m             16 m2
+
+                                                                                                23
+Parabolic dish
+
+ Parabolic dishes have the highest efficiency, but are generally more
+
+     expensive than other systems, suitable only on a small scale.
+
+                                                                   Parabolic dishes concentrate the sun's
+                                                                   rays at a focal point propped above the
+                                                                   centre of the dish. The entire apparatus
+                                                                   tracks the sun, with the dish and
+                                                                   receiver moving in tandem. They are
+
+                    L limited in size (typically tens of kW or
+
+                                                                   smaller) and each produces electricity
+
+                    NPTE independently.
+
+                                                                                                                                     24
+
+       (Image courtesy of IPCC; SBC Energy Institute)
+Thermal energy storage for CSP
+
+ Thermal storage in CSP plants de-links solar energy collection and
+
+     electricity generation.
+
+Firm and time-shifted production
+
+                                  NPTEL
+
+(Image courtesy of IEA)
+
+                                                                                                                               25
+Thermal energy storage for CSP
+
+ Thermal storage allows CSP plants to shift, extend or concentrate electricity
+
+     generation to whenever it is most needed throughout the day.
+
+      Indirect storage system, oil-based
+
+                                                                       Require an additional heat
+                                                                        exchanger to store heat in a
+                                                                        separate circuit, usually oil-based.
+
+  NPTEL Direct storage system, molten salt-based
+                                                                        Include the storage tank directly in
+                                                                        the primary circuit. It uses molten
+                                                                        salt as working fluid instead of oil, to
+                                                                       allow for higher temperature,
+                                                                        smaller storage tank and higher
+                                                                        steam cycle efficiency.
+
+                                                                                                                                     26
+
+      (Image courtesy of SBC Energy Institute)
+CSP applications
+
+ On top of conventional electricity generation, CSP can be applied to
+
+     desalinize water, support enhanced oil recovery, or fuel remote facilities.
+
+                       NPTEL
+
+                                                                                                                                     27
+
+       (Image courtesy of SBC Energy Institute)
+Environmental and social impacts
+
+ CSP does not directly emit GHGs or other pollutants when producing
+
+     electricity.
+      Lifecycle GHG emissions, g CO2/kWh
+
+                       NPTEL
+
+                                                                                                                                     28
+
+        (Image courtesy of SBC Energy Institute)
+Environmental and social impacts
+
+ Unless dry cooling technology is used, CSP requires a significant volume of
+
+     water for cooling and condensing processes.
+      Water consumption of various plants, L/MWh
+
+                       NPTEL
+
+(Image courtesy of SBC Energy Institute)                                      29
+Status and future development
+
+ In 2021, the global market for CSP contracted for the first time since the
+
+     commercial establishment of the industry in the 1980s, to reach a total
+     cumulative capacity of 6 GW.
+
+      CSP global capacity, by country and region, 2006-2021
+
+                       NPTEL
+
+(Image courtesy of REN21)                                                     30
+Status and future development
+
+ By the end of 2021, an estimated 23 GWh of thermal energy storage,
+
+     based almost entirely on molten salts, was operating in conjunction with
+     CSP plants across five continents.
+
+      Thermal energy storage global capacity and annual additions, 2011-2021
+
+                       NPTEL
+
+(Image courtesy of REN21)                                                      31
+NPTEL
+   NPTEL
+
+Week 5, Lecture 3 ­ RENEWABLE ENERGY I
+                             (Solar Energy ­ II)
+ Solar photovoltaic
+
+­  Technology overview
+­
+­  EL Environmental and social impacts
+   NPT Status and future development
+
+                                        02
+ PV cell
+
+ PV module             NPTEL
+ Tilt angle
+ Monofacial PV module
+
+ Bifacial PV module
+
+                              03
+Solar photovoltaic
+
+ Solar photovoltaic (PV) is one of the four main direct solar energy
+
+     technologies.
+
+                       NPTEL
+
+(Image courtesy of SBC Energy Institute)                              04
+Solar photovoltaic
+
+ Solar PV technologies generate electricity by exploiting the photovoltaic
+
+     effect.
+
+The photovoltaic effect
+
+                                     Photovoltaic cells are
+                                     interconnected to form
+                                     PV modules with a
+
+                            L power capacity of up
+
+                                     to several hundred
+
+                            Ewatts. Photovoltaic
+                           Tmodules are then
+                          P combined to form PV
+                         N systems.
+
+(Image courtesy of IEA)                                                     05
+Solar photovoltaic
+
+ PV modules combined with a set of additional application-dependent
+
+     system components (i.e., Balance of System) form a PV System.
+
+Grid-connected PV systems
+
+                                PV modules are combined
+                                with application-dependent
+                                components such as a
+                                support rack, an inverter
+
+                            L and switches to form a PV
+
+                                system. Balance of system
+
+                            E (BOS) encompasses all
+                            Tcomponents other than the
+                            PPV module, including
+                           N batteries when storage is
+
+                                included in the system.
+
+                                                                                                                               06
+
+(Image courtesy of IEA)
+Orientation and positioning of PV module
+
+ At any given location, the efficiency of a PV module is determined by its tilt
+
+     angle and the solar azimuth angle.
+      Geometry of a fixed-tilt monofacial PV module receiving
+      sunlight and skylight.
+
+                       NPTEL
+
+                                                                                                                                     07
+
+        (Image courtesy of The Pennsylvania State University)
+Orientation and positioning of PV module
+
+ To collect as much radiation as possible, a PV module should face the
+
+     equator and must be tilted toward the sun.
+      Sun's path during summer and winter in Northern hemisphere
+
+                       NPTEL
+
+                                                                                                                                     08
+
+       (Image courtesy of Green Sarawak)
+Orientation and positioning of PV module
+
+ There are two approaches for determining the optimal tilt angle for fixed-
+
+     mount PV modules.
+
+Method 1:
+
+           NPTEL
+
+(Image courtesy of Ballarat Solar Company)
+
+                                                                                                                               09
+Orientation and positioning of PV module
+
+ There are two approaches for determining the optimal tilt angle for fixed-
+
+     mount PV modules.
+
+Method 2:
+
+           NPTEL
+
+(Image courtesy of Ballarat Solar Company)
+
+                                                                                                                               10
+Types of PV module
+
+ Bifacial PV modules have a higher electrical output in comparison to
+
+     monofacial PV modules as they are able to absorb light from both the front
+     and rear surface; however, bifacial PV modules generally require more
+     space to absorb diffuse light and are more expensive.
+
+                       NPTEL
+
+(Image courtesy of Coulee Tech)                                                  11
+Types of PV module
+
+ Unlike conventional monofacial PV modules, the energy output of the
+
+     bifacial PV module depends on the site configuration and surface albedo.
+      Parameters affecting the output of bifacial PV module
+
+                       NPTEL
+
+(Image courtesy of NREL)                                                       12
+Types of PV cells
+
+ There are several types of PV technology, varying by the type of material
+
+     used in the cell's absorber.
+      Classification of PV cells
+
+                       NPTEL
+
+                                                                                                                                     13
+
+        (Image courtesy of SBC Energy Institute)
+Solar PV applications
+
+ PV has four end-use sectors with varying costs and performance
+
+     requirements.
+
+                       NPTEL
+
+      (Image courtesy of SBC Energy Institute)
+
+                                                                                                                                     14
+Solar PV applications
+
+ Distributed generation is an important application of solar PV.
+
+                       NPTEL
+
+                                                                                                                                     15
+
+       (Image courtesy of NREL)
+Environmental and social impacts
+
+ GHG emissions from solar PV are low, but the technology's overall
+
+     environmental impact depends on power-system integration.
+      Lifecycle GHG emissions, g CO2 eq./kWh
+
+                       NPTEL
+
+(Image courtesy of SBC Energy Institute)                            16
+Environmental and social impacts
+
+ Although there are concerns about lifecycle pollutants, PV technologies
+
+     appear to have a limited social and environmental impact.
+
+Lifecycle land transformation  Plant's water consumption,
+requirement, m2/GWh
+                               L/MWh
+
+                                NPTEL
+
+(Image courtesy of SBC Energy Institute)
+
+                                                                                                                               17
+Status and future development
+
+ Solar PV maintained its record-breaking streak, with new capacity
+
+     increasing 25% in 2021.
+
+      Solar PV global capacity and annual additions, 2011-2021
+
+                       NPTEL
+
+(Image courtesy of REN21)                                           18
+Status and future development
+
+ For the ninth consecutive year, Asia dominated all other regions in new
+
+     solar PV installations, representing 52% of the global added capacity in
+     2021.
+
+      Solar PV global capacity, by country and region, 2011-2021
+
+                       NPTEL
+
+(Image courtesy of REN21)                                                      19
+Status and future development
+
+ The top five PV installers (in descending order) were China, the United
+
+     States, India, Japan, and Brazil, together comprising around 61% of newly
+     installed capacity.
+      Solar PV capacity and additions, top 10 countries for capacity added, 2021
+
+                       NPTEL
+
+                                                                                                                                     20
+
+       (Image courtesy of REN21)
+NPTEL
+   NPTEL
+
+Week 5, Lecture 4 ­ RENEWABLE ENERGY I
+                             (Solar Energy ­ III)
+ Solar thermal energy
+
+­  Active solar system
+­
+­  L Passive solar system
+   NPTE Status and future development
+ Solar fuels
+
+­ Technology overview
+
+                                       02
+ Solar collectors
+
+ Solar heaters          NPTEL
+ Trombe wall
+ Solar daylighting
+
+ Solar water splitting
+
+                               03
+Solar thermal energy
+
+ Solar thermal systems (STS) collect thermal energy from the sun and use
+
+     this heat for drying purposes, for space heating/cooling, or to provide hot
+     water in the residential and commercial sectors.
+
+                                                                                      There are two types of
+                                                                                      STS available: active
+                                                                                      and passive. Active
+                                                                                      systems are more
+
+                          L expensive than passive
+                          E systems, but are also
+                       NPTmore efficient.
+
+(Image courtesy of US Energy Information Administration)                                                      04
+Active solar systems
+
+ Active solar systems collect solar radiation to raise the temperature of a
+
+     heat transfer fluid, which can be air, water, or a specially designed fluid. The
+     hot fluid can be used directly for hot water needs or space heating/cooling
+     needs.
+
+                                                                                   Solar collectors can be
+                                                                                   classified into two main
+                                                                                   categories: flat plate
+
+                         L collectors and evacuated
+                       NPTE tube solar collectors.
+
+                                                                                                                                     05
+
+       (Image courtesy of https://city.milwaukee.gov/)
+Active solar systems
+
+ Flat plate collectors (FPC) consist of tubes carrying a fluid running through
+
+     an insulated, weather-proof box with a dark absorber material and thermal
+     insulation material on the backside that also prevents heat loss.
+
+                                                                              The simplest FPC is an
+                                                                              unglazed collector without
+                                                                              backside insulation, typically
+
+                       L used for heating swimming
+
+                                                                              pools and other low-
+
+                       E temperature applications, while
+                       T glazed FPC have higher
+                       Pefficiencies, lower heat loss,
+                       Nhigh working temperatures and
+
+                                                                              higher initial cost.
+
+       (Image courtesy of IPCC)
+
+                                                                                                                                     06
+Active solar systems
+
+ Evacuated tube solar collectors (ETC) use parallel rows of glass tubes,
+
+     each of which contains either a heat pipe or another type of absorber,
+     surrounded by a vacuum. The heat from the hot end of the heat pipes is
+     transferred to the transfer fluid of a domestic hot water or hydronic space-
+     heating system.
+
+                       NPTEL
+
+                                                                                                                                     07
+
+       (Image courtesy of IPCC)
+Example #5.4.1: Efficiency of solar collectors
+
+A flat-plate solar collector feeds a storage tank of capacity 227 L. The flow rate of
+
+the pumped water is 20  10­6 m3/s. The ambient air temperature is 15 oC. For 6
+
+hours of operation, the temperature rise of the collector water averages 22 oC. If the
+
+temperature rise in the storage tank is 16.5 oC, what is the system thermal
+
+efficiency? What is the power rating of the collector? Assume that the density of
+
+L water is 106 g/m3 and the specific heat capacity of water is 4.2 J/g oC.
+E Solution:
+PT Volume of water transferred = 20  106 m3  6 h  3600 s = 432  103 m3
+                              N s                   1h
+
+Mass of water transferred  =  432  103 m3    106 g  =  432000 g
+                                            1 m3
+
+Heat energy collected      = mass of water transferred 
+
+                              temperature rise  specific heat capacity
+                                                                                                                            08
+           =                 432000     g    22  oC    4.2    J
+                                                            g oC
+
+           = 39.91  106 J
+
+Capacity of storage tank = 227 L  1000 g = 227000 g
+                                                1L
+
+TEL =
+Amount of heat needed to raise tank temperature by 16.5 oC
+
+   227000  g                  16.5  oC     4.2    J    = 15.73  106 J
+                                                g oC
+NP Thus, efficiency of collector system
+
+=  heat transferred to tank                  =  15.73  106 J  = 0.394 or  39.4%
+         heat collected                         39.91  106 J
+
+Power rating of collector =  energy   collected   =   39.91  106 J  =  1848 W
+                             time of  collection      6 h  3600 s
+                                                                                 09
+
+                                                            1h
+Active solar systems applications
+
+ Solar domestic water heating is the most common application in many
+
+     countries and is widely used for domestic hot water preparation in single or
+     small multi-family homes.
+
+                                                                                Active solar water heaters
+                                                                                rely on electric pumps and
+                                                                                controllers to circulate the
+                                                                                carrier fluid through the
+
+                       NPTEL collectors.
+
+                                                                                                                                     10
+
+       (Image courtesy of IPCC)
+Active solar systems applications
+
+ Solar domestic water heating is the most common application in many
+
+     countries and is widely used for domestic hot water preparation in single or
+     small multi-family homes.
+
+                                                                                Passive solar water heaters
+                                                                                include black tanks or tubes
+                                                                                in an insulated glazed box.
+                                                                                Cold water is preheated as it
+
+                        L passes through the solar
+                        E collector, with the heated
+
+                                                                                water flowing to a standard
+
+                       NPT backup water heater.
+
+                                                                                                                                     11
+
+       (Image courtesy of IPCC)
+Active solar systems applications
+
+ Solar combisystems provide hot water as well as space heating and
+
+     consequently require significantly larger solar collector areas.
+
+                       NPTEL
+
+       (Image courtesy of IRENA)
+
+                                                                                                                                     12
+Active solar systems applications
+
+ Solar cooling can be complementary to solar heating, especially in regions
+
+     that require cooling in the summer and heating in the winter.
+      Possible configurations for solar-driven cooling systems
+
+                       NPTEL
+
+       (Image courtesy of IRENA)
+
+                                                                                                                                     13
+Passive solar systems
+
+ Passive solar energy technologies absorb solar energy, store, and
+
+     distribute it in a natural manner (e.g., natural ventilation) (passive solar
+     heating) or allow any internal heat to escape (passive solar cooling),
+     without using mechanical elements (e.g., fans and pumps).
+
+                       NPTEL
+
+                                                                                                                                     14
+
+       (Image courtesy of Brad Pettitt)
+Elements of passive solar design
+
+ To be successful, a passive solar system must include five basic elements,
+
+     working in an integrated manner: apertures, absorbers, thermal mass,
+     distribution, and control.
+
+                       NPTEL
+
+                                                                                                                                     15
+
+       (Image courtesy of SolarReviews)
+Principles of good orientation for passive design
+
+Seasonal path of the sun and the case of   Orientation is the
+shadows
+                                               positioning of a building
+                                               with respect to seasonal
+                                               variations in the sun's
+                                               path as well as prevailing
+                                               wind patterns. Optimal
+
+                                            L orientation can increase
+                                            E the energy efficiency of
+                                            Thomes and buildings,
+                                           Pmaking them more
+                                          N comfortable to live in and
+
+                                               cheaper to run.
+
+(Image courtesy of Eco Design Advisor)
+
+                                                                           16
+Principles of good orientation for passive design
+
+Ideal orientation of rooms for passive solar   The main orientation of
+heating
+                                                   the building should be
+                                                   within 30° of south.
+                                                   Rooms oriented east of
+                                                   south can benefit from the
+                                                   morning sun. Those
+
+                                                L orientated west of south
+                                                E will experience the late
+                                                Tafternoon sun, which can
+                                               Phelp delay the evening
+                                              N heating period.
+
+(Image courtesy of Eco Design Advisor)
+
+                                                                                                                                    17
+Passive solar systems
+
+ In a direct gain design, sunlight enters the house through south-facing
+
+     windows and strikes masonry floors and/or walls, which absorb and store
+     the solar heat. As the room cools during the night, the thermal mass
+     releases heat into the house.
+
+                       NPTEL
+
+                                                                                                                                     18
+
+       (Image courtesy of Greenesa)
+Passive solar systems
+
+ Indirect gain passive solar heating systems consist of a collector-storage
+
+     wall, known as a Trombe wall, placed directly next to the glazing, with
+     possible air circulation between the cavity of the wall system and the room.
+
+                            Warm air  NPTEL
+
+                            Cold air
+
+(Energies, 2023, 16, 1887)                                                         19
+Passive solar systems
+
+ Indirect gain passive solar heating systems consist of a collector-storage
+
+     wall, known as a Trombe wall, placed directly next to the glazing, with
+     possible air circulation between the cavity of the wall system and the room.
+
+Warm air                                                     NPTEL
+
+Cold air
+
+(E(nImeraggiees,c2o0u2r3t,e1s6y, o18f 8M7r). BIM Architecs)                        20
+Passive solar systems
+
+ Daylighting is the controlled admission of natural light, direct sunlight, and
+
+     diffused-skylight into a building to reduce electric lighting and save energy.
+
+                       NPTEL                                                         Active daylighting systems use
+                                                                                     mechanical devices to capture the
+                                                                                     sunlight by tracking the sunlight and
+                                                                                     use it for distribution indoors. In
+                                                                                     passive daylighting, common
+                                                                                     fenestration like windows, shades,
+                                                                                     floors, wall, floors or other equipment
+                                                                                     capture and distribute sunlight into
+                                                                                     the interiors of the building.
+
+                                                                                                                               21
+
+(Image courtesy of Architectural Resources)
+Status and future development
+
+ The global solar heat market grew 3% in 2021 to 25.6 GWth, up from 24.9
+
+     GWth in 2020.
+      Solar water heating collectors global capacity, 2011-2021
+
+                       NPTEL
+
+                                                                                                                                     22
+
+       (Image courtesy of REN21)
+Status and future development
+
+ China remained the world's largest market for solar thermal capacity
+
+     additions in 2021, followed distantly by India, Turkey, Brazil and the United
+     States.
+
+Solar water heating collector additions,
+top 20 countries for capacity added, 2021
+
+                                           NPTEL
+
+                                                                                                                                23
+
+(Image courtesy of REN21)
+Solar fuels
+
+ Solar energy can be used to generate hydrogen by splitting water or any
+
+     hydrocarbon, through various processes. Hydrogen can be used as such or
+     to further process other fuels, notably convenient liquid fuels.
+
+                                                                          Solar water splitting to form
+                                                                          hydrogen and oxygen is a
+                                                                          potential means of renewable
+                                                                          energy production with no reliance
+
+                      L on fossil fuels and no CO2
+                      NPTE emission.
+
+                                                                                                                                     24
+
+       (Image courtesy of TU Delft)
+Approaches to solar hydrogen production
+
+                                                                                                   Various solar-driven H2 production
+                                                                                                   approaches: (a) photocatalytic water splitting,
+                                                                                                   (b) photoelectrochemical water splitting, (c)
+                                                                                                   photovoltaic-electrochemical water splitting,
+
+                             L(d) solar thermochemical water splitting, (e)
+                           E photothermal catalytic H2 production, and (f)
+                       NPT photobiological H2 production.
+
+                                                                                                                                     25
+
+(ACS Energy Letters, 2022, 7, 3, 1043­1065)
+NPTEL
+   NPTEL
+
+Week 5, Lecture 5 ­ RENEWABLE ENERGY I
+                             (Wind Energy)
+ Technology overview
+
+EL  Basic design principles
+NPT  Environmental and social impacts
+
+ Status and future development
+
+                                                                                                                              02
+ Onshore wind
+
+ Offshore wind             NPTEL
+ Wind turbine
+ Betz's law
+
+ Wind turbine foundations
+
+                                  03
+Wind energy
+
+ The global technical potential for wind energy exceeds current global
+
+     electricity production. Where on Earth doesn't the wind blow!
+     Global wind resource map (5 km × 5 km resolution)
+
+                       NPTEL
+
+                                                                                                                                     04
+
+       (Image courtesy of IPCC)
+Wind energy
+
+ Wind turbines use rotor blades and an electricity generator to convert
+
+     kinetic energy into electrical energy.
+     The first wind turbine to generate electricity
+     Cleveland, Ohio, 1888
+
+                       NPTEL
+
+                                                                                                                                     05
+
+       (Image courtesy of Wikipedia)
+Wind energy
+
+ A wind farm is a site designated to be used for wind power generation,
+
+     containing a number of wind turbines.
+
+                       NPTEL
+
+                                                                                                                                     06
+
+       (Image courtesy of Equinox's Drones Pvt Ltd)
+Wind energy
+
+ The kinetic energy theoretically available for extraction increases with wind
+
+     speed but is controlled to protect the turbine.
+      Conceptual power curve
+
+                       NPTEL
+
+                                                                                                                                     07
+
+       (Image courtesy of IPCC)
+Wind energy
+
+ Several designs have been investigated and have converged to horizontal
+
+     three-bladed upwind rotors with variable speed operation.
+
+      Turbine design options
+
+                       NPTEL
+
+(Image courtesy of IPCC)                                                  08
+Wind turbine components
+
+ A typical wind turbine is composed of three blades attached to a hub,
+
+     containing a gearbox, generator, and control system mounted on a tower.
+      Basic components of a modern, horizontal-axis wind turbine
+
+                       NPTEL
+
+                                                                                                                                     09
+
+       (Image courtesy of IPCC)
+Basic design principles
+
+The amount of wind energy (Ewind) impinging on the turbine is the kinetic energy
+
+of the moving air:
+
+                    Ewind            =  1  mair  v  2
+                                        2           air
+
+Here, mair and vair are the mass and velocity of the moving air, respectively.
+L The power in the wind is given by the rate of change of energy:
+                    NPTE Pwind
+                    =  dEwind              =        1    v  2    dmair
+                         dt                         2       air    dt
+
+The air mass flow rate is given by:
+
+                    dmair            =     air Avair
+                      dt
+
+Here, air is the density of the moving air and A is the swept area of the turbine.  10
+Basic design principles
+
+The swept area of the turbine can be calculated from
+the radius of the rotor (r) using the equation for the
+area of a circle:
+
+                   A = r 2
+
+Therefore,   =  1  Aair  v3      =     1  r    2  air  v  3    NPTEL
+                2           air        2                  air
+      Pwind
+
+The overall efficiency of a wind turbine (ewind) can be then expressed as the
+
+ratio of the power that the turbine can produce (Pturbine) to the wind power input
+
+(Pwind).
+
+ewind =         Pturbine =          Pturbine
+                Pwind
+                                 1  r  2  air  v  3                                 11
+                                 2                air
+Basic design principles
+
+The energy extracted by a wind turbine (Eturbine) is the difference between
+incoming and outgoing kinetic energies:
+
+Eturbine  =  1  mair  v  2     1  mair  v  2
+             2           in    2           out
+
+where vin and vout are the incoming and outgoing wind velocity, respectively.
+
+         NPTEL Vin
+                                                                     Vout
+
+                                                                               12
+Basic design principles
+
+The amount of air mass moving through the disk swept by the turbine during time
+
+interval dt:
+
+              mair  =  air A  1  (v  in   vout )dt
+                              2
+                                                                                            e
+
+Power produced by the turbine (Pturbine) can be then computed according to the
+
+L following
+              TE Pturbine
+                       =  dEturbine      =  1   air  A (vin    v out  )(v  2     v  2    )
+                             dt             4                              in       out
+NP Theoretical efficiency (e) =                                                                vout/vin
+
+                          Pturbine       1           v out  2           v out  
+                          Pwind          2  1        v in      1        v in   
+                                                                               
+
+              emax     =  0.593 at       v out  =1                                                       13
+                                         v in      3
+Basic design principles
+
+The Betz's limit, or Betz's law, calculated by German physicist Albert Betz,
+states that no wind turbine generator can convert more than than 16/27
+(59.3%) of the kinetic energy of the wind into mechanical energy simply by
+turning the blades of a rotor.
+
+L This is called the power coefficient (CP) and is defined as the ratio of the power
+NPTE extracted by the turbine to the total power contained in the wind resource.
+
+Hence, the maximum useful power available from the wind is given by:
+
+Pwind, max  =  CP    1  Aair  v  3      =  16    1  Aair  v  3      =  8   Aair  v  3
+                     2           air       27    2           air       27           air
+
+                                                                                         14
+Example #5.5.1: Calculating power from wind turbine
+
+A wind turbine generator with a rotor diameter of 50 m is designed for maximum
+power output at a wind speed of 50 km/h. The overall efficiency of the turbine
+generator system is 42%. (a) For an air temperature of 20 oC, what is the maximum
+power that can be delivered? (b) How much electricity is generated in a year if the
+annual average capacity factor based on this design is 0.40? Assume that density of
+air at 20 oC is 1.21 kg/m3.
+
+TEL Solution:
+NP (a) r = 25 m, vair = 50 km/h = 50  103 m/h, air = 1.21 kg/m3
+
+Maximum power that can be delivered by the wind resource:
+
+   8                    8 r 2
+   27                   27
+  Pwind, max    3                      3
+=      Aair  v  air  =         air  v  air
+
+                                                                                     15
+=  8 3.1425m2    1.21          kg             50  ×  103  m        1h    3
+                               m3                         h    3600 sec  
+   27
+
+= 1885054 kg m2 = 1885054 W = 1885 kW
+                sec3
+
+(b) Annual electricity output is given by:
+TEL P = elec,annual
+       ewind     Pwind    CF         365      day    ×    24h 
+                                                               
+                                                          day  
+   NP =
+      ewind      Pwind, max    CF  365 day             ×  24h 
+                  0.59                                         
+                                                          day  
+
+   =   0.42      1885        0.40           365   day  ×  24h 
+                 0.59                                          
+                                                          day  
+
+   = 4701893kWh = 4.7 GWh                                                   16
+Size of wind turbines
+
+ Wind turbines have grown larger and taller to maximize energy capture
+
+     over a range of wind speeds while reducing cost per unit of capacity.
+      Growth in size of typical commercial wind turbines
+
+                       NPTEL
+
+(Image courtesy of IRENA)                                                   17
+Offshore wind energy
+
+ Offshore wind technology allows countries to exploit the generally higher
+
+     and sometimes smoother wind resources offshore, while achieving
+     gigawatt-scale projects close to the densely populated coastal areas
+     prevalent in many parts of the world.
+
+                       NPTEL
+
+                                                                                                                                     18
+
+                                                                                                    (Image courtesy of Orsted)
+Offshore wind energy
+
+ Apart from the wind conditions, the natural site conditions for offshore
+
+     projects differ significantly, which requires different foundation types to
+     cope with varying sea bed conditions, water depth, accessibility and ice
+     formation.
+
+Offshore wind turbine foundation designs  NPTEL
+
+Monopile  Tri-pod         Jacket          Suction Caisson Gravity Base
+
+(Image courtesy of IPCC)                                                          19
+Offshore wind energy
+
+ Floating foundations are typically used at depths exceeding 50-60 metres,
+
+     because the cost of fixed-bottom foundations becomes prohibitive in
+     deeper waters.
+
+                       NPTEL
+
+                                                                                                                                     20
+
+       (Image courtesy of IPCC)
+Grid integration
+
+ Wind is weather-dependent and therefore variable, imperfectly predictable
+
+     and subject to strong ramping effects.
+      Wind intermittency illustration
+      MW ­ Germany 2007
+
+                       NPTEL
+
+                                                                                                                                     21
+
+       (Image courtesy of SBC Energy Institute)
+Grid integration
+
+ The quality of wind resources is location specific, with the best locations
+
+     often found far from the load centre.
+      Wind resources and population misalignment
+      Illustration for China
+
+                       NPTEL
+
+                                                                                                                                     22
+
+       (Image courtesy of SBC Energy Institute)
+Grid integration
+
+ Wind power can be smoothed out geographically to reduce unpredictability
+
+     but this requires expensive interconnection lines.
+
+      Wind geographic smoothing illustration in Germany
+      over a 10-day period in 2006
+
+                       NPTEL
+
+(Image courtesy of IPCC)                                                   23
+Environmental and social impacts
+
+ GHG emissions from wind are among the lowest of any renewable energy
+
+     technology, but its overall impact depends on power system integration.
+      Lifecycle GHG emissions, g CO2 eq./kWh
+
+                       NPTEL
+
+                                                                                                                                     24
+
+        (Image courtesy of SBC Energy Institute)
+Environmental and social impacts
+
+ Wind has a lower capacity density than solar, but the footprint of turbines
+
+     on wind farms is negligible and means the land may be put to other uses.
+     Land use comparison to produce an annual average of 330 MW
+     of renewable energy
+
+                       NPTEL
+
+                                                                                                                                     25
+
+       (Image courtesy of SBC Energy Institute)
+Environmental and social impacts
+
+ Principal social issues for wind power are its aesthetic and noise impacts.
+
+ Wind projects may also have detrimental impacts on wildlife and land use.
+
+ Technology advances and siting wind farms offshore should largely avoid
+
+  these impacts.
+
+  L People living closest to existing wind plants tend to be more accepting than
+  NPTE those who live further away and are less familiar with the technology.
+
+                                                                                  26
+Status and future development
+
+ Wind generation increased by a record amount in 2021.
+
+     Wind power global capacity and annual additions, 2011-2021
+
+                       NPTEL
+
+(Image courtesy of REN21)                                        27
+Status and future development
+
+ Asia (mostly China) is the largest regional market, representing around
+
+     61.4% of added capacity.
+
+      Wind power capacity and additions, 2021
+
+                       NPTEL
+
+(Image courtesy of REN21)                                                 28
+Status and future development
+
+ Global onshore wind power additions would need to grow more than three-
+
+     fold by 2030 and more than five-fold by 2050 relative to 2018 levels, to be
+     on the net zero emission trajectory.
+
+     Projected installed onshore wind capacity, 2000-2050
+
+                       NPTEL
+
+(Image courtesy of IRENA)                                                         29
+Status and future development
+
+ A significant increase in new offshore wind installations would happen in
+
+     the next three decades.
+      Projected installed offshore wind capacity, 2000-2050
+
+                       NPTEL
+
+                                                                                                                                     30
+
+       (Image courtesy of IRENA)
+Status and future development
+
+ Such rapid growth in both onshore and offshore market will be driven
+
+     mainly by advancements in wind turbine technology.
+      Projected size of wind turbines by 2030
+
+                       NPTEL
+
+                                                                                                                                     31
+
+       (Image courtesy of IRENA)
+NPTEL
+

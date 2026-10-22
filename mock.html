@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mock Exam — NPTEL EVS</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="logo" href="index.html"><span class="logo-mark">EV</span> NPTEL EVS</a>
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="assignments.html">Assignments</a>
+        <a href="materials.html">Materials</a>
+        <a href="notes.html">Notes</a>
+        <a href="transcripts.html">Transcripts</a>
+        <a href="final.html">Final Notes</a>
+        <a href="mock.html" class="active">Mock Exam</a>
+      </nav>
+      <div class="top-actions"><button class="btn btn-sm" id="themeToggle" type="button">Theme</button></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div id="mockRoot"></div>
+    <p class="footer-note">
+      Real NPTEL CBT: 3 hours, typically ~100 questions (MCQ + MSQ), no negative marking, on-screen calculator, leave only after 90 minutes.
+      This mock mixes PDF-verified assignment questions with predicted practice items, and always includes a share of MSQs (checkbox multi-select).
+      Do at least two full mocks before exam day.
+    </p>
+  </main>
+
+  <script src="js/app.js"></script>
+  <script src="js/mock.js"></script>
+  <script>
+    async function init() {
+      const [assign, pred] = await Promise.all([
+        EVS.fetchJSON("data/assignments.json"),
+        EVS.fetchJSON("data/predicted.json"),
+      ]);
+      const bank = {
+        assignments: EVS.flattenAssignments(assign),
+        predicted: pred.questions || [],
+      };
+      const exam = MockExam.create(document.getElementById("mockRoot"), bank);
+      exam.render();
+    }
+    init().catch(e => {
+      document.getElementById("mockRoot").innerHTML = `<div class="empty">${e.message}<br>Serve the webapp folder over HTTP.</div>`;
+    });
+  </script>
+</body>
+</html>

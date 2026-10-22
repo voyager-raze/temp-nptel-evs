@@ -1,0 +1,300 @@
+                            NPTEL Online Certification Courses
+                         Indian Institute of Technology Kharagpur
+
+                          Environmental Science
+
+                              Assignment - Week #6
+                         TYPE OF QUESTION: MCQ/MSQ
+
+Number of questions: 15                                            Total mark: 20
+
+                         MCQ Question (10 × 1 = 10)
+
+QUESTION 1:
+
+Which of the following geothermal energy technologies involves creating engineered
+underground reservoirs by enhancing or artificially stimulating rock formations, thereby
+enabling the extraction of geothermal energy from locations that would otherwise be
+inaccessible?
+
+a. Dry steam power plants
+b. Flash steam power plants
+c. Binary cycle power plants
+d. Enhanced geothermal systems
+
+Correct answer: d. Enhanced geothermal systems
+
+Solution: Refer to Slide #16 of Lecture #1. Enhanced geothermal systems create artificial
+underground reservoirs by injecting fluid into hot, impermeable rock formations to improve
+permeability and heat extraction. This allows geothermal energy to be harnessed from
+regions where natural geothermal reservoirs are absent or inaccessible.
+
+QUESTION 2:
+
+A tidal barrage power plant has a basin area of 470 km2 and operates with a tidal range
+of 8 m. The tidal cycle period is 12 h. Assuming a seawater density of 1000 kg m3 and
+gravitational acceleration of 9.81 m s2, what is the approximate average power output of
+the plant?
+
+      a. 3.4 GW
+      b. 34 GW
+      c. 340 GW
+      d. 0.34 GW
+
+Correct answer: a. 3.4 GW
+
+Solution: Refer to Slide #9 of Lecture #2.
+The average power (Pavg) harvested from a tidal basin is (.g.A.h2) / (2T)
+Given:  = 1000 kg m3, g = 9.81 m s2, A = 470 × 106 m2, h = 8 m, T = 12 × 3600 s
+Substituting, Pavg = (1000 × 9.81 × 470 × 106 × 82) / (2 × 12 × 3600)
+
+                       = 3.42 × 109 W = 3.4 GW
+QUESTION 3:
+
+Which of the following ocean energy technologies has the largest estimated global
+technical energy potential?
+
+      a. Tidal energy
+      b. Wave energy
+      c. Ocean thermal energy conversion
+      d. Salinity gradient energy
+
+Correct answer: c. OTEC
+Solution: Refer to Slide #5 of Lecture #3. OTEC exploits the temperature difference
+between warm surface water and cold deep ocean water. Because tropical oceans cover
+vast areas and operate continuously, OTEC has the largest estimated global technical
+potential, often exceeding 44,000 TWh per year, which is significantly greater than the
+estimated potentials of tidal, wave, or salinity-gradient energy technologies.
+
+QUESTION 4:
+
+Assertion (A): Fast pyrolysis produces bio-oil by rapidly heating biomass in the absence
+of oxygen.
+
+Reason (R): The absence of oxygen prevents combustion and enables the thermal
+decomposition of biomass into liquid products.
+
+      a. Both A and R are true, and R is the correct explanation of A.
+      b. Both A and R are true, but R is not the correct explanation of A.
+      c. A is true, but R is false.
+      d. A is false, but R is true.
+
+Correct answer: a. Both A and R are true, and R is the correct explanation of A.
+
+Solution: Refer to Slide #13 of Lecture #5. Fast pyrolysis involves heating biomass rapidly
+in an oxygen-free environment. The absence of oxygen prevents the biomass from
+burning and instead promotes thermal decomposition, producing bio-oil as the major
+product along with biochar and syngas. Therefore, the reason correctly explains the
+assertion.
+QUESTION 5:
+
+Point absorbers and attenuators are classified as oscillating-body wave energy
+converters because they primarily
+
+     a. convert pressure waves propagating through a flexible, water-filled tube into
+          electrical energy.
+
+     b. convert the oscillatory motion of floating or submerged structures induced by
+          ocean waves into useful power.
+
+     c. generate electricity from bidirectional airflow produced by the oscillation of a
+          water column.
+
+     d. harness the potential energy of seawater collected in an elevated reservoir by
+          wave overtopping.
+
+Correct answer(s): b. convert the oscillatory motion of floating or submerged
+structures induced by ocean waves into useful power.
+Solution: Refer to Slide #18 of Lecture #2. Point absorbers and attenuators generate
+electricity by converting the oscillatory motion of floating or submerged structures induced
+by ocean waves into useful power. This wave-induced body motion is the defining feature
+of oscillating-body wave energy converters.
+
+QUESTION 6:
+
+A hydroelectric power plant operates at a head of 55 m with a water flow rate of 500 m3
+s­1 through the turbines. If the overall efficiency of the plant is 77%, calculate the electricity
+generation capacity. Assume water density = 1000 kg m­1 and g = 9.81 m s-2.
+
+      a. 207 MW
+      b. 207 kW
+      c. 207 GW
+      d. 207 W
+
+Correct answer: a. 207 MW
+Solution: Refer to Slide #9 of Lecture #4.
+Mass flow of water (mw) = 500 m3 s­1 × 1000 kg m­3 = 500,000 kg s­1
+Therefore, Pelec = ehydromwg(z) = 0.77 × 500,000 × 9.81 × 55 = 2.07 × 108 W = 207 MW
+QUESTION 7:
+
+In the anaerobic digestion of food waste, which stage involves the breakdown of complex
+organic polymers such as carbohydrates, proteins, and lipids into simpler soluble
+compounds that can be utilized by microorganisms?
+
+      a. Acidogenesis
+      b. Acetogenesis
+      c. Hydrolysis
+      d. Methanogenesis
+
+Correct answer: c. Hydrolysis
+Solution: Hydrolysis is the first stage of anaerobic digestion, during which complex
+organic matter is converted into simpler soluble molecules such as sugars, amino acids,
+and fatty acids, making them available for subsequent microbial degradation.
+QUESTION 8:
+
+Which of the following best distinguishes third-generation biofuels from first- and second-
+generation biofuels?
+
+     a. They are produced exclusively from food crops such as corn and sugarcane.
+      b. They are derived from lignocellulosic biomass such as agricultural residues and
+
+          woody biomass.
+      c. They are produced primarily from algae and other high-lipid microorganisms.
+      d. They are synthesized directly from fossil fuels blended with ethanol.
+
+Correct answer: c. They are produced primarily from algae and other high-lipid
+microorganisms.
+Solution: Refer to Slide #16 of Lecture #5. Third-generation biofuels are mainly derived
+from algae and other microorganisms, which can achieve high biomass productivity
+without competing directly with food crops.
+
+QUESTION 9:
+
+Wave energy is often described as an indirect form of solar energy because
+
+      a. Solar heating of the Earth's surface generates winds that transfer energy to
+          ocean waves.
+
+      b. Solar radiation directly heats ocean water, producing surface waves.
+      c. Wave motion is primarily caused by the thermal expansion of seawater.
+      d. Ocean waves are generated by tidal forces induced by solar radiation.
+
+Correct answer: a. Solar heating of the Earth's surface generates winds that transfer
+energy to ocean waves.
+Solution: Refer to Slide #11 of Lecture #2. Most ocean waves are generated by wind.
+Since winds are driven by the uneven heating of the Earth's surface by the Sun, wave
+energy is considered an indirect form of solar energy.
+
+QUESTION 10:
+
+Which of the following characteristics distinguishes geothermal energy from many other
+renewable energy resources?
+
+      a. It is available only during daylight hours.
+      b. It can provide reliable, continuous baseload power.
+      c. Its output is directly governed by seasonal weather conditions.
+      d. It relies on large-scale energy storage to ensure a stable power supply.
+
+Correct answer: b. It can provide reliable, continuous baseload power.
+Solution: Unlike many renewable energy sources that are influenced by weather
+conditions, geothermal energy can provide a continuous and reliable supply of power,
+making it well-suited for baseload electricity generation.
+
+              MSQ (5 × 2 = 10)
+
+QUESTION 11:
+
+Which of the following are potential benefits of biomass pretreatment intended for biofuel
+production?
+
+a. Increasing the surface area available for enzymatic hydrolysis.
+b. Reducing cellulose crystallinity and improving enzyme accessibility.
+c. Disrupting the lignin­carbohydrate matrix to expose fermentable
+
+    polysaccharides.
+d. Directly converting cellulose and hemicellulose into biofuels during the
+
+    pretreatment step.
+
+Correct answer(s):
+
+     a. Increasing the surface area available for enzymatic hydrolysis.
+     b. Reducing cellulose crystallinity and improving enzyme accessibility.
+     c. Disrupting the lignin­carbohydrate matrix to expose fermentable
+
+          polysaccharides.
+
+Solution: Refer to Slide #11 of Lecture #5. The primary goals of biomass pretreatment
+are to increase enzyme accessibility by modifying the physical and chemical structure of
+lignocellulosic biomass. Pretreatment facilitates subsequent hydrolysis and fermentation
+but does not directly convert biomass into biofuels.
+QUESTION 12:
+
+Which of the following environmental impacts are commonly associated with the
+construction and operation of large hydroelectric dams?
+
+      a. Alteration of natural river flow patterns.
+      b. Disruption of fish migration and aquatic ecosystems.
+     c. Submergence of terrestrial habitats due to reservoir formation.
+     d. Emission of fly ash during electricity generation.
+
+Correct answer(s):
+
+     a. Alteration of natural river flow patterns.
+      b. Disruption of fish migration and aquatic ecosystems.
+      c. Submergence of terrestrial habitats due to reservoir formation.
+Solution: Refer to Slide #16 of Lecture #4. Large hydroelectric dams can modify natural
+river flow regimes, impede fish migration, and inundate terrestrial ecosystems through
+reservoir creation. Fly ash emissions are associated with coal-fired power plants and do
+not occur during hydroelectric power generation.
+
+QUESTION 13:
+
+Which of the following statements about tidal energy are correct?
+
+      a. It is driven primarily by the gravitational interaction of the Earth, Moon, and Sun.
+      b. It is one of the most predictable renewable energy resources.
+      c. Tidal barrages utilize differences in water level across a basin.
+      d. The magnitude of tidal currents and tidal ranges is largely independent of local
+
+          coastal geography.
+
+Correct answer(s):
+
+     a. It is driven primarily by the gravitational interaction of the Earth, Moon, and
+          Sun.
+
+      b. It is one of the most predictable renewable energy resources.
+      c. Tidal barrages utilize differences in water level across a basin.
+Solution: Refer to Slide #6 of Lecture #2. Tidal energy is governed by gravitational forces
+and is highly predictable. Tidal barrages exploit differences in water levels, while local
+coastal geometry strongly influences tidal ranges and current velocities.
+QUESTION 14:
+
+Which of the following are common direct-use applications of geothermal energy (i.e.,
+where geothermal heat is utilized without first being converted into electricity?
+
+      a. Fueling public transportation systems.
+     b. District heating of residential and commercial buildings.
+     c. Heating of greenhouses for year-round crop production.
+     d. Aquaculture and fish farming operations.
+
+Correct answer(s):
+
+      b. District heating of residential and commercial buildings.
+      c. Heating of greenhouses for year-round crop production.
+      d. Aquaculture and fish farming operations.
+Solution: Refer to Slide #18 of Lecture #1. Geothermal heat can be used directly for space
+heating, greenhouse heating, and aquaculture. Transportation systems are generally
+powered by liquid fuels, electricity, or hydrogen rather than direct geothermal heat.
+
+QUESTION 15:
+
+Which of the following are recognized environmental benefits associated with the
+production and use of biodiesel?
+
+      a. Reduced reliance on petroleum-based fuels.
+      b. Complete elimination of exhaust emissions from diesel engines.
+      c. Reduced environmental persistence in the event of accidental spills.
+      d. Valorization of waste oils and animal fats as feedstocks.
+
+Correct answer(s):
+
+      a. Reduced reliance on petroleum-based fuels.
+      c. Reduced environmental persistence in the event of accidental spills.
+      d. Valorization of waste oils and animal fats as feedstocks.
+Solution: Biodiesel can reduce dependence on petroleum fuels, is generally more
+biodegradable in the event of accidental spills, and can be produced from waste oils and
+animal fats. However, biodiesel combustion still generates exhaust emissions and does
+not eliminate them completely.
+

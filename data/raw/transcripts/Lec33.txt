@@ -1,0 +1,360 @@
+                                            Environmental Science
+                             Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                               Indian Institute of Technology Kharagpur
+        Week 07- (Lecture 03) : Circular Economy (Circular Economy Strategies ­ II)
+
+ Welcome to lecture 3 of week 7 of the NPTEL online certification course on Environmental
+Science. So, we will continue our discussion on the circular economy. In the last lecture we started
+learning how we can make a transition to a circular economy with an emphasis on the 9 R
+framework. So, today, we will continue the same discussion. So, in the last lecture, we looked
+into some of the R strategies. Today we will be looking into the remaining R strategies to make a
+transition towards the circular economy. And with appropriate examples you will also be able to
+see how we can achieve sustainability by embracing the 9 R's of circularity. So, at the end of this
+lecture, you should be able to understand how to repair, refurbish, remanufacture, repurpose,
+recycle and recover are critical components towards making a transition towards a circular
+economy.
+The circular economy is governed by the 9Rs. These Rs define the major strategies to process
+resources in an eco-friendly way.
+Repair involves retaining or restoring a product to its desired level of performance.
+
+Product repair plays an important role in the realisation of a circular economy and sustainable
+consumption, yet little is known about what repair entails for individual product owners or users.
+The techno-economic practice of repair allows for the prolonging of product lifetimes which, in
+turn, leads to the postponement of replacement, and the reduction of replacement-associated waste
+generation and resource usage. Accordingly, repair constitutes an important sustainable
+consumption strategy, and plays a key role within a CE.
+
+Repair options available to the individual typically consist of commercial repair, which can be
+conducted by the product's manufacturer or their authorised networks, and independent repairer
+(i.e., local experts and/or repair shops). Non-commercial options also exist, such as individual Do-
+It-Yourself (DIY) and group-based Do-It-Together (DIT), such as community repair events. In the
+choice between these repair options, and replacement, it is not uncommon for the individual to be
+constrained by their circumstances; they are part of a larger system that dictates the nature,
+desirability, and accessibility of the options available at the time of a product breakage.
+
+The choice to repair-or-not does not constitute a one-time decision, but rather an iterative sequence
+of decisions and actions, which are reliant upon the participation of the individual. The process of
+repair that an individual goes through has been conceptualized here. This process-perspective hint
+at the many roles of individuals in repair; e.g., investigator of repair options once the repair need
+has arisen and, depending on what the investigation yields, the decision-maker of whether to
+repair-or-not. As such, achieving an increase in people's repair engagement requires a deeper
+understanding of repair experience as an extended, repetitive, and iterative process. There is a need
+for a comprehensive view of the repair-or-not decision.
+The individual's experience of the repair process is made up of the conditions they experience,
+such as access to so-called necessities (i.e., spare parts, repair information, and tools). The
+experience is equally made up of internal factors, such as values, which impact how individuals
+interpret their situation and the choices available to them.
+
+    · Regardless of these considerations, what is important to note is that the repair process
+    · Prolongs lifetime of product for the customer
+    · Most efficient way to retain or restore the system back to normal working conditions
+    · May generate more than three times the turnover of the original purchase in certain cases
+    · Provides protection, pollution prevention, personnel safety and waste disposal
+all of which ultimately contribute to the emerging circular economy concept.
+
+In the transition towards a circular economy, refurbishment can be applied to regain value from
+used products, and to reduce waste. Refurbishment is a process in which a professional company
+collects and restores used products in order to resell these products to new consumers. It involves
+life-extending a component in a second life cycle, thereby moving away from the first life cycle
+and initial production purpose.
+The most common example is that of a smartphone. When you open your Amazon or Flipkart
+page, you might find a smartphone listed with a Refurbished tag in its name. And such phones are
+much cheaper compared to those that are brand new. The refurbishment process of a mobile phone
+involves restoring a used mobile phone to a good working condition by cleaning, replacing, or
+repairing major components (e.g., screen or battery) that are faulty, damaged or close to failure.
+The process also includes fixing any cosmetic defects.
+
+Refurbished phones usually have previous owners. The owner might have returned it to the store
+or the network carrier. The phone might not be broken as many buyers return the phone after just
+unboxing it because they didn't like the phone. In other cases, the situation can be like where there
+is some manufacturing defect in the phone, and later it is fixed. Later the phone is then tagged as
+"refurbished" and sold again for a lower price tag.
+
+Refurbished smartphones are repaired, quality checked and made free of all defects. However,
+based on many research resources, one main obstacle to the refurbishment of smart phones is
+consumer recognition and consumer's purchase behavior, which makes the secondary market
+abandoned.
+
+To increase consumer acceptance of refurbished products, an integral approach is needed to
+stimulate consumers' awareness and understanding of refurbishment and position refurbished
+products as a unique and suitable alternative for new products.
+
+The starting point is building a strong product basis, which is the essence of any refurbished market
+offer. Building a strong product basis implies both optimizing the original product design for
+multiple lifecycles, by including design for circularity in the design objectives, and integrating
+product design in the refurbishment process. Combining these two perspectives is essential to
+develop an efficient refurbishment process that enables easy maintenance, recovery and
+modification of products.
+
+With a strong product as foundation, the next step is to attract consumers. Attracting consumers
+starts with building awareness and making refurbished products widely known as a high-quality
+alternative for new products. Promotional activities should be developed that arouse consumers'
+curiosity and communicate the distinctive properties of refurbishment. Furthermore, companies
+and distribution partners should collaborate to improve accessibility and offer refurbished products
+via different online and offline stores close to the consumer. Extrinsic product characteristics, like
+store interior, advertising, product presentation and packaging, can be used to develop a shopping
+experience that evokes emotional appeal and a thrill of newness. Such an effort is also important
+to eliminate negative associations with second-hand products.
+After attracting the consumer, the consumer should be convinced of the value of a refurbished
+product during the in-depth evaluation of risks and benefits. Because the evaluation phase
+comprises of a more rational assessment of risks and benefits, consumers should be provided with
+extensive, transparent and accessible information about both the refurbishment process and
+specific product properties. This information provision should communicate the functional,
+financial, and environmental benefits of refurbished products to attract environmentally conscious
+consumers. To significantly reduce the perceived risk related to refurbished products, companies
+should strengthen their product offer with high-quality service and warranty programs that relieves
+consumers from any product performance-related risks.
+Finally, to gain consumers' trust, companies should strive to support their offer with independent
+confirmations, such as consumer reviews or quality labels.
+The last step in working towards increased consumer acceptance of refurbished products, is to
+involve consumers in the use and growth of refurbishment. Companies should invest in building
+strong relationships with customers and use customers as ambassadors of refurbished products.
+Positive word of mouth and increased familiarity will be crucial to build awareness and convince
+consumers of the value of refurbished products.
+
+Remanufacturing is the reuse of products that have reached the end of their usable life, by carrying
+out a series of processes that return the product to its original state with an equivalent or superior
+quality. Therefore, the warranty of the remanufactured product is identical to the warranty of a
+new product. This process is also environmentally friendly because reduces energy consumption
+by eliminating the need to produce new components. In addition, it can significantly reduce lead
+times, thereby increasing customer satisfaction.
+A typical remanufacturing process can be seen here. This cyclical process starts with the
+availability of a used part (core); initially, this part was manufactured in a linear manufacturing
+process that complies with specific technical specifications. In the case of products with different
+components, the product is completely disassembled and an assessment of the condition of each
+individual part is carried out through an inspection system. Once the quality status of the
+component is defined, it is classified according to whether it is usable, it needs an additional
+repairing process or it is unusable. The parts classified as usable or repairable are subjected to an
+intensive cleaning process. The parts are then repaired and upgraded as necessary, where they are
+subjected to a series of advanced manufacturing processes. The cleaned, repaired and processed
+parts are then reassembled to make the final product. Finally, the reconditioned product are tested
+and evaluated to ensure that its condition meets the conditions and technical specifications of new
+products.
+
+There are various sectors that can benefit from the remanufacturing process, such as aerospace,
+automotive or electronics.
+When an engine breaks down, it is often either too expensive to fix or completely unrepairable.
+For example, a worn area might not have enough material left to bore out or re-machine, or repair
+methods might be so that the repair cost exceeds the replacement cost. That is if you don't have
+the technology to fix it!
+
+Buying a brand-new engine is usually too expensive for many budgets. The choices come down
+to remanufacturing the engine, a used engine, or repairing or overhauling it.
+
+Unfortunately, a used engine is, at best, a temporary fix. It may only buy a little more time until
+the next breakdown. Most used engines experience problems of their own and end up needing
+replacements.
+
+So what else can you do?
+
+Engine Rebuilding
+
+Yes, rebuilding an engine can cost less than replacing it. When a technician rebuilds an engine,
+they take it apart and replace parts damaged, worn, or out of specification. They then reassemble
+the engine and test it. This is, of course, assuming the original engine is rebuildable: There is no
+excessive wear or severe damage.
+
+Rebuilt motors work similarly to regular repairs and replacements. Instead of using new
+replacement parts, used parts save the customer money. There is a slight risk with rebuilt parts
+because all used parts show wear to some degree to be classified as "used." While they are certified
+safe for use in other cars, premature failure, and additional repairs may crop up sooner than
+expected. Rebuilding using new parts reduce this risk but still don't bring the engine back to "new"
+specification.
+
+So the best solution is engine remanufacturing
+
+The engine remanufacturing process is basically the engine rebuilding process times ten. Instead
+of rebuilding one part, the entire product has been literally remanufactured to meet "new"
+specifications. The engine meets or exceeds safety, durability, and quality tests.
+
+Some of the benefits of remanufacturing include:
+
+    · Conservation of materials (of increasing importance as raw materials become scarcer and
+         more expensive)
+    · Reduced energy consumption during manufacturing
+    · Especially since much less new material is needed.
+    · Reduced waste (and associated disposal costs)
+    · Lower price for a comparable quality
+We can then recycle the remaining aluminum, steel, cast iron, iron, and other metals composing
+the non-salvageable pieces.
+As a bonus, we assist OE manufacturers in reducing their environmental impact throughout each
+machine's life.
+
+Repurposing is the use of something for a purpose other than its original intended
+use. Repurposing an item can be done by modifying it to fit a new use, or by using the item as is
+in a new way. The practice is not limited to physical items. It's common to
+repurpose marketing material and content. For example, a business may use images from an older,
+successful advertising campaign in a new campaign rather than come up with brand new images.
+In the pharmaceutical industry, medications are repurposed by being frequently used to treat
+illnesses and symptoms for which they were not originally intended.
+Repurposing is essentially a form of recycling. It may take the form of hobby crafting. For
+instance, converting won our or damaged tennis rackets into mirrors, making lamps with spoon;
+transforming bottle caps into tealights, and so on...
+Repurposing can also be employed as a materials cost reduction strategy by a large
+manufacturer. Instead of throwing an item away, an individual or business finds a new use for it.
+
+Repurposing can be a cost-effective strategy since the reused items can prevent a business from
+having to purchase new, possibly more expensive materials. However, repurposing might not
+always be environmentally friendly or cost-effective. For example, an old building could be
+converted to a new use but not updated enough to reduce energy costs. Or, for example, an old
+gasoline engine-powered car could be repurposed as an electric car, which would involve a costly
+conversion and may not lead to greater efficiency.
+
+Repurposing, when performed as a way to reduce waste and replace a new, manufactured good
+is an element of micro-sustainability, which is a focus on small environmentally friendly actions
+that can add up to a larger environmental impact. Repurposing is also related to freecycling, which
+is the donation of usable but unwanted items to those that can use them rather than throwing them
+away.
+
+In other words, repurpose prevents pollution caused by reducing the need to harvest new raw
+materials; saves energy; reduces greenhouse gas emissions that contribute to global climate
+change; helps sustain the environment for future generations; reduces the amount of waste that
+will need to be recycled or sent to landfills and incinerators; allows products to be used to their
+fullest extent; and saves money.
+Recycling is the process of converting waste materials into new materials and objects. It can
+prevent the waste of potentially useful materials and reduce the consumption of fresh raw
+materials, thereby reducing energy usage, air pollution, and water pollution.
+
+Materials can be reprocessed in two ways: primary recycling and secondary recycling. In primary,
+or closed-loop, recycling, materials are recycled into new products of the same type. For example,
+used aluminum cans are turned into new aluminum cans. In secondary recycling, waste materials
+are converted into different products. For example, used tires can be shredded and turned into
+rubberized road surfacing and newspapers can be reprocessed into cellulose insulation.
+
+Meanwhile, there are two types of wastes that can be recycled: preconsumer, or internal waste,
+generated in a manufacturing process and postconsumer, or external waste, generated by consumer
+use of products.
+
+Now let us look into some examples of recycling, both from the biological cycle and technical
+cycle of the Butterfly Diagram.
+
+Recycled water
+
+In many places recycling of water is an important strategy for managing water scarcity, especially
+when there are competing demands for limited water from human settlements or industrial
+activities. Water recycling is reusing treated wastewater for beneficial purposes There are
+numerous ways to recycle wastewater. Some common ways include:
+    · agricultural and landscape irrigation,
+    · industrial uses (e.g., recycled process water, cooling),
+    · potable uses (e.g., mixing in municipal water supply),
+    · non-potable uses (e.g., toilet flushing, dust control, car washing),
+    · recharge of natural water bodies (e.g., groundwater),
+    · replenishing artificial lakes and wetlands.
+Water recycling can provide alternatives to existing water supplies as well as enhance water
+security, sustainability, and resilience.
+
+Since its independence in 1965, water security has been a prime concern for the city-state of
+Singapore. Though Singapore receives about 2.3 m of rainfall annually, land scarcity and a high
+population density mean there is limited land available for catchment and storage of rain water.
+Given such conditions, water recycling forms a critical component of Singapore's water
+sustainability strategy.
+In 2003, high-grade reclaimed water, known as NEWater was introduced. NEWater is recycled
+from treated sewage (`used water') and produced using a rigorous 3-step purification process
+involving ultrafiltration/microfiltration, reverse osmosis (RO) and ultraviolet (UV) disinfection.
+As compared to desalination, NEWater is more energy-efficient and cost-efficient to produce
+because of the lower salt content in treated used water, as opposed to seawater.
+NEWater is used for both direct non-potable use (DNPU) and indirect potable use (IPU). DNPU
+is in the form of NEWater that is supplied to water-intensive industries such as wafer fabrication
+plants, power generation and petrochemical industries, commercial and public buildings for air-
+conditioning cooling towers. The quality of NEWater surpasses WHO's as well as the US
+Environmental Protection Agency's water standards, thereby making it safe for potable use.
+However, it is not used directly. Instead, NEWater is injected into reservoirs to allow it to mix
+with rainwater before being collectively treated at the water treatment plants for potable use. This
+is done to be mindful of public attitudes and acceptance of reused water, as well as to provide an
+environmental buffer and allow for trace minerals to be reintroduced by blending with reservoir
+water.
+
+We saw in Week #5 that because of its many potential merits, solar PV deployment has grown at
+unprecedented rates since the early 2000s. As the global PV market increases, so will the volume
+of decommissioned PV panels. This is because PV modules have an average lifetime of 30 years
+and a 99.99% probability of loss after 40 years. At the end of 2016, cumulative global PV waste
+streams reached around 43,500-250,000 metric tonnes. This is 0.1%-0.6% of the cumulative mass
+of all installed panels (4 million metric tonnes). Meanwhile, PV waste streams are bound to only
+increase further. Given an average panel lifetime of 30 years, large amounts of annual waste are
+anticipated by the early 2030s. These are equivalent to 4% of installed PV panels in that year, with
+waste amounts by the 2050s (5.5-6 million tonnes) almost matching the mass contained in new
+installations (6.7 million tonnes).
+Today, two-thirds of globally manufactured PV panels are crystalline silicon (c-Si). These are
+typically composed of more than 90% glass, polymer and aluminum, which are classified as non-
+hazardous waste.
+However, the same panels also include such hazardous materials as silver, tin and lead traces.
+Thin-film panels, by comparison, are over 98% non-hazardous glass, polymer and aluminium,
+combined with around 2% copper and zinc (potentially hazardous) and semiconductor or other
+hazardous materials. These include indium, gallium, selenium, cadmium, tellurium and lead.
+
+Waste from end-of-life solar panels presents opportunities to recover valuable materials and create
+jobs through recycling. According to the International Renewable Energy Agency, by 2030, the
+cumulative value of recoverable raw materials from end-of-life panels globally will be about $450
+million, which is equivalent to the cost of raw materials currently needed to produce about 60
+million new panels. Diverting solar panels from landfills to recycling saves space in landfills in
+addition to capturing the value of the raw materials.
+Separation of the major components such as laminated glass, metal frames, wiring and polymers
+is the first step in current and first-generation recycling processes. Recycling the laminated glass
+component of c-Si panels is a relatively low-cost process which flat-glass recycling companies can
+implement with little additional investment.
+
+Typical equipment for removing impurities like polymer (glue) residues or screws from the glass
+cullet includes magnets, crushers, sieves, eddy-current devices, optical sorters, inductive sorters
+and exhaust systems.
+
+The resulting crushed-glass fraction, which may still be heavily contaminated with silicon,
+polymers and metals, can be blended with other recycled glass as thermal insulating material in
+the glass-foam or glass-fibre industries.
+
+The aluminum or steel of the frames, and the copper of the cables can become part of the already
+well-established metal recycling loops and therefore have easy potential for recycling. The
+polymer fractions can partly be processed in waste-to-energy plants provided they meet the input
+specifications of the plants.
+
+Recovering small amounts of valuable (e.g., silver, copper), scarce (e.g., indium, tellurium), or
+most hazardous materials (e.g., cadmium, lead, selenium) as components might require additional
+and more advanced processes. These are found predominantly in the glass and encapsulant
+(polymer) fractions.
+
+One of the main technical challenges in PV recycling is the delamination or the removal of the
+encapsulant material (e.g., ethylene-vinyl-acetate, or EVA). Various methods have been explored
+for effective delamination, including mechanical crushing, thermal processing, use of organic
+solvents, pyrolysis and vacuum blasting, amongst others.
+Once a product reaches the end of its lifecycle, resource recovery is critical to returning the
+embedded materials or energy back into the production cycle. It seeks to close the loop from
+sourcing to usage and back to sourcing.
+
+This figure here shows the main resources that might be recoverable from different waste streams.
+
+For instance, reuse of nutrients and organic matter from sanitation and wastewater streams has
+received more attention in recent years, but has in fact been practised since ancient times as a way
+of providing local fertilizers. Despite the many options, this type of reuse from sanitation and
+wastewater systems still occurs on only a relatively limited scale around the world. There are many
+possible reasons for this, including widespread social resistance to the reuse of human waste, the
+potential risks of exposure to micro-pollutants and the risks from pathogens. At the same time,
+chemical fertilizers are now widely accessible.
+
+Many innovative measures have been tried around the world to make excreta-based fertilizer
+products attractive to the market. One is to market them with names, packaging etc. that underline
+their transformation from excreta to a new, safe product. Another option, is to process products
+derived from sewage sludge and faecal sludge from on-site sanitation into dry pellets, which are
+also more convenient to apply to cropland.
+
+Beyond these considerations, for resource recovery to be viable, there must be the prospect of
+future demand of products derived from the resources, as well as the possibility of bringing them
+to centres of demand without prohibitive economic, environmental or social costs.
+Calculating demand is not just a matter of identifying shortfalls in a particular resource. Demand
+depends on the "utility" of a product to the consumers; this is, how much they are willing to pay
+for it, which can be affected by myriad factors linked to their attitudes and expectations. For
+example, there is often resistance to the idea of excreta based fertilizers, from users, neighbours
+and potential consumers of the crops grown with them. However, such resistance can be overcome
+with awareness campaigns and demonstrations. Recovery schemes also require public- and
+private-sector investment ­ and can create potentially lucrative business opportunities. Institutions,
+including legal and policy frameworks are needed to provide the critical support.
+
+To summarize, the 9R's are a circular economic framework that show ways by which materials
+can be used and reused at their highest value while minimizing waste and environmental
+destruction. They are Refuse, Rethink, Reduce, Reuse, Repair, Refurbish, Remanufacture,
+Repurpose, Recycle and Recover. There are three separate hierarchical approaches for closing
+material loops; a smaller loop is ideal because it requires less inputs and eliminates waste before
+it is even created. Although the transformation to a perfect circular economy without waste is very
+difficult to achieve, the 9R's can guide us away from throwaway culture and into sustainable
+systems.
+

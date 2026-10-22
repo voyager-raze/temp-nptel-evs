@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Assignments — NPTEL EVS</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="logo" href="index.html"><span class="logo-mark">EV</span> NPTEL EVS</a>
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="assignments.html" class="active">Assignments</a>
+        <a href="materials.html">Materials</a>
+        <a href="notes.html">Notes</a>
+        <a href="transcripts.html">Transcripts</a>
+        <a href="final.html">Final Notes</a>
+        <a href="mock.html">Mock Exam</a>
+      </nav>
+      <div class="top-actions"><button class="btn btn-sm" id="themeToggle" type="button">Theme</button></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <h1>Weekly assignments</h1>
+      <p>All 12 weeks of <strong>MCQs + MSQs</strong> / assertion–reason / numericals from your PDFs, with short solutions. Practice mode shows answers instantly.</p>
+      <div class="hero-meta">
+        <span class="chip ok">190 PDF-verified (W1, W3–W12)</span>
+        <span class="chip hot">10 Week-2 best-guess (your PDF has no answer key)</span>
+        <span class="chip">30 MSQ · 170 single-correct</span>
+      </div>
+    </section>
+
+    <div class="week-pills" id="weekPills"></div>
+
+    <div class="toolbar">
+      <label>Mode
+        <select id="modeSelect">
+          <option value="practice">Practice (instant feedback)</option>
+          <option value="quiz">Quiz (score at end)</option>
+        </select>
+      </label>
+      <label>Type
+        <select id="typeSelect">
+          <option value="all">All (MCQ + MSQ)</option>
+          <option value="mcq">MCQ only (single correct)</option>
+          <option value="msq">MSQ only (multi-select)</option>
+        </select>
+      </label>
+      <button class="btn" id="btnWeak">Weak only</button>
+      <button class="btn" id="btnShuffle">Shuffle</button>
+      <button class="btn btn-accent" id="btnRapid">Rapid 10</button>
+      <span class="chip" id="setInfo"></span>
+    </div>
+    <p class="chip hot" style="margin-bottom:1rem">
+      Tip: MSQs show an orange banner and square checkboxes — select every correct option. Exact set required.
+    </p>
+
+    <div id="notesPanel" class="card" style="margin-bottom:1rem;display:none"></div>
+    <div id="quizRoot"></div>
+  </main>
+
+  <script src="js/app.js"></script>
+  <script src="js/quiz.js"></script>
+  <script>
+    let allQs = [];
+    let weeksMeta = [];
+    let engine = null;
+    let currentWeek = 0; // 0 = all
+    let weakOnly = false;
+    let typeFilter = "all";
+
+    async function init() {
+      const [assign, weeks, materials] = await Promise.all([
+        EVS.fetchJSON("data/assignments.json"),
+        EVS.fetchJSON("data/weeks.json"),
+        EVS.fetchJSON("data/materials-notes.json"),
+      ]);
+      weeksMeta = weeks;
+      allQs = EVS.flattenAssignments(assign);
+      window._materials = materials;
+
+      const params = new URLSearchParams(location.search);
+      currentWeek = Number(params.get("week") || 0);
+
+      const pills = document.getElementById("weekPills");
+      pills.innerHTML =
+        `<button class="week-pill ${currentWeek===0?"active":""}" data-w="0">All</button>` +
+        weeks.map(w =>
+          `<button class="week-pill ${currentWeek===w.week?"active":""}" data-w="${w.week}">W${w.week}</button>`
+        ).join("");
+      pills.querySelectorAll(".week-pill").forEach(b => {
+        b.onclick = () => {
+          currentWeek = Number(b.dataset.w);
+          pills.querySelectorAll(".week-pill").forEach(x => x.classList.remove("active"));
+          b.classList.add("active");
+          loadSet();
+        };
+      });
+
+      document.getElementById("modeSelect").onchange = () => loadSet();
+      document.getElementById("typeSelect").onchange = (e) => {
+        typeFilter = e.target.value;
+        loadSet();
+      };
+      document.getElementById("btnWeak").onclick = () => {
+        weakOnly = !weakOnly;
+        document.getElementById("btnWeak").classList.toggle("btn-primary", weakOnly);
+        loadSet();
+      };
+      document.getElementById("btnShuffle").onclick = () => loadSet(true);
+      document.getElementById("btnRapid").onclick = () => {
+        let pool = filterQs();
+        pool = EVS.shuffle(pool).slice(0, 10);
+        startEngine(pool, "quiz");
+        document.getElementById("setInfo").textContent = `Rapid 10 · ${pool.length} Qs`;
+      };
+
+      engine = QuizEngine.create(document.getElementById("quizRoot"));
+      loadSet();
+    }
+
+    function isMulti(q) {
+      return q.multi === true || q.type === "msq" || Array.isArray(q.answer);
+    }
+
+    function filterQs() {
+      let qs = allQs;
+      if (currentWeek) qs = qs.filter(q => q.week === currentWeek);
+      if (typeFilter === "msq") qs = qs.filter(isMulti);
+      if (typeFilter === "mcq") qs = qs.filter(q => !isMulti(q));
+      if (weakOnly) {
+        const weak = new Set(EVS.getStore().weakIds || []);
+        const missed = Object.entries(EVS.getStore().answered || {})
+          .filter(([, v]) => !v.correct)
+          .map(([id]) => id);
+        missed.forEach(id => weak.add(id));
+        const filtered = qs.filter(q => weak.has(q.id));
+        if (filtered.length) qs = filtered;
+      }
+      return qs;
+    }
+
+    function loadSet(shuffle = false) {
+      let qs = filterQs();
+      if (shuffle) qs = EVS.shuffle(qs);
+      const mode = document.getElementById("modeSelect").value;
+      startEngine(qs, mode);
+      const msqN = qs.filter(isMulti).length;
+      document.getElementById("setInfo").textContent = `${qs.length} questions` +
+        (msqN ? ` · ${msqN} MSQ` : "") +
+        (currentWeek ? ` · Week ${currentWeek}` : " · All weeks") +
+        (typeFilter !== "all" ? ` · ${typeFilter}` : "") +
+        (weakOnly ? " · weak filter" : "");
+
+      // mini notes for selected week
+      const panel = document.getElementById("notesPanel");
+      if (currentWeek && window._materials) {
+        const note = (window._materials.weeks || []).find(w => w.week === currentWeek);
+        if (note) {
+          panel.style.display = "block";
+          panel.innerHTML = `
+            <h3 style="margin-top:0">${note.title}</h3>
+            <div class="flag-row">${(note.examFlags||[]).slice(0,8).map(f=>`<span class="flag">${f}</span>`).join("")}</div>
+            <p style="margin:0;color:var(--muted)">Must remember: ${(note.mustRemember||[]).slice(0,3).join(" · ")}</p>
+            <a class="btn btn-sm" style="margin-top:0.5rem" href="notes.html?week=${currentWeek}">Full week notes</a>`;
+        }
+      } else {
+        panel.style.display = "none";
+      }
+    }
+
+    function startEngine(qs, mode) {
+      engine.setMode(mode);
+      engine.setQuestions(qs);
+    }
+
+    init().catch(err => {
+      document.getElementById("quizRoot").innerHTML =
+        `<div class="empty">Could not load data. Serve this folder over HTTP.<br>${err.message}</div>`;
+    });
+  </script>
+</body>
+</html>

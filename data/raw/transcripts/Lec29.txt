@@ -1,0 +1,319 @@
+                                            Environmental Science
+                             Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                               Indian Institute of Technology Kharagpur
+               Week 06- (Lecture 04) : RENEWABLE ENERGY II (Hydropower)
+
+Welcome to lecture 4 of week 6 of the NPTEL online certification course on Environmental
+Science. In the last two lectures, we have looked into our oceans for renewable energy. In this
+lecture, we will look into our freshwater systems for renewable energy; that is, today, we will be
+learning about hydropower. So, in this lecture, we will learn about hydropower technology, as
+well as its environmental and social impacts and its current status and future deployment scenario.
+So, specifically in this lecture, you will be learning about what is a hydropower plant, what we
+mean by a multipurpose dam, what is a runoff river hydropower system, what is a storage
+hydropower system and what a pumped storage hydropower system. Now, compared to all other
+renewable energy sources, hydropower is a mature and fairly simple technology.
+Hydropower is a mature and fairly simple technology: the potential energy of a water source
+(characterised by its head and mass flow rate) is converted into kinetic energy that spins a turbine
+driving an electricity generator. It is the largest source of renewable electricity, and produces
+around 16% of the world's electricity and over four-fifths of the world's renewable electricity. It
+enables a higher penetration of variable renewables such as solar and wind by providing balancing
+and flexibility services.
+
+Hydropower is generated from water moving in the hydrological cycle, which is driven by solar
+radiation. Incoming solar radiation is absorbed at the land or sea surface, heating the surface and
+creating evaporation where water is available. A large percentage--close to 50% of all the solar
+radiation reaching the Earth's surface--is used to evaporate water and drive the hydrological cycle.
+The potential energy embedded in this cycle is therefore huge, but only a very limited amount may
+be technically developed. Evaporated water moves into the atmosphere and increases the water
+vapour content in the air. Global, regional and local wind systems, generated and maintained by
+spatial and temporal variations in the solar energy input, move the air and its vapour content over
+the surface of the Earth, up to thousands of kilometres from the origin of evaporation. Finally, the
+vapour condenses and falls as precipitation, about 78% on oceans and 22% on land. This creates a
+net transport of water from the oceans to the land surface of the Earth, and an equally large flow
+of water back to the oceans as river and groundwater runoff. It is the flow of water in rivers that
+can be used to generate hydropower, or more precisely, the energy of water moving from higher
+to lower elevations on its way back to the ocean, driven by the force of gravity.
+Hydropower has been used by mankind since ancient times. The energy of falling water was used
+by the Greeks to turn waterwheels that transferred their mechanical energy to a grinding stone to
+turn wheat into flour more than 2000 years ago. In the 1700s, mechanical hydropower was used
+extensively for milling and pumping.
+
+The modern era of hydropower development began in 1870 when the first hydroelectric power
+plant was installed in England. The commercial use of hydropower started in 1880 in Michigan,
+where a dynamo driven by a water turbine was used to provide theatre and store front lighting.
+
+These early hydropower plants had small capacities by today's standards but pioneered the
+development of the modern hydropower industry.
+Hydropower transforms the potential energy of a mass of water flowing in a river or stream with
+a certain vertical fall (termed the "head"10). The potential annual power generation of a
+hydropower project is proportional to the head and flow of water. Hydropower plants use a
+relatively simple concept to convert the energy potential of the flowing water to turn a turbine,
+which, in turn, provides the mechanical energy required to drive a generator and produce
+electricity.
+
+The main components of a conventional hydropower plant are:
+
+» Dam: Most hydropower plants rely on a dam that holds back water, creating a large water
+reservoir that can be used as storage. There may also be a de-silter to cope with sediment build-up
+behind the dam.
+
+» Intake, penstock and surge chamber: Gates on the dam open and gravity conducts the water
+through the penstock (a cavity or pipeline) to the turbine. A surge chamber or tank is used to reduce
+surges in water pressure that could potentially damage or lead to increased stresses on the turbine.
+
+» Turbine: The water strikes the turbine blades and turns the turbine, which is attached to a
+generator by a shaft. There is a range of configurations possible with the generator above or next
+to the turbine.
+» Generators: As the turbine blades turn, the rotor inside the generator also turns and electric
+current is produced as magnets rotate inside the fixed-coil generator to produce alternating current
+(AC)
+
+» Transformer: The transformer inside the powerhouse takes the AC voltage and converts it into
+higher-voltage current for more efficient (lower losses) long-distance transport.
+
+» Transmission lines: Send the electricity generated to a grid-connection point, or to a large
+industrial consumer directly, where the electricity is converted back to a lower voltage current and
+fed into the distribution network. In remote areas, new transmission lines can represent a
+considerable planning hurdle and expense.
+
+» Outflow: Finally, the used water is carried out through pipelines, called tailraces, and re-enters
+the river downstream. The outflow system may also include "spillways" which allow the water to
+bypass the generation system and be "spilled" in times of flood or very high inflows and reservoir
+levels.
+
+Hydropower plants usually have very long lifetimes and, depending on the particular component,
+are in the range 30 to 80 years. There are many examples of hydropower plants that have been in
+operation for more than 100 years with regular upgrading of electrical and mechanical systems but
+no major upgrades of the most expensive civil structures.
+A salient feature of hydropower plants is that the water used to drive hydropower turbines is not
+"consumed" but is returned to the river system. This may not be immediately in front of the dam
+and can be several kilometres or further downstream, with a not so insignificant impact on the river
+system in that area. However, in many cases, a hydropower system can facilitate the use of the
+water for other purposes or provide other services such as irrigation, flood control and/or more
+stable drinking water supplies. It can also improve conditions for navigation, fishing, tourism or
+leisure activities. As such, hydropower plants are often called `multipurpose' projects.
+
+Hydropower resource potential can be derived from total available flow multiplied by head and a
+conversion factor. Virtually all regions have some hydropower resources although these resources
+are sometimes concentrated in a small number of countries and are not always located adjacent to
+demand centres. However, since most precipitation usually falls in mountainous areas, where
+elevation differences (head) are the largest, the largest potential for hydropower development is in
+mountainous regions, or in rivers coming from such regions. The total annual runoff has been
+estimated as 47,000 km3, out of which 28,000 km3 is surface runoff, yielding a theoretical potential
+for hydropower generation of 41,784 TWh/yr. However, the total worldwide technical potential
+for hydropower is estimated at 14,576 TWh/yr, which is still over four times the current worldwide
+annual generation.
+In most developed regions (e.g. Europe), a significant fraction of the economically viable
+hydropower potential is already being exploited, although about 50% of the technical potential is
+still untapped. The most untapped region is Africa, where 92% of the total potential has not yet
+been developed.
+
+In a hydroelectric facility, the energy available for conversion to electricity is the potential energy
+of the impounded water (whose kinetic energy is usually negligible).
+Thus,
+where, mW is the mass of water, g is the acceleration of gravity, and z is the change in elevation
+from the surface of the impounded water to the axis of the hydraulic turbine, known as the
+operating head.
+As stored water falls through the height z, the potential energy is converted to kinetic energy.
+The turbine then converts this energy flow into rotational energy to spin the generator to generate
+electricity. Some useful energy is inevitably lost to frictional heating between the moving fluid
+and the turbine surfaces. Additional friction occurs in the bearing and generator shafts.
+Therefore, the overall hydroelectric conversion efficiency (ehydro) is the ratio of electric power
+output (Pelec) to the potential energy input (PEwater):
+The dam scheme can be sub-divided into three types depending on the head height. "Head" refers
+to the vertical height of the fall of a stream or river. A classification of hydropower by head is
+interesting because it is the hydraulic head that determines the water pressure on the turbines,
+which, together with discharge, are the most important parameters for deciding the type of
+hydraulic turbine to be used. Higher heads provide a greater pressure and therefore greater
+hydropower potential.
+Hydropower plants can be constructed in a variety of sizes and with different characteristics. In
+addition to the importance of the head and flow rate, hydropower schemes can be put into the
+following categories:
+
+    · Run-of-river hydropower projects
+    · Reservoir (storage) hydropower schemes
+    · Pumped storage hydropower schemes
+
+In run-of-river (ROR) hydropower systems (and reservoir systems), electricity production is driven
+by the natural flow and elevation drop of a river. Run-of-river schemes have little or no storage,
+although even run-of-river schemes without storage will sometimes have a dam. Run-of-river
+hydropower plants with storage are said to have "pondage". This allows very short-term water
+storage (hourly or daily). Plants with pondage can regulate water flows to some extent and shift
+generation a few hours or more over the day to when it is most needed. A plant without pondage
+has no storage and therefore cannot schedule its production. The timing of generation from these
+schemes will depend on river flows. Where a dam is not used, a portion of the river water might
+be diverted to a channel or pipeline (penstock) to convey the water to the turbine.
+
+Run-of-river schemes are often found downstream of reservoir projects as one reservoir can
+regulate the generation of one or many downstream run-of-river plant. The major advantage of this
+approach is that it can be less expensive than a series of reservoir dams because of the lower
+construction costs. However, in other cases, systems will be constrained to be run-of-river because
+a large reservoir at the site is not feasible.
+
+The operation regime of run-of-river plants, with and without pondage, depends heavily on hydro
+inflows. Although it is difficult to generalise, some systems will have relatively stable inflows
+while others will experience wide variations in inflows. A drawback of these systems is that when
+inflows are high and the storage available is full, water will have to be "spilled". This represents a
+lost opportunity for generation and the plant design will have to trade off capacity size to take
+advantage of high inflows, with the average amount of time these high inflows occur in a normal
+year. The value of the electricity produced will determine what the trade-off between capacity and
+spilled water will be and this will be taken into account when the scheme is being designed.
+Hydropower schemes with large reservoirs behind dams can store significant quantities of water
+and effectively act as an electricity storage system. As with other hydropower systems, the amount
+of electricity that is generated is determined by the volume of water flow and the amount of
+hydraulic head available.
+
+The advantage of hydropower plants with storage is that generation can be decoupled from the
+timing of rainfall or glacial melt. For instance, in areas where snow melt provides the bulk of
+inflows, these can be stored through spring and summer to meet the higher electricity demand of
+winter in cold climate countries, or until summer to meet peak electricity demands for cooling.
+Hydropower schemes with large-scale reservoirs thus offer unparalleled flexibility to an electricity
+system.
+
+The design of the hydropower plant and the type and size of reservoir that can be built are very
+much dependent on opportunities offered by the topography and are defined by the landscape of
+the plant site.
+
+Storage hydropower plants can facilitate the low-cost integration of variable renewables into the
+grid, as it is able to respond almost instantaneously to changes in the amount of electricity running
+through the grid and to effectively store electricity generated by wind and solar by holding inflows
+in the reservoir rather than generating. This water can then be released when the sun is not shining
+or the wind not blowing. In Denmark, for example, the high level of variable wind generation is
+managed in part through interconnections to Norway where there is substantial hydropower
+storage.
+
+Pumped hydro plants allow off-peak electricity to be used to pump water from a river or lower
+reservoir up to a higher reservoir to allow its release during peak times. Pumped storage plants are
+not energy sources but instead are storage devices. Although the losses of the pumping process
+contribute to the cost of storage, they are able to provide large-scale energy storage and can be a
+useful tool for providing grid stability services and integrating variable renewables, such as wind
+and solar. Pumped storage and conventional hydropower with reservoir storage are the only large-
+scale, low-cost electricity storage options available today.
+However, pumped storage plants are generally more expensive than conventional large
+hydropower schemes with storage, and it is often very difficult to find good sites to develop
+pumped hydro storage schemes.
+Pumped hydropower systems can use electricity, not just at off-peak periods, but at other times
+where having some additional generation actually helps to reduce grid costs or improve system
+security. Nevertheless, the benefits from pumped storage hydropower in the power system will
+depend on the overall mix of existing generating plants and the transmission network.
+However, its value will tend to increase as the penetration of variable renewables for electricity
+generation grows. The potential for pumped storage is significant but not always located near
+demand centres.
+Hydropower plants are also generally classified on their generating capacity. Although there is no
+agreed definition, the following bands are typical to describe the size of hydropower projects:
+
+» Large-hydro: 100 MW or more of capacity feeding into a large electricity grid;
+
+» Medium-hydro: From 10 MW to 100 MW almost always feeding a grid;
+
+» Small-hydro: From 1 MW to 10 MW usually feeding into a grid;
+
+» Mini-hydro: From 100 kW to 1 MW that can be either stand-alone, mini-grid or gridconnected;
+
+» Micro-hydro: From 5 kW to 100 kW that provide power for a small community or rural industry
+in remote areas away from the grid;
+
+and
+» Pico-hydro: From a few hundred watts up to 5 kW (often used in remote areas away from the
+grid).
+
+Small hydropower plants are more likely to be run-ofriver facilities than are large hydropower
+plants, but reservoir (storage) and run-of-river hydropower plants of all sizes utilise the same basic
+components and technologies. The development of small hydropower plants for rural areas
+involves similar environmental, social, technical and economic considerations to those faced by
+large hydropower. Local management, ownership and community participation, technology
+transfer and capacity building are basic issues that will allow sustainable small hydropower plants
+to be developed. Small hydropower plants have been used to meet rural electrification goals in
+many countries. Currently there is 61 GW of small hydropower capacity in operation globally.
+The impacts of dams, particularly large dams, have been debated globally for many decades in the
+context of the submergence of forest and agricultural lands and settlements, displacement of people
+and the issues related to their rehabilitation, and economic development benefits. Until recently,
+the ecological and environmental aspects, however, have attracted relatively little attention
+because these impacts were not felt, experienced or observed immediately or in the short term.
+
+The dams impact areas both upstream and downstream of their siting, and through all stages of
+their development ­ before and during construction as well as through their operation. The impacts
+of dams and other diversion structures depend upon the type, size (storage capacity relative to the
+river flow; but also area and depth), mode of operation and geographic location of the reservoir
+behind them. They invariably alter the flow regime ­ its magnitude, duration, frequency, timing
+and flow velocity. The flow regime in turn affects the physico-chemical characteristics of the
+habitat, the dynamics of sediment transport, the river morphology, the connectivity with the
+floodplains and the biota. The continuity and longitudinal connectivity of the river is disrupted.
+
+The construction of a dam converts a section of the flowing stream into a stagnant water body.
+Depending upon the geographic location and height of the dam, the reservoirs vary in shape,
+shoreline to surface area ratio, and maximum and mean depths. Such frequent water level
+fluctuations on a daily basis affect all kinds of organisms as well as their physico-chemical
+environment. The temperature of water in a reservoir is usually higher in the winter and lower in
+the summer than it would be in the river before the dam. These temperature changes directly affect
+the aquatic biota and also the microclimate of the region around the reservoir.
+Another effect of the dam is on the flow velocity and turbulence which come to a hault and hence,
+most of the coarser sediments carried by the river are deposited in the reservoirs. Since the
+Himalayan rivers are known to carry sediment loads that are highest in the world, many reservoirs
+get filled much earlier than expected.
+
+Further, significant changes occur in the water quality of the reservoirs as a result of release of
+nutrients from the sediments, and following death and decomposition of the vegetation submerged
+during filling of the reservoir.
+The increased availability of nutrients and the still water conditions can develop into potentially
+harmful algal blooms (HABs), causing fish mortality and anoxia. For many dammed river systems,
+ongoing eutrophication is driving reservoirs towards increased autotrophy, as increased nutrient
+concentrations enable planktonic communities to increase photosynthesis relative to respiration.
+The consequence of this productivity shift is increased carbon sequestration via burial in reservoir
+sediments, but methanogenesis and, thus, CH4 emissions are often increased. The concurrent
+increase in CH4 emissions alongside rising autotrophy has been seen in many reservoirs
+worldwide, in which eutrophic reservoirs typically have CH4 emissions an order of magnitude
+larger than those of oligotrophic reservoirs.
+The altered flow regimes and increased nutrient levels in the reservoirs can also lead to rapid
+colonisation by exotic invasive plants, fish, molluscs and insects.
+Creation of the reservoirs has further consequences for the fauna in the affected area. All terrestrial
+animals disappear from the submerged areas and their populations decline with the loss of the
+habitat.
+To summarize, while hydropower is generally CO2 -free in operation, but there are GHG
+emissions from the construction of hydropower schemes, from silting in the reservoirs and from
+the decomposition of organic material (predominantly an issue in tropical regions). Hydropower
+schemes can have an important spatial and visual footprint. So one of the greatest challenges with
+the development of hydropower is ensuring that the design and construction of hydropower
+projects is truly sustainable. This means that, in addition to an economic assessment, proper social
+and environmental impact assessments must be conducted and if there are negative impacts on
+local populations, ecosystems and biodiversity, these issues need to be mitigated in the project
+plan.
+
+Hydropower is the most mature renewable energy technology, with its first projects dating back to
+the late 1800s. As can be seen here, significant progress has been made, with conventional
+hydropower growing by more than 75% in 2000-2021, reaching an installed capacity of over 1 230
+gigawatts (GW). PSH capacity, on the other hand, grew by over 50% in the same period, reaching
+130 GW in 2021. Together, they account for over 50% of global renewable installed capacity.
+
+Hydropower is also the largest source of renewable electricity globally. In fact, hydropower
+generated approximately 4.3 PWh of electricity globally in 2019, which is equivalent to 65% of
+all renewable generation or over 16% of all electricity generation. This makes hydropower
+extremely important not only as a renewable generation source, but for power systems worldwide,
+particularly since hydropower is also able to offer clean flexibility and balancing services to power
+grids.
+In terms of geographic distribution, the majority of the world's hydropower capacity is in Asia
+(42%), followed by Europe (17%), North America (15%), South America (13%), Eurasia (7%)
+and the rest of the world (6%). It is noteworthy that for most regions, PSH represents 9-13% of
+total hydro installed capacity; however, it is almost completely absent in Latin America, apart from
+a few plants in South America (<1 GW).
+China maintained the lead in commissioning new hydropower capacity in 2021, followed by
+Canada, India, Nepal, the Lao People's Democratic Republic (PDR), Turkey, Indonesia, Norway,
+Zambia and Kazakhstan.
+
+Beyond these trends, there are approximately 650 GW of hydropower already in the project
+pipeline with plans to come on line in the next 25 years, including 136 GW of PSH. The vast
+majority of these projects will be deployed in Asia, which accounts for almost 60% of conventional
+capacity and over 50% of the total PSH capacity in the project pipeline. In terms of conventional
+hydropower, South America and Africa follow with 14% and 12% of the capacity in the pipeline,
+respectively. In terms of PSH, Europe and North America follow Asia, with 21% and 17% of the
+pipeline, respectively. However, there are virtually no PSH projects in the pipeline in Latin
+America, except for the 300 megawatts (MW) in Chile.
+To conclude, hydropower will be essential for the decarbonisation of the energy sector. Compared
+with other renewable energy sources, hydropower has higher value based on its ability to provide
+flexible energy generation and other services, namely ancillary grid services, as well as water
+management and socio-economic benefits. However, for hydropower to have a brighter future, it
+needs to keep up with the changing times, which means that some aspects need to be improved
+and some adjustments need to be made.
+

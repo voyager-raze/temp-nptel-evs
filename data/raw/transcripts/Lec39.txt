@@ -1,0 +1,369 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                Week 08
+                                               Lecture 04
+                       Nitrogen species in rivers and the DO Sag Curve
+
+Welcome, everyone to lecture number 4 in week 8. Today, we are going to look at
+nitrogen species in flowing waters or rivers and streams and we will go through the
+derivation for the dissolved oxygen sag curve.
+So, like I said the two topics that we are going to cover in today's lecture are nitrogen
+speciation in flowing water and Streeter Phelps DO sag curve.
+
+The keywords for this lecture are ammonia, nitrite, nitrate, deoxygenation, reoxygenation
+or reaeration.
+Now when waste water especially municipal waste water is discharged into any flowing
+stream whether it is treated, untreated it does not matter it has a large amount of organic
+nitrogen. Now this organic nitrogen you must be knowing that sewage contains urine and
+feces and these are all nitrogenous organic compounds.
+
+So, it is basically a large number of nitrogenous organic compounds are present in
+municipal sewage or waste water. So, at the point of discharge I have a schematic here at
+the point of discharge the waste water goes into the river and we will call that either t is
+equal to 0 or x is equal to 0 and the river is flowing from left to right. So, whether we plot
+it on the x-axis as time or distance from the point of discharge. We can think of it in two
+ways time and distance are related by the term velocity. So, the flow velocity in the river
+will give you either time or distance from the point of discharge.
+
+So, our (0, 0) point here is t is equal to 0 or x is equal to 0 and this is the point at which
+organic nitrogen from the wastewater is at extremely high levels. So, you have this huge
+amount of organic nitrogen which is discharged into the river. Now, you may be knowing
+that organic compounds that are present in urine and feces. So, you have proteins and you
+have nucleic acids that are the main sources of nitrogen, and they are basically amino
+acids. So, the proteins are basically amino acids, and you also have urea, uric acid and so
+on.
+
+Now, this organic nitrogen when it starts degrading is going to release ammonia into the
+water. Ammonia has two forms it has NH3 which is a gaseous form and NH4+ ammonium
+ion which is the dissolved form. So, this ammonia concentration will start rising. So,
+because of the decomposition of these organic nitrogen compounds ammonia
+concentration will start rising as time goes by and if you are monitoring the levels of the
+different types of nitrogen species you will see that organic nitrogen is coming down,
+ammonia levels are going to show a peak and after some time the peak starts showing a
+decline and the question is where is all that ammonia going. Remember one thing that
+ammonia has two forms ammonium ions which are dissolved and ammonia gas.
+
+So, if you smell sewage it comes from ammonia gas as well as hydrogen sulphide. These
+are the two gases that are basically coming into the atmospheric phase or rather the into
+the air and that is what you smell because these are gases that come to us and they are
+stinky gases that is what we smell. So, some of it is lost by volatilization and the
+remaining is converted to nitrite and nitrate. In the previous lecture I talked about
+nitrogenous BOD and when I was talking about nitrogenous BOD, I mentioned that
+ammonia to nitrite and nitrite to nitrate. These are biologically mediated reactions and
+there are two species there are several other species, but most text books will talk about
+the two species nitrosomonas and nitrobacter that are responsible for converting ammonia
+to nitrite and then to nitrate. Now, you should also keep in mind that ammonia is the most
+reduced form of nitrogen and nitrate is the most oxidized form of nitrogen.
+
+So, as long as oxygen is available as long as these bacterial species are present in water,
+this conversion of ammonia to nitrite and nitrate will continue to happen and that is the
+end point. Nitrate is the final end point for nitrogen. And also keep one more thing in
+mind that all these forms of nitrogen are bioavailable forms of nitrogen they contribute to
+eutrophication of the water bodies. So, if this wastewater were to be discharged into a
+lake or a pond where there is no flowing water it would contribute to the eutrophication
+of that water body. Even in slow flowing rivers you can see the same phenomenon you
+will find that there is a large amount of algal growth, phytoplankton growth all these
+things happen because of extremely high amounts of nitrogen in the water. So, this is a
+timeline of what you can expect to see in a flowing water stream.
+Now we come to the next point and that is we are going to go through the derivation for
+the DO-Sag curve. So, let us look at that.
+
+Now when the wastewater flows into a river, we will come back to this schematic. Let us
+assume that this river is unpolluted until this first wastewater discharge and this first
+wastewater discharge is a single-point discharge. We are not worried about multiple-point
+discharges, we are not worried about non-point discharges. At this point we are looking
+only at one single point of wastewater discharge.
+So here we have wastewater that is coming in with a flow rate Qw. This is mostly in cubic
+meters per second. We generally talk about flow rate in terms of cubic meters per second.
+The river has its own flow rate, and we will call that QR and remember what I said that
+prior to the wastewater discharge we will assume that the river is unpolluted and
+whatever pollution in the river is there after discharge that is from that single one point of
+wastewater discharge.
+
+We will also make another assumption and that is plug flow. In plug flow we make a
+particular assumption and that is that there is no mixing in the direction of flow. So if I
+were to slice through the river, if I were to take a cross-sectional view of the river, this is
+considered a cross-sectional view of the river, then any point here, here or here would
+have the same concentration of either DO or nitrogen or COD, BOD whatever is there in
+the river, whatever you are trying to measure. The assumption is that in the direction
+perpendicular to the flow there is complete mixing, so they are all equal. There is radial
+mixing and in the direction of flow, in the longitudinal direction, there is no mixing. How
+that will impact our model is something that we will go through in the next few slides. So
+this is our distance x or time. So, I already mentioned this in the previous slide that the x-
+axis can be considered either time or distance and the two time and distance are related
+by the flow velocity. So, this speed is the flow velocity in the river.
+So here we have a simpler schematic that is more appropriate for our purposes. So here
+we have a river or stream, we have the river flow rate QR and we have QW at this point.
+So what is the gain in terms of oxygen and where are the losses? I have already
+mentioned in a previous lecture that our gains, where is the oxygen coming into the
+water. So it comes from oxygenation, these are the words we use to talk about the input
+of oxygen into the water. So it can be oxygen, it can be aeration, it can be reaeration. It
+comes from equilibrium with the atmosphere, and it comes from photosynthesis. So as
+long as there are aquatic plants and algae they will contribute oxygen to the water. This is
+all dissolved oxygen and you also have equilibrium with the atmosphere. Oxygen outputs
+from the water are deoxygenation. We use the term deoxygenation and in the previous
+lecture when I was talking about BOD, I said that BOD is related to the bacterial
+degradation of organic matter and that remains the basis of the DO sag curve. So,
+respiration by phytoplankton and photosynthesis are not included in the derivation or the
+model for the dissolved oxygen sac curve. I will come to some of the limitations later. In
+this particular model we are going to look at only two things. One is equilibrium with the
+atmosphere. So that is the input of oxygen and the losses of oxygen are because of
+bacterial decomposition of organic matter. So, when bacteria decompose organic matter,
+they utilize whatever dissolved oxygen is present in the water, and that is the loss.
+So, when we take a look at this graphic, what it shows us is that (0, 0) is our point of
+discharge of wastewater, and if we measure the DO level in the water at the point of
+discharge or upstream of this point, we will find that the DO level is not at saturation
+level. So, for a given temperature, for a given salinity or TDS level, there is a DO
+saturation value which we saw in previous lectures. We will have an initial deficit. This
+DO deficit is represented by capital D and that is DO saturation minus the actual DO.
+
+                                     =  =  - 
+
+So, at point 0, we have an initial deficit, which is D0. Now, let us see what happens after
+that.
+So, what we see over here is that we are going to start with the rate of change of DO
+deficit. So, dissolved oxygen, we have a deficit, and this deficit is noted here as well, DO
+saturation minus DO. The deficit is going to change and that is the driving force that as
+long as there is a deficit of DO in the water, there will be a change in the dissolved
+oxygen levels. So let us take a look at that. dD by dt is the rate of change of deficit and
+that is equal to rate of deoxygenation minus rate of oxygenation.
+
+              -   =  0- - 
+ =
+
+And from the BOD curve, we know that rate of deoxygenation is proportionate to the
+organic matter remaining in the water and that is Lt. If you remember from the previous
+lectures, we had Lt which represents carbonaceous oxygen demand. So, we have kd Lt
+minus koD. So, kd stands for the deoxygenation constant, rate constant and ko stands for
+the oxygenation rate constant.
+
+D is the deficit, D by itself is the deficit and DO together is dissolved oxygen. So, these
+terms can be confusing, but try to keep them in mind. We also know from the BOD curve
+that Lt can be represented in terms of L0 which is the ultimate carbonaceous oxygen
+demand and - using first-order reaction kinetics and koD remains the same. So, when
+you integrate this particular equation, you will get the final equation,
+
+Deficit,    =    0  ( -   -   -  )  +  0-
+               (-)
+
+So D is the DO deficit which is the difference between DO saturation and the actual DO.
+L0 I already mentioned is the ultimate carbonaceous BOD, Kd and KO are rate constants
+for deoxygenation and oxygenation. So you can rearrange these terms, and finally you
+arrive at an equation for predicting the DO levels in the water as long as there is a deficit.
+So we now have an equation for DO equal to DO saturation minus the entire deficit
+equation which we derived right here at the top, and this is called the Streeter Phelps
+oxygen sag curve or oxygen sag equation and this is what it looks like.
+
+So when you plug in all these values, let us say you take some real values, you plug it
+into these equations and you will get a curve like this, and if you were to monitor DO
+levels in the water under such conditions in the real world, you may get a curve just like
+this. Unfortunately, in the real world, we are not dealing with a single wastewater
+discharge point, we deal with multiple points of wastewater discharge as well as multiple
+sources of non-point wastewater discharges. So, whether it is surface runoff, whether it is
+agricultural runoff, urban runoff, whatever it is. So, if you were to plot all these points as
+a function of `t', we are using this equation is a function of time and time and distance
+like I said are related by the flow velocity in the river, you will find that you get a curve
+like this. There is a point called the critical point. Let us come to the derivation of the
+critical point. What is the point at which DO level is at its minimum? That is the point at
+which the stream conditions are the worst and you probably remember from calculus that
+by setting our change in deficit is equal to 0. So the minimum or the maximum for any
+curve that is changing is at the point where the change is 0 because you get your slope at
+that point is 0. So if you set, let us go back to this equation. In this equation, if you say
+dD by dt is equal to 0, then you can integrate the remaining part and come up with this
+critical point. So let me just go through that. So we assume that the stream has a constant
+cross sectional area, you can determine the distance or time whatever you know and if
+you know the velocity in the river, at least two of these variables should be known to
+determine the third variable.
+
+And in this particular equation, this equation has been reduced to x and v.
+
+  =      0   ( -   -   -  )  +  0-
+     ( - )
+
+So, we normally know the distance from the point of discharge, and the flow velocity is
+often known, and you can substitute x and v, x divided by v for t and that is what has
+been done in the first case. The second case is where dD by dt is equal to 0, that is our
+minimum point and that is our critical time. So critical time for dD by dt is equal to 0 has
+been defined and that gives you a deficit value which is shown over here in this particular
+equation. And this is a very, very important point.
+
+  =       1  ) ln{ [1 -  0 ( -      )
+     ( -                       0     ]}
+
+Why is it critical? It is critical because it allows you to determine the point at which DO
+is minimum.
+
+If you remember, I started this lecture, this group of lectures, I started it with CPCB's
+surface water body classification and in the surface water body classification, we have
+minimum DO levels. So the minimum DO level may be 3 milligrams per liter, it may be
+4, it may be 5 depending on what you want, right? So this kind of calculation will tell you
+what the DO minimum is. If it goes down to let us say 2 or 1 or even more than that, then
+you know that the aquatic ecosystem is going to suffer or be completely eliminated.
+And if the DO minimum is 4, 5, 6 whatever higher values are there, then you will find
+that the DO minimum values are good enough for a healthy aquatic ecosystem. So, this is
+truly a critical parameter for determining the health of the aquatic ecosystem that exists in
+this particular river. Now, what else is happening? If you remember again from the BOD
+curve, we had 2 curves, we had rate of deoxygenation and we had rate of reaeration.
+
+Let me see if they are there. So here we have 2 curves, one is the rate of deoxygenation
+and the second is the rate of reaeration. Up to the critical point, remember at critical point
+dD by dt is equal to 0. But what happens before that? Before that the rate of
+deoxygenation which means consumption of dissolved oxygen by the bacteria is
+extremely fast compared to the reaeration rate. So rate of deoxygenation is dominant up
+to the critical point. Critical point by definition is 0 which means the 2 become equal.
+Rate of oxygenation and deoxygenation are equal at critical point and after that the
+reaeration rate becomes dominant.
+And this brings, what this means is that the ultimate carbonaceous oxygen demand is now
+low and the river is going to start recovering and purifying itself because most of the
+oxygen demand has been taken care of and the input of oxygen from the atmosphere is
+now higher and therefore the river will start recovering. So the sum total of these 2
+curves, deoxygenation and reaeration will give you the DO sag curve. And this brings us
+again to the critical point and this entire curve is also called the self-purification capacity
+of the river. So as long as the wastewater discharge is within the self-purification capacity
+of the river and the river recovers within maybe let us say a few meters, a kilometer or so,
+then the oxygen levels will come back to, they will approach the DO saturation levels.
+Now that is what we want. We want that the river should recover as quickly as possible.
+But I have already mentioned to you that several rivers in the country, most of them have
+multiple sources of wastewater discharge, both municipal as well as industrial and there
+are also non-point sources of wastewater. So because the loading on the river, on any of
+these rivers is growing exponentially as we increase the size of our populations, urban
+areas, all these things are happening and because of that the oxygen demand and the load
+from that on the rivers is becoming higher and higher. So their ability to purify
+themselves or their ability to recover is basically being compromised.
+
+So, if I just go back to this, this is the same curve and this is called the classic Streeter
+Phelps dissolved oxygen curve.
+So here we come to the rate constants. We have two rate constants, one for
+deoxygenation and the other for oxygenation or reaeration. Now you know that a rate
+constant is going to vary with temperature. So, the first major issue is temperature
+correction factor. The equation for the temperature correction factor is given at the top.
+
+                                             = 20-20
+
+Theta for the deoxygenation rate constant is 1.047. All this information comes from the
+Streeter Phelps report from 1925. This model and the theta values come directly from that
+report which was based on actual river water measurements, DO measurements.
+
+And the theta for the K oxygenation value is 1.024. So that is our equation. The same
+equation only the theta value will be changed. For the BOD rate constant, you will have a
+range of values that you can use for different types of waters. So and if you were to do a
+BOD test on it, you will get a kd range of 0.35 to 0.7 per day. Remember this is a first
+order reaction rate constant with a base e. kd is for a base 10, so log base 10. And
+obviously the values are going to be different for the e-scale versus the for the natural
+logarithmic scale.
+
+And well treated sewage is 0.12 to 0.23 versus 0.05 to 0.1 depending on the scale. And
+polluted river water is similar to completely treated sewage. Now well treated sewage
+means conventional secondary treatment. This conventional secondary treatment and
+polluted river water for obvious reasons are going to be equal.
+So, we will start with reaeration constants. Now in this particular table what you see are
+typical reaeration constants for different water bodies. And these are again standardized
+for 20 degree centigrade. The only factor that has been accounted for in these values is
+the flow velocity in these different streams. And as the flow velocity increases, the KO
+value increases. So starting at the top with small ponds and backwaters, the values are the
+lowest because there is very little reaeration, there is no turbulence, they are either zero
+flow or very very low flow condition. And under those conditions, oxygenation is
+extremely low, the rate of oxygenation is extremely low. So, this is the extreme end at the
+top. As the flow velocity increases from sluggish streams and large lakes. Now in
+sluggish streams and large lakes, the only possibility for reaeration comes from wind and
+wave action. So it is slightly higher than small ponds and backwaters. As the stream
+velocity increases, we go from 0.35 to 0.69. For fast flowing streams, it goes from 0.69 to
+1.15 and rapids and waterfalls. So rapids are very fast flowing waters. You can almost
+think about white waters and waterfalls. So you have greater than 1.15 per day values.
+So there are several factors that affect the DO sag curve and we are going to go through
+some of them. The first thing is seasonal changes. We all know that from summertime
+versus wintertime, the water temperature is going to change. And I have already talked
+about the temperature correction factor. So there is a temperature effect that is related to
+the seasons. And there is another factor. During summer, the water level in rivers and
+ponds, lakes, all of these water bodies, it generally drops. You have more evaporation and
+there is a decrease in water level. So the wastewater concentration will be higher. Just
+imagine that the wastewater discharge amount, the quantity discharged is the same, but
+the amount of water in the river is less. So therefore, the wastewater concentration
+increases because of less water in summer. This results in higher BOD concentration and
+it brings down the DO levels faster and perhaps can create obnoxious or zero DO levels
+in the river. So for the same wastewater discharge in winter, it may be fine, but it may be
+down to zero in summer. So that can happen. And I have already spoken about the
+temperature effect. I have already talked about the temperature correction.
+So let me show you these graphs. In the second graph, you can see the impact of
+temperature change. As the temperature goes up, you get the critical point comes closer
+to the point of discharge. So the first line represents the point of discharge and the last
+point represent, I am sorry, and the critical point for 40 degrees is close to 10 miles. The
+critical point for 20 degrees is close to 20 miles and 30 degrees centigrade is somewhere
+in between. So as the temperature increases, the rate of deoxygenation and reaeration will
+also increase and therefore the critical point will come closer to the point of discharge.
+
+In the first graphic, you can see that yes, as the BOD levels, the CBOD which is
+carbonaceous BOD levels increase, you will get a minima that can drop below the
+minimum acceptable DO. So in the surface water body classification, we have seen that
+the DO levels can be 3 milligrams per liter, 4 milligrams per liter, 5 milligrams per liter
+and so on. So depending on what you define as the minimum acceptable DO level, you
+will have curves that show a critical point that is either above that minimum, which
+means it is okay or below that minimum, which means it is unhealthy or completely
+anaerobic, it can go below 0. So for example, in the last curve, there is a DO level that is
+below 0 and if the DO level is below 0, you cannot really have, the model will predict a
+negative value, but in practice you know that there is no such measurement. What this
+means is that at this point, it is going to be completely anaerobic and we have a saturation
+DO level as well. It will seek saturation, but how long it takes for the river to recover and
+come back to the saturation DO level is basically what is important from the river
+management perspective.
+So then we come to the effect of photosynthesis. I have already mentioned in a previous
+slide that photosynthesis is going to contribute dissolved oxygen to the water and we are
+not accounting for that in the dissolved oxygen sag curve. So this is another beneficial
+property that can happen under certain conditions. If nutrients are available in the water,
+photosynthetic organisms like algae and aquatic plants will add dissolved oxygen during
+the daytime, and they will consume this oxygen during the nighttime by respiration.
+Remember, from the week 1 lectures, the ratio of photosynthesis to respiration is 5 is to
+1. So that is the ratio by which dissolved oxygen is added to the water and it is lost by
+only 20% will be lost.
+
+Nitrification is another phenomenon that is going to affect the DO levels. So when the
+organic nitrogen and ammonia are converted to nitrites and nitrates, they will also exert a
+DO demand. So, there is an oxygen demand associated with those compounds and these
+nitrification reactions will also consume DO. Again the DO sag curve does not account
+for that. I have already mentioned wastewater concentration. As the wastewater
+concentration increases, the amount of DO consumed will also increase and there is
+greater depletion in DO levels. So that is similar to the seasonal effect as well.
+This one is based on a simple mass balance on using two water quality parameters. So
+BOD and DO are used as the water quality parameters. The flow in the river is defined
+and two wastewater discharges are given in this example. So we have two wastewater
+discharges Q1 and Q2. Now in the table, you will find that the values for the flow in the
+river is 1000 cubic meters per second, Q1 and Q2 for the two wastewater discharges are
+defined and the BOD values for each of these flows is also defined. So you will notice
+that the DO values in the wastewater discharges are 0 and the BOD values for the
+wastewater discharges are slightly different. So we have 300 milligrams per liter in the
+first wastewater discharge and in the second one it is 200 milligrams per liter. There is a
+background level in the river which is 10 milligrams per liter. The DO deficit in the
+beginning itself is below the saturation. So basically the DO level in the river right in the
+beginning is below saturation. So the DO in the river is 5 and in the wastewater it is 0.
+
+Now for determining each of these parameters after the wastewater has been discharged
+in the river which means at some point below the point of discharge. I have made this
+problem very simple by putting the point of discharge is aligned. So you have two
+discharges, both of them are aligned at the same point, but of course in reality we have
+more complex problems. Regardless I want to estimate the flow, the BOD and the DO at
+some point below or downstream from the point of discharge. How do we do that?
+
+The flow rate in the river downstream of the points of discharge very simple QR plus Q1
+plus Q2. So that is our total discharge. So, 1060 cubic meters per second is our total flow.
+What we want to do in this particular problem is that we want to calculate the flow, the
+DO and the BOD levels immediately downstream of these discharges. How about the
+BOD in the river downstream from the points of discharge?
+So we have, [BODi * Qi] / Qtotal. This will be the total mass of BOD that is being
+discharged from each point. So, in this case we have two points. So here we have the
+summation in this case of two wastewater discharges and the river itself. Yes, yes, yes.
+So we have three. So BODi in this case will have Q1, Q2 plus QR. So, the BOD in the
+river multiplied by the flow rate plus the BOD in the first wastewater discharge and the
+second wastewater discharge, each term BODi times Qi is the mass of BOD being added
+per unit time into the river. And the entire term has to be divided by the total flow to get
+an estimate of the BOD downstream of the points of discharge. So here the answer is 21.7
+milligrams per liter. How about DO? The same idea can be followed for DO as well. So
+we know the DO levels in the three different flows, multiply it by the flow rate for the
+three individual flows and divide by the total flow. So you get 4.72 milligrams per liter in
+the river below the point of discharge.
+
+These are the references for this particular lecture. Thank you.
+

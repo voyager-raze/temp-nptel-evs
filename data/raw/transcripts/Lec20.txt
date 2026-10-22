@@ -1,0 +1,391 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+   Week 04(Lecture 05) : CLIMATE CHANGE (Adaption and Policy Responses)
+
+Welcome to lecture 5 of week 4 of the NPTEL online certification course on Environmental
+Science. In the last lecture, we explored the various mitigation options currently available
+to tackle climate change. In this lecture, we will focus on how we can adapt to climate
+change and familiarize ourselves with the various international treaties established to fight
+climate change.
+Specifically, in this lecture, we will cover the different adaptation strategies to combat
+climate change, the various international strategies and agreements in place, and the
+importance of the Intergovernmental Panel on Climate Change (IPCC) in enhancing our
+understanding of climate change.
+
+By the end of this lecture, you should be able to explain the concept of adapting to climate
+change, understand the Kyoto Protocol and the Paris Agreement, grasp the concept of
+carbon credits, and comprehend the role of the IPCC in climate science.
+From our discussion so far, it is evident that climate change is upon us, and its impacts are
+growing more severe with each passing year. Climate change is, in fact, one of the greatest
+threats facing humanity, with far-reaching and devastating effects on people, the
+environment, and the economy. Scientific evidence suggests that, despite advancements in
+technology and other operational and economic measures to reduce greenhouse gas
+emissions, the climate will continue to change, and the potential consequences may be
+significant.
+
+Given this, it is imperative that we invest in a massive effort to adapt to the conditions that
+are now inevitable--higher temperatures, rising seas, fiercer storms, unpredictable rainfall,
+and more acidic oceans. Adaptation, in this context, means adjusting our lives to
+accommodate the changing climate and its associated challenges.
+
+Adapting to climate change involves adjusting to the actual or expected future climate. The
+primary goal of adaptation is to reduce our risks from the harmful effects of climate change,
+such as sea level rise, more intense extreme weather events, or food insecurity.
+Additionally, adaptation includes making the most of any potential beneficial opportunities
+associated with climate change, such as longer growing seasons or increased crop yields in
+certain regions.
+
+When discussing climate change, it's essential to distinguish between adaptation and
+mitigation. Adaptation refers to the process of adjusting to the changes that are already
+happening or are expected to happen, focusing on minimizing the negative impacts and
+taking advantage of any positive outcomes. On the other hand, mitigation involves efforts
+to reduce or prevent the emission of greenhouse gases to slow down or halt the process of
+climate change itself.
+Adaptation, as we have seen, involves actions or changes in societal behavior aimed at
+reducing or eliminating greenhouse gas emissions and/or removing these gases from the
+atmosphere to prevent significant adverse climate effects. Adaptation, on the other hand,
+refers to modifications in processes, practices, and infrastructures designed to prepare for
+projected climate change effects and limit their adverse impacts to an acceptable level. In
+essence, adaptation is a portfolio of actions intended to reduce, compensate for, or adapt to
+the adverse impacts arising from changes in the Earth's climate.
+
+Strategies for reducing risks from weather and climate extremes focus on either mitigating
+the likelihood of extreme events by limiting greenhouse gas concentrations in the
+atmosphere (which is mitigation) or by adapting the way built or natural infrastructure
+responds to extreme events (which is adaptation). Often, a combination of both strategies
+is employed. It's important to note that some greenhouse gases, especially carbon dioxide,
+can persist in the atmosphere for centuries, making long-term planning and action essential.
+
+So, even if humanity could immediately eliminate CO emissions, the excess amounts
+already in the atmosphere--compared to pre-industrial levels--will lead to continued
+warming and associated changes in climate for the foreseeable future. This inevitable
+warming necessitates climate adaptation, and thus, both mitigation and adaptation must be
+pursued in parallel. By mitigating the causes of climate change, we can reduce the costs
+associated with weather and climate disasters and the expenses involved in adaptation.
+
+The key to climate change adaptation lies in addressing the factors that make human and
+non-human populations vulnerable, improving our ability to respond to climate challenges,
+managing the risks associated with climate change, and directly confronting these issues
+through collective and individual actions. Therefore, adaptation involves three core
+components: reducing vulnerability to climate change, enhancing adaptive capacity, and
+strengthening resilience.
+
+Adaptation actions provide multiple benefits, with the foremost being avoided losses--the
+ability of investments in adaptation to reduce future losses. This means that by taking
+proactive measures to adapt to climate change, we can minimize the negative impacts and
+prevent significant damages that would otherwise occur.
+
+The second benefit of climate change adaptation is the positive economic impact, which
+comes from reducing risks, increasing productivity, and driving innovation through the
+need for adaptation. This economic benefit manifests in various ways, such as reducing
+flood risks in urban areas, which lowers financial costs, enhances security, and makes
+investments that would otherwise be too vulnerable to climate risks more viable. These
+economic benefits not only protect assets but also foster growth and innovation by
+encouraging the development of new technologies and practices tailored to cope with
+climate challenges.
+The third benefit revolves around social and environmental advantages. For instance,
+mangrove forests offer significant protection against coastal flooding, providing over $80
+billion per year in avoided losses and safeguarding nearly 18 million people. Beyond flood
+protection, mangroves also contribute an estimated $40 to $50 billion annually in non-
+market benefits related to fisheries, forestry, and recreation. By preserving and enhancing
+these natural resources, we can derive substantial social and environmental benefits in
+response to climate change.
+
+When discussing climate change adaptation, it's essential to understand that it involves
+three core components: reducing vulnerability, preparing for future climate impacts, and
+restoring ecosystems and communities. These components lead to three key benefits:
+avoided losses, economic benefits, and social and environmental benefits.
+
+For example, implementing early warning systems can save lives and protect assets worth
+at least ten times their cost. A simple 24-hour warning before a storm or heat wave can
+reduce the resulting damage by at least 30 percent. Such systems are a critical part of
+reducing vulnerability and preparing for extreme weather events.
+
+Moreover, adaptation strategies are not limited to local applications; they have broader
+implications at sub-national, national, and even regional scales. Effective adaptation
+requires coordinated efforts across these levels to ensure that the benefits of adaptation--
+whether economic, social, or environmental--are maximized and distributed equitably.
+This comprehensive approach ensures that communities and ecosystems are resilient to the
+impacts of climate change, securing both current and future generations.
+
+For instance, an agriculture ministry setting farm policies, a water ministry investing in
+watershed development, or a public works department strengthening national grids all
+operate beyond the scope of local implementation, impacting national or even regional
+adaptation strategies. A compelling example of this broader approach is Bangladesh, which
+has effectively reduced the number of deaths from climate disasters by implementing
+comprehensive measures. These include scaling up early warning systems, improving
+disaster response with cyclone shelters, raising civic awareness, strengthening building
+infrastructure, and enhancing post-disaster recovery processes.
+
+By following a similar approach, other regions can also adapt to the long-term negative
+impacts of climate change. In fact, much can be learned from nature in this regard.
+
+Nature provides invaluable and irreplaceable protection against the mounting impacts of
+climate change. For example, forests play a critical role in storing and regulating water, a
+service that will become increasingly vital as rainfall patterns become more erratic.
+Wetlands act as natural sponges, soaking up potentially deadly floods and ensuring a steady
+supply of water to farmers and cities during times of drought. Mangroves, too, serve as
+natural barriers, taming powerful storm surges that could otherwise devastate coastal
+communities. These crucial ecosystems support entire economies and societies by
+providing food, fuel, and livelihoods while also combating climate change by capturing
+carbon from the atmosphere.
+
+The protection and restoration of these natural systems are not just local concerns; they
+have far-reaching implications that extend to national and regional levels. Investing in the
+health and resilience of these ecosystems is a vital part of adapting to climate change,
+ensuring that they continue to provide the essential services that communities rely on,
+especially as the climate becomes more unpredictable. By understanding and leveraging
+the natural defenses provided by forests, wetlands, mangroves, and other ecosystems, we
+can enhance our collective resilience to climate change's inevitable challenges.
+
+A thriving natural environment is indeed a cornerstone of building resilience across all
+sectors. We can already see the immense opportunities that nature offers in enhancing
+societal resilience in various landscapes, from uplands to the ocean. For example, restoring
+upland forests and watersheds could save water utilities in the world's 534 largest cities an
+estimated 890 million dollars annually, while also playing a crucial role in regulating water
+flows and managing the more extreme floods expected in the future. Similarly, lakes,
+marshes, and river floodplains can help slow the release of floodwaters and filter out
+sediments, thereby reducing the impact of floods.
+
+Governments and companies need to recognize the value of these natural assets and
+identify their potential to support adaptation and resilience strategies. Climate scientists,
+since the mid-20th century, have gathered detailed observations of various weather
+phenomena--such as temperature changes, precipitation patterns, and storm activities--
+and their influence on climate factors like ocean currents and atmospheric chemical
+composition. These data clearly indicate that Earth's climate has changed over almost every
+conceivable time scale since the beginning of geologic time, and that human activities,
+particularly since the Industrial Revolution, have increasingly influenced the pace and
+extent of present-day climate change.
+
+In response to the growing conviction within the scientific community, the
+Intergovernmental Panel on Climate Change (IPCC) was established in 1988 by the World
+Meteorological Organization and the United Nations Environment Programme. The IPCC
+was created to provide policymakers and decision-makers with regular scientific
+assessments on climate change, its implications, and potential future risks. It also offers
+recommendations for adaptation and mitigation strategies to help manage and combat the
+impacts of climate change effectively.
+Simultaneously, various other international bodies, including the United Nations General
+Assembly, recognized the necessity for international cooperation on climate change to
+adopt effective measures within a global framework. The United Nations General
+Assembly, during its 45th session in 1990, acknowledged the findings of the IPCC and
+decided to initiate negotiations for an effective framework convention on climate change.
+The aim was to complete these negotiations before the UN Conference on Environment
+and Development in June 1992, known as the Rio Summit, which we discussed in week 2
+of this course.
+
+The outcome of these negotiations was the United Nations Framework Convention on
+Climate Change (UNFCCC), which was signed in 1992 at the Rio Summit. The UNFCCC
+serves as the foundational climate agreement, providing a platform for most subsequent
+international climate agreements. This convention has been ratified by a wide cross-section
+of both developed and developing countries, including the United States. The primary goal
+of the UNFCCC is to prevent dangerous human interference with the climate system by
+stabilizing greenhouse gas concentrations in the atmosphere at a level that would prevent
+hazardous anthropogenic impacts on the climate.
+To enhance the effectiveness of the UNFCCC, the Kyoto Protocol was adopted in
+December 1997, named after the Japanese city where it was agreed upon. The Kyoto
+Protocol aimed to reduce the emissions of greenhouse gases that contribute to global
+warming. It officially came into force in 2005, and its key objective was to cut the
+emissions of six greenhouse gases--carbon dioxide, methane, nitrous oxide,
+hydrofluorocarbons, perfluorocarbons, and sulfur hexafluoride--to 5.2 percent below the
+1990 levels during the commitment period of 2008 to 2012.
+
+Under the Kyoto Protocol, it was mandatory for most Annex I signatories, which included
+mainly industrialized nations and several countries with economies in transition, to reduce
+their emissions. However, developing countries were not required to limit their emissions.
+While the Kyoto Protocol was a landmark diplomatic achievement, its success was
+uncertain. Reports from the first two years after the treaty took effect indicated that most
+participants were likely to fail in meeting their emission targets. Moreover, critics argued
+that even if the targets were met, the ultimate environmental benefits would be minimal.
+
+One significant point of contention was that China, the world's leading emitter of
+greenhouse gases, and the United States, the second-largest emitter, were not bound by the
+protocol. China was classified as a developing country at that time, and the United States
+had not ratified the protocol. This led to further criticism, suggesting that the emission
+reductions proposed by the protocol were too modest to have a significant impact on global
+temperatures in the following decades, even if fully implemented with U.S. participation.
+Additionally, some developing countries argued that adapting to climate variability and
+change was just as crucial as reducing greenhouse gas emissions. Taking these
+considerations into account, delegates at the 18th Conference of the Parties (COP 18) held
+in Doha, Qatar, in 2012, agreed to extend the Kyoto Protocol until 2020.
+
+During the extended period under the Kyoto Protocol, countries committed to collectively
+reduce emissions by at least 18 percent below 1990 levels. This extension also reaffirmed
+the pledge made at COP 17, held in Durban, South Africa, in 2011, to create a new,
+comprehensive, legally binding climate treaty by 2015. This treaty would require all
+greenhouse gas-producing countries, including major emitters not bound by the Kyoto
+Protocol, such as China, India, and the United States, to limit and reduce their emissions
+of carbon dioxide and other greenhouse gases.
+
+However, the years that followed were marked by a series of conferences that often ended
+in disagreements. Eventually, at COP 21, held in Paris in 2015, delegates signed a global
+but non-binding agreement known as the Paris Agreement. This landmark accord aimed to
+limit the increase in the world's average temperature to no more than 2 degrees Celsius
+above pre-industrial levels, while striving to keep this increase to 1.5 degrees Celsius.
+The Paris Agreement, signed by all 196 signatories of the UNFCCC, effectively replaced
+the Kyoto Protocol. It mandated a progress review every five years and called for the
+creation of a fund exceeding 100 billion dollars by 2020, which would be replenished
+annually to help developing countries adopt non-greenhouse gas-producing technologies.
+The Paris Agreement was a significant achievement for the international community
+because, for the first time, it brought all countries together in an ambitious effort to combat
+climate change by limiting global temperature rise to well below 2 degrees Celsius and
+striving for 1.5 degrees Celsius. Each year, parties to the convention meet in Conferences
+of the Parties (COP) and technical meetings throughout the year to advance the aims and
+ambitions of the Paris Agreement and achieve progress in its implementation.
+
+Both the Kyoto Protocol and the Paris Agreement were concluded under the UNFCCC
+with the objective of stabilizing greenhouse gas concentrations in the atmosphere and
+preventing dangerous human interference with the climate system. However, the Paris
+Agreement became a global treaty in the true sense of the term due to several key
+differences:
+
+1. Scope of Participation: Unlike the Kyoto Protocol, which required only developed
+countries to reduce emissions, the Paris Agreement recognized climate change as a shared
+global problem and called on all countries, both developed and developing, to set emission
+targets.
+
+2. Inclusivity: The Kyoto Protocol did not compel developing countries, including major
+carbon emitters like China and India, to take action. In contrast, the Paris Agreement called
+for all countries to contribute to the global effort, regardless of their development status.
+
+These differences made the Paris Agreement more inclusive and reflective of the global
+nature of the climate challenge, establishing it as a pivotal treaty in the fight against climate
+change.
+The United States signed the Kyoto Protocol in 1998 but never ratified it and eventually
+withdrew its signature. In contrast, the Paris Agreement, which now has 196 parties,
+requires all countries, whether developed or developing, to reduce their emissions.
+Governments set targets known as nationally determined contributions (NDCs) with the
+goal of preventing the global average temperature from rising more than 2 degrees Celsius
+above pre-industrial levels, while also pursuing efforts to keep the temperature rise below
+1.5 degrees Celsius.
+Both the Kyoto Protocol and the Paris Agreement provided several mechanisms for
+countries to reach their emission reduction targets. One of the most efficient ways for
+governments to reduce greenhouse gas emissions and drive innovation in decarbonization
+technologies is through carbon pricing.
+
+Carbon pricing, or the carbon market, requires emitters to obtain an emission allowance
+for each ton of greenhouse gases they release into the atmosphere and surrender them to
+the government at the end of each compliance period, typically three years. These
+allowances, known as carbon credits, function like permission slips for emissions. When a
+company buys a carbon credit, usually from the government, it gains permission to emit
+one ton of CO.
+The carbon credit system also allows for revenue to flow from companies to regulators.
+Companies that have excess credits (due to emitting less than their allowed limit) can sell
+these credits to other companies that exceed their emission limits.
+For example, imagine two companies, Company 1 and Company 2, both of which are
+allowed to emit 300 tons of carbon annually. However, Company 1 is on track to emit 400
+tons of carbon, while Company 2 will only emit 200 tons. To avoid penalties such as fines
+and extra taxes, Company 1 can purchase 100 tons of carbon credits from Company 2,
+which has 100 tons of emission allowance to spare.
+The government establishes annual greenhouse gas emission caps, which are the maximum
+emission limits. These caps are progressively lowered over time to encourage greenhouse
+gas emission reductions. The government sells emission units at auction four times a year,
+and only registered emitters and participants in the carbon market can participate in these
+auctions. Emitters that can reduce their greenhouse gas emissions below their allocated
+units, perhaps by improving production efficiency or adopting cleaner, green technologies,
+can sell their surplus emission units on the carbon market to other emitters who exceed
+their allocations.
+This market-based approach incentivizes companies to reduce their emissions and
+encourages innovation in cleaner technologies, helping to meet the broader goals of
+international climate agreements like the Paris Agreement.
+
+The government also allows emitters to compensate for a part of their greenhouse gas
+emissions by using offset credits. As already mentioned, the findings of the
+Intergovernmental Panel on Climate Change (IPCC) played a decisive role in leading to
+the UNFCCC and continue to be a major source of information for the negotiation and
+conceptualization of international treaties addressing climate change.
+When the IPCC was first established by the World Meteorological Organization and the
+United Nations Environment Program (UNEP) in 1988, its key objective was to provide
+the world with a clear scientific view of the current state of knowledge on climate change
+and its potential environmental and socio-economic impacts. In this respect, the IPCC has
+been highly successful, and today it stands as the leading international body for the
+assessment of climate change. Any country that is a member of UNEP is eligible to join
+the IPCC, and currently, 195 countries are members.
+
+Importantly, the IPCC does not conduct any research of its own or monitor the climate.
+Instead, it reviews and assesses the most recent scientific, technical, and socio-economic
+information related to climate change. The organization is divided into three working
+groups and a task force on greenhouse gas inventories.
+Working Group 1 deals with the physical science basis of climate change, analyzing
+observational records, forcing agents that cause climate change, and the response of the
+climate system to these agents. It also addresses the question of human influence on today's
+climate and projections for future climate scenarios.
+Working Group 2 assesses vulnerabilities and adaptation possibilities for major sectors and
+regions of the world. It explores the implications of climate change for sustainable
+development.
+Working Group 3 examines mitigation options in various sectors, their costs, co-benefits,
+barriers, opportunities, policies, measures, and instruments. It places climate change
+mitigation within the context of sustainable development.
+The Task Force on Greenhouse Gas Inventories develops and refines methods for
+calculating and reporting on national greenhouse gas emissions and removals.
+The IPCC's mandate is to assess the state of scientific literature on all aspects of climate
+change, its impacts, and society's options for responding to it. Whenever a new piece of
+scientific research relevant to these topics is published, it becomes part of the body of
+evidence that the IPCC assesses. The IPCC does not conduct original research itself, nor
+does it develop its own models or scenarios. Instead, it provides governments at all levels
+with scientific information they can use to develop climate policies.
+
+IPCC assessments are a key input into international negotiations to tackle climate change.
+The reports produced by the IPCC are drafted and reviewed in several stages to ensure
+objectivity and transparency. The IPCC assesses thousands of scientific papers published
+each year, summarizing what we know and what we do not know about the risks related to
+climate change, helping policymakers make informed decisions.
+
+The IPCC identifies areas of agreement within the scientific community, highlights
+differences of opinion, and indicates where further research is necessary. It does not
+conduct its own research but instead mobilizes hundreds of scientists from diverse
+backgrounds worldwide to produce its reports. The IPCC's main outputs are regular
+assessment reports that summarize the current state of knowledge on climate change. The
+most recent of these, the Sixth Assessment Report, was published between 2021 and 2023.
+This report includes four volumes covering the physical science basis, impacts, adaptation
+and vulnerability, mitigation of climate change, and a synthesis report.
+The synthesis report provides an integrated summary of the most critical information
+contained in the three other volumes. The IPCC also produces special reports, which are
+more focused than the main assessments, addressing cross-disciplinary issues that span
+more than one working group. To date, the IPCC has published 14 special reports on topics
+such as carbon capture and storage, renewable energy, and the influence of climate change
+on oceans and the cryosphere.
+
+The IPCC also provides guidelines for national greenhouse gas inventories, offering
+methodologies for estimating national inventories of anthropogenic emissions and
+removals by sinks of greenhouse gases. The impact of each report has significantly
+influenced our understanding and perception of climate change. For example, the evidence
+published in the First Assessment Report in 1990 highlighted the importance of
+international cooperation in tackling climate change, which led to the formation of the
+UNFCCC, an international treaty aimed at reducing global warming and managing its
+consequences.
+The Second Assessment Report, published in 1995, concluded that the balance of evidence
+suggested a discernible human influence on the Earth's climate. This conclusion strongly
+influenced negotiators and played a pivotal role in the decision to adopt the Kyoto Protocol
+in 1997, which extended the UNFCCC by pledging developed nations to reduce emissions
+by an average of 5% during the 2008 to 2012 period.
+In a similar manner, the Fifth Assessment Report provided the key scientific foundation
+for the Paris Agreement. Notably, in 2007, the IPCC, along with former U.S. Vice
+President Al Gore, was awarded the Nobel Peace Prize for their efforts in raising awareness
+about human-induced climate change and laying the groundwork for necessary
+countermeasures. The IPCC continues to uphold its mission, providing critical insights into
+climate change.
+
+Throughout this week, we've explored various facets of climate change, from the evidence
+of its existence, the key drivers, the long-term consequences, mitigation options, adaptation
+strategies, and the policies we have revisited. To summarize our week-long discussion on
+climate change, we can confidently state that human activities, primarily through the
+emission of greenhouse gases, have unequivocally caused global warming. Global
+greenhouse gas emissions have continued to rise due to unsustainable energy use, land use,
+lifestyle choices, and patterns of consumption and production across different regions,
+countries, and individuals. This has led to widespread and rapid changes in the atmosphere,
+oceans, cryosphere, and biosphere. Human-caused climate change is already influencing
+weather and climate extremes in every region globally.
+
+Rapid and far-reaching transitions across all sectors and systems are necessary to achieve
+deep and sustained emissions reductions and to secure a livable and sustainable future for
+all. Numerous options are available to reduce emission-intensive consumption, including
+behavioral and lifestyle changes, which also have co-benefits for societal well-being. The
+choices we make today will have repercussions for hundreds, even thousands of years.
+Therefore, it is imperative that we make our choices wisely and start taking action at the
+local level. On that note, I conclude our discussion on climate change.
+
+Thank you.
+

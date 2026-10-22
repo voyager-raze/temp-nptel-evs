@@ -1,0 +1,310 @@
+                            NPTEL Online Certification Courses
+                         Indian Institute of Technology Kharagpur
+
+                          Environmental Science
+
+                              Assignment - Week #5
+                         TYPE OF QUESTION: MCQ/MSQ
+
+Number of questions: 15                                             Total mark: 20
+
+                                   MCQ (10 × 1 = 10)
+
+QUESTION 1:
+
+A country decides to rapidly phase out fossil fuels without investing adequately in
+alternative energy infrastructure. Which dimension of the Global Energy Trilemma is most
+likely to be adversely affected in the short term?
+
+I. Energy security
+II. Energy equity
+III. Environmental sustainability
+
+    a. I only
+    b. I and II only
+    c. II and III only
+    d. I, II, and III
+
+Correct answer: a. I only
+
+Solution: Refer to Slides #5 of Lecture #1. The most immediate and direct consequence
+is a reduction in the reliability and resilience of energy supply, which affects energy
+security. Effects on energy equity are possible but not certain from the information
+provided, while environmental sustainability would generally improve.
+
+QUESTION 2:
+
+Which of the following statements about a Trombe wall are correct?
+
+I. It is a passive solar heating system.
+II. It stores solar energy in a high thermal-mass wall.
+III. It requires photovoltaic panels to generate electricity.
+IV. It can help reduce space-heating demand in buildings.
+
+     a. I and II only
+     b. I, II, and IV only
+     c. III and IV only
+     d. I, II, III, and IV
+
+Correct answer: b. I, II, and IV only
+Solution: Refer to Slides #18­#19 of Lecture #4. A Trombe wall is a passive solar design
+feature consisting of a sun-facing glazed wall with high thermal mass that absorbs, stores,
+and gradually releases heat to the building interior. It does not require photovoltaic panels
+and is intended for thermal energy management rather than electricity generation.
+
+QUESTION 3:
+
+Assertion (A): Bifacial photovoltaic (PV) modules can generate more electricity than
+monofacial PV modules under suitable operating conditions.
+
+Reason (R): Bifacial PV modules are capable of capturing solar radiation from both their
+front and rear surfaces.
+
+     a. Both A and R are true, and R is the correct explanation of A.
+      b. Both A and R are true, but R is not the correct explanation of A.
+      c. A is true, but R is false.
+      d. A is false, but R is true.
+
+Correct answer: a. Both A and R are true, and R is the correct explanation of A.
+Solution: Refer to Slides #11 & #12 of Lecture #3. The assertion is true because bifacial
+PV modules can produce more electricity than conventional monofacial modules when
+installed under favorable conditions. The reason is also true, as bifacial modules are
+designed to capture solar radiation on both sides of the panel. In addition to direct sunlight
+incident on the front surface, the rear surface can utilize reflected and diffuse radiation
+from the ground and surrounding surfaces (albedo radiation). This additional light capture
+increases the total solar energy received by the module, leading to higher electricity
+generation compared to monofacial modules, which can harvest light only from the front
+surface.
+
+QUESTION 4:
+
+Which of the following concentrating solar power (CSP) technologies is the most
+commercially mature and accounts for the largest share of installed CSP capacity
+worldwide?
+
+    a. Solar towers
+    b. Parabolic dishes
+    c. Parabolic troughs
+    d. Linear-Fresnel reflectors
+
+Correct answer: c. Parabolic troughs
+Solution: Refer to Slide #18 of Lecture #2. Parabolic trough systems are the most
+established CSP technology, with extensive commercial deployment and operational
+experience across many large-scale solar thermal power plants worldwide.
+QUESTION 5:
+
+What is the primary purpose of thermal energy storage in a concentrating solar power
+(CSP) plant?
+
+    a. To store excess thermal energy for electricity generation during periods of low or
+         no solar radiation
+
+    b. To increase the concentration ratio of solar collectors
+    c. To convert solar energy directly into electricity without a turbine
+    d. To eliminate heat losses from the solar receiver
+
+Correct answer: a. To store excess thermal energy for electricity generation during
+periods of low or no solar radiation
+Solution: Refer to Slide #25 of Lecture #2. Thermal energy storage systems, commonly
+based on molten salts, store heat collected during sunny periods and release it later to
+generate electricity when sunlight is unavailable, thereby improving the dispatchability of
+CSP plants.
+
+QUESTION 6:
+
+According to Betz's law, a wind turbine cannot extract all of the kinetic energy from the
+wind because
+
+    a. the air must retain some kinetic energy after passing through the rotor.
+    b. the wind speed must remain unchanged across the rotor plane.
+    c. the air accelerates as it passes through the rotor, reducing energy extraction.
+    d. the kinetic energy of the wind is independent of its velocity.
+
+Correct answer: a. the air must retain some kinetic energy after passing through the
+rotor.
+Solution: Refer to Slide #14 of Lecture #5. A wind turbine generates power by extracting
+a portion of the wind's kinetic energy and reducing its velocity. However, the air must
+retain some kinetic energy after passing through the rotor so that it can continue flowing
+downstream. If all of the kinetic energy were extracted, the air would come to a complete
+stop behind the turbine, preventing any further airflow through the rotor and making
+continuous power generation impossible. This physical constraint establishes the
+theoretical upper limit on wind energy extraction described by Betz's law.
+QUESTION 7:
+
+Which of the following is a primary advantage of offshore wind farms compared with
+onshore wind farms?
+
+    a. They eliminate the need for transmission infrastructure.
+    b. They generally experience stronger and more consistent wind resources.
+    c. They require smaller turbines to achieve the same power output.
+    d. They are less expensive to install and maintain.
+
+Correct answer: b. They generally experience stronger and more consistent wind
+resources.
+Solution: Refer to Slide #18 of Lecture #5. Offshore locations typically experience higher
+average wind speeds and lower turbulence than land-based sites. These conditions
+increase energy production and improve the capacity factor of offshore wind turbines,
+making offshore wind farms an attractive option despite their higher installation and
+maintenance costs.
+
+QUESTION 8:
+
+A passive solar building receives 5,000 kWh of useful solar heat through its south-facing
+windows during the winter. If the building experiences a total heat loss of 4,000 kWh over
+the same period, what is the additional heating energy required from a backup heating
+system?
+
+      a. 0 kWh
+      b. 1,000 kWh
+     c. 4,000 kWh
+     d. 5,000 kWh
+
+Correct answer: a. 0 kWh
+Solution: The solar heat gain (5,000 kWh) exceeds the building's heat loss (4,000 kWh).
+Since the available solar heat is sufficient to offset all heat losses, no additional heating
+is required from a backup system. The excess 1,000 kWh represents a net heat surplus.
+
+QUESTION 9:
+
+For a fixed solar photovoltaic (PV) system in the Northern Hemisphere, increasing the
+panel tilt angle beyond the annual optimum generally helps to
+
+      a. increase winter energy capture when the sun is lower in the sky
+      b. increase summer energy capture when the sun is nearly overhead
+      c. eliminate reflection losses from the panel surface
+      d. maintain the same solar incidence angle throughout the year
+Correct answer: a. increase winter energy capture when the sun is lower in the sky
+Solution: Refer to Slide #8 of Lecture #3. In winter, the sun follows a lower path across
+the sky. A steeper panel tilt improves the angle at which sunlight strikes the module,
+thereby increasing winter solar energy capture.
+
+QUESTION 10:
+
+Which feature most clearly distinguishes an active solar heating system from a passive
+solar heating system?
+
+      a. Collection of solar energy through south-facing glazing
+      b. Storage of heat in materials with high thermal mass
+      c. Distribution of heat by natural convection and radiation
+      d. Heat transfer assisted by pumps or fans
+
+Correct answer: d. Heat transfer assisted by pumps or fans
+Solution: Active solar heating systems use mechanical devices such as pumps or fans to
+circulate a heat-transfer fluid and distribute solar heat. Passive solar heating systems rely
+on building design, thermal mass, and natural heat transfer mechanisms such as
+conduction, convection, and radiation.
+
+                                      MSQ (5 × 2 = 10)
+
+QUESTION 11:
+
+Which of the following factors are typically considered when estimating the technical
+potential of solar energy in a region?
+
+     a. Available land or rooftop area
+     b. Solar resource availability
+     c. Module conversion efficiency
+     d. Electricity market prices
+
+Correct answer(s):
+     a. Available land or rooftop area
+     b. Solar resource availability
+     c. Module conversion efficiency
+
+Solution: Refer to Slide #10 of Lecture #1. Technical potential accounts for resource
+availability, suitable installation area, and technology performance. Electricity prices are
+relevant to economic potential.
+QUESTION 12:
+
+Which of the following are potential environmental concerns associated with wind energy
+projects?
+
+a. Bird and bat mortality due to turbine collisions
+b. Habitat fragmentation caused by access roads and supporting infrastructure
+c. Noise and shadow-flicker effects on nearby communities
+d. Alteration of local landscape aesthetics and visual character
+
+Correct answer(s):
+
+a. Bird and bat mortality due to turbine collisions               supporting
+b. Habitat fragmentation caused by access roads and
+
+    infrastructure
+c. Noise and shadow-flicker effects on nearby communities
+d. Alteration of local landscape aesthetics and visual character
+
+Solution: Refer to Slide #26 of Lecture #5. Although wind energy produces electricity with
+minimal direct emissions, wind farms may raise environmental concerns related to wildlife
+impacts, habitat disturbance, noise and shadow flicker, and visual effects on the
+surrounding landscape.
+
+QUESTION 13:
+
+Which of the following pathways can be used to produce green hydrogen directly using
+solar energy?
+
+      a. Photoelectrochemical water splitting
+      b. Photocatalytic water splitting
+      c. Photovoltaic-powered water electrolysis
+      d. Solar-powered alkaline electrolysis
+
+Correct answer(s):
+
+      a. Photoelectrochemical water splitting
+      b. Photocatalytic water splitting
+Solution: Refer to Slide #25 of Lecture #4. Photoelectrochemical and photocatalytic
+systems use sunlight directly to drive water-splitting reactions. In contrast, photovoltaic-
+powered and solar-powered electrolysis first convert solar energy into electricity, which is
+then used to produce hydrogen.
+QUESTION 14:
+
+Which of the following factors can influence the electrical output of a photovoltaic (PV)
+module?
+
+      a. Solar irradiance incident on the module surface
+      b. Module operating temperature
+      c. Shading of individual cells within the module
+      d. Orientation and tilt angle of the module
+
+Correct answer(s):
+
+      a. Solar irradiance incident on the module surface
+      b. Module operating temperature
+      c. Shading of individual cells within the module
+      d. Orientation and tilt angle of the module
+Solution: PV output is influenced by the amount of sunlight received, module temperature,
+shading effects, and installation geometry.
+
+QUESTION 15:
+
+Which of the following represents a potential environmental challenge associated with the
+large-scale deployment of renewable energy technologies?
+
+     a. Unintended lifecycle carbon footprints from the manufacturing and disposal of
+          renewable energy components
+
+      b. Ecological fragmentation and shifts in biodiversity due to large-scale renewable
+          infrastructure
+
+      c. Accelerated resource depletion and environmental degradation linked to the
+          mining of critical raw materials for green technologies
+
+      d. Increased reliance on geologically constrained and environmentally disruptive
+          energy storage solutions
+
+ Correct answer(s):
+
+       a. Unintended lifecycle carbon footprints from the manufacturing and
+            disposal of renewable energy components
+
+       b. Ecological fragmentation and shifts in biodiversity due to large-scale
+            renewable infrastructure
+
+       c. Accelerated resource depletion and environmental degradation linked to
+            the mining of critical raw materials for green technologies
+
+ Solution: Large-scale renewable energy technologies can pose environmental
+challenges, such as carbon footprints from manufacturing and disposal, ecological
+disruption affecting biodiversity, and resource depletion due to the mining of critical
+materials needed for these technologies.
+

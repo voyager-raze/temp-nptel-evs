@@ -1,0 +1,313 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                 Week 09
+                                               Lecture 05
+                                        E-Waste Management
+
+Welcome, everyone. Welcome to our final lecture for this week. This lecture is going to
+be about e-waste, electronic waste management.
+The concepts that we are going to cover are what is defined as e-waste, what are the
+health and environmental effects, what is e-waste management, how do we achieve it,
+what are our objectives, what are the generation rates, the international agreements that
+affect e-waste movement, how do we treat it and finally, I will end with closing the loop
+that is a circular economy concept.
+
+The keywords for this particular lecture are e-waste management, generation rate, import,
+export, transboundary movement, regulations and the Basel convention.
+So, what we have here is the definition of e-waste.
+
+E-waste is the abbreviated form for electrical and electronic waste. It is also termed
+WEEE which stands for waste, electrical and electronic equipment. So, any obsolete or
+discarded electrical and electronic items are referred to as e-waste. There are 6 categories
+of equipment that are used to classify e-waste
+
+The first one is temperature exchange equipment. All the cooling and freezing equipment
+that we use refrigerators, freezers, air conditioners and heat pumps come in this first
+category. The second category screens, monitors and equipment containing screens that
+includes televisions, your computer monitors, laptops, tablets and so on. Category 3 is
+light providing light emitting devices. So, fluorescent lamps, LED lamps all of them
+come in category 3.
+
+Category 4 we have large equipment. So, washing machines, washing clothes dryers,
+dish washing machines, large printing devices, photo-voltage panels they all come in
+category 4. Category 5 includes small household equipment. So, vacuum cleaners,
+microwaves, ventilation equipment, toasters, kettles, electric kettles, shavers, scales,
+electrical toys, small medical devices, control instruments all these are category 5. Small
+information technology and telecom equipment, mobile phones, personal computers,
+printers, game, consoles, calculators all of them are category 6.
+Why are we worried about e-waste? Why is e-waste a special waste stream which is
+increasingly important? So, e-waste contains both organic as well as inorganic
+pollutants. I will not talk about the individual pollutants again because we do not have
+enough time, but it these pollutants are responsible for causing problems for human
+health as well as for the environment. The biggest problem in terms of human health
+effects are for the people who are involved in the dismantling and recycling processes.
+So, that is occupational exposure is the biggest problem. Also, secondarily you have
+community exposure.
+
+So, if I have an area which is being used for informal recycling of e-waste, the people
+who are involved in that activity are exposed to all kinds of pollutants due to their
+occupation, but they are also polluting their own environment and secondarily anyone
+who is in contact with them or using that area or environment is also going to be affected.
+So, we have community and occupational exposures. You already may be knowing these
+terms mutagenic means causing mutations in the DNA, carcinogenic means cancer
+causing and teratogenic means causing defects in the embryo or the fetus at the time of
+pregnancy. So, these pollutants many of the pollutants associated with e-waste are
+known to be either mutagenic, carcinogenic or teratogenic. We also have certain heavy
+metals and plastic materials or compounds that are derived from the plastics and these
+e-waste materials, they are capable of causing disruption to the endocrine system and that
+can have long term as well as short term effects on the health of the person exposed.
+We also have non-carcinogenic or cytotoxic effects. So, dermal and eye irritation again
+mainly due to occupational exposures, but it can also happen due to community
+exposures is also part of the human health effects. We also have environmental effects
+which means that if you are throwing this material into the environment without proper
+care, you may be polluting the soil. So, you can have pollution of all environmental
+media air, water, soil and the biota and that biota will eventually end up on your plate and
+therefore, you may be ingesting some of this some of these pollutants. This is because of
+these processes.
+
+So, we have bioaccumulation, biomagnification, bioconcentration, we will be looking at
+this these three different processes. We are going to look at that in more detail in the next
+week and what that is that so any pollutant that is in air, water, soil or ends up in the
+vegetation will eventually move up the trophic pyramid. In ecology, we have trophic
+pyramids which I will cover in the next week. Any pollutant that is released into the
+environment is capable many of them are capable of bioaccumulating, biomagnifying or
+bioconcentrating. So, these are some of the processes that affect ecosystems and we will
+be looking at that in more detail like I said in the next week.
+
+Many of these pollutants are persistent or recalcitrant that means they do not degrade,
+they are not biodegradable and maybe they are not even photodegradable easily. Some of
+them may be explosive. So, for all these reasons they have significant impacts on the
+environment and therefore, it is very important to take care of them in a specific way.
+Several pollutants coming from e-waste are known to be hazardous as well.
+If we think about e-waste management, what are the issues that surround e-waste
+management? So, I will start, let us look at e-waste management, what are the different
+issues surrounding-waste management.
+
+In this slide, we have a very simple schematic about all the issues that have to be dealt
+with when you are dealing with e-waste. I have already mentioned health. Health is the
+primary motivation for trying to deal with e-waste in a better way. So, whether it is
+human health or ecosystem health, it is important. The cost of e-waste management, it
+has to be cost effective and one of the in the current system is that e-waste is currently
+being recycled by the poorest of most developing countries and it is leading to severe
+health problems as well as long term environmental problems.
+
+So, the economics of the process has to be modified in a way that it protects health as
+well as achieves the purpose of recycling and the goals of circular economy are achieved.
+That can only be done with proper regulations. There is a significant amount of work
+that is being done in the research and development phase to achieve these goals. There
+are several logistic problems because the amount of e-waste generator is very small. You
+have to bring it together, collect it in sufficient amounts to be able to dismantle and
+recycle it in a cost-effective manner.
+
+So, there are significant issues with the logistics of the process, with the treatment and
+disposal options that are available and we need to understand generation as well as
+recycling and resource recovery for e-waste. So, I won't have time to go into every
+detail, but I will be covering a few aspects that are shown over here.
+So, let's take a look at the status of e-waste management in our country. Now e-waste
+generation and management is required. It's an immediate concern.
+
+As I said, it's a special stream of waste, of solid waste and it has become increasingly
+important and it's going to become even more important in the future. So, it's a long-term
+concern because of its unregulated accumulation and recycling is necessary, otherwise we
+are going to be dealing with severe human health and environmental problems. Most of
+you may be knowing that the production in the electronics industry in India is growing
+tremendously. It is the fastest growing industry in the country and the growth rate, the
+exponential growth rate of this industry is ranging from 17 to 21 percent annually. The
+world annual production of e-waste was 53.6 million metric tons in 2019. The average
+per capita generation rate was 7.4 kilograms per capita per year. As I said, this is because
+we are using so much more in terms of electrical and electronic products, the waste
+stream is also growing very fast. So, it's the fastest waste stream growing in the world
+and it has an annual growth rate of 4 to 5 percent.
+
+  Many of the global statistics are based on reports that are published regularly by a
+research group that is associated with the United Nations and they have been regularly
+publishing these data as well as reports. In 2014, when they published, I think their first
+report, only 61 percent of the countries had regulations relating to e-waste. That
+increased to 67 percent in 2017. They came out with their second report and 78 percent
+by 2019. At that time in 2019, only 17.4 percent of the global e-waste was formally
+collected and recycled.
+The remaining waste is not managed properly. So, you can understand that we have a
+stream of waste that is growing exponentially at the fastest rate imaginable and the bulk
+of it is not properly managed. So, here we have 17 percent that is properly managed in
+environmentally sound facilities and the raw materials or the materials that are in the
+waste are going to be recycled in a proper manner. The rest of it is basically unknown
+and you can see some of the parameters are mentioned here.
+So, in terms of the value of the raw materials that are improperly managed, it is 47.6
+billion US dollars. In terms of emissions of untreated refrigerants, it is 98 million metric
+tons of carbon dioxide equivalents, 71 kilo tons of brominated flame retardants which are
+used very often in e-waste and 50 tons of mercury.
+
+How about our own country? What is the status in India? India is the fifth largest
+producer of e-waste in the world. In 2019, e-waste generation in the country was 3230
+kilo tons which amounts to 2.4 kilograms per capita per year. Out of this, at that time, it
+was estimated that less than 1 percent is recycled by the formal sector. Now, these
+statistics themselves can be, you can add a question mark to them because we do not have
+a good database or an inventory of the e-waste generated in the country. It is a very
+difficult task. The government has been trying for several years.
+I will talk a little bit more about that in the next few slides, but this is one of the biggest
+challenges. According to an associated Chamber of Commerce report in 2018, 18.5 lakh
+metric tons per year were generated every year. 28 percent of the total e-waste came
+from these 8 big cities. So, we have Mumbai, Delhi, Bangalore, Chennai, Kolkata,
+Ahmedabad, Hyderabad and Pune and you can see the total amount generated by each of
+these cities.
+
+15 percent of the total e-waste comes from households and 70 percent comes from
+government institutions and industries. As I said before, it is estimated that 99 percent of
+the total e-waste generated in the country is recycled by the informal sector. So, when we
+say recycling by the informal sector, it means this sector is exposed to the pollutants
+directly in a hazardous manner and those are occupational exposures and they are also
+polluting their own environment and causing long-term problems.
+E-waste regulations in India came into effect first in 2011, on 1st of May 2012 is when
+they were brought into effect. The rules were revised in 2016 for better implementation
+of the rules and for better definition of producer under the extended producer
+responsibility.
+
+So, what is the extended producer responsibility? So now as part of the e-waste
+regulations, it is required that all manufacturers of electrical and electronic materials,
+products have to take responsibility for their product until the end of its life. They have
+to come up with methods for bringing back the products at the end of their life and then
+managing those products when they become waste in an appropriate manner. So that is
+the extended producer responsibility that their responsibility no longer ends at the time of
+sales, but they have to take the product back at the end of its life. The e-waste
+management rules 2016 were again amended in 2018. So, we have data (from the
+internet basically) about the number of authorized dismantlers and recyclers that have
+been licensed by CPCB I think so.
+
+And we have been steadily increasing the numbers of these authorized dismantlers and
+recyclers. You can see the numbers increasing from 2018 to 2021. In 2018 it was 178
+and in 21 at the end of 21 it was 468. The total capacity for dismantling and recycling, it
+is important to mention what is the difference between dismantling and recycling.
+Dismantling is the bulk of the activities that are done in India are dismantling of e-waste.
+
+Then the dismantled product that has become waste is broken down into its components
+that is dismantling and different components are then taken for recycling. Now most of
+the metals and rare earth metals as well are sent abroad for further purification and so on
+for sales and for purifying it and then for selling it in the global market. What you see in
+this table are the numbers of authorized dismantlers and recyclers and the total
+dismantling and recycling capacity in the country. So, you can see a steady improvement
+from October 2018 to December 2021. The number of authorized dismantlers and
+recyclers went from 178 to 468.
+The total capacity has gone from 4.5 lakh metric tons per year to 13.86 lakh metric tons
+per year. This last number is only one third of the required capacity that is required in the
+country.
+
+Let me start with international agreements. One of the most important international
+agreement which has an impact on global e-waste management is the Basel Convention.
+The Basel Convention was brought into effect to prevent the transboundary import and
+export of e-waste basically from developed countries to developing countries.
+And you can see on this slide we have a global map and you can see that the green arrows
+show the movement of hazardous waste with informed consent under the Basel
+Convention. So, those are the legitimate flows of waste. The red arrows show
+uncontrolled e-waste that is moving from developed nations to developing nations. So,
+just looking at India, we are getting some amount of electronic waste from China and
+from Southeast Asia.
+So, then we come to how can we manage e-waste properly. The first step is rules and
+regulations and I have already mentioned the extended producer responsibility. There are
+several government policy initiatives that have been taken and need to be taken further.
+One is take-back. So, as part of the extended producer responsibility, it is the
+responsibility of the manufacturer to take back whatever they have produced that is
+hazardous in nature and the best example that comes to mind is lead acid batteries.
+
+  So, those of you who are familiar with lead acid batteries which are used in motor
+vehicles, you know that at the end of the life of the lead acid battery, you are supposed to
+take it back to the person who sold it to you so that it can be dismantled and recycled
+appropriately. So, that is one of the best examples. There are several other products
+which need to be treated in the same way. The second option here is exchange. You can
+exchange the e-waste for either money or some kind of financial incentive.
+
+Many places are providing coupons and so on to incentivize purchase of other materials
+in exchange for e-waste that is one scheme that has come up and it is been fairly
+successful. You can provide discounts to the users or the consumers or the buyers of
+electronic products when they return old electronic products. So, that is also being
+implemented. Then in many countries there are taxes or fines for not recycling or not
+depositing e-waste appropriately. So, you can have fines for that and you can have taxes
+associated at the time of purchase with the electronic product.
+
+So, these are some of the things that have been implemented by different governments
+across the world. In our country we have authorized dismantling and recycling centers
+set up by the government. You can take a look at the entire list on this website. You can
+have the manufacturers can have collection centers or deposit boxes. I have seen several
+examples in the media where several phone manufacturers, mobile phone manufacturers
+have set up collection centers or deposit boxes where an old phone or phone batteries can
+be deposited safely for further recycling.
+
+Then we have another policy option and that is Sanchodhan. Sanchodhan is a
+commercial e-waste exchange business that was set up by the Telangana government
+along with the central government perhaps. It is a web portal you can visit the site shown
+over here. It is a web portal for exchanging e-waste with monetary incentives. So, just
+like the old Kabadiwala who used to come to the door to pick up the normal traditional
+fractions of municipal solid waste, this is an online portal for doing the same thing.
+
+So, this will encourage people to bring their e-waste and get a fair price for that waste.
+  What is required as part of proper e-waste management? So, we need to know how
+much is being generated, we need to set up collection centers for all e-waste materials.
+These e-waste materials then have to be transported to proper dismantling and recycling
+centers and there you may have manual or mechanical methods for dismantling and
+segregation of the waste. What is being segregated? Recyclable materials have to be
+segregated. So, you have to separate the glass, plastic and other materials.
+
+So, those are recyclables. Then you within the metals you have to segregate the ferrous
+metals from the non-ferrous metals. There is another point that needs to be added over
+here and that is rare earth metals. All electronic products have some amount of rare earth
+metals. They are minuscule amounts, they are trace amounts, but because rare earth
+metals are essential in many of these electronic products and we do not, India does not
+have its own supply of rare earth metals.
+
+Everything is imported from other countries, mainly China. So, it makes commercial
+sense, it makes economic sense for us to mine the electronic waste and remove these
+minuscule amounts of rare earth metals and use them and recycle them for further use.
+The recovery of ferrous and non-ferrous metals can be done in four different ways. So,
+we have four categories of methods that are available these days. Developed countries
+have relied on pyrometallurgical techniques. Now pyrometallurgical techniques rely on
+high temperature processes for extracting the metal and purifying it and these are
+extremely energy intensive processes.
+
+So, these energy intensive processes are hazardous for the environment. There are high
+amounts of carbon dioxide emissions and the cost is also very high. We are exploring in
+India, we are exploring, we do not have pyrometallurgy in India, we are exploring
+hydrometallurgy, bio metallurgy and electrometallurgy in India for extracting metals from
+e-waste. Hydrometallurgy and biometallurgy and to some extent electrometallurgy are
+considered environmentally friendly methods in comparison to pyrometallurgy. So, these
+processes mainly considered poor because of greenhouse gas emissions and the energy
+required for running these processes.
+So, these three processes hydrometallurgy, biometallurgy, electrometallurgy these are
+promising areas for research and development and there are people working on these
+areas for extracting both rare earth metals as well as ferrous and non-ferrous metals.
+
+I will end this lecture with an example. So, what you see here are rare earth elements,
+REE stands for rare earth elements. These are part of the phosphors. Phosphors are
+compounds that are used in your monitors and your television screens.
+They are present in minerals in very very small amounts and like I said in our country are
+we have very, so these rare earth metals or elements are absent in India. We do not have
+any economic reserves of these rare earth metals and like I said they are imported from
+abroad mainly China. And in fact, China is supplying rare earth elements practically to
+all countries around the globe. So, in the traditional process you have to explore meaning
+you have to do surveys to determine whether you have rare earth metals in your country,
+where are the deposits, how much is it, is it cost effective, can it be mined and so on. So,
+that is the traditional method of finding whether we have sufficient deposits.
+So, these are the steps exploration, mining, cracking, chemical separation, purification of
+the metal and then use of the metal in different products. So, here we have rare earth
+metals that are used in lamps, in TVs, screens, computer monitors and many other
+applications. So, these products here only lamps are shown. So, you have compact
+fluorescent tube lights, you have linear fluorescent tube lights, you have LEDs, all these
+are light emitting devices.
+They have to be collected at the end of their life. You can sort them, remove the mercury
+from the mixed rare earth element phosphors. So, for those of you who have ever broken
+a tube light most of you would be familiar with that. See there is a whitish powder that
+comes out of your normal fluorescent tube light that is the phosphor that comes out of the
+tube light. You have to remove the mercury content, separate the remaining rare earth
+elements and that can be in some cases people were land filling this, but that is not
+considered a good option. The better option is to recycle it, reduce the pressure on
+mining virgin material and in our case, we do not even have that option because we do
+not have any deposits of that.
+So, for India it makes more sense to use the concept of urban mining. So, you collect the
+e-waste, mine the e-waste for these rare earth elements, recycle them and use them. So,
+this is called closing the loop. So, it is a circular economy concept where the material
+that has been added to these electronic products can be mined and reused.
+
+These are the references for this lecture. Thank you.
+

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "pop-arithmetic",
+    "name": "Arithmetic (linear) population growth",
+    "formula": "P_n = P_0 + nX",
+    "variables": "P_n: population after n periods; P_0: initial; X: fixed increment per period; n: number of periods",
+    "example": "P_0=1000, X=100, n=10 -> P_10=2000",
+    "week": 1,
+    "tip": "Use when growth is planned/controlled by fixed numbers, not percentages."
+  },
+  {
+    "id": "pop-geometric",
+    "name": "Geometric population growth",
+    "formula": "P_n = P_0 (1 + r)^n",
+    "variables": "r: growth rate per period as fraction (10%=0.1); discrete compounding",
+    "example": "P_0=1000, r=0.1, n=10 -> P_10=2594",
+    "week": 1,
+    "tip": "Discrete cousin of exponential; for same r, geometric < exponential."
+  },
+  {
+    "id": "pop-exponential",
+    "name": "Exponential population growth",
+    "formula": "P_n = P_0 e^(r n)",
+    "variables": "r: continuous growth rate; n: time",
+    "example": "P_0=1000, r=0.1, n=10 -> P_10=2718",
+    "week": 1,
+    "tip": "India census series often fit exponential with high R^2."
+  },
+  {
+    "id": "ipat",
+    "name": "IPAT environmental impact",
+    "formula": "I = P x A x T",
+    "variables": "I: impact; P: population; A: affluence (e.g. kWh/cap); T: technology factor (e.g. kg CO2/kWh)",
+    "example": "CO2/y = Pop x fossil kWh/cap-y x kg CO2/kWh",
+    "week": 1,
+    "tip": "Growth rates roughly add in % terms when factors multiply."
+  },
+  {
+    "id": "ef-production",
+    "name": "Ecological footprint of production",
+    "formula": "EF_production = P x EQF / Y_w",
+    "variables": "P: production/harvest (t/y); Y_w: world-avg yield (t/ha-y); EQF: equivalence factor",
+    "example": "Convert crop tonnes to global hectares via yield and EQF",
+    "week": 1,
+    "tip": "Footprint is demand; compare to biocapacity (supply)."
+  },
+  {
+    "id": "epi",
+    "name": "Energy Performance Index",
+    "formula": "EPI = E_annual / A_floor",
+    "variables": "E_annual: kWh/year; A_floor: m^2; EPI in kWh/m^2-y",
+    "example": "Campus bills summed over year / built-up area",
+    "week": 1,
+    "tip": "Use 3-5 years of bills for a stable EPI."
+  },
+  {
+    "id": "betz",
+    "name": "Betz limit / max wind power",
+    "formula": "C_P,max=16/27; P_wind,max=(8/27) rho A v^3",
+    "variables": "rho: air density (kg/m^3); A: rotor swept area (m^2); v: wind speed (m/s); C_P: power coefficient",
+    "example": "r=25 m, v=50 km/h, rho=1.21 -> compute P_max then apply CF",
+    "week": 5,
+    "tip": "Memorize 16/27 ~ 59.3% and P proportional to v^3."
+  },
+  {
+    "id": "wind-power",
+    "name": "Power in the wind (kinetic flux)",
+    "formula": "P_wind = (1/2) rho A v^3",
+    "variables": "Before applying C_P; available power in airflow through area A",
+    "example": "Double v -> 8x power",
+    "week": 5,
+    "tip": "Site selection cares more about wind speed than area."
+  },
+  {
+    "id": "geo-heat",
+    "name": "Geothermal heat transfer",
+    "formula": "Q = m_dot * c_p * DeltaT",
+    "variables": "m_dot: mass flow; c_p: specific heat; DeltaT: well-head minus datum temperature",
+    "example": "20 L/s, 75 to 40 C, 170 d -> ~42 TJ/y",
+    "week": 6,
+    "tip": "Convert L/s to kg/y using density at stated T."
+  },
+  {
+    "id": "wave-energy-density",
+    "name": "Mean wave energy density",
+    "formula": "E = (1/8) rho g H^2",
+    "variables": "H: wave height; rho: seawater density; g: gravity; E per unit sea surface",
+    "example": "Used before multiplying by group velocity for power",
+    "week": 6,
+    "tip": "Energy proportional to H^2 -- height errors dominate."
+  },
+  {
+    "id": "wave-power-deep",
+    "name": "Deep-water wave power (per unit crest)",
+    "formula": "P_W = (rho g^2 H^2 T) / 32",
+    "variables": "T: period; H: height; for deep water with c_g = c_d/2",
+    "example": "H=3 m, wavelength=20 m, c=5 m/s -> T=4 s -> ~35.5 kW/m",
+    "week": 6,
+    "tip": "Multiply by inlet width and efficiency for device power."
+  },
+  {
+    "id": "hydro-pe",
+    "name": "Hydropower potential energy / efficiency",
+    "formula": "PE = m g z; e_hydro = P_elec / (m_dot g z)",
+    "variables": "z: operating head; m_dot: mass flow rate; P_elec: electric power output",
+    "example": "150 MW, z=35 m, Q=500 m^3/s, rho=1000 -> e_hydro = P/(m_dot g z)",
+    "week": 6,
+    "tip": "Head and flow dominate; kinetic of free river often negligible behind dam."
+  },
+  {
+    "id": "tidal-power-est",
+    "name": "Tidal energy resource idea",
+    "formula": "Exploit tidal range (potential) or tidal stream KE when v >= 1.5-2 m/s",
+    "variables": "Range: height difference high-low tide; stream: flow speed",
+    "example": "Global tidal theoretical potential ~1200 TWh/y (course)",
+    "week": 6,
+    "tip": "Spring tides when Sun-Moon-Earth aligned; neap when 90 deg."
+  },
+  {
+    "id": "spl",
+    "name": "Sound pressure level",
+    "formula": "L_p = 20 log10(P_rms / P_0), P_0 = 20 uPa",
+    "variables": "P_rms: root-mean-square sound pressure (Pa)",
+    "example": "10x pressure -> +20 dB; 10x intensity -> +10 dB",
+    "week": 10,
+    "tip": "0 dB is the reference threshold of hearing, not absolute silence."
+  },
+  {
+    "id": "wavelength",
+    "name": "Sound wavelength",
+    "formula": "lambda = c / f",
+    "variables": "c: speed of sound; f: frequency (Hz); also period p=1/f",
+    "example": "c~343 m/s, f=343 Hz -> lambda=1 m",
+    "week": 10,
+    "tip": "c ~ 20.05 * sqrt(T) with T in kelvin."
+  },
+  {
+    "id": "inverse-square",
+    "name": "Inverse square law (point source)",
+    "formula": "I = W/(4 pi r^2); L_p2 = L_p1 - 20 log10(r2/r1)",
+    "variables": "W: sound power; r: distance; free-field point source",
+    "example": "Double distance -> Delta L ~ -6 dB",
+    "week": 10,
+    "tip": "Line sources (roads): use ~-3 dB per distance doubling."
+  },
+  {
+    "id": "db-add",
+    "name": "Combining equal sound levels",
+    "formula": "Two equal incoherent sources -> L + 3 dB",
+    "variables": "Energy sum: L_tot = 10 log(10^(L1/10)+10^(L2/10))",
+    "example": "50 dB + 50 dB -> 53 dB",
+    "week": 10,
+    "tip": "If levels differ by >=10 dB, total ~ louder source."
+  },
+  {
+    "id": "wqi-nsf",
+    "name": "NSF Water Quality Index (concept)",
+    "formula": "WQI = sum(Q_i * W_i) (normalized weights)",
+    "variables": "Q_i: sub-index from parameter chart; W_i: weight (DO 0.17, FC 0.16, ...)",
+    "example": "Band: 90-100 Excellent; 0-25 Very Bad",
+    "week": 8,
+    "tip": "Highest weight is DO saturation."
+  },
+  {
+    "id": "bcf",
+    "name": "Bioconcentration Factor",
+    "formula": "BCF = C_biota / C_water",
+    "variables": "Concentrations in tissue and water; units L/kg; rises with K_ow",
+    "example": "DDT water 5e-5 ppm -> gull 6 ppm ~ BCF 1.2e5",
+    "week": 11,
+    "tip": "Distinguish BCF from biomagnification across trophic levels."
+  },
+  {
+    "id": "usle",
+    "name": "Universal Soil Loss Equation",
+    "formula": "A = R K L S C P",
+    "variables": "A: avg annual soil loss; R: rainfall erosivity; K: erodibility; LS: slope length/steepness; C: cover; P: practice",
+    "example": "Unit plot 72.6 ft x 5.5 ft, 9% slope defines factor baselines",
+    "week": 11,
+    "tip": "Management levers are mainly C and P."
+  },
+  {
+    "id": "pyrolysis-note",
+    "name": "Fast pyrolysis (process note)",
+    "formula": "Biomass --(400-600 C, no O2)--> bio-oil + gas + char",
+    "variables": "Temperature window and anaerobic condition define product slate",
+    "example": "Contrast with combustion in excess air -> CO2 + H2O + ash",
+    "week": 6,
+    "tip": "If O2 present it is not classical pyrolysis."
+  },
+  {
+    "id": "egs-note",
+    "name": "EGS heat extraction concept",
+    "formula": "Create permeability -> circulate fluid -> extract Q=m_dot c DeltaT from hot rock",
+    "variables": "Applies where natural hydrothermal productivity is poor",
+    "example": "Hydraulic stimulation of hot dry rock reservoirs",
+    "week": 6,
+    "tip": "EGS expands geothermal beyond volcanic hydrothermal sites."
+  },
+  {
+    "id": "logistic",
+    "name": "Logistic population growth",
+    "formula": "dN/dt = r N (1 - N/K)",
+    "variables": "N: population; r: intrinsic rate; K: carrying capacity",
+    "example": "S-shaped approach to K vs unlimited J-curve",
+    "week": 11,
+    "tip": "When N << K, behaves like exponential."
+  },
+  {
+    "id": "kow",
+    "name": "Octanol-water partition coefficient",
+    "formula": "K_ow = C_octanol / C_water; log BCF ~ f(log K_ow)",
+    "variables": "Hydrophobicity proxy for organic contaminants",
+    "example": "High K_ow organics bioconcentrate in fatty tissue",
+    "week": 11,
+    "tip": "Links chemistry to BCF exam questions."
+  }
+]

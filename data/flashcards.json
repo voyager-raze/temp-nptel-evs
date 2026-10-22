@@ -1,0 +1,869 @@
+{
+  "cards": [
+    {
+      "week": 1,
+      "front": "What is IPAT?",
+      "back": "Impact = Population × Affluence × Technology (Ehrlich & Holdren framing)",
+      "tags": [
+        "formula",
+        "definition"
+      ],
+      "id": "f1"
+    },
+    {
+      "week": 1,
+      "front": "Pollutant vs contaminant?",
+      "back": "Contaminant: present where it shouldn't / above background. Pollutant: causes adverse effects or unreasonable interference.",
+      "tags": [
+        "definition",
+        "compare"
+      ],
+      "id": "f2"
+    },
+    {
+      "week": 1,
+      "front": "Arithmetic population growth formula?",
+      "back": "Pn = P0 + nX (fixed increment each period)",
+      "tags": [
+        "formula"
+      ],
+      "id": "f3"
+    },
+    {
+      "week": 1,
+      "front": "Geometric vs exponential growth?",
+      "back": "Geometric: Pn=P0(1+r)^n (discrete). Exponential: Pn=P0 e^(rn) (continuous; larger for same r).",
+      "tags": [
+        "formula",
+        "compare"
+      ],
+      "id": "f4"
+    },
+    {
+      "week": 1,
+      "front": "EPI units?",
+      "back": "Energy Performance Index = kWh / m²-year",
+      "tags": [
+        "formula"
+      ],
+      "id": "f5"
+    },
+    {
+      "week": 1,
+      "front": "Global EF vs biocapacity (course)?",
+      "back": "~2.8 gha footprint/person vs ~1.6 gha biocapacity/person → overshoot",
+      "tags": [
+        "numerical",
+        "compare"
+      ],
+      "id": "f6"
+    },
+    {
+      "week": 1,
+      "front": "Earth Overshoot Day?",
+      "back": "Date when year's cumulative demand exceeds Earth's regenerative biocapacity for that year",
+      "tags": [
+        "definition"
+      ],
+      "id": "f7"
+    },
+    {
+      "week": 1,
+      "front": "What is a global hectare (gha)?",
+      "back": "Productivity-adjusted hectare with world-average productivity for comparing land types",
+      "tags": [
+        "definition"
+      ],
+      "id": "f8"
+    },
+    {
+      "week": 2,
+      "front": "Brundtland definition of SD?",
+      "back": "Meets present needs without compromising future generations' ability to meet their needs (1987)",
+      "tags": [
+        "definition"
+      ],
+      "id": "f9"
+    },
+    {
+      "week": 2,
+      "front": "SD timeline: Brundtland → Rio → MDGs → SDGs?",
+      "back": "1987 → 1992 → 2000 → 2015 (17 goals, 2030 Agenda)",
+      "tags": [
+        "law",
+        "concept"
+      ],
+      "id": "f10"
+    },
+    {
+      "week": 2,
+      "front": "Three pillars of sustainability?",
+      "back": "Environment, economy, society",
+      "tags": [
+        "definition"
+      ],
+      "id": "f11"
+    },
+    {
+      "week": 2,
+      "front": "What are planetary boundaries?",
+      "back": "Quantified Earth-system limits defining a safe operating space for humanity",
+      "tags": [
+        "definition"
+      ],
+      "id": "f12"
+    },
+    {
+      "week": 2,
+      "front": "Env-heavy SDG numbers?",
+      "back": "6 water, 7 energy, 11 cities, 12 SCP, 13 climate, 14 oceans, 15 land",
+      "tags": [
+        "concept"
+      ],
+      "id": "f13"
+    },
+    {
+      "week": 2,
+      "front": "MDGs vs SDGs?",
+      "back": "MDGs: 8 goals, mainly developing countries. SDGs: 17 universal goals for all countries.",
+      "tags": [
+        "compare"
+      ],
+      "id": "f14"
+    },
+    {
+      "week": 3,
+      "front": "Primary vs secondary air pollutants?",
+      "back": "Primary: emitted directly (SO2, NO, CO, primary PM). Secondary: formed in air (O3, secondary PM).",
+      "tags": [
+        "compare",
+        "definition"
+      ],
+      "id": "f15"
+    },
+    {
+      "week": 3,
+      "front": "What are criteria air pollutants?",
+      "back": "Common ambient pollutants for which air quality standards are set",
+      "tags": [
+        "definition"
+      ],
+      "id": "f16"
+    },
+    {
+      "week": 3,
+      "front": "Montreal Protocol year & target?",
+      "back": "1987 — controls ozone-depleting substances (CFCs/halons)",
+      "tags": [
+        "law"
+      ],
+      "id": "f17"
+    },
+    {
+      "week": 3,
+      "front": "Ambient air meaning?",
+      "back": "Outdoor atmospheric air in its natural state that supports life",
+      "tags": [
+        "definition"
+      ],
+      "id": "f18"
+    },
+    {
+      "week": 3,
+      "front": "ESP / baghouse purpose?",
+      "back": "High-efficiency particulate control (often 95–99%)",
+      "tags": [
+        "concept"
+      ],
+      "id": "f19"
+    },
+    {
+      "week": 3,
+      "front": "FGD targets which gas?",
+      "back": "SO2 (e.g. wet limestone scrubbing)",
+      "tags": [
+        "concept"
+      ],
+      "id": "f20"
+    },
+    {
+      "week": 3,
+      "front": "Indoor air pollution deaths (course cite)?",
+      "back": "~3.2 million deaths/year (2020)",
+      "tags": [
+        "numerical"
+      ],
+      "id": "f21"
+    },
+    {
+      "week": 4,
+      "front": "Weather vs climate?",
+      "back": "Weather: short-term state. Climate: long-term statistics (decades+).",
+      "tags": [
+        "compare"
+      ],
+      "id": "f22"
+    },
+    {
+      "week": 4,
+      "front": "GWP of CO2?",
+      "back": "1 by definition (reference gas)",
+      "tags": [
+        "definition"
+      ],
+      "id": "f23"
+    },
+    {
+      "week": 4,
+      "front": "Five major GHG names?",
+      "back": "CO2, CH4, N2O, CFCs, H2O vapor",
+      "tags": [
+        "concept"
+      ],
+      "id": "f24"
+    },
+    {
+      "week": 4,
+      "front": "Ice–albedo feedback?",
+      "back": "Ice loss → lower albedo → more SW absorbed → more warming",
+      "tags": [
+        "concept"
+      ],
+      "id": "f25"
+    },
+    {
+      "week": 4,
+      "front": "UNFCCC → Kyoto → Paris years?",
+      "back": "1992 → 1997 (force 2005) → 2015",
+      "tags": [
+        "law"
+      ],
+      "id": "f26"
+    },
+    {
+      "week": 4,
+      "front": "Kyoto vs Paris obligation style?",
+      "back": "Kyoto: binding Annex I targets. Paris: NDCs from all parties.",
+      "tags": [
+        "compare",
+        "law"
+      ],
+      "id": "f27"
+    },
+    {
+      "week": 4,
+      "front": "Mitigation vs adaptation?",
+      "back": "Mitigation: cut emissions/enhance sinks. Adaptation: reduce vulnerability to impacts.",
+      "tags": [
+        "compare"
+      ],
+      "id": "f28"
+    },
+    {
+      "week": 4,
+      "front": "Kyoto Annex I first target (course)?",
+      "back": "~5.2% below 1990 levels",
+      "tags": [
+        "numerical"
+      ],
+      "id": "f29"
+    },
+    {
+      "week": 5,
+      "front": "Betz limit?",
+      "back": "CP,max = 16/27 ≈ 59.3%; Pmax = (8/27) ρ A v³",
+      "tags": [
+        "formula"
+      ],
+      "id": "f30"
+    },
+    {
+      "week": 5,
+      "front": "Wind power scaling with speed?",
+      "back": "P ∝ v³ — double speed → 8× power",
+      "tags": [
+        "formula"
+      ],
+      "id": "f31"
+    },
+    {
+      "week": 5,
+      "front": "Energy trilemma SEE?",
+      "back": "Security, Equity, Environmental sustainability",
+      "tags": [
+        "definition"
+      ],
+      "id": "f32"
+    },
+    {
+      "week": 5,
+      "front": "Renewable energy definition?",
+      "back": "Replenished by nature at rate ≥ rate of use",
+      "tags": [
+        "definition"
+      ],
+      "id": "f33"
+    },
+    {
+      "week": 5,
+      "front": "PV vs CSP?",
+      "back": "PV: light→electricity. CSP: concentrate heat (thermal storage often easier).",
+      "tags": [
+        "compare"
+      ],
+      "id": "f34"
+    },
+    {
+      "week": 5,
+      "front": "Capacity factor?",
+      "back": "Actual energy / energy if at rated capacity continuously",
+      "tags": [
+        "definition"
+      ],
+      "id": "f35"
+    },
+    {
+      "week": 6,
+      "front": "Ocean potential rank (course)?",
+      "back": "OTEC (~44000) ≫ Wave (~29500) ≫ Tidal (~1200) TWh/y",
+      "tags": [
+        "numerical",
+        "compare"
+      ],
+      "id": "f36"
+    },
+    {
+      "week": 6,
+      "front": "What is EGS?",
+      "back": "Enhanced Geothermal System — stimulate permeability in hot dry/low-productivity rock",
+      "tags": [
+        "definition"
+      ],
+      "id": "f37"
+    },
+    {
+      "week": 6,
+      "front": "Fast pyrolysis conditions?",
+      "back": "~400–600 °C, little/no O2 → bio-oil + gas + char",
+      "tags": [
+        "definition"
+      ],
+      "id": "f38"
+    },
+    {
+      "week": 6,
+      "front": "Hydropower efficiency formula?",
+      "back": "e_hydro = P_elec / (ṁ g z)",
+      "tags": [
+        "formula"
+      ],
+      "id": "f39"
+    },
+    {
+      "week": 6,
+      "front": "Deep-water wave power dependence?",
+      "back": "PW ∝ H² T (per unit crest); E = (1/8)ρgH²",
+      "tags": [
+        "formula"
+      ],
+      "id": "f40"
+    },
+    {
+      "week": 6,
+      "front": "Open vs closed OTEC?",
+      "back": "Open: seawater vapor working fluid. Closed: low-BP fluid (e.g. ammonia).",
+      "tags": [
+        "compare"
+      ],
+      "id": "f41"
+    },
+    {
+      "week": 6,
+      "front": "Geothermal heat formula?",
+      "back": "Q = ṁ cp ΔT",
+      "tags": [
+        "formula"
+      ],
+      "id": "f42"
+    },
+    {
+      "week": 6,
+      "front": "Tidal stream useful speed?",
+      "back": "About ≥1.5–2 m/s",
+      "tags": [
+        "numerical"
+      ],
+      "id": "f43"
+    },
+    {
+      "week": 7,
+      "front": "Linear vs circular economy slogans?",
+      "back": "Linear: Take–Make–Waste. Circular: Borrow–Use–Return.",
+      "tags": [
+        "compare"
+      ],
+      "id": "f44"
+    },
+    {
+      "week": 7,
+      "front": "Industrial symbiosis?",
+      "back": "One industry's waste/by-product becomes another's feedstock",
+      "tags": [
+        "definition"
+      ],
+      "id": "f45"
+    },
+    {
+      "week": 7,
+      "front": "Urban metabolism anabolism vs catabolism?",
+      "back": "Anabolism builds urban stocks; catabolism generates wastes/emissions",
+      "tags": [
+        "compare"
+      ],
+      "id": "f46"
+    },
+    {
+      "week": 7,
+      "front": "Circular economy ↔ which SDG?",
+      "back": "SDG 12 — Responsible Consumption and Production",
+      "tags": [
+        "concept"
+      ],
+      "id": "f47"
+    },
+    {
+      "week": 8,
+      "front": "Salt vs fresh water fractions?",
+      "back": "~97.5% salt; ~2.5% freshwater",
+      "tags": [
+        "numerical"
+      ],
+      "id": "f48"
+    },
+    {
+      "week": 8,
+      "front": "NSF-WQI highest weight?",
+      "back": "Dissolved oxygen — 0.17",
+      "tags": [
+        "formula"
+      ],
+      "id": "f49"
+    },
+    {
+      "week": 8,
+      "front": "India BOD convention?",
+      "back": "Often BOD3 at 27 °C",
+      "tags": [
+        "definition"
+      ],
+      "id": "f50"
+    },
+    {
+      "week": 8,
+      "front": "Withdrawal vs consumption?",
+      "back": "Withdrawal = extracted. Consumption = not returned (evap/product/transpire).",
+      "tags": [
+        "compare"
+      ],
+      "id": "f51"
+    },
+    {
+      "week": 8,
+      "front": "BOD vs COD?",
+      "back": "BOD: microbial O2 demand. COD: chemical oxidant demand (usually ≥ BOD).",
+      "tags": [
+        "compare"
+      ],
+      "id": "f52"
+    },
+    {
+      "week": 8,
+      "front": "NGT established?",
+      "back": "18 Oct 2010; natural justice; aim dispose in ~6 months",
+      "tags": [
+        "law"
+      ],
+      "id": "f53"
+    },
+    {
+      "week": 8,
+      "front": "WQI Excellent band?",
+      "back": "90–100",
+      "tags": [
+        "numerical"
+      ],
+      "id": "f54"
+    },
+    {
+      "week": 9,
+      "front": "Waste hierarchy PRRRD?",
+      "back": "Prevent > Reuse > Recycle > Recover > Dispose",
+      "tags": [
+        "concept"
+      ],
+      "id": "f55"
+    },
+    {
+      "week": 9,
+      "front": "4Rs in preference order?",
+      "back": "Reduce, Reuse, Recycle, Recover (source reduction first)",
+      "tags": [
+        "definition"
+      ],
+      "id": "f56"
+    },
+    {
+      "week": 9,
+      "front": "Open dump vs sanitary landfill?",
+      "back": "Dumps: uncontrolled leachate/CH4/fires. Landfills: engineered liners, cover, LFG/leachate control.",
+      "tags": [
+        "compare"
+      ],
+      "id": "f57"
+    },
+    {
+      "week": 9,
+      "front": "What are volatile solids (VS)?",
+      "back": "Fraction of TS lost on ignition — organic/biodegradable proxy",
+      "tags": [
+        "definition"
+      ],
+      "id": "f58"
+    },
+    {
+      "week": 9,
+      "front": "E-waste Rules (India) year & idea?",
+      "back": "2011; Extended Producer Responsibility + authorized recyclers",
+      "tags": [
+        "law"
+      ],
+      "id": "f59"
+    },
+    {
+      "week": 10,
+      "front": "Inverse square law for point noise?",
+      "back": "Double distance → −6 dB (I ∝ 1/r²)",
+      "tags": [
+        "formula"
+      ],
+      "id": "f60"
+    },
+    {
+      "week": 10,
+      "front": "Line source distance rule?",
+      "back": "~−3 dB per distance doubling (I ∝ 1/r)",
+      "tags": [
+        "formula",
+        "compare"
+      ],
+      "id": "f61"
+    },
+    {
+      "week": 10,
+      "front": "SPL formula & P0?",
+      "back": "Lp = 20 log10(Prms/P0); P0 = 20 μPa",
+      "tags": [
+        "formula"
+      ],
+      "id": "f62"
+    },
+    {
+      "week": 10,
+      "front": "Two equal incoherent sources?",
+      "back": "+3 dB (e.g. 50+50 → 53 dB)",
+      "tags": [
+        "formula"
+      ],
+      "id": "f63"
+    },
+    {
+      "week": 10,
+      "front": "λ and c relations?",
+      "back": "λ = c/f; c ≈ 20.05√T (T in K)",
+      "tags": [
+        "formula"
+      ],
+      "id": "f64"
+    },
+    {
+      "week": 10,
+      "front": "What is Leq?",
+      "back": "Equivalent continuous level with same energy as fluctuating noise over the period",
+      "tags": [
+        "definition"
+      ],
+      "id": "f65"
+    },
+    {
+      "week": 10,
+      "front": "Occupational 8-h caution level?",
+      "back": "≥85 dB(A)",
+      "tags": [
+        "numerical"
+      ],
+      "id": "f66"
+    },
+    {
+      "week": 10,
+      "front": "Why A-weighting?",
+      "back": "Approximates human ear response; used for env/occupational limits",
+      "tags": [
+        "concept"
+      ],
+      "id": "f67"
+    },
+    {
+      "week": 11,
+      "front": "BCF formula?",
+      "back": "BCF = C_biota / C_water (L/kg)",
+      "tags": [
+        "formula"
+      ],
+      "id": "f68"
+    },
+    {
+      "week": 11,
+      "front": "Bioconcentration vs bioaccumulation vs biomagnification?",
+      "back": "vs water; buildup in organism (all routes); increase up food chain",
+      "tags": [
+        "compare"
+      ],
+      "id": "f69"
+    },
+    {
+      "week": 11,
+      "front": "USLE formula?",
+      "back": "A = R K L S C P",
+      "tags": [
+        "formula"
+      ],
+      "id": "f70"
+    },
+    {
+      "week": 11,
+      "front": "Logistic growth equation?",
+      "back": "dN/dt = r N (1 − N/K)",
+      "tags": [
+        "formula"
+      ],
+      "id": "f71"
+    },
+    {
+      "week": 11,
+      "front": "High Kow implies?",
+      "back": "Hydrophobic → tends to bioconcentrate in fatty tissue",
+      "tags": [
+        "concept"
+      ],
+      "id": "f72"
+    },
+    {
+      "week": 11,
+      "front": "Energy vs nutrients in ecosystems?",
+      "back": "Energy flow unidirectional; nutrients cycle",
+      "tags": [
+        "concept"
+      ],
+      "id": "f73"
+    },
+    {
+      "week": 11,
+      "front": "Ecological niche?",
+      "back": "Species' functional role/position including resources and interactions",
+      "tags": [
+        "definition"
+      ],
+      "id": "f74"
+    },
+    {
+      "week": 12,
+      "front": "Oleum case doctrine?",
+      "back": "Absolute liability for hazardous industries — no traditional exceptions",
+      "tags": [
+        "law"
+      ],
+      "id": "f75"
+    },
+    {
+      "week": 12,
+      "front": "Ratlam case holding?",
+      "back": "Lack of municipal funds is not a defence against sanitation/public-health duties",
+      "tags": [
+        "law"
+      ],
+      "id": "f76"
+    },
+    {
+      "week": 12,
+      "front": "TTZ case key remedies?",
+      "back": "Coal ban/CNG, relocate tanneries, green belt (protect Taj + 255 monuments)",
+      "tags": [
+        "law"
+      ],
+      "id": "f77"
+    },
+    {
+      "week": 12,
+      "front": "Vellore case principles?",
+      "back": "Polluter pays and precautionary principles affirmed against polluting tanneries",
+      "tags": [
+        "law"
+      ],
+      "id": "f78"
+    },
+    {
+      "week": 12,
+      "front": "Kamal Nath doctrine?",
+      "back": "Public trust — State holds natural resources in trust for the public",
+      "tags": [
+        "law"
+      ],
+      "id": "f79"
+    },
+    {
+      "week": 12,
+      "front": "Acts timeline W-A-E-N?",
+      "back": "Water 1974, Air 1981, EPA 1986, NGT 2010",
+      "tags": [
+        "law"
+      ],
+      "id": "f80"
+    },
+    {
+      "week": 12,
+      "front": "Act vs Rules?",
+      "back": "Act = WHAT (substance); Rules = HOW (procedure)",
+      "tags": [
+        "compare",
+        "definition"
+      ],
+      "id": "f81"
+    },
+    {
+      "week": 12,
+      "front": "EPA 1986 role?",
+      "back": "Umbrella environment protection law; wide Central powers & rule-making",
+      "tags": [
+        "law"
+      ],
+      "id": "f82"
+    },
+    {
+      "week": 12,
+      "front": "Chipko vs Appiko?",
+      "back": "Chipko: Himalaya ~1973. Appiko: Western Ghats 1982–83.",
+      "tags": [
+        "compare"
+      ],
+      "id": "f83"
+    },
+    {
+      "week": 12,
+      "front": "NGT procedure hallmarks?",
+      "back": "Natural justice; not bound by CPC; endeavor dispose in 6 months; Delhi + 4 benches",
+      "tags": [
+        "law"
+      ],
+      "id": "f84"
+    },
+    {
+      "week": 12,
+      "front": "Bishnoi legacy?",
+      "back": "Community ethos of protecting Khejri trees / forests",
+      "tags": [
+        "concept"
+      ],
+      "id": "f85"
+    },
+    {
+      "week": 1,
+      "front": "IPAT example for CO2/y?",
+      "back": "Pop × fossil kWh/cap-y × kg CO2/kWh",
+      "tags": [
+        "formula"
+      ],
+      "id": "f86"
+    },
+    {
+      "week": 3,
+      "front": "Tropospheric O3 vs stratospheric O3 issue?",
+      "back": "Tropospheric O3 = secondary pollutant/smog. Stratospheric O3 depletion = Montreal ODS issue.",
+      "tags": [
+        "compare"
+      ],
+      "id": "f87"
+    },
+    {
+      "week": 5,
+      "front": "P_wind,max formula?",
+      "back": "(8/27) ρ A v³  [= (16/27)×(1/2)ρAv³]",
+      "tags": [
+        "formula"
+      ],
+      "id": "f88"
+    },
+    {
+      "week": 6,
+      "front": "Spring vs neap tides?",
+      "back": "Spring: Sun–Moon–Earth aligned (larger). Neap: ~90° (smaller).",
+      "tags": [
+        "compare"
+      ],
+      "id": "f89"
+    },
+    {
+      "week": 8,
+      "front": "NGT bench locations?",
+      "back": "Principal: New Delhi; others: Bhopal, Pune, Kolkata, Chennai",
+      "tags": [
+        "law"
+      ],
+      "id": "f90"
+    },
+    {
+      "week": 9,
+      "front": "MSW Rules years?",
+      "back": "2000; revised 2016",
+      "tags": [
+        "law"
+      ],
+      "id": "f91"
+    },
+    {
+      "week": 10,
+      "front": "10× intensity change in dB?",
+      "back": "+10 dB (intensity). 10× pressure → +20 dB.",
+      "tags": [
+        "formula"
+      ],
+      "id": "f92"
+    },
+    {
+      "week": 11,
+      "front": "USLE management levers?",
+      "back": "Mainly C (cover) and P (support practice)",
+      "tags": [
+        "formula"
+      ],
+      "id": "f93"
+    },
+    {
+      "week": 12,
+      "front": "Ganga pollution PIL advocate?",
+      "back": "M.C. Mehta (multiple landmark environmental PILs)",
+      "tags": [
+        "law"
+      ],
+      "id": "f94"
+    },
+    {
+      "week": 4,
+      "front": "What is albedo?",
+      "back": "Fraction of incident solar radiation reflected; higher albedo tends to cool",
+      "tags": [
+        "definition"
+      ],
+      "id": "f95"
+    }
+  ]
+}

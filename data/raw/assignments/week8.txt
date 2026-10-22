@@ -1,0 +1,607 @@
+        NPTEL Environm e ntal Scie nce
+
+Assignment 8
+Question 1:
+Consider the following statements regarding water resources and water use:
+
+         I. Groundwater constitutes a larger share of freshwater resources than all fresh surface water
+         combined.
+         II. Since groundwater forms nearly one-third of freshwater resources, it is generally more accessible
+         than surface water.
+         III. The amount of usable freshwater on Earth is less than 0.1% of the planet's total water resources.
+         IV. Most freshwater surface water is stored in rivers.
+Which of the above statements are correct?
+a. I and II only
+b. I and III only
+c. II and IV only
+d. I, III and IV only
+Answer: b. I and III only
+Detailed Solution:
+I. Correct. Groundwater constitutes about 30.1% of freshwater resources, whereas surface water accounts for
+only about 0.3%.
+II. Incorrect. A large fraction of groundwater is located at great depths and is therefore not easily accessible.
+III. Correct. Only a very small fraction of the Earth's total water resources is available as usable freshwater,
+amounting to less than 0.1% of the total water on Earth.
+IV. Incorrect. Most freshwater surface water is stored in lakes (87%), while rivers contain only about 2%.
+Hence, only Statements I and III are correct.
+Question 2:
+Consider the following statements regarding water withdrawal and consumption:
+
+         I. Water used for drinking and cooking is generally considered a return flow.
+         II. Municipal wastewater discharge can exceed municipal water supply.
+         III. Water used for bathing generally contributes to wastewater generation.
+         IV. Domestic water use in urban areas is predominantly non-consumptive in nature.
+Which of the above statements are correct?
+a. I and II only
+b. I, II and III only
+c. II and III only
+d. II, III and IV only
+Answer: d. II, III and IV only
+Detailed Solution:
+I. Incorrect. Water used for drinking and cooking is a consumptive use and is generally not returned directly
+to the water source.
+II. Correct. Municipal wastewater discharge may exceed municipal water supply due to contributions from
+private tube wells and tanker water.
+III. Correct. Bathing water enters the sewer system and contributes to wastewater generation.
+IV. Correct. In urban areas, most domestic water is used for bathing, washing, cleaning, and similar
+activities that generate wastewater. Therefore, urban domestic water use is predominantly non-consumptive
+in nature, with a large fraction returning as wastewater.
+Hence, Statements II, III and IV are correct.
+Question 3:
+
+Consider the following pollution sources:
+
+         I. Industrial effluent discharged through a pipeline.
+
+         II. Stormwater runoff from urban roads.
+
+         III. Agricultural runoff carrying fertilizers and pesticides.
+
+         IV. Wastewater treatment plant discharge.
+
+         V. Leachate entering a river through a distinct and identifiable channel.
+
+How many of the above are point sources of pollution?
+
+a. 2
+b. 3
+
+c. 4
+
+d. 5
+
+Answer: b. 3
+
+Detailed Solution:
+
+Point sources are pollution sources that originate from a specific, identifiable location such as a pipe, drain,
+or outlet.
+Source I is a point source because industrial effluent is discharged through a clearly identifiable pipeline.
+Source II is a non-point source. Stormwater runoff originates over large urban surfaces such as roads,
+parking lots, and pavements rather than from a single discharge location.
+Source III is a non-point source because rainwater washes over huge farming fields and enters rivers or lakes
+from many different places at once, rather than from a single pipe.
+Source IV is a point source because wastewater treatment plants discharge treated effluent through
+designated outlets.
+Source V is a point source because the leachate enters the water body through a specific and identifiable
+channel.
+Thus, Sources I, IV, and V are point sources, giving a total of three point sources.
+Question 4:
+
+The concentrations of various ions present in a groundwater sample are provided in the table below. Using
+the given data, calculate the ionic strength of the water sample in milli-moles/L.
+
+a. 3.25 mM
+b. 6.50 mM
+c. 2.13 mM
+d. 4.38 mM
+Answer: a. 3.25 mM
+Detailed Solution:
+
+Question 5:
+
+At a certain temperature, pKw = 13.4. The hydrogen ion concentration of a water sample is 10-5.4 M. The
+nature of the sample is:
+
+a. Acidic
+
+b. Alkaline
+
+c. Neutral
+
+d. Cannot be determined
+
+Answer: a. Acidic
+
+Detailed Solution:
+
+Neutral                                       pH:
+
+pH(neutral)=             pKw/2  =  13.4/2  =  6.7
+Given:                                   pH                               =                 5.4
+
+Since, 5.4 < 6.7, the sample is acidic.
+
+Question 6:
+
+A 500 mL water sample was evaporated to dryness in a pre-weighed dish and then ignited in a muffle
+furnace. The following observations were recorded:
+
+        i. Mass of empty dish = 52.615 g
+
+        ii. Mass of dish and residue after drying at 105°C = 52.965 g
+
+        iii. Mass of dish and residue after ignition at 550°C = 52.815 g
+
+Which one of the following is correct?
+
+a. TS = 700 mg/L, TVS = 400 mg/L, TFS = 300 mg/L
+
+b. TS = 700 mg/L, TVS = 300 mg/L, TFS = 400 mg/L
+
+c. TS = 400 mg/L, TVS = 300 mg/L, TFS = 100 mg/L
+
+d. TS = 350 mg/L, TVS = 150 mg/L, TFS = 200 mg/L
+
+Answer: b. TS = 700 mg/L, TVS = 300 mg/L, TFS = 400 mg/L
+
+Detailed Solution:
+
+Mass of residue after        drying: 52.965             - 52.615 = 0.350           g=       350 mg
+                                                                                       0.5             L
+Sample              volume:                  500        mL                   =        700
+                                                                                                  mg/L
+TS           =      350      mg                   /     0.5            L        =
+
+Total                        Fixed                           Solids                         (TFS):
+
+Mass remaining after ignition: 52.815 - 52.615 = 0.200 g = 200 mg
+
+TFS          =      200      mg                      /  0.5            L        =  400      mg/L
+
+Total                        Volatile                        Solids                         (TVS):
+
+TVS = TS - TFS = 700 - 400 = 300 mg/L
+
+Question 7:
+A groundwater sample was analyzed and found to contain 64 mg/L of calcium (Ca²), 21.9 mg/L of
+magnesium (Mg²), 57.5 mg/L of sodium (Na), 31.3 mg/L of potassium (K), 42.6 mg/L of chloride (Cl)
+and 90 mg/L of carbonate (CO²). Determine the Total Hardness (TH), Carbonate Hardness (CH) and Non-
+carbonate Hardness (NCH) of the sample.
+
+a. TH = 250 mg/L as CaCO, CH = 250 mg/L as CaCO, NCH = 0 mg/L as CaCO
+
+b. TH = 150 mg/L as CaCO, CH = 250 mg/L as CaCO, NCH = 100 mg/L as CaCO
+
+c. TH = 250 mg/L as CaCO, CH = 150 mg/L as CaCO, NCH = 100 mg/L as CaCO
+
+d. TH = 250 mg/L as CaCO, CH = 100 mg/L as CaCO, NCH = 150 mg/L as CaCO
+
+Answer: c. TH = 250 mg/L as CaCO, CH = 150 mg/L as CaCO, NCH = 100 mg/L as CaCO
+
+Detailed Solution:
+
+Equivalent  weight of     CaCO      = Molecular weight / Valency  = 100    / 2 = 50
+Equivalent        weight        of                                     2
+Equivalent       weight             Ca²     = 40        /                        = 20
+Equivalent        weight      of                                     2
+                               of   Mg²  =     24.3  /                  2  =        12.15
+
+                                    CO²     =  60       /                        =  30
+
+Total hardness = [Ca²] * (50 / 20) + [Mg²] * (50 / 12.15)
+= 64 * (50 / 20) + 21.9 * (50 / 12.15) = 160 + 90 = 250 mg/L as CaCO
+
+Carbonate hardness = [CO²] * (50 / 30) = 90 * (50 / 30) = 150 mg/L as CaCO
+
+Non-carbonate hardness = Total hardness - Carbonate hardness = 250 - 150
+= 100 mg/L as CaCO
+
+Question 8:
+Consider the following organic compounds- methane (CH), methanol (CHOH), formaldehyde (CHO) and
+carbon dioxide (CO). Arrange them in decreasing order of their theoretical oxygen demand (ThOD) per unit
+mass.
+a. CH > CHO > CHOH > CO
+b. CHO > CHOH > CH > CO
+c. CHOH > CH > CHO > CO
+d. CH > CHOH > CHO > CO
+Answer: d. CH > CHOH > CHO > CO
+Detailed Solution:
+
+For                                               complete                                           oxidation:
+Methane:
+CH                  +               2O                            CO                     +               2HO
+Molecular                                             CH             =                               mg/mmol
+O                         weight          of           =                             16
+ThOD                                           16      =       4.0                                          mg
+                          required                                               64                        CH
+
+           =              64           /                                     mg             O/mg
+
+Methanol:
+
+CHOH                   +               1.5O                          CO                  +                2HO
+                                                                                                     mg/mmol
+Molecular              weight             of          CHOH                =          32
+                                                                                                            mg
+O                         required                          =                    48                    CHOH
+
+ThOD       =              48        /         32      =        1.5           mg      O/mg
+
+Formaldehyde:
+
+CHO                    +               O                             CO                  +                 HO
+                                                       CHO                                           mg/mmol
+Molecular                 weight          of                              =          30
+                                                         =                                                  mg
+O                         required                     =                         32                      CHO
+
+ThOD       =              32        /         30               1.07          mg          O/mg
+
+Carbon                                                                                               dioxide:
+
+CO         is             already         completely           oxidized.         ThOD             =  0
+
+Hence, CH > CHOH > CHO > CO
+
+Question 9:
+Two wastewater samples, A and B, have the same ultimate biochemical oxygen demand. The 5-day BOD of
+sample A at 20°C is observed to be twice the 5-day BOD of sample B at the same temperature. If the
+deoxygenation rate constant of sample A is 0.40 day¹, determine the deoxygenation rate constant of sample
+B.
+a. 0.081 day¹
+b. 0.113 day¹
+c. 0.146 day¹
+d. 0.200 day¹
+Answer: b. 0.113 day¹
+
+Detailed Solution:
+
+For                                             sample                            A,
+
+BOD(A)              =        L         *        (1       -        e^(-0.40     *  5))
+
+= L * (1 - e^(-2)) = L *                                    (1 - 0.1353)       = 0.8647L
+
+Given,
+
+BOD(A)                       =                  2                 *               BOD(B)
+
+Therefore,
+
+BOD(B)                 =            0.8647L           /       2         =          0.43235L
+                                                                                             B,
+For                                             sample
+                                                                                      e^(-5k))
+BOD(B)                    =         L              *        (1              -         e^(-5k))
+                                                                                       e^(-5k)
+0.43235L                  =         L              *          (1            -         0.56765
+                                                                                  ln(0.56765)
+0.43235                      =                  1                    -
+
+e^(-5k)                                         =
+
+-5k                                          =
+
+k = -ln(0.56765) / 5 = 0.113 day¹
+
+Question 10:
+
+A wastewater sample was tested using two BOD bottles. The first bottle contained 10 mL of sample diluted
+to 300 mL, while the second bottle contained 20 mL of sample diluted to 300 mL. The measured DO
+depletions after 5 days were 4.2 mg/L and 8.4 mg/L, respectively. Neglecting blank correction. The ratio of
+the BOD values calculated from the two bottles is:
+
+a. 2
+b. 1.5
+c. 1
+d. 0.5
+
+Answer: c. 1
+
+Detailed Solution:
+
+For                                             Bottle                                       1,
+                                                                                       0.0333
+P             =                 10           /           300                =  126 mg/L
+
+BOD = DO depletion / P = 4.2 / 0.0333 =
+
+For                                             Bottle                            2,
+
+P             =                 20           /           300                =     0.0667
+
+BOD = DO depletion / P = 8.4 / 0.0666 = 126 mg/L
+Ratio                        of                    BOD                values
+
+= BOD (Bottle 1) / BOD (Bottle 2) = 126 / 126 = 1
+
+Question 11:
+
+A wastewater sample has a total ultimate biochemical oxygen demand (Total BOD) of 520 mg/L. The
+sample contains 35 mg/L of ammonia nitrogen (NH-N). The theoretical nitrogenous biochemical oxygen
+demand (NBOD) and carbonaceous biochemical oxygen demand (CBOD) of the sample, respectively, are:
+
+a. NBOD = 160 mg/L, CBOD = 360 mg/L
+
+b. NBOD = 140 mg/L, CBOD = 380 mg/L
+
+c. NBOD = 120 mg/L, CBOD = 400 mg/L
+
+d. NBOD = 100 mg/L, CBOD = 420 mg/L
+
+Answer: a. NBOD = 160 mg/L, CBOD = 360 mg/L
+
+Detailed Solution:
+
+Theoretical NBOD = [NH-N] * 4.57                   = 35 *  4.57 =     159.95 mg/L
+                                                     CBOD          +               mg/L
+                                        160
+                                                                                 NBOD
+Since,              TBOD             =
+
+CBOD = 520 - 160 = 360 mg/L
+
+Question 12:
+Assertion (A): A wastewater sample having a higher ThOD than another sample may exhibit a lower BOD.
+Reason (R): ThOD represents the total oxygen required for complete chemical oxidation, whereas BOD
+depends on the biodegradable fraction oxidized within five days.
+Choose the correct option:
+a. Both A and R are true, and R is the correct explanation of A.
+b. Both A and R are true, but R is not the correct explanation of A.
+c. A is true, but R is false.
+d. A is false, but R is true.
+Answer: a. Both A and R are true, and R is the correct explanation of A.
+Detailed Solution:
+ThOD represents the theoretical oxygen required for complete oxidation of a compound.
+
+BOD represents the oxygen consumed due to biological oxidation during the first five days.
+
+A sample may have a high ThOD but contain compounds that are not readily biodegradable. In such a case,
+its BOD may be lower than that of another sample having a smaller ThOD but a larger biodegradable
+fraction.
+
+Therefore, the Assertion is true. The Reason is also true and correctly explains the Assertion.
+
+Question 13:
+
+In a river reach, the dissolved oxygen (DO) saturation concentration is measured to be 8.8 mg/L. Using the
+Streeter­Phelps oxygen sag concept, the dissolved oxygen deficit at a particular location downstream is
+estimated as 3.6 mg/L. The actual dissolved oxygen concentration at that location is
+
+a. 3.6 mg/L
+
+b. 5.2 mg/L
+
+c. 8.8 mg/L
+
+d. 12.4 mg/L
+
+Answer: b. 5.2 mg/L
+
+Detailed Solution:
+
+Dissolved oxygen deficit  = DO  saturation  concentration -  Actual DO                           concentration
+                            =          8.8             mg/L          -                                 DO(actual)
+3.6           mg/L
+
+DO(actual) = 5.2 mg/L
+Question 14:
+
+A river carrying a flow of 1740 m³/s has an upstream biochemical oxygen demand (BOD) concentration of
+14.8 mg/L and a dissolved oxygen (DO) concentration of 5.6 mg/L. The river receives wastewater
+discharges from two outfalls situated on opposite banks. The outfall on the left bank discharges 28 m³/s of
+wastewater having a BOD concentration of 248 mg/L and a DO concentration of 1.2 mg/L. The outfall on
+the right bank discharges 32 m³/s of wastewater, but both its BOD and DO concentrations are unknown.
+Assuming complete and instantaneous mixing of the river water and the wastewater streams, the BOD and
+DO concentrations measured immediately downstream of the confluence are found to be 21.6 mg/L and 5.45
+mg/L, respectively. The BOD and DO concentrations of the wastewater discharged from the right-bank
+outfall are, respectively:
+
+a. BOD = 183.3 mg/L, DO = 1.0 mg/L
+
+b. BOD = 193.3 mg/L, DO = 0.8 mg/L
+
+c. BOD = 203.3 mg/L, DO = 1.2 mg/L
+
+d. BOD = 193.3 mg/L, DO = 1.0 mg/L
+
+Answer: d. BOD = 193.3 mg/L, DO = 1.0 mg/L
+
+Detailed Solution:
+
+Total         downstream          flow         Qt  =           Qr           +        Q1         +  Q2
+
+Qt         =        1740          +            28  +                32         =          1800     m³/s
+
+BOD           of          the           river      downstream           of           the           discharges,
+BODf            =
+This                           [            BODi*           Qi]/Qt          =             23       mg/L
+21.6*1800             =
+x=            [38880                               implies                                         that,
+
+                                  (1740*14.8)      +                (28*248)              +        (32*x)
+
+                              - 25752 - 6944] / 32                                = 193.25 mg/L
+
+DO            of         the         river         downstream           of           the           discharges,
+                                                    Qi]/Qt
+DOf           =          [           DOi*                           =          5.45           mg/  L
+                                                         +
+5.45*1800           =             (1740*5.6)                        (28*1.2)              +        (32*y)
+
+y = [9810 - 9744 - 33.6] / 32 = 1.0125 mg/L
+
+Question 15:
+
+A treated wastewater discharge enters a river, and complete mixing is assumed to occur immediately
+downstream of the outfall. The resulting river-water mixture has an ultimate biochemical oxygen demand
+(BOD) of 15.2 mg/L and a dissolved oxygen concentration of 7.2 mg/L. The saturation dissolved oxygen
+concentration under the prevailing conditions is 9.4 mg/L. The average flow velocity and mean depth of the
+stream are 0.35 m/s and 2.8 m, respectively. The deoxygenation and reaeration rate constants are 0.20 day¹
+and 0.48 day¹, respectively. According to the Streeter­Phelps oxygen sag model, the critical time and the
+dissolved oxygen concentration corresponding to the critical point are:
+
+a. 2.08 days, 4.0 mg/L
+
+b. 2.54 days, 5.1 mg/L
+
+c. 2.32 days, 5.4 mg/L
+
+d. 2.32 days, 4.0 mg/L
+
+Answer: c. 2.32 days, 5.4 mg/L
+
+Detailed Solution:
+
+Initial DO deficit, D =                   DO - DO = 9.4 - 7.2 = 2.2 mg/L
+
+Given,
+
+L                                 =                             15.2                                mg/L
+
+kd                                =                             0.20                                day¹
+
+kr                                =                             0.48                                day¹
+
+Critical time, tc = (1/(kr                - kd)) ln [(kr / kd)(1-(D*(kr - kd)/(kd*L)))]
+
+=                                                  (1/(0.48-0.20))ln[(0.48/0.20)(1-(2.2*(0.48-0.20)/(0.20*15.2)))]
+
+=           3.5714ln[2.4(1-0.2026)]          =           3.5714*ln(1.9138)           =       3.5714*0.6489
+
+=                                                  2.32                                             days
+
+The                               Streeter­Phelps                     equation                      is
+
+D       =        (kd*L/(kr        -       kd))(e^(-kd*t)     -        e^(-kr*t))          +         D.e^(-kr*t)
+
+At          the         critical     point,        t      =           tc          =          2.32   days
+
+Therefore,
+
+Dc = (0.20*15.2/(0.48-0.20))(e^(-0.20*2.32) - e^(-0.48*2.32)) + 2.2e^(-0.48*2.32)
+
+= 10.8571*(0.6288-0.3284) + 2.2*0.3284 = 10.8571*0.3004 + 0.7225
+
+=                                 3.2615                        +                                   0.7225
+
+=                   3.984                 mg/L                                       4.0            mg/L
+
+Therefore, the dissolved oxygen           concentration corresponding       to the        critical  point is
+                                                      DO                         -                           Dc
+DOc                         =
+
+= 9.4 - 3.98 = 5.42 mg/L  5.4 mg/L
+Question 16:
+Consider the following statements regarding the dissolved oxygen sag curve:
+
+         I. Prior to the critical point, the rate of reaeration exceeds the rate of deoxygenation.
+         II. At the critical point, the dissolved oxygen concentration is zero.
+         III. Beyond the critical point, the river begins to recover because the rate of reaeration exceeds the
+         rate of deoxygenation.
+         IV. The self-purification capacity of a river is represented by the DO sag curve.
+Which of the above statements are correct?
+a. I and II only
+b. II and III only
+c. III and IV only
+d. II, III and IV only
+Answer: c. III and IV only
+Detailed Solution:
+Statement I: Incorrect.
+Prior to the critical point, the rate of deoxygenation exceeds the rate of reaeration, causing the dissolved
+oxygen deficit to increase.
+
+Statement II: Incorrect.
+At the critical point, the dissolved oxygen concentration is minimum, but it is not necessarily zero. Zero DO
+is possible only under extremely severe pollution conditions.
+
+Statement III: Correct.
+Beyond the critical point, the rate of reaeration exceeds the rate of deoxygenation, causing the river to
+recover and the dissolved oxygen concentration to increase.
+
+Statement IV: Correct.
+The dissolved oxygen sag curve represents the self-purification capacity of the river, showing the combined
+effect of deoxygenation and reaeration.
+Therefore, statements III and IV are correct.
+Question 17:
+Municipal wastewater discharged into a river contains organic nitrogen, which undergoes a series of
+transformations under aerobic conditions. Which one of the following represents the correct sequence of the
+predominant nitrogen species with increasing distance downstream from the point of discharge?
+a. Organic nitrogen  Ammonia nitrogen  Nitrite nitrogen  Nitrate nitrogen
+b. Organic nitrogen  Nitrite nitrogen  Nitrate nitrogen  Ammonia nitrogen
+c. Organic nitrogen  Ammonia nitrogen  Nitrate nitrogen  Nitrite nitrogen
+d. Organic nitrogen  Nitrate nitrogen  Nitrite nitrogen  Ammonia nitrogen
+Answer: a. Organic nitrogen  Ammonia nitrogen  Nitrite nitrogen  Nitrate nitrogen
+Detailed Solution:
+Organic nitrogen present in wastewater is first converted to ammonia nitrogen by biological decomposition.
+Under aerobic conditions, Nitrosomonas bacteria oxidize ammonia nitrogen to nitrite nitrogen, which is
+subsequently oxidized to nitrate nitrogen by Nitrobacter bacteria. Nitrate is the most stable oxidized form of
+nitrogen.
+
+Therefore, the sequence of predominant nitrogen species with increasing distance downstream is:
+Organic nitrogen  Ammonia nitrogen  Nitrite nitrogen  Nitrate nitrogen
+
+Question 18:
+For a river water sample, the quality rating values (q) corresponding to five selected water quality
+parameters are found to be as follows: Dissolved Oxygen (DO) = 78, Biochemical Oxygen Demand (BOD)
+= 48, Turbidity = 66, Total Solids = 82, and Nitrates = 34. The respective weighting factors (w) assigned to
+these parameters are 0.28 for DO, 0.22 for BOD, 0.16 for turbidity, 0.14 for total solids, and 0.20 for
+nitrates.
+Using the weighted arithmetic method, determine the Water Quality Index (WQI) of the water sample.
+a. 308
+b. 67.88
+c. 100
+d. 61.24
+Answer: d. 61.24
+Detailed Solution:
+WQI = (wi*qi)/(wi)
+= ((78 × 0.28) + (48 × 0.22) + (66 × 0.16) + (82 × 0.14) + (34 × 0.20)) / (0.28 + 0.22 + 0.16 + 0.14 + 0.20)
+= 61.24
+
+Question 19:
+Which one of the following applications generally requires tertiary or higher levels of wastewater treatment?
+a. Irrigation of fodder and fiber crops
+b. Food crop irrigation and unrestricted recreational uses
+c. Stream augmentation and habitat conservation
+d. Groundwater recharge of non-potable aquifers
+Answer: b. Food crop irrigation and unrestricted recreational uses
+Detailed Solution:
+Secondary treated wastewater can be used for fodder and fiber crops, groundwater recharge of non-potable
+aquifers, and stream augmentation. However, applications involving food crop irrigation and unrestricted
+recreational uses require tertiary or higher treatment involving nutrient removal, filtration, and disinfection.
+
+Question 20:
+Consider the following statements regarding wastewater treatment:
+
+         I. Primary treatment removes dissolved biodegradable organic matter.
+         II. Secondary treatment employs biological processes.
+         III. Conventional wastewater treatment consists of primary and secondary treatment.
+         IV. Disinfection is generally carried out before secondary treatment.
+Which of the above statements are correct?
+a. I and II only
+b. I, III and IV only
+c. II and III only
+d. II, III and IV only
+Answer: c. II and III only
+Detailed Solution:
+Statement I: Incorrect
+Primary treatment removes objectionable solids present in wastewater by physical processes such as
+screening and grit removal. Dissolved biodegradable organic matter, represented by BOD, is removed
+during secondary treatment.
+
+Statement II: Correct
+Secondary treatment aims at the removal of biodegradable organic matter. Biological processes such as
+activated sludge process and trickling filters are commonly employed for this purpose.
+
+Statement III: Correct
+Primary treatment followed by secondary treatment constitutes conventional wastewater treatment. After
+these stages, disinfection is generally carried out prior to discharge.
+
+Statement IV: Incorrect
+Secondary treatment promotes microbial activity, resulting in a high concentration of microorganisms in the
+treated effluent. Therefore, disinfection is carried out after secondary treatment to reduce the possibility of
+pathogenic microorganisms being present in the discharged water.
+
+Hence, Statements II and III are correct.
+

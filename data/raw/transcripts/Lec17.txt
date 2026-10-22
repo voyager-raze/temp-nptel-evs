@@ -1,0 +1,409 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+Week 04 (Lecture 02): CLIMATE CHANGE (Causes and Determinants)
+
+Welcome to Lecture 2 of Week 4 of the NPTEL online certification course on
+Environmental Science. In the last lecture, we discussed how the warming of the Earth's
+climate system is unequivocal and that many of the observed changes since the 1950s are
+unprecedented. Our atmosphere and oceans have warmed, the amount of ice and snow has
+declined, and sea levels have risen. In this lecture, we will explore the key causes behind
+these changes. Specifically, we will focus on climate forcings and their role in determining
+climate change. Additionally, we will discuss the role of greenhouse gases in maintaining
+the Earth's energy balance and the role of the carbon cycle in sustaining the Earth's energy
+budget.
+By the end of this lecture, you should have a fundamental understanding of the following
+terminologies: climate forcings, global warming potential, carbon sources, carbon sinks,
+and the Keeling Curve. You should also be able to explain what the Keeling Curve indicates
+about atmospheric carbon dioxide levels. As I mentioned in the last lecture, the warming
+of the Earth's climate system is unequivocal, and many observed changes in the Earth's
+climate are consistent with rising temperatures. A common question that arises is whether
+these changes are occurring due to differences in solar radiation. While studies have shown
+that solar variability has played a role in determining the Earth's climate in the distant past,
+multiple lines of evidence indicate that the current global warming cannot be attributed to
+changes in energy from the sun.
+
+In fact, if you closely examine this graph, you'll notice that since 1750, the average amount
+of energy we have received from the sun has either remained constant or increased slightly.
+If a more active sun were responsible for the warming, we would expect to see a uniform
+increase in temperature across all layers of the atmosphere. However, what we are actually
+observing is warming in the lower parts of the atmosphere, specifically the troposphere--
+the lowermost layer of Earth's atmosphere--while the upper atmosphere is cooling. This
+phenomenon occurs because greenhouse gases are slowing the loss of heat from the lower
+atmosphere.
+Given this, what then is driving climate change? Based on a strong and credible body of
+evidence, most climate scientists have concluded that the observed increase in global
+average surface temperature since the mid-20th century is likely due to the increase in
+anthropogenic greenhouse gas concentrations, such as carbon dioxide, methane, and
+nitrous oxide.
+
+Among these greenhouse gases, the most significant contributor to global warming is
+carbon dioxide. As you can see, its atmospheric concentration has increased from about
+290 parts per million in 1880 to more than 400 parts per million in 2013. This marked the
+first time in human history that atmospheric carbon dioxide concentrations surpassed such
+high levels, and it has been steadily rising since. In fact, daily records of atmospheric CO
+concentrations, measured at the Mauna Loa Observatory on the island of Hawaii, as well
+as in the Arctic, show a consistent upward trend.
+
+Measurements taken since 1958, particularly from the Mauna Loa Observatory in Hawaii
+and the South Pole, demonstrate this steady annual increase in atmospheric CO
+concentrations. These measurements are made in remote locations like the Mauna Loa
+Observatory and the South Pole because these areas are not significantly influenced by
+local processes such as industrialization and transportation, allowing for more accurate
+global readings.
+Measurements made at such remote locations are essentially representative of the
+background atmosphere. This record of maintaining CO concentration is known as the
+Keeling Curve. The Keeling Curve is a graph that represents the concentration of
+atmospheric carbon dioxide since 1958, named after its creator, Dr. Charles David Keeling.
+Dr. Keeling, who was associated with the Scripps Institution of Oceanography at the
+University of California, San Diego, began studying atmospheric carbon dioxide in 1956
+by regularly taking air samples and measuring the amount of CO in the Earth's atmosphere.
+Over time, he noticed a distinct pattern. He observed a sawtooth-like pattern in the data,
+where the air samples taken at night contained higher concentrations of CO. He inferred
+that the higher CO concentrations in the samples taken during the night were due to plant
+respiration. Plants absorb CO during the day for photosynthesis to produce food, but at
+night, they release CO back into the atmosphere. By studying these measurements over
+the course of a few years, Dr. Keeling also identified a large seasonal pattern in the data.
+He noticed that CO levels are actually higher in the spring when decomposing plant matter
+releases CO into the air, and lowest in the autumn when plants have stopped taking in CO
+for photosynthesis. This cyclical pattern is what gives the Keeling Curve its distinctive
+sawtooth appearance. However, Dr. Keeling also observed that at the Mauna Loa
+Observatory, global atmospheric CO concentrations were rising nearly every year.
+Since its creation, the Keeling Curve has served as a visual representation of Keeling's data,
+which scientists have continued to collect since his death in 2005. As shown in the figure,
+in 2013, atmospheric CO concentrations surpassed the 400 parts per million mark.
+According to the latest data from 2023, the atmospheric CO concentration has now
+surpassed 420 parts per million, precisely around 421 parts per million. This increase is not
+limited to CO alone. If we closely examine the atmospheric concentration of all
+greenhouse gases, it becomes evident that the levels of these gases, including CO, are at
+levels that are unprecedented in at least 800,000 years. This dramatic rise underscores the
+significant impact human activities, particularly the use of fossil fuels, have had on the
+Earth's climate system.
+
+In fact, the concentrations of carbon dioxide, methane, and nitrous oxide have all shown
+significant increases since 1750, which marks the beginning of the Industrial Revolution.
+During this period, the increased burning of fossil fuels to meet growing energy demands,
+along with rapid urbanization, changes in land use patterns, and intensified agricultural
+activities, have all contributed to these rising levels.CO concentrations, in particular, are
+increasing at the fastest rate ever observed. Additionally, after nearly a decade of stable
+methane concentrations since the late 1990s, atmospheric measurements have indicated a
+renewed increase in methane concentrations starting in 2007. This resurgence highlights
+the ongoing challenges in managing and mitigating greenhouse gas emissions.
+Although there has been a slight decrease in recent years due to several government
+policies, overall, there has been an increase in CO concentrations, which can also be
+attributed to forestry and other land use activities. Additionally, methane emissions from
+agricultural activities, waste, and the energy sector have seen a significant rise, as have
+nitrous oxide concentrations and the levels of fluorinated gases. All these factors
+undeniably point to the fact that the current increase in greenhouse gas concentrations is
+primarily due to human activities, specifically anthropogenic activities. The most
+significant contributor is the burning of fossil fuels, particularly in the form of coal, oil,
+and natural gas.
+
+Now, to understand what is actually happening within the Earth's climate system as
+greenhouse gas concentrations increase, we need to explore the concept of climate forcings.
+So, what are climate forcings? Climate forcings are elements that are responsible for the
+observed changes in the Earth's energy budget. Climate forcings are essentially the physical
+processes that influence the Earth's climate. For example, these processes include the
+reflection of sunlight by clouds, aerosols, and ice covers, as well as the absorption of heat
+by the Earth's surface. Climate forcings impact the Earth's climate by driving changes
+through various factors, which is why they are termed "forcings"--because they push the
+climate towards change. It is important to understand that these forcings exist outside of
+the current climate system. As discussed in the previous lecture, the Earth's climate system
+comprises several components, including the hydrosphere, land surface, cryosphere,
+biosphere, and atmosphere.
+So, forcings are essentially components that drive the climate, but they exist outside of the
+current climate system. For example, some of the most significant types of forcings include
+variations in solar radiation levels, volcanic eruptions, changes in the Earth's albedo
+(reflectivity), and fluctuating levels of greenhouse gases in the atmosphere. Each of these
+is considered an external forcing because these events can independently alter the climate.
+For instance, changes in solar activity or human-induced fossil fuel combustion are external
+influences that drive changes in the climate system. Now, if we look into some of the basic
+laws of thermodynamics, we can see how they relate to the Earth's energy balance. As the
+Earth absorbs energy from the sun, it must also emit an equal amount of energy to maintain
+balance, according to the law of conservation of energy--specifically, the first law of
+thermodynamics. The Earth absorbs energy, and it must eventually emit an equal amount
+of energy. The difference between the incoming and outgoing radiation is known as the
+planet's radiative forcing. Just as applying a force to a physical object causes it to become
+unbalanced and move, a climate forcing similarly forces the Earth's climate system to
+change. When these forcings result in incoming energy being greater than outgoing energy,
+the Earth will warm. Conversely, if the outgoing energy exceeds the incoming energy, the
+planet will cool. So, climate forcings are, as I mentioned to you they are basically the
+elements that are responsible for the observed change in the earth's energy budget.
+This graph here illustrates the strength of the warming or cooling effects of various climate
+forcings when compared to the Earth's equilibrium state before the Industrial Revolution.
+It includes both natural and anthropogenic emissions. Anthropogenic emissions primarily
+consist of greenhouse gases, aerosols, and changes in land use patterns, such as surface
+albedo (the reflection of solar energy from the Earth's surface). On the other hand, natural
+causes include factors like solar irradiance and volcanic activity. As mentioned earlier in
+today's lecture, solar irradiance has not had a significant impact as a climate forcing in
+recent times because the incoming solar radiation has remained relatively constant.
+
+On the other hand, if we examine greenhouse gases, CO emissions since 1750 have
+accumulated significantly in the atmosphere. Although a substantial portion of these
+emissions has been absorbed by the oceans and terrestrial ecosystems, particularly forests,
+the remaining concentration of CO is now responsible for about half of the current human-
+caused global warming. This indicates that much of the warming is essentially irreversible.
+Methane, which is the second-largest anthropogenic greenhouse gas or forcing currently
+affecting the climate, also plays a crucial role. In addition to its well-known direct
+greenhouse gas effects, methane acts as a precursor to other potent greenhouse gases, such
+as ozone, water vapor, and carbon dioxide. This amplifies its overall impact on global
+warming.
+
+Therefore, methane also indirectly contributes to the warming of the Earth's atmosphere.
+Next, we have fluorinated gases, or F-gases, which possess an extremely high capacity to
+warm the Earth's atmosphere. These gases primarily originate from industrial and domestic
+uses, particularly in refrigeration. Although most of them have been phased out due to the
+Montreal Protocol, it will still take some time for them to gradually disappear from the
+atmosphere. Despite this, their current presence continues to exert a forcing effect on the
+Earth's climate system. Nitrous oxide is another potent and long-lived greenhouse gas, with
+its concentration steadily rising, primarily due to intensive agricultural practices.
+
+Atmospheric aerosols are small liquid or solid particles suspended in the Earth's
+atmosphere, excluding clouds and precipitation particles. These aerosols can originate from
+both natural processes and human activities, and they have the capacity to impact our
+climate in several ways through their complex interactions with radiation and clouds.
+Aerosols typically have a lifespan of one day to two weeks in the troposphere, and in some
+cases, they can persist for about a year in the stratosphere. Aerosols also vary greatly in
+size. When discussing natural sources of aerosols, they can originate from sources like
+pollen, volcanic eruptions, and dust storms, manifesting as dust, dirt, and other particulates.
+On the other hand, anthropogenic sources of aerosols primarily include soot from the
+burning of fossil fuels, as well as exhaust emissions from automobiles and other human
+activities.
+Some aerosol particles, such as dust and sea spray, are primarily or entirely of natural
+origin. Others, like sulfates and particulate matter present in smoke, originate from both
+natural and anthropogenic sources. Aerosols can influence our climate in several ways.
+Firstly, aerosols can scatter or absorb sunlight, thereby altering the Earth's radiative
+balance. When aerosols scatter sunlight, they generally increase the planet's reflectivity,
+which tends to cool the climate. Conversely, when aerosols absorb sunlight, they contribute
+to warming, having the opposite effect. This dual role makes aerosols a complex factor in
+climate dynamics.
+
+Certain aerosols have the ability to absorb solar radiation, which can lead to a warming of
+the climate system. The balance between the cooling and warming effects of aerosols
+depends on the specific properties of the aerosols themselves, as well as the environmental
+conditions in which they are present. In addition to their impact on temperature, aerosols
+also play a critical role in cloud formation. They act as condensation and ice nucleation
+sites, where cloud droplets and ice particles can form. The concentration of aerosols in the
+atmosphere influences the extent of cloud cover or ice formation, which in turn increases
+the reflection of incoming solar radiation, contributing to a cooling effect. This interaction
+between aerosols and clouds adds another layer of complexity to their overall impact on
+the climate system.
+
+Now, if we examine the impact of aerosols as a climate forcing in this figure, we can
+observe that carbon aerosols, which are essentially small carbon particles like soot resulting
+from the incomplete combustion of fossil fuels and biomass, play a significant role. These
+carbon aerosols can warm the atmosphere by absorbing solar radiation. Additionally, they
+can contribute to warming the Earth's surface by covering snow, which reduces its albedo,
+or reflectivity. Because these aerosols have a relatively short atmospheric lifetime of only
+a few days, reducing their emissions can quickly decrease both near-term warming and
+local air pollution. This makes targeting carbon aerosols a potentially effective strategy for
+immediate climate and health benefits.
+
+Next, we have sulfate aerosols. Sulfate aerosols are primarily emitted by fossil fuel power
+plants and volcanic eruptions. These aerosols are known as cooling aerosols because they
+reflect sunlight, thus having a cooling effect on the Earth's atmosphere. Their direct cooling
+effect is relatively well understood, as they act like a veil at higher altitudes, essentially
+providing shade and protecting us from sunlight.
+
+We also have aerosol-cloud interactions, which I just mentioned. Aerosol-cloud
+interactions influence the properties and formation of clouds, which can, in turn, alter
+atmospheric motions and radiation properties. While the net effect of these interactions is
+most likely cooling, it depends on various factors such as the type and altitude of the clouds
+they affect.
+Another important factor is land-use forcing. Land-use forcing refers to changes in land
+
+use that modify the surface albedo. For example, deforestation typically increases the
+
+reflection of sunlight because the open areas left behind are more likely to become covered
+
+by  snow,  which  has  a  high  albedo..
+
+If these areas are not covered by snow, they can actually act as a positive forcing,
+contributing to warming rather than cooling. This shift occurs because the exposed land
+absorbs more sunlight instead of reflecting it, which would have been the case if snow were
+present.
+
+Looking again at the Earth's atmosphere, it is evident that anthropogenic forcings have
+been on the rise since the Industrial Revolution, accelerating particularly rapidly since the
+1970s. The graph shown here illustrates the significant influence of human-caused forcings
+over the past 150 years. This increased trend is primarily due to the buildup of long-lived
+greenhouse gases in the atmosphere.
+
+Conversely, the cooling effect of aerosols has stabilized because these emissions are
+relatively short-lived. However, even if greenhouse gas emissions were to stabilize, the net
+anthropogenic warming effect is expected to continue increasing. The cumulative effect of
+radiative forcing over the years significantly impacts the Earth's energy balance and
+average temperature.
+When comparing these effects with natural forcings, it is clear that natural forcings have a
+much less severe cumulative impact on the Earth's energy budget. For example, solar
+forcing, as mentioned earlier, has remained relatively constant, indicating that the amount
+of solar radiation reaching the Earth's surface has not changed significantly.
+
+Large volcanic eruptions inject aerosols 10 to 30 kilometers into the stratosphere, where
+they persist for 1 to 2 years. These aerosols have strong, but episodic, cooling effects by
+reflecting sunlight away from the Earth. Overall, when we examine natural forcings, it
+becomes clear that they have not been sustained at significant levels compared to
+anthropogenic forcings. Consequently, the Earth's energy uptake, resulting from the
+cumulative effect of total forcings since the Industrial Revolution, has predominantly been
+driven by human activities. No other forcings have been proven or assessed so far to have
+a comparable impact on the Earth's climate system.
+It is also crucial to understand that our oceans have massive thermal inertia, meaning they
+can significantly slow down surface warming, delaying the full impact by several centuries.
+For instance, a sudden doubling of atmospheric CO concentration would create a positive
+climate forcing, leading to an immediate energy imbalance. This imbalance would
+gradually diminish as the Earth warms toward a new equilibrium. The time it takes for the
+Earth's temperature to reach this equilibrium is referred to as the climate lag, which is
+heavily influenced by the thermal inertia of the oceans.
+
+In fact, two distinct phenomena occur in this context: rapid continent warming and slow
+ocean warming. Approximately 10 years after any climate forcing event, surface warming
+reaches about 40 to 50 percent of its final value. During this period, the lower atmosphere
+warms rapidly, while the oceans remain cooler due to their substantial thermal inertia.
+
+In fact, the heat exchange between the atmosphere and the shallow ocean layers can
+temporarily cool the surface in the short run. This phenomenon occurs because the shallow
+ocean layers absorb some of the heat from the atmosphere, reducing the immediate impact
+on surface temperatures. When we talk about slow ocean warming, it's essential to
+understand that it takes much longer for the Earth's surface temperature to adjust and
+harmonize with the ongoing warming process. Over the long run, however, the surface and
+oceans have enough time to exchange heat, eventually warming together at the same pace.
+
+The total climate lag is primarily driven by the ocean's thermal inertia, which depends on
+ocean dynamics, particularly how effectively the cold, deep layers of the ocean mix with
+the hotter, shallow layers. Due to the ocean's massive thermal inertia, there is a noticeable
+lag between the rate at which the surface warms and the rate at which the oceans warm.
+This lag can delay the full effects of climate change, masking the immediate impact of
+increased greenhouse gas concentrations on surface temperatures.
+
+ To summarize the impact of climate forcings, we can observe that the analysis of natural
+and human-induced climate forcings since the Industrial Revolution clearly indicates that
+human activities have had a much more significant impact on the Earth's energy balance
+than any natural forcings. Since 1750, the Earth has been forced to accumulate a substantial
+amount of energy. The warming effects of human activities have steadily increased since
+the onset of the Industrial Revolution, as the temporary cooling effects of short-lived
+aerosols have been overshadowed by the more persistent greenhouse gases.
+The energy accumulated by the Earth since the 1750s has largely been absorbed by the
+Earth's oceans. However, due to the oceans' high thermal inertia, they take much longer to
+warm up. This delay creates an extensive climate lag between the initial forcing and the
+final surface warming, meaning the full effects of current greenhouse gas emissions will
+not be immediately felt, but will continue to influence the climate for centuries to come.
+Next, we will look into the global warming potential (GWP) of various greenhouse gases.
+So far, we have seen that greenhouse gases warm the Earth's surface by absorbing the
+energy reflected by the Earth's surface and slowing the rate at which this energy escapes to
+space, essentially acting like a blanket around the planet. There are two key ways in which
+these gases differ from one another. The first is their ability to absorb energy, known as
+their radiative efficiency. The second is the duration they remain in the atmosphere, which
+influences their long-term impact on global warming.
+
+The global warming potential (GWP) was developed to compare the global warming
+impact of different greenhouse gases. Specifically, GWP measures how much energy the
+emission of one ton of a gas will absorb over a specific period, relative to the emission of
+one ton of CO. By definition, carbon dioxide has a GWP of one, regardless of the time
+period used, because it serves as the reference gas. CO remains in the atmosphere for a
+very long time, making it a key contributor to long-term climate change.
+Typically, the GWP is calculated over a 100-year period, although values for 20 years and
+500 years are sometimes used. However, most policymakers and researchers focus on the
+100-year timeline when assessing the impacts of different greenhouse gases on global
+warming.
+As I previously mentioned, CO has a global warming potential (GWP) of 1, as it is used
+as the reference gas. Methane, on the other hand, is estimated to have a GWP of between
+25 to 30 over a period of 100 years. While methane remains in the atmosphere for about a
+decade on average, which is much less time than CO, it absorbs significantly more energy
+than CO, contributing to its higher GWP.
+Similarly, nitrous oxide has a GWP of 298 times that of CO over a 100-year time scale.
+This means that nitrous oxide emitted today will remain in the atmosphere for more than
+100 years on average, making it a potent long-term greenhouse gas. Additionally, gases
+such as chlorofluorocarbons (CFCs), hydrofluorocarbons (HFCs), and sulfur hexafluoride
+(SF) have even greater heat-trapping capacities than CO, further intensifying their impact
+on global warming.
+Although their global warming potential is higher, the atmospheric lifetime of gases like
+chlorofluorocarbons and other F-gases is also substantially longer than that of CO. This
+longevity makes it crucial to remove these gases from the Earth's atmosphere as soon as
+possible to mitigate their long-term impact on global warming.
+
+Now, you might wonder why we focus so much on CO emissions when other greenhouse
+gases have a greater global warming potential. To understand this, we need to delve into
+the global carbon cycle. The global carbon cycle can be represented as a series of carbon
+reservoirs within the Earth system, interconnected by carbon fluxes, which describe the
+movement of carbon between these reservoirs. Understanding this cycle is key to grasping
+why CO, despite its lower GWP, remains a primary concern in climate discussions.
+There are basically two distinct domains within the global carbon cycle: the fast domain
+and the slow domain.
+The fast domain includes carbon in the atmosphere, oceans, and land vegetation. It is
+referred to as the "fast" domain because there is a rapid exchange of carbon dioxide among
+these reservoirs. The turnover time for carbon in these reservoirs ranges from decades to
+millennia, meaning that carbon cycles through these components relatively quickly.
+On the other hand, the slow domain consists of the vast carbon reserves found in rocks and
+sediments. This domain is termed "slow" because carbon exchange with the fast domain
+occurs at a much slower rate. This exchange typically happens through processes such as
+volcanic activity, erosion, and sedimentation. The turnover time in the slow domain spans
+over 10,000 years, reflecting the much longer timescales involved in the movement of
+carbon between these reservoirs.
+
+Understanding these two domains is crucial for grasping how carbon cycles through the
+Earth system and why different components of the carbon cycle operate on such varied
+timescales.
+Prior to the Industrial Revolution, the fast domain of the global carbon cycle was relatively
+stable, maintaining a near-steady state. In the atmosphere, where carbon atoms
+predominantly existed in the form of carbon dioxide and methane, the carbon fluxes were
+balanced, and greenhouse gas concentrations remained approximately constant.
+However, since the beginning of the industrial era, the extraction and combustion of fossil
+fuels have introduced a significant amount of carbon dioxide into the atmosphere. This
+process has effectively transferred a substantial amount of carbon from the slow domain,
+where it was stored in fossil fuels, into the fast domain, thus altering the Earth's carbon
+budget and fluxes within the fast domain.
+It is important to understand that carbon, as a molecule, constantly cycles through various
+reservoirs within the Earth's atmosphere, a process known as the global carbon cycle. This
+cycle involves continuous flows of carbon in and out of the atmosphere and through living
+organisms. For example, during photosynthesis, plants absorb carbon dioxide from the
+atmosphere, converting it into biomass. When these plants die, the carbon stored in them
+is transferred to the soil, where microorganisms decompose the organic matter, releasing
+carbon back into the atmosphere.
+
+This ongoing cycle is critical for maintaining the balance of carbon in the Earth's system,
+but human activities, particularly since the Industrial Revolution, have significantly
+disrupted this balance by introducing large quantities of carbon from the slow domain into
+the fast domain.
+
+These processes, such as the absorption of carbon by forests and oceans, are essentially the
+Earth's natural "carbon sinks." Forests, for instance, act as significant carbon sinks because
+they continuously remove carbon dioxide from the atmosphere through the process of
+photosynthesis. Similarly, our oceans serve as another major carbon sink, absorbing a large
+portion of atmospheric carbon dioxide.
+
+On the other hand, any process that adds more carbon dioxide to the atmosphere is referred
+to as a "carbon source." Today, the burning of fossil fuels--such as coal, oil, and natural
+gas--serves as a primary carbon source, contributing significantly to the increase in
+atmospheric CO levels. Additionally, activities like raising cattle for food also release
+substantial amounts of carbon into the atmosphere, further contributing to the greenhouse
+gas burden.
+
+Despite the enormous amount of carbon dioxide emitted by fossil fuel combustion, a
+considerable portion of it has been absorbed by these natural carbon sinks, namely our
+oceans and forests. This absorption has somewhat mitigated the rate at which atmospheric
+CO levels have risen, but the balance between carbon sources and sinks remains critically
+disrupted due to ongoing human activities.
+
+What we observe is a cumulative rise in the atmospheric concentration of CO. This rise
+highlights a significant imbalance between carbon sources and carbon sinks. This
+imbalance is further exacerbated as we continue to burn more fossil fuels and destroy
+forests. The ongoing destruction of forests, combined with the relentless burning of fossil
+fuels, continues to widen this gap.
+As depicted here, about 60 percent of the anthropogenic CO emissions since 1750 have
+been removed from the atmosphere and stored on land or dissolved in the oceans. However,
+this has led to another problem: ocean acidification, which we will discuss in our next
+lecture. The remaining CO has contributed to a 40 percent increase in atmospheric
+concentration since the onset of the Industrial Revolution.
+
+In conclusion, we can affirm that the anthropogenic rise in global atmospheric CO
+concentrations is a major driver of climate change.
+And we must take immediate actions to reduce the atmospheric CO concentration as much
+as possible. Now, an obvious question arises at this point: the climate is warming, and
+atmospheric CO concentrations are rising--so what? In the next lecture, we will explore
+the consequences of this increase in Earth's surface temperature and the long-term impacts
+of rising CO concentrations on our planet. With that, I conclude this lecture.
+
+Thank you.
+

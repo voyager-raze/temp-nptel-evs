@@ -1,0 +1,209 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+       Week 06- (Lecture 03): RENEWABLE ENERGY II (Ocean Energy ­ II)
+
+Welcome to lecture 3 of week 6 of the NPTEL online certification course on Environmental
+Science. As you may recall in the last lecture, we were discussing about ocean energy with
+an emphasis on tidal energy and wave energy. In this lecture, we will continue our
+discussion on ocean energy technologies, but we will be emphasizing the other renewable
+energy that we can harvest from our oceans.
+So, our focus will be on ocean thermal energy conversion technologies, salinity gradient
+technology, ocean current energy and so on. We will also look into the environmental and
+social aspects of ocean energy as a whole. And finally, we will conclude our discussion on
+ocean energy, by looking into the current status of ocean energy deployment across the
+globe and the future perspectives of ocean energy especially in the context of climate
+change mitigation.
+So, at the end of this lecture you should have an understanding of the following
+technologies, specially ocean thermal energy conversion technologies, salinity gradient
+energy and the associated technologies, for example, pressure retarded osmosis, reversed
+electro dialysis and so on. And you should also have an understanding of what is ocean
+current and how they can be harvested.
+We know that solar energy, or irradiation from the sun, is absorbed by the ocean and stored
+as thermal energy in the upper layers. Ocean Thermal Energy Conversion (OTEC)
+technologies capitalize on the temperature difference between the warm surface water and
+the cold deep-sea layers at depths of 800 to 1000 meters, converting this thermal energy
+into electricity, heat, or cold through a thermal cycle. For an OTEC system to function
+effectively, the temperature difference must be around 20 degrees Celsius. This means the
+surface temperature needs to be approximately 25 degrees Celsius, as the deep-sea water
+temperature remains relatively constant at about 4 degrees Celsius at a depth of 1000
+meters. This temperature difference between the cold deep water and warm surface water
+is crucial for OTEC technologies to operate. Both onshore and offshore OTEC plants are
+feasible, as shown in the diagram. However, like tidal energy, the specific conditions
+necessary for ocean thermal energy production are only present in certain regions of the
+world.
+This technology is particularly effective in the tropical regions between latitudes of
+approximately 30 degrees north and 30 degrees south. These areas benefit from warm
+surface water temperatures, significant water depths, and stable temperatures throughout
+the year. Despite being restricted to the tropics, the global technical potential of OTEC is
+the highest among all ocean energy resources, offering around 44,000 terawatt-hours per
+year of steady-state power. One of the key advantages of OTEC technology is its ability to
+provide non-intermittent, continuous base load power around the clock, unlike many other
+renewable energy technologies like solar and wind, which are highly intermittent.
+
+OTEC's ability to consistently generate power stems from the stable temperature difference
+between the surface and deep ocean waters, allowing for uninterrupted renewable energy
+production. Additionally, OTEC can be integrated with other technologies, such as
+seawater reverse osmosis, to produce freshwater. The waste water from electricity
+generation can also be repurposed for aquaculture, creating additional revenue streams and
+business opportunities, particularly in tropical islands where such applications are highly
+relevant.
+At present, three prominent conversion processes are used: open cycle, closed cycle, and
+hybrid devices. In an open-cycle OTEC technology, as depicted in the accompanying
+image, warm surface water is flash-evaporated under low pressure to serve as the working
+fluid. The resulting vapour is then used to drive a turbine, which powers a generator to
+produce electricity. Cold deep-sea water is subsequently used to condense the vapour,
+generating desalinated water as a byproduct. This system can also bypass electricity
+generation entirely, using the process for freshwater production through a low-temperature
+thermal desalination system. The cold seawater used for condensation can be repurposed
+for cooling or is well-suited for aquaculture.
+In contrast, closed-cycle OTEC technology does not evaporate the warm water itself.
+Instead, the warm water is used to flash evaporate another working fluid with a lower
+boiling point than water, such as ammonia, in a heat exchanger. In the closed cycle OTEC
+system, the working fluid--such as ammonia--is flash evaporated and the resulting vapor
+drives a turbo generator to produce electricity. The ammonia vapor is then condensed by
+coming into contact with cold deep-sea water and is pumped back into the closed system
+to repeat the cycle. This method is more efficient and is better suited for smaller
+applications. Additionally, the cycle can be reversed, using the cold water to cool a working
+fluid through heat exchangers to provide seawater air conditioning instead of generating
+electricity, offering another versatile application of this technology.
+
+Hybrid OTEC systems, as the name suggests, combine both open and closed cycle
+technologies. In a hybrid system, the process begins with electricity generation using a
+closed-loop system. However, instead of discharging the warm water afterward, it is flash
+evaporated and passed through an open cycle, generating additional electricity and/or
+producing desalinated water. The key advantage of this ocean thermal energy conversion
+technology over other ocean energy technologies is that, in addition to generating
+electricity, it also provides desalinated water, which can be repurposed for aquaculture or
+other activities.
+Salinity gradient energy, also known as osmotic energy, leverages the pressure potential
+difference between ocean water's salt concentration and fresh water, converting it into
+usable energy through membranes. A significant amount of energy--up to 0.8 kilowatts
+per cubic meter--can theoretically be harvested from the salinity difference between
+seawater and freshwater, which is comparable to the energy generated by water falling over
+a dam more than 280 meters high. However, the limiting factor is the supply of fresh water.
+Globally, about 2 terawatts of energy is available from rivers flowing into the ocean, with
+around 980 gigawatts being harvestable. Additionally, wastewater discharge into the ocean
+could provide another 800 gigawatts of power. Despite its potential, salinity gradient
+energy remains largely untapped, requiring advanced engineering and efficient energy
+conversion technologies.
+
+The basic principle involves selective membranes that favor the transport of counter ions
+from a high-concentration reservoir to a low-concentration one, generating an ionic current.
+This ionic current, when converted via redox reactions at reference electrodes, produces
+electric current, closing the electrical circuit. The global potential for salinity gradient
+energy varies due to non-uniform ocean salinity, influenced by factors such as ice melting,
+river runoff, and precipitation. Regions with significant river discharges into the sea are
+particularly suitable for harnessing this energy, as the energy generated is proportional to
+the salt concentration difference, making freshwater-saltwater systems highly efficient.
+
+Estuaries, where fresh and saltwater meet, are prime locations for salinity gradient energy
+plants, which could theoretically operate continuously to provide baseload power.
+However, the geographical requirements pose significant limitations, making salinity
+gradient energy potential relatively low, at about 1,650 terawatt-hours per year--the lowest
+among ocean energy forms.
+
+Two main processes are widely considered for harnessing salinity gradient energy: pressure
+retarded osmosis (PRO) and reverse electrodialysis (RED). In PRO, a semi-permeable
+membrane separates low-concentration and high-concentration solutions, allowing water
+to move from low to high concentrations, increasing the volume flow rate on the saltwater
+side. The resultant high-pressure solution is split, with one part driving a turbine and the
+other returning to a pressure exchanger, which pressurizes the saltwater feed, generating
+electricity.
+
+In RED, perm-selective membranes replace semi-permeable ones, with fresh and saltwater
+flowing through alternating channels. These membranes transfer cations and anions from
+high to low-concentration solutions, creating an electrochemical potential difference that
+generates an electrical current at the electrodes. The energy that can be extracted from
+mixing a dilute stream with a saline stream is significant, but membranes remain a critical
+component and technical bottleneck for these plants. These membranes must be highly
+efficient ion rectifiers with high ion flux and long-term robustness in seawater. However,
+the vast quantities required are commercially unavailable, and regular replacement is
+necessary, posing challenges to the widespread or full-scale application of salinity gradient
+energy technology.
+In addition to the ocean movement caused by rising and falling tides, ocean currents
+represent another significant movement mechanism in the oceans. These large circulations
+are driven by an interplay of wind, temperature, and salinity across the globe. Similar to
+wind turbines, turbines can be installed underwater to harness the energy of ocean currents
+and generate electricity. A key advantage of this technology is our understanding of the
+locations of major ocean currents, such as the Gulf Stream in North America, the Agulhas
+Current in South Africa, the Kuroshio Current in East Asia, and the Eastern Australian
+Current. Although ocean currents are generally slower than tidal streams, they involve
+much larger volumes of water, providing a substantial energy potential.
+
+Another advantage of ocean currents is their unidirectional and continuous flow with
+minimal fluctuations, unlike tidal streams that have bidirectional flow. This makes ocean
+currents ideally suited for base load power generation. However, it's important to note that
+ocean current energy technologies have not yet been extensively tested. The technologies
+used to harness ocean currents are expected to be similar to those used for tidal streams,
+such as horizontal axis turbines, vertical axis turbines, and possibly tidal kites that follow
+an 8-shaped trajectory. Since tidal energy technologies are themselves still emerging, they
+are naturally suited to operate at lower speeds. Therefore, advancements in tidal current
+technologies will likely pave the way for the development of more effective ocean current
+energy technologies.
+
+Now that we've discussed the various forms of renewable energy resources available in the
+ocean, it's essential to consider the potential environmental and social aspects of ocean
+current energy technologies.
+Ocean energy technologies offer significant promise for climate change mitigation as they
+do not generate greenhouse gases during operation and have low life cycle emissions.
+While they present a potential solution for global CO reduction, their impact on marine
+life and the environment is not yet fully understood, primarily because these technologies
+are still in the early stages of deployment. Potential negative impacts include habitat loss,
+animal interactions with turbines, noise, and electromagnetic fields produced by sea cables,
+all of which could affect aquatic species. However, the limited studies conducted so far are
+often location-specific, making it difficult to generalize their findings. Additionally,
+increased vessel traffic due to deployment and maintenance could further exacerbate
+environmental impacts.
+
+Despite these challenges, major deployment sites today are equipped with monitoring
+devices to study the effects on the environment, focusing on collision risks, acoustic
+impacts, and the effects on currents, erosion, and sediment transport. Encouragingly, initial
+research has shown mostly positive outcomes, with underwater noise generally remaining
+below the hearing threshold for most species and minimal collision risks observed for tidal
+plants. However, large-scale deployments are necessary to fully understand the long-term
+impacts on marine life and the environment.
+
+From a socio-political perspective, the deployment of ocean energy technologies raises
+concerns about the sharing of ocean resources. Over two-thirds of the ocean is part of the
+global commons, not governed by any specific nation, leading to potential ownership
+disputes among communities, countries, and sectors, particularly in areas where fishing,
+conservation, shipping, and defense are already established. Additionally, for near-shore
+installations, community readiness and potential visual impacts must be considered to
+avoid public rejection of projects.
+
+The deployment of ocean energy technologies has been slower than anticipated, despite the
+recognized need to decarbonize the power sector. Tidal energy is nearing
+commercialization, with a focus on horizontal axis turbines and the development of large-
+scale, multi-turbine tidal farms. Wave energy, however, remains less mature, with
+technologies still in the scale testing and demonstration stages. OTEC and salinity gradient
+technologies are in the early development stages, with limited demonstration projects and
+various challenges to overcome before reaching commercial scale. Currently, the
+cumulative installed capacity across all ocean technologies is 534.7 megawatts, with tidal
+barrage technology accounting for the majority at 521.5 megawatts. Other ocean energy
+technologies contribute 13.2 megawatts, primarily from tidal streams.
+
+Geographically, ocean energy development is concentrated in 31 countries, particularly in
+European nations like Finland, France, Ireland, Italy, Portugal, Spain, Sweden, and the
+United Kingdom, as well as in Australia, Canada, and the United States. These countries
+lead in ocean energy project development and device manufacturing. Looking ahead, more
+capacity additions are expected, with wave and tidal stream projects with a combined
+capacity of 2.83 gigawatts in the pipeline as of 2020. The International Renewable Energy
+Agency estimates that around 10 gigawatts could be commercially deployed by 2030.
+OTEC, salinity gradient, and ocean current technologies also have significant potential and
+are expected to reach a more mature stage by the end of the decade.
+Despite ongoing small-scale projects, these technologies are still largely in the research
+and development stages, with work primarily conducted in research institutes and
+universities. In summary, ocean energy is increasingly seen as an essential component of
+the solution to climate change. Due to its predictability and more stable generation
+compared to other renewable energy resources, ocean energy can support and stabilize
+grids that integrate variable resources like solar PV and wind. However, there is still
+considerable scope for development, particularly in ocean thermal energy conversion,
+salinity gradient, and ocean current technologies. While tidal and wave energy have shown
+significant progress, they still need to be scaled up to larger capacities. Over time, it is
+hoped that these technologies will see greater deployment and further advancements.
+
+So, with this I end this lecture on ocean energy. Thank you.
+

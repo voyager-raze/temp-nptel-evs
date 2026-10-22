@@ -1,0 +1,367 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+           Week 04 (Lecture 04): CLIMATE CHANGE (Mitigation Options)
+
+Welcome to lecture 4 of week 4 of the NPTEL online certification course on Environmental
+Science. In the last lecture, we discussed how climate change will have serious long-term
+consequences on the well-being of humans and the planet. In this lecture, we will explore
+ways to combat climate change. Specifically, we will learn about various mitigation
+strategies available to reduce CO emissions, emphasizing carbon capture, utilization, and
+storage. We will also examine the potential of geoengineering as an option to reduce the
+impacts of global warming. By the end of this lecture, you should have a basic
+understanding of the following terminologies: CO capture, CO storage, CO utilization,
+CO management, and solar radiation management.
+In this week's lectures, we have seen that cumulative emissions of CO will largely
+determine the extent of global warming by the end of this century and beyond, because the
+atmospheric lifetime of CO mostly exceeds a century. If we examine this graph, we see
+that to have a 50% chance of limiting global warming by 2100 to below 2 degrees Celsius,
+cumulative emissions from 1870 onwards need to be less than 1210 gigatons of carbon.
+This is represented by the thin black line. If we also consider other anthropogenic forcings,
+such as methane or aerosols (represented by the additional thick colored lines), then only
+820 gigatons of carbon are allowed to meet the 2-degree Celsius limit with a probability of
+over 50%.
+Since about 512 gigatons of carbon have already been emitted from 1870 to the present,
+the remaining CO budget to meet the 2-degree target with a 50% probability is around 305
+gigatons of carbon. Therefore, a massive effort must be undertaken immediately to reduce
+the amount of CO entering the atmosphere as much as possible.
+There is widespread scientific consensus and overwhelming political agreement that
+developing and deploying a broad portfolio of advanced energy technologies would be the
+most suitable, potentially effective, and sustainable approach to achieve long-term
+stabilization of CO levels in the atmosphere. Energy efficiency improvements and
+increased use of clean renewable energy resources, such as solar, wind, ocean, geothermal,
+hydroelectricity, and other non-fossil fuel-based resources, such as nuclear energy, are key
+components of this portfolio. In the short to medium term, carbon capture and storage
+(CCS) is a viable technological option for mitigating anthropogenic energy-related CO
+emissions.
+Carbon capture and storage, which has recently evolved into carbon capture, utilization,
+and storage (CCUS), is an integrated technology that aims to selectively remove CO from
+fossil fuel gas streams of fossil-fired power plants and other large industrial sources. It then
+safely deposits the captured CO in secure storage sites or reuses it as a raw material in
+industrial processes, thereby keeping it out of the atmosphere for a prolonged period.
+CCUS comprises four distinct components:
+
+    1. Capturing CO from the smokestacks of fossil-fired power plants and other large
+         industrial sources, such as cement industries, fertilizer industries, steel industries,
+         etc.
+
+    2. Compressing the captured CO to a liquid-like state called supercritical fluid and
+         transporting it to suitable sites, which could be onshore or offshore.
+
+    3. Directly utilizing the compressed CO as a feedstock in several important industrial
+         sectors, such as manufacturing fertilizers like urea, the food and beverage industry,
+         and the manufacture of value-added products.
+
+    4. Storing the CO using natural or engineered trapping mechanisms and monitoring
+         as necessary.
+
+Globally, there are more than 8000 CO point sources that can conceivably adopt carbon
+capture utilization and storage technology as a means of delivering deep and sustained
+emissions reduction. However, the technical difficulties of extracting CO with high purity
+and recovery from flue gas streams, as well as the expensive operations involved with the
+separation process, can severely impede the large-scale implementation of CO.
+
+In general, there are three basic approaches to capturing CO from the combustion of fossil
+fuels. These are pre-combustion CO capture, which involves CO removal prior to
+combustion of the fossil fuel; oxy-fuel combustion systems, which involve combustion of
+the fossil fuel in pure oxygen to get a highly concentrated CO waste gas; and post-
+combustion CO capture, which involves CO removal from the flue gas stream following
+normal combustion.
+Let's look into each of these combustion technologies in a little more detail. Pre-
+combustion capture involves removing the carbon content of the fuel prior to combustion.
+In this process, a primary fuel, which could be coal, oil, natural gas, or even biomass, is
+first converted into syngas, which is a mixture of carbon dioxide, carbon monoxide, and
+hydrogen. This syngas is then reacted with steam by the process of steam reforming or with
+oxygen, known as partial oxidation or gasification, to convert the syngas into a mixture of
+carbon dioxide and hydrogen. This mixture of carbon dioxide and hydrogen is called the
+water-gas shift reaction. The CO can be separated from this mixture, while the hydrogen
+can then be burnt to produce power. The main advantage of pre-combustion capture is that
+the flue gas produced contains a high concentration of CO at very high pressures (20 to
+80 bars), reducing CO compression costs. Additionally, the process can simultaneously
+remove other acidic contaminants such as sulfur oxides, nitrogen oxides, and particulate
+matter, which are criteria air pollutants.
+However, the key problem with pre-combustion capture is that it requires high capital
+investment and cannot be retrofitted to existing coal-fired power plants. Pulverized coal-
+fired power plants make up much of the world's installed base of fossil fuel power. Oxy-
+fuel combustion is a near zero-emission technology because it involves burning fossil fuels
+in almost pure oxygen instead of air, using a cryogenic air separation unit or membranes.
+Since nitrogen is removed prior to combustion, the flue gas that leaves the combustion unit
+contains only carbon dioxide and water with trace amounts of SOx and NOx. The flue gas
+mixture is then cooled and cleaned to remove SOx and NOx, and a further compression
+step separates the carbon dioxide and water to produce a high-purity CO stream ready for
+sequestration. The primary benefit of oxy-fuel combustion technology is the significant
+reduction in both the size and capital cost of a fossil-fired power plant compared to
+conventional air-based combustion systems. Another potential benefit is the low NOx
+emission due to the absence of nitrogen in the flame, which also removes the requirement
+for a NOx separation unit. However, the main drawback is the need for large volumes of
+high-purity oxygen, which imposes a high capital cost and energy penalty.
+Post-combustion carbon capture involves capturing CO from flue gases produced by
+burning fossil fuels in ambient air. When fossil fuels such as coal, oil, or natural gas are
+combusted in ambient air, the process results in a gas containing about 70 to 80 percent
+nitrogen, 10 to 15 percent carbon dioxide, 3 to 4 percent oxygen, and trace amounts of
+SOx, NOx, particulate matter, carbon monoxide, and mercury. Instead of being directly
+discharged to the atmosphere, this flue gas undergoes processing and treatment during
+which most of the CO is separated and captured. The flue gas stream with most of the CO
+removed is then emitted to the atmosphere. The process is challenging for several reasons.
+First, the concentration of CO in the flue gas is relatively low, making separation from
+non-condensable gases like nitrogen complex. Second, the overall flue gas exists at a
+relatively low pressure (1 bar), meaning a large volume of gas must be treated, resulting in
+large equipment size and high energy consumption.
+
+The key advantage of post-combustion technology is that it can be easily retrofitted to
+existing equipment and process configurations, making it applicable to power stations, oil
+refineries, petrochemical and gas plants, steel and chemical plants--all of which are major
+contributors to global CO emissions. Since all these point sources of pollution produce
+flue gas at atmospheric pressure with a CO concentration of around 15 percent, the largest
+and most immediate impact on global carbon mitigation will likely come from post-
+combustion CO capture. Additionally, retrofitting this technology to existing equipment
+and process configurations requires little modification, making it easily applicable to the
+tail end of the combustion process. Whether we want to separate CO from a dilute or
+concentrated flue gas stream, several separation technologies are available. These include
+absorption, adsorption, cryogenic distillation, membrane separation, and oxygen chemical
+looping.
+Absorption refers to the dissolution of CO from the gaseous phase into a liquid phase,
+usually a solvent such as an amine. The removal of CO from the solvent is typically
+achieved using energy in the form of heat or steam, making absorption an energy-intensive
+process. Like absorption, adsorption involves the accumulation of CO on the surface of a
+sorbent, which should be highly porous and have a large surface-to-weight ratio, up to 3000
+square meters per gram. Materials like activated carbon or Metal Organic Frameworks
+(MOFs) can be used, but CO removal in this case also requires various forms of energy,
+such as pressure, temperature, or electricity. Pressure swing adsorption is the most widely
+used adsorption technology.
+
+Membrane separation involves using filters that allow gases to pass through, directly
+separating them. Membranes are efficient at high pressure and low flux and have clear
+advantages over both absorption and adsorption because they do not have moving parts
+and require minimal energy aside from compensating for pressure loss. However, the main
+issue with membrane technology is that it is fragile, difficult to implement on a large scale,
+and the selectivity of a membrane decreases as flux increases
+Cryogenic distillation, as previously mentioned, involves separating or isolating a gas in
+liquid form, which requires liquefaction of the gas at extremely low temperatures. This
+method is commonly used for industrial-scale oxygen-nitrogen separation because it allows
+for the separation of large volumes of gas. It has also been extensively developed for
+separating carbon dioxide from methane mixtures, but like adsorption and absorption, it
+can impose a significant energy penalty.
+
+In a chemical looping process, oxygen can be introduced into the reactor or added in the
+form of metal oxides rather than in its gaseous form. This approach avoids the need for air
+separation units and reduces the energy penalty associated with CO separation. However,
+there are significant technical challenges related to this process, particularly in scaling it
+up from current lab-scale pilot projects to larger applications.
+Once CO has been captured, safely and reliably transporting it to a suitable storage site
+becomes a crucial stage in the carbon capture, utilization, and storage (CCUS) process.
+Pipelines are, and will likely remain, the most common method for transporting the large
+quantities of CO involved in CCUS operations.
+
+Now there are already millions of kilometers of pipelines that are around the world that
+can transport various gases including CO. And then transport of CO by truck and rail is
+also possible and in this cases trucks are used and some project sites moving the CO from
+where it is captured to basically to nearby storage locations. So, trucks cannot be used for
+long distances ok. And ship transportation can also be an alternative option for many
+regions of the world and shipment of CO is already taking place at a small scale in Europe
+as well as in other parts of the world where actually food grade or food quality CO 2 is
+being transported from large point sources to coastal distribution terminals ok. And large
+scale shipment of CO with capacities in the range of over 1 lakh to 4 lakh cubic meters is
+likely to have much in common with the shipment of liquefied petroleum gas.
+
+There are already millions of kilometers of pipelines around the world that transport
+various gases, including CO. Additionally, CO can be transported by truck and rail,
+though these methods are generally used for moving CO from capture sites to nearby
+storage locations due to the limitations in distance that trucks can cover effectively. For
+longer distances, trucks are not practical. Ship transportation is another viable option,
+especially in regions where pipeline infrastructure is limited. Currently, small-scale CO
+shipment is already taking place in Europe and other parts of the world, where food-grade
+or food-quality CO is transported from large point sources to coastal distribution
+terminals. Large-scale shipment of CO, with capacities ranging from 100,000 to 400,000
+cubic meters, is likely to be similar to the shipment of liquefied petroleum gas, leveraging
+existing expertise and infrastructure
+
+The transportation of liquefied petroleum gas (LPG) has a well-established history, with
+significant expertise developed over a period of 70 years. This expertise has contributed to
+LPG becoming a worldwide industry. Similarly, the transport of CO is already taking
+place daily in many parts of the world. However, to support large-scale deployment of CO
+transportation, particularly for carbon capture, utilization, and storage (CCUS) efforts,
+significant investment in transportation infrastructure is essential. Once CO has been
+transported to suitable sites, it can be utilized as an alternative feedstock, reducing the
+demand for natural resources and their exploitation. For instance, CO can be used in
+biological conversion processes to produce fuels and food. It also finds applications in the
+food and beverage industry, the manufacturing of plastics, as well as serving as an
+extractant and refrigerant. Additionally, CO can be used for enhanced fuel recovery and
+in the production of chemicals via electrochemical or thermochemical processes.
+
+CO can be utilized in various chemical processes, most notably in the production of
+fertilizers, methanol, and ethanol, all of which have significant industrial value.
+Additionally, CO can undergo mineralization, forming stable carbonates. This process is
+an effective way to store CO in a solid form, reducing its presence in the atmosphere.CO
+also finds applications in fire extinguishers as a fire suppressant, and it can be used as an
+inert agent in various industries. In miscellaneous applications, CO can be injected into
+metal castings, added to medical oxygen as a respiratory stimulant, or used as an aerosol
+propellant. However, among all these options, the most extensive use of CO is in enhanced
+oil recovery (EOR). CO-mediated EOR is a technique employed to extract oil from mature
+fields--fields that have ceased to be productive through traditional primary and secondary
+recovery methods. This process takes advantage of the mutual solubility of crude oil and
+CO under the temperature and pressure conditions typical of a geological reservoir. CO,
+when injected into the reservoir, dissolves and displaces the remaining oil, allowing for its
+recovery, much like a solvent displaces grease from a dirty bicycle chain. This method is
+particularly valuable for accessing oil that would otherwise remain untapped in the ground.
+
+In a typical CO flood operation, a pipeline delivers CO to the oil field, where it is directed
+into injection wells. As the CO is injected, it moves through the pore spaces in the rocks
+and encounters residual crude oil. The crude oil then mixes with the CO, which decreases
+the oil's viscosity, pressurizes it, and mobilizes it, ultimately forming a concentrated oil
+bank. This concentrated oil bank can then be swept towards the production wells for
+extraction. This process enables oil and gas companies to access oil that would otherwise
+have been left in the ground. Beyond its use in enhanced oil recovery, CO can also be
+stored geologically. Geological storage involves injecting CO into deep underground rock
+formations, thereby permanently removing it from the atmosphere. This method of storage
+is considered an effective way to mitigate CO emissions and reduce their impact on
+climate change.
+Geological storage involves injecting CO into deep underground rock formations, thereby
+permanently removing it from the atmosphere. There are three types of formations that are
+suitable for long-term CO injection, storage, and sequestration. The first and foremost are
+depleted oil and gas reservoirs. These are considered the best candidates for CO storage
+because they are leak-proof, having sequestered fossil fuels for millions of years. They also
+possess high porosity and permeability, making them ideal for CO storage. Additionally,
+the oil and gas industry already has extensive knowledge of these reservoirs, including
+established injection processes and infrastructure. The second type of suitable formation is
+deep saline aquifers, which are saturated with salty formation water or brines that are
+unsuitable for drinking purposes. Lastly, deep sedimentary rocks also provide viable
+options for CO storage. These formations represent a significant portion of the world's
+storage potential, although they have not been as thoroughly characterized or exploited as
+oil and gas reservoirs. These deep saline aquifers are saturated with salty formation water
+or brines that are unsuitable for drinking. They represent the majority of the global storage
+potential for CO, although they have not yet been fully characterized or widely exploited.
+When CO is injected into these aquifers, it is slightly more buoyant than the saline water,
+allowing both to coexist within the storage formation. Over time, some of the trapped CO
+will begin to dissolve into the saline water, becoming trapped indefinitely. Additionally,
+another portion of the CO may become trapped in tiny pore spaces, a process known as
+residual trapping.
+The ultimate trapping process involves the dissolved CO reacting with the reservoir rocks
+to form new minerals, a process known as mineral trapping. This can be either relatively
+quick or very slow, but it is an effective method for permanently locking CO into a solid
+mineral form. Another option for CO storage is unmined coal seams. These seams contain
+fractures that significantly improve the permeability of the medium, allowing CO to
+migrate through the coal and be physically absorbed by the coal's micropores. Typically,
+carbon dioxide is stored underground in a supercritical fluid state, where it exhibits
+properties of both a gas and a liquid, enabling more efficient storage.
+So, supercritical CO means that the CO is at a temperature above 31.1 degrees Celsius
+and at a pressure above 72.9 atmospheres. At these conditions, CO reaches its critical
+points. In this state, the CO exhibits properties of both a gas and a liquid. It is dense like a
+liquid but flows like a gas, making it particularly advantageous for storage as it requires
+substantially less volume than if it were at standard room temperature and pressure
+conditions.
+
+In particular, supercritical CO is dense like a liquid but has the viscosity of a gas. The
+main advantage of storing CO in this supercritical state is that it requires substantially less
+storage volume compared to storing it at standard room temperature and pressure
+conditions. Additionally, as you go deeper into the Earth's crust, both the temperature and
+the pressure of fluids naturally increase. At depths below approximately 800 meters, the
+temperature and fluid pressures typically exceed the critical point of CO in most locations
+on Earth, ensuring that the CO remains in its supercritical condition.
+
+So, this means that CO injected at this depth or deeper will remain in this supercritical
+condition given the temperature and pressures present. Typically, the geological
+characteristics of the storage sites should include rock formations with enough millimeter-
+sized voids or pores to provide the capacity to store CO. Additionally, the pores in the
+rocks should be sufficiently connected, a feature known as permeability, to accept the
+amount of CO at the rate at which it is injected. This permeability allows the CO to move
+and spread out within the formation.
+
+And there should also be a seal rock, cap rock, or barrier at the top of the formation to
+contain the CO permanently. There are four distinct mechanisms that trap the injected CO
+in the subsurface. First and foremost is structural and stratigraphic trapping. Structural
+trapping is the physical trapping of CO in the rocks and traps the maximum amount of
+CO.
+
+Next, we have residual trapping. Residual trapping refers to trapping CO in the pore spaces
+between rocks, where the rocks act like a rigid sponge. Then, there is solubility trapping.
+Solubility trapping occurs when CO interacts with a brine solution. At the CO-brine water
+interface, some CO molecules dissolve into the brine water within the rock's pore space.
+
+And then we have mineral trapping. Mineral trapping refers to the reaction that occurs
+when CO, dissolved in the brine water within the rocks, reacts with the minerals in the
+rock. When CO dissolves in water, it forms a weak carbonic acid and eventually
+bicarbonate. Over extended periods, this weak acid can react with minerals in the
+surrounding rock to form solid carbonate minerals. In this way, we can permanently trap
+and store the portion of injected CO. In the long term, the dissolved CO will eventually
+mineralize into carbonate, increasing storage security.
+
+Apart from geological storage, we can also deliberately inject CO into the ocean at great
+depths, where most of it would remain isolated from the atmosphere for prolonged periods,
+possibly for several centuries. CO can be transported via pipelines or with the help of
+ships. Various technologies have been considered to enable and increase ocean storage.
+One option is to place CO on a ship and then directly inject it into the ocean or deposit it
+on the ocean floor. CO loaded on a ship can either be dispersed from a tote pipe or
+transported to fixed platforms feeding a CO lake on the ocean floor.
+
+Now, such CO lakes must be at a depth greater than 3 kilometers, where CO is denser
+than seawater. Any of these approaches could, in principle, be used in conjunction with
+neutralization with carbonate minerals. Apart from mitigation options, we also have
+geoengineering strategies. Geoengineering is the deliberate large-scale intervention in the
+Earth's natural system to counteract climate change. It involves the large-scale engineering
+and manipulation of the planetary environment to monitor or counteract global climate
+change in response to the emission of greenhouse gases.
+There is a wide range of proposed geoengineering techniques, broadly classified into two
+groups. One is solar radiation management, or solar engineering, which aims to reflect a
+small portion of the incoming solar radiation back into space. This approach helps
+counteract the temperature rise caused by increased levels of greenhouse gases in the
+atmosphere, which otherwise absorb energy and raise temperature.
+
+The other option is carbon management, which aims to remove carbon dioxide or other
+greenhouse gases from the atmosphere. This approach directly counters the increased
+greenhouse effect and ocean acidification. These techniques must be implemented on a
+global scale to significantly impact greenhouse gas levels in the atmosphere.
+
+When we look into solar radiation management options, one of the methods is albedo
+enhancement. This can be achieved by increasing the reflectiveness of clouds or the land
+surface, thereby reflecting more of the sun's heat back into space. This method ensures that
+more of the sun's heat is reflected back into space. Another option involves using space
+reflectors, which can block a small proportion of sunlight before it reaches the earth.
+Additionally, stratospheric aerosols can be introduced, which are small reflective particles
+in the upper atmosphere designed to reflect some sunlight before it reaches the earth's
+surface.
+
+Regarding carbon management, afforestation is a viable option. This involves engaging in
+global-scale tree-planting efforts to absorb CO from the atmosphere. we can engage in
+global-scale tree-planting efforts to absorb CO from the atmosphere. Another approach is
+direct air capture, which involves building large machines that can remove carbon dioxide
+directly from the ambient air and store it elsewhere. Additionally, ocean fertilization can
+be employed by adding nutrients to the oceans in selected locations to increase primary
+production, which draws down carbon dioxide from the atmosphere.
+
+And then we also have enhanced weathering. Enhanced weathering involves exposing
+large quantities of minerals that will then react with carbon dioxide in the atmosphere and
+store the resulting compound in the ocean or soil. When we talk about solar radiation
+management, we need to understand that it has its own pros and cons. For example, some
+of the approaches to limit incoming solar radiation can be relatively inexpensive to
+implement but must be sustainable over time to produce meaningful effects. Additionally,
+other approaches to limiting global warming resemble science fiction.
+
+For example, putting a solar screen in space would involve tremendous expense and require
+precise navigation and engineering. Applying suggested approaches mainly to moderate
+impact hotspots, such as the Arctic, might be possible. However, when we look into the
+cons, we need to understand that geoengineering is only treating the symptoms and not the
+cause. Geoengineering might give us an excuse not to reduce greenhouse gas emissions
+and can only address some aspects of the problem. It mitigates the rise of global mean
+temperature but is definitely not a cure for ocean acidification. This type of geoengineering
+cannot substitute for greenhouse gas emission reduction. A very high rate of warming in
+the case of failure of implemented geoengineering solutions could lead to even greater
+chances of global warming. Unintended consequences also raise questions about
+responsibility and cost. Moreover, several ethical and political questions are associated
+with the large-scale implementation of geoengineering techniques.
+To summarize today's lecture, we have seen that we have quite a lot of options available to
+us to mitigate global warming. These options mostly range from a prudent shift to
+renewable energy resources to non-fossil-fuel-based power energy resources like nuclear.
+In the long term, we will continue using coal for some time, making carbon capture
+utilization and storage a promising technology despite its challenges. Additionally,
+geoengineering techniques, especially solar management and carbon management, have
+their pros and cons. It is important to note that geoengineering, apart from being a
+mitigation option, might encourage increased CO production by providing an excuse not
+to reduce emissions.
+
+In our next lecture, we will discuss how we can adapt to climate change and look into some
+existing policies to reduce CO emissions from anthropogenic sources. With that, I end
+lecture 4 of week 4. Thank you.
+

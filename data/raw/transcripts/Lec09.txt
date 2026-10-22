@@ -1,0 +1,397 @@
+                                            Environmental Science
+                             Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                               Indian Institute of Technology Kharagpur
+
+                                                     Week 02
+       (Lecture 04): Principles of Sustainable Development (Case Study I: Sustainable
+
+                                                  Urbanization)
+
+Welcome to lecture 4 of week 2 of the NPTEL online certification course on Environmental
+Science.
+Now in the last 3 lectures of this week, we saw what is sustainable development, what are the
+sustainable development goals and what societal transformations are needed to achieve these
+goals. In today's lecture, we will see a very important aspect of sustainable development that is
+urbanization. So, in today's lecture specifically we will be learning what is urbanization, what are
+the current trends of urbanization across the globe and what are the main causes of such rapid
+urbanization and how why our current urbanization is unsustainable and finally, we will learn how
+we can move towards more sustainable urban societies. So, at the end of this lecture you should
+be able to explain what are megacities, what is urban sprawl, what are eco cities, what are smart
+cities and of course, what is sustainable mobility. Now when we talk about urbanization, so
+urbanization is basically the process through which cities grow, okay and higher and higher
+percentage of the population comes to live in the city.
+
+Urbanization is the process through which cities grow, and higher and higher percentages of the
+population comes to live in the city. Urbanization is a complex socio-economic process that
+transforms the built environment. The term built environment refers to the human-made
+surroundings that provide the setting for human activity, ranging in scale from buildings and parks
+or green space to neighborhoods and cities that can often include their supporting infrastructure,
+such as water supply or energy networks.
+Urbanization converts formerly rural areas into urban settlements, while also shifting the spatial
+distribution of a population from rural to urban areas. It includes changes in dominant occupations,
+lifestyle, culture and behaviour, and thus alters the demographic and social structure of both urban
+and rural areas. A major consequence of urbanization is a rise in the number, land area and
+population size of urban settlements and in the number and share of urban residents compared to
+rural dwellers.
+Urbanization is shaped by spatial and urban planning as well as by public and private investments
+in buildings and infrastructure. An increasing share of economic activity and innovation becomes
+concentrated in cities, and cities develop as hubs for the flow of transport, trade and information.
+Cities also become places where public and private services of the highest quality are available
+and where basic services are often more accessible than in rural areas.
+The degree or level of urbanization is typically expressed as the percentage of population residing
+in urban areas, defined according to criteria used by national governments for distinguishing
+between urban and rural areas. In practice, urbanization refers both to the increase in the percentage
+of population residing in urban areas and to the associated growth in the number of urban dwellers,
+in the size of cities and in the total area occupied by urban settlements.
+
+Human populations have tended to increase over time. As more people were born, small groups of
+individuals found reasons to come together to form clusters and, with the advent of agriculture,
+small sedentary communities. A small number of these settlements grew into what we now call
+cities.
+The world population has grown significantly, and our economies have become more
+industrialized over the past few hundred years, and as a result many more people have moved into
+cities. This process is known as urbanization. Even after cities emerged, however, a large majority
+of people lived and worked in rural areas. It was not until large-scale industrialization began in the
+eighteenth century that cities really began to boom. Nearly half of all people now live in urban
+areas. They are attracted by jobs in manufacturing and the professions, as well as by increased
+opportunities for education and entertainment.
+Indeed, urban areas are the world's economic platforms for production, innovation and trade. They
+offer significant opportunities for both formal and informal employment, generating a sizeable
+share of new private sector jobs. Urbanization has helped millions escape poverty through
+increased productivity, employment opportunities, improved quality of life and large-scale
+investment in infrastructure and services.
+Now how do cities grow?
+
+Urban growth has three components: natural increase, migration and reclassification. Their
+respective contributions to urban growth differ depending on the demographic changes taking
+place in a country and the size of a given settlement, on spatial planning policies and national
+definitions of urban space, and on the physical environment and other country-specific or local
+circumstances.
+
+Natural increase of urban populations results from an excess of births over deaths in urban areas.
+The balance depends on levels of fertility (affecting the number of births) and life expectancy at
+birth (affecting the number of deaths), and on the distribution of the population by age (other things
+being equal, older populations tend to experience fewer births and more deaths). Women living in
+urban areas typically have greater access to education and modern methods of family planning; as
+a result, their fertility is often lower compared to that of women living in rural areas. However,
+despite a lower level of fertility, there is often an excess of births over deaths in urban areas due
+to a lower level of mortality and a younger age distribution.
+
+Migration to cities from rural areas or from abroad contributes to urban growth whenever the
+number of in-migrants exceeds the number of out-migrants. Migrants are often younger, on
+average, compared to the populations living in areas of origin or destination. Therefore, migration
+tends to have an impact on the age distributions of both the sending and receiving populations.
+Since most migrants to urban areas are adults in the working ages or their children, migrant
+populations tend to be younger than average. Therefore, migration tends to increase the average
+age of the population in areas of origin of migration while lowering the average age in areas of
+destination.
+Reclassification contributes to urban growth by enlarging the size of urban areas. When cities grow
+in area, they incorporate neighbouring settlements and their populations, which were formerly
+classified as rural. Population growth in rural areas may result in reclassification of settlements
+from rural to urban, thus accelerating the pace of urbanization.
+
+Globally, more people live in urban areas than in rural areas today. In 2018, 55% of the world's
+population resided in urban areas. Overall, 4.2 billion people resided in urban settlements
+compared to 3.4 billion in rural areas. The world's population has gone through a process of rapid
+urbanization since 1950. In 1950, more than two thirds of people worldwide lived in rural
+settlements. In 2007, for the first time in history, the global urban population exceeded the global
+rural population, and since then the number of the world's city dwellers has continued to grow
+faster than the rural population. Towards the end of the Agenda for Sustainable Development in
+2030, the share of the world's population living in urban areas is expected to reach 60 per cent. It
+is projected that by 2050, the world will be more than two thirds urban, roughly the reverse of the
+global rural-urban population distribution of the mid-twentieth century.
+Over the coming decades, the level of urbanization is expected to increase in all regions, but with
+considerable variation. Africa and Asia are urbanizing more rapidly than other regions of the
+world. The rate of urbanization, measured as the average annual rate of change of the percentage
+urban, is the highest in Asia and Africa, while regions that already have relatively high levels of
+urbanization are urbanizing at a slower pace.
+
+In addition, both the levels and paces of urbanization differ considerably across income groups.
+Most high-income countries of today have relatively high levels of urbanization, such as Australia,
+Canada, Japan, the United States of America, and most countries in Europe. Many upper-middle-
+income countries, such as Brazil, China, Iran and Mexico, have experienced both rapid
+urbanization and rapid growth of gross national income, with levels of urbanization close to those
+in high-income countries. These countries have gained hundreds of millions of people living in
+urban areas across the world during recent decades, together with many lower-middle-income
+countries, such as India, Indonesia and Ethiopia, at lower levels of urbanization. On the other hand,
+a significant number of low-income countries in Africa still have low levels of urbanization.
+Urbanization also differs considerably between countries. In 2018, fourteen countries or areas still
+have low levels of urbanization, with less than 20% of their population residing in urban areas.
+The largest among them, with a population of 10 million inhabitants or more, include Burundi,
+Malawi, Niger, Rwanda and South Sudan in Africa, Nepal and Sri Lanka in Asia, and Papua New
+Guinea in Oceania. By 2050, these countries are expected to become significantly more urbanized,
+with some countries more than doubling their respective shares of urban population in 2018. In
+contrast, the proportion urban is already above 80% in 65 countries. Among those with a
+population of at least 10 million inhabitants, the most highly urbanized countries are Belgium,
+Japan, Argentina and the Netherlands. By 2050, 101 countries are expected to have more than 80
+per cent of their population reside in urban areas.
+Differences across regions also apply to the spatial distribution of megacities, i.e., urban areas with
+more than 10 million inhabitants. There are currently 33 such cities in the world, including Delhi,
+Dhaka, Cairo, Tokyo, Mumbai, Shanghai, Kinshasa, Lagos, Karachi, Mexico City, São Paulo,
+Beijing, Kolkata, New York City, Manila, Lahore, Bangalore, Chongqing, Buenos Aires, Osaka,
+Hyderabad, Tianjin, Guangzhou, Los Angeles, Rio de Janeiro, Bangkok, Jakarta, Shenzhen, Lima,
+Paris and Moscow. The biggest among them being Tokyo, with a population of 37.3 million.
+Today, most megacities are located in Asia, followed by Latin America and the Caribbean and two
+or three in each of the remaining regions.
+Those cities will be joined by 14 others by 2050, when 70% of the world's population is expected
+to live in cities. Cities that will see marked growth in populations include Chicago, London and
+Tehran. The biggest increase will be in Dar es Salaam in Tanzania, where the population is
+expected to rise from 7.5 million to 16.4 million between now and 2050. The nation of Tanzania
+will account for more than half the world's population growth between now and 2050, along will
+fellow African nations of Ethiopia, Nigeria and Congo.
+Most experts believe that such rapid urbanization is unsustainable and there are good reasons to
+think so. Although urban populations occupy only about 2% of the earth's land area, they consume
+about 75% of its resources and produce about 75% of the world's climate-changing carbon dioxide
+emissions from human activities. Because of this high resource input of food, water, and materials
+and the resulting high waste output, most of the world's cities have huge ecological footprints and
+are not self-sustaining systems. And their ecological footprints extend far beyond their boundaries.
+
+Cities Lack Vegetation. In urban areas, most trees, shrubs, or other plants are destroyed to make
+way for buildings, roads, parking lots, and housing developments. So most cities do not benefit
+from vegetation that would absorb air pollutants, give off oxygen, help cool the air through
+transpiration, provide shade, reduce soil erosion, muffle noise, supply food, provide wildlife
+habitats, and give aesthetic pleasure.
+
+Further, as cities grow and their water demands increase, expensive reservoirs and canals must be
+built and deeper wells must be drilled. This can deprive rural and wild areas of surface water and
+can deplete underground water supplies. Flooding also tends to be greater in some cities that are
+built on floodplains near rivers or along low-lying coastal areas subject to natural flooding. And
+covering land with buildings, asphalt, and concrete causes precipitation to run off quickly and
+overload storm drains.
+
+In addition, urban development has often destroyed or degraded large areas of wetlands that have
+served as natural sponges to help absorb excess water. Many of the world's largest cities located
+in coastal areas face a new threat of flooding some time in this century as sea levels rise because
+of projected global warming.
+
+Global warming will likely create another problem for cities in arid areas that depend on water
+withdrawn from rivers and from reservoirs behind dams. Those cities may face severe water
+shortages as global warming reduces the mountaintop glaciers that melt each year to feed the rivers
+that fill the reservoirs they use for their water supplies.
+
+Cities also concentrate pollution and health problems. Because of their high population densities
+and high resource consumption, cities produce most of the world's air pollution, water pollution,
+and solid and hazardous wastes. Pollutant levels are generally higher because pollution is produced
+in a smaller area and cannot be dispersed and diluted as readily as pollution produced in rural areas
+can. In addition, high population densities in urban areas can increase the spread of infectious
+diseases, especially if adequate drinking water and sewage systems are not available.
+
+Noise pollution is another problem which will be taught later in this course.
+
+Cities also affect local climates and cause light pollution. On average, cities tend to be warmer,
+rainier, foggier, and cloudier than suburbs and nearby rural areas. The enormous amount of heat
+generated by cars, factories, furnaces, lights, air conditioners, and heat-absorbing dark roofs and
+streets in cities creates an urban heat island that is surrounded by cooler suburban and rural areas.
+
+Also, the artificial light created by cities affects some plant and animal species. For example,
+endangered sea turtles typically lay their eggs on beaches at night and require darkness to do so.
+And each year, large numbers of migrating birds, lured off course by the lights of high-rise
+buildings, fatally collide with the buildings.
+
+Further, as developing countries rapidly urbanize, poverty is becoming an increasingly urban
+phenomenon. In many developing nations, most urban residents work in the informal economy in
+low-paying, volatile positions that provide limited opportunities for upward mobility. And they
+live in overcrowded slums, which provide inadequate shelter and infrastructure, and leave
+residents at risk of displacement. Most slum residents remain stuck in poverty and place for
+generations. Alleviating urban poverty and vulnerability poses one of the key development
+challenges of our time.
+A more prominent problem associated with urbanization is urban sprawl. Urban sprawl, also called
+sprawl or suburban sprawl, is the rapid expansion of the geographic extent of cities and towns,
+often characterized by low-density residential housing, single-use zoning, and increased reliance
+on the private automobile for transportation.
+
+Urban sprawl is caused in part by the need to accommodate a rising urban population; however, in
+many metropolitan areas it results from a desire for increased living space and other residential
+amenities. Urban sprawl has been correlated with increased energy use, pollution, and traffic
+congestion and a decline in community distinctiveness and cohesiveness. In addition, by increasing
+the physical and environmental "footprints" of metropolitan areas, the phenomenon leads to the
+destruction of wildlife habitat and to the fragmentation of remaining natural areas.
+
+There are many factors that contribute to urban sprawl. Population increases alone do not account
+for increases in a metropolitan area's urban extent. In many cases, urban sprawl has occurred in
+areas experiencing population declines, and some areas with rising populations experience little
+urban sprawl, especially in developing countries. Economic growth and globalization are often
+cited as the principal macroeconomic drivers of urban sprawl; however, increased affluence,
+attractive land and housing prices, and the desire for larger homes with more amenities (such as
+yards, household appliances, storage space, and privacy) play significant roles at the level of the
+individual. Many experts also believe that weak planning laws and single-use zoning also
+contribute to urban sprawl.
+On the surface, sprawling subdivisions and commercial zones are economic boons to local
+businesses and municipalities. The construction of dwellings, stores, and infrastructure creates
+employment opportunities. Home owners and commercial ventures that move into the area often
+provide additional revenue to local governments in the form of property taxes and sales taxes.
+However, such development often produces drains on local environmental resources, shifts the
+economic burden of development to longtime residents, increases transportation and energy costs,
+and diminishes overall community character.
+Uncontrolled sprawling development does not occur in all communities. Several communities
+across the world have been proactive in combating the effects of urban sprawl. Some have
+developed urban growth boundaries beyond which construction is prohibited or severely restricted,
+whereas others limit the influence of urban sprawl through innovative land-use planning
+techniques or community cooperation.
+
+Among the many alternatives to urban sprawl, nearly all can be placed under the umbrella of
+"smart growth" or "New Urbanism." Smart growth is a management strategy designed to direct
+the growth of urban areas, whereas New Urbanism focuses on the physical design of communities
+to create livable and walkable neighbourhoods. The principles of New Urbanism, which typically
+include elements of the smart growth, are
+
+    · Use solar and other locally available, renewable energy resources and design buildings to
+         be heated and cooled as much as possible by nature
+
+    · Build and redesign cities for people not cars
+
+    · Use energy and matter resources efficiently
+
+    · Prevent pollution and reduce waste
+
+    · Recycle, reuse, and compost at least 60% of all municipal solid waste
+
+    · Protect and encourage biodiversity by preserving surrounding land and protecting and
+         restoring natural systems and wetlands
+    · Promote urban gardens and farmers markets
+    · Use zoning and other tools to keep the human population at environmentally sustainable
+
+         level
+In their own ways, both strategies promote economic growth in cities and towns without many of
+the typical environmental, economic, and community costs associated with urban sprawl.
+An example of such sustainable urbanization in line with the principles of new urbanism is ecocity.
+An ecocity is a people-oriented city, not a car-oriented city. Its residents are able to walk, bike, or
+use low-polluting mass transit for most of their travel. Its buildings, vehicles, and appliances meet
+high energy-efficiency standards. Trees and plants adapted to the local climate and soils are planted
+throughout the city to provide shade, beauty, and wildlife habitats, and to reduce air pollution,
+noise, and soil erosion.
+Small organic gardens and a variety of plants adapted to local climate conditions often replace
+monoculture grass lawns. In an ecocity, abandoned lots, industrial sites, and polluted creeks and
+rivers are cleaned up and restored. Nearby forests, grasslands, wetlands, and farms are preserved.
+Much of an ecocity's food comes from nearby organic farms, solar greenhouses, community
+gardens, and small gardens on rooftops, in yards, and in window boxes. Parks are easily available
+to everyone, and so on.
+
+Besides such effective urban planning and implementation, digital technologies can help make a
+city "smarter" because the user of these technologies has a continual flow of data which, when
+analysed by algorithms, ideally helps see, think, intervene and make decisions more intelligently
+in and for the city. For example, a resident may look at an app to know which bus to catch for the
+shortest travel time or whether to go outside depending on the air quality. A traffic light can see a
+bus coming and turn green to give public transport priority over private vehicles. Such a city is
+called a smart city. A smart city is an "innovative city that uses information and communication
+technologies and other means to improve quality of life, efficiency of urban operation and services
+and competitiveness, while ensuring the needs of present and future generations with respect to
+economic, social, environmental as well as cultural aspects.
+
+A big part of this information and communication technologies framework is an intelligent
+network of connected objects and machines (also known as a digital city) transmitting data using
+wireless technology and the cloud. Cloud-based IoT applications receive, analyze, and manage
+data in real-time to help municipalities, enterprises, and citizens make better decisions that improve
+quality of life. Citizens engage with smart city ecosystems in various ways using smartphones and
+mobile devices and connected cars and homes. Pairing devices and data with a city's physical
+infrastructure and services can cut costs and improve sustainability. Communities can
+improve energy distribution, streamline trash collection, decrease traffic congestion, and
+improve air quality with help from the IoT.
+
+For instance,
+
+   · Connected traffic lights receive data from sensors and cars adjusting light cadence and
+            timing to respond to real-time traffic, reducing road congestion.
+
+   · Connected cars can communicate with parking meters and electric vehicle (EV)
+            charging docks and direct drivers to the nearest available spot.
+
+   · Smart garbage cans automatically send data to waste management companies and
+            schedule pick-up as needed versus a pre-planned schedule.
+
+   · And citizens' smartphone becomes their mobile driver's license and ID card with digital
+            credentials, which speeds and simplifies access to the city and local government
+            services.
+
+Together, these smart city technologies can optimize infrastructure, mobility, public services, and
+utilities.
+The most ambitious smart city approach involves local governments partnering with technology
+companies to develop whole new experimental neighbourhoods or exurban developments
+sometimes conceptualized as entirely new cities. While the specifics of each smart city or smart
+neighbourhood project varies, they typically involve technology like sensors, wireless networks,
+IoT and smart meters. Using these technologies, smart cities automate services like communicating
+with citizens to receive feedback. In households, these technologies reduce energy costs by
+automatically turning lights and other appliances off when people are not around and through smart
+meters that talk to smart appliances and turn them on and off to reduce costs, for example, cleaning
+dishes in the middle of the night when energy demand is low. Given the way that technology is
+leveraged to reduce energy demand and encourage low emissions living, these cities are also
+sometimes called "eco cities"
+Another smart city approach involves cities, rather than national governments, more centrally in
+the driver's seat in creating smart city projects. In some cases, however, these kinds of projects are
+incentivized by national governments. For example, in 2015, India launched the Smart Cities
+Mission "to promote cities that provide core infrastructure and give a decent quality of life to its
+citizens, a clean and sustainable environment and application of `Smart' Solutions." This national
+programme applied technology to a wide variety of urban problems from wastewater treatment to
+telemedicine. The programme selected 100 cities and approved their smart city plans for partial
+funding. However, it is important to note that progress has been slow, with some cities making
+faster progress than others, which reveals uneven local capacity to finance and implement smart
+city initiatives.
+One of the toughest environmental and social challenges of our time is managing the mobility of
+people and goods. By 2030, passenger traffic will exceed 80,000 billion passenger-kilometers--a
+fifty percent increase--and freight volume will grow by 70 percent globally.
+
+Transport provides a critical enabling environment to support economic and social development
+necessary to reach the SDGs. For example, transport is a primary consumer of fossil-fuel energy,
+so it is critical to the achievement of SDG 7 on energy. Likewise, transportation is indispensable
+to achieving SDG 9 (building resilient infrastructure) and SDG 11 (sustainable cities and
+communities, realized through improvements in road safety and by expanding public
+transportation). In addition, rural road access is highly correlated to poverty incidence. There is
+also a strong association between transport activity and economic development.
+
+Even though vehicles have become cleaner and quieter over time, transport still produces too many
+emissions to meet agreed climate targets. Resource consumption and land use (especially roads
+and parking) continue to have a negative impact on the environment.
+
+We need a model change. A change that must go beyond prioritising public transport over private
+cars such as shared mobility (such as motosharing)...A change that gives more space to bicycles
+and pedestrians, and transforms cities into more accessible places. We call it sustainable mobility.
+
+Sustainable mobility is a concept for transforming transport from an ecological point of view. The
+aim is to reduce fuel consumption and emissions in such a way that the ecosystem can regenerate.
+The greatest challenge of Sustainable Mobility is to find a healthy balance between the resource
+consumption of all transport users and the regenerative capacity of the ecosystem.
+
+To find and realise this, a comprehensive strategy is needed that must master the following four
+challenges at its core
+
+Reduce traffic or if possible: avoid it
+
+Promote environmentally compatible modes of transport
+e.g. fewer cars, more trains
+
+Increase energy efficiency e.g. also alternative fuels & new technologies
+
+Use post-fossil fuels and green electricity or if possible: avoid it
+
+Specifically, sustainable mobility concepts should promote the following goals, among others:
+
+Reduce traffic jams
+Reduce the number of accidents
+Limit individual traffic
+Reduce waiting times at traffic lights
+Enable green waves
+Reduce CO & particulate matter
+Avoid stop-and-go traffic
+Make it easier to find a parking space
+Make public transport services more attractive
+Make logistical trips more effective
+Reduce noise & sound levels
+Enable more green zones
+
+However, few things that must be kept in mind while achieving sustainable mobility is that
+
+It is impossible to organise traffic completely without emissions.
+Vehicles and drive technology must not be the sole focus.
+Economic incentives for behavioural change are just as essential.
+Successful, sustainable concepts require the acceptance of the population.
+Mobility is a key prerequisite for participation in our society.
+Sustainable mobility will not be 100% achieved until the resources required for it are renewable
+and the ecosystem can regenerate.
+Sustainable mobility is ideally environmentally friendly, socially just, affordable, economical,
+efficient and safe.
+
+So, in our next lecture what we will see is that how we can make buildings more sustainable. So,
+on that note I end this lecture. Thank you.
+

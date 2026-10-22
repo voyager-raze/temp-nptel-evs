@@ -1,0 +1,393 @@
+                                            Environmental Science
+                             Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                               Indian Institute of Technology Kharagpur
+
+                                                      Week 5
+                    (Lecture 3): RENEWABLE ENERGY I (Solar Energy ­ II)
+
+         Welcome to lecture 3 of week 5 of the NPTEL online certification course on
+Environmental Science. In the last lecture, we have seen that we can harness the energy from the
+sun by concentrating solar radiation with the aid of mirrors. Today we will learn about another
+prominent method of harnessing energy from the sun that is solar photovoltaics.
+         So, in this lecture you will be learning about the solar photovoltaic technology, along
+with its environmental and social impacts as well as current status and future development
+scenario.
+         In the last lecture, we have seen that there exist two prominent methods for harnessing
+energy directly from the sun:
+
+         Heat: irradiative solar energy is easily transformed into heat through absorption by gases,
+liquids or solid materials.
+
+         Photoreaction such as the photovoltaic effect which is the generation of voltage and
+electric current in a material upon exposure to light.
+
+         And depending on the mechanism, there are 4 distinct direct solar energy technologies,
+among which solar photovoltaic or solar PV is the dominant technology.
+         Photovoltaics gets its name from the process of converting light (photons) to electricity
+(voltage), which is called the photovoltaic effect.
+
+         In general, when light shines onto a semiconductor such as silicon (Si), it generates
+electron-hole pairs. The electron-hole pairs are separated spatially by an internal electrical field
+created by introducing special impurities into the semiconductor.
+
+         This separation creates negative charges on one side of the interface and positive charges
+on the other side, generating a voltage and direct current (DC) when connected to a load.
+
+         A single PV device is known as a PV cell or solar cell. An individual PV cell is usually
+small, typically producing about 1 or 2 watts of power.
+
+         To boost the power output of PV cells, they are connected together to form larger units
+known as modules or panels. Modules can be used individually, or several can be connected to
+form arrays. One or more arrays is then connected to the electrical grid as part of a complete PV
+system. Because of this modular structure, PV systems can be built to meet almost any electric
+power need, small or large.
+         PV modules and arrays are just one part of a PV system. Systems also include mounting
+structures that point panels toward the sun, along with the components that take the direct-current
+(DC) electricity produced by modules and convert it to the alternating-current (AC) electricity
+used to power all of the appliances in our homes. These additional application-dependent system
+components are known as the Balance Of System. So a BOS refers to all components of a PV
+system other than the modules.
+         As the amount of solar radiation received at any particular location on earth is highly
+variable, the orientation for solar panels is a very important factor to consider before planning for
+solar panel installation. Understanding the ideal orientation for solar panels help us determine the
+number of solar panels that is needed. Subsequently, it helps to assess the cost of the solar project.
+
+         In general, the orientation of a PV module is governed by two parameters: the solar azimuth
+angle and the other is the tilt angle.
+
+         Now, what is the solar azimuth angle?
+
+         The Sun's position in the sky is defined by two angles ­ the solar altitude angle and the
+solar azimuth angle. The solar altitude angle (denoted by alpha in this figure) is the angle between
+the sun's rays and the vertical direction. The solar altitude angle is 0 degree at sunrise and usually
+90 degrees when the sun is overhead at noon.
+
+         On the other hand, the solar azimuth angle (denoted by Gamma in this figure) is the angle
+of the direction of the suns rays, measured clockwise around the observer's horizon, from due
+south (true south) for the northern hemisphere or due north for the southern hemisphere. The local
+horizon is the imaginary horizontal plane on which solar panels are installed.
+
+         So, by definition, the azimuth angle is 0° when the sun is north of solar panels. The angle
+is 90° when the sun is east of panels. And it is 180° and 270° for the south and west, respectively.
+
+         The sun rises from the east, so in the morning the azimuth angle will be around 90°. As the
+day processes, the angle increases or decreases depending upon the latitude and longitude of the
+location. At the time of dusk, the angle approaches 270°.
+
+         Tilt angle is the angle between the plane of the collector and the horizontal, denoted by the
+symbol beta, .
+         As said earlier, solar panels absorb the falling solar energy and convert it into electrical
+energy. So, if we want to maximize power production, we must maximize the absorption of solar
+energy. It happens when the rays of the sun strike perpendicular to the surface of solar panels. To
+get maximum absorption of solar radiation, the tilt angle must be such that the rays of the sun strike
+perpendicular to the surface of solar panels. As such, panels must be inclined at an angle such that
+the surface of panels remains perpendicular to the sun's rays. However, this is not as easy as it
+seems since the position of the sun keeps changing every hour and month.
+
+         Sun navigates from east to west during the day and also changes its position seasonally.
+For example, on bright, hot summer days, the sun will be overhead, in the middle of the sky, while
+in the cold wintertime, it will be near the horizon.
+
+         These hourly and seasonal changes make it impossible for us to always orient panels facing
+the sun. That is why we need an optimal tilt angle that can account for both hourly and seasonal
+changes.
+
+         Fixed solar panels are permanently installed at a particular angle. There are no adjustments
+once mounted. They are the most common and convenient choice for individuals and small
+businesses.
+         As a general rule, for fixed solar panels, the optimal tilt angle is equal to the latitude of the
+location. For example, if you live in New Delhi (28.6° N), the optimal tilt angle for your solar
+panels would be 28.6°.
+
+         This tilt angle accounts for both hourly and seasonal changes in the sun's position. Your
+panels will produce solar power in the morning and the evening, but most power will produce
+around noon. Panels will work in all seasons, with summer giving the highest power.
+
+         Sometimes, the performance of fixed solar panels is not satisfactory, and you want to
+further optimize the tilt angle. Or you want to boost the solar power for a selected duration of the
+year, e.g., summer or winter. In such cases, we desire to estimate the optimal tilt angle for that
+portion of the year.
+
+         Now we know that, the sun is overhead in summer and winter, near the horizon. As a result,
+the optimal tilt angle on bright summer days is smaller, and solar panels are horizontal, parallel to
+the ground. On the other hand, during winter, the sun is at lower altitudes. Consequently, we have
+to incline our solar panels vertically, at higher tilt angles.
+
+         So to collect as much radiation as possible, a PV module should face the equator and must
+be tilted toward the sun. Because in the Northern Hemisphere, the sun tends to move towards the
+South. In order to get the maximum sunlight exposure, the solar panels need to be placed south-
+facing, i.e., toward the equator. On the other hand, in the Southern Hemisphere, the sun tends to
+move towards the North. In order to get the maximum sunlight exposure, the solar panels need to
+be placed north-facing, i.e., again toward the equator. And during summer (when the amount and
+intensity of solar radiation is more), the tilt angle should be less than the latitude to maximize solar
+collection. For maximum solar collection in winter (when more solar radiation may be needed),
+the tilt angle should be greater than the latitude angle. But by how much?
+         Generally, there are two methods to calculate the optimum solar panel angle for your solar
+installation.
+
+         The first method involves calculating the tilt angle by adding 15 degrees to your latitude
+during the winter to get the most out of the low winter sun. In the summer, the angle is calculated
+by subtracting 15 degrees from your location's latitude.
+
+         So, for example, if the latitude is 38 degrees the optimum tilt angle for your solar panels
+during summer would be 38 ­ 15 = 23 degrees while in winter it would be 38 +15 = 53 degrees.
+         The second method is calculated by multiplying the latitude angel by 0.9 and then adding
+29 degrees to it to make the most out of the winter sun.
+
+         (0.9 x 38) + 29 = 63 degrees. This angle is about 10 degrees steeper than the one we got
+using Method 1, but does a very good job at capturing the maximum sunlight in the short winter
+days.
+
+         For summer, you need to subtract 23.5 from (0.9 x 38) which equals to around 11 degrees.
+
+         Although there is a significant difference in the values obtained by the two methods, what
+you need to keep in mind is that the optimal orientation of the panels is extremely important as a
+perfect tilt angle will capture maximum sunlight and as a result will produce maximum energy.
+         Now, most of the solar panels you see today are mono-facial solar panels, i.e., they have
+solar cells only on one side. Sunlight hits the top face of the solar panel, and it generates electricity.
+But those aren't the only kind of solar panel that is out there. There's another type ­ bifacial solar
+panels. With bifacial panels, an extra part of the solar panel produces electricity ­ the back face.
+
+         Bifacial solar panels are PV panels that can capture sunlight on both their front and back
+sides and are an interesting new solar solution for certain solar installations. Bifacial solar panels
+utilize technology across modern solar modules and cell development advancements, such as high
+watt modules, higher efficiency modules, and more.
+
+         The higher efficiency rating of bifacial solar panels not only increases the overall energy
+output but the output of the solar energy system under less-than-ideal sun conditions. In fact,
+bifacial modules are capable of producing up to 30% more energy output.
+         With the bifacial module generating power output from both the ends, it is important that
+both the faces of the module have maximum amount of light falling on them. It is hence important
+to understand all such factors and how do the variation in energy output looks like. The factors
+which needs to be considered while designing a bifacial PV-based power plant are:
+
+             · Albedo
+             · Bifaciality
+             · Ground Coverage Ratio (GCR)
+             · Height or Clearance
+             · Tilt Angle
+         Now we have already understood the tilt angle; so let us look into the importance of the
+other four factors.
+
+Albedo
+
+         While the front side of the module has adequate exposure of light (mostly directly) falling
+onto it right from the sun. The rear side of the module however receives the light which reflects
+off the ground. Thus it is important that the land (or base surface) over which the power plant is
+erected has maximum light reflection. We have learned in Week 4 that the ratio of the light falling
+on to the ground to the amount the ground is able to reflect back is known as its albedo. However
+due to different inherent properties of the surface, they have different albedo's.
+
+         Surfaces with glaze, white coatings, metal tops are known to have higher albedo compared
+to a blunt/ matt finished material. So the bifacial gain has a direct dependence on the ground
+albedo; And with the enhancement in the ground albedo, the bifacial gain from the power plant
+increases. For example, a plant utilizing sand (albedo 15%) as ground can have a bifacial gain of
+5.50% and these number can go close to 25% bifacial gain if the ground is changed to white
+membrane/ white paint (albedo of ~85%).
+
+Bifaciality
+
+         While the first point of the contact of light is the ground, the next comes the rear side of
+the bifacial module. While it is known that all the PV modules comes with conversion efficiency,
+a bifacial module additionally comes with a factor which is known as bifaciality. Under the same
+testing conditions, the ratio of the power output produced by the rear side to that of the front side
+is known as the bifaciality. This means that the rear side of the module does not always generate
+the same power exactly equal to front side. This property is not a limitation of the bifacial module
+but is an inherent property of bifacial cell itself. Different bifacial cells, depending on the type of
+material and the technology utilized have different bifaciality.
+
+Ground Coverage Ratio (GCR)
+
+         The pattern in which a bifacial power plant is installed also makes an impact on its energy
+generation. It is important that we allow the light to incident on the ground justly to obtain the
+necessary generation from the rear face of the module. This is where the GCR comes into play.
+GCR is the ratio of the module length to the inter row spacing. It generally gives an idea as to in a
+power plant how the modules are spaced. A very high GCR (of say 70~80%) would mean that
+there are numerous rows of bifacial module which leads to reduced inter row spacing for a given
+area. This further means that we are not allowing adequate light to fall onto the ground which leads
+to reduced & even negative bifacial gains. Further, a low GCR (of say 10~20%) would mean that
+while we allow adequate light to fall on the rear surface, the area required to install a fixed power
+plant increases exponentially. It is hence necessary to strike a balance between the amount of area
+required and the amount of energy generated by the power plant. A GCR between 40~50% is
+recommended for optimized results.
+
+Height
+
+         Apart from GCR, height also has a significant effect on the bifacial gains once can expect
+from the power plant. Height may be defined the distance from the ground to the lowest point of
+the PV module. The light (i.e., directly reflected off from the ground and/or the diffused) need to
+be incident perfectly at the rear surface of the bifacial module. Keeping the modules at a fair height
+maximizes the light incident on the module. While it is known that increasing the structure height
+increases the bifacial power gain, the curve flattens at a height of 2 m. Further it should also be
+noted that increasing the height would lead to increased wind loads on the module which would
+require sturdy under structure. Hence it is recommended that a height of 1.2 to 1.3 meter is
+maintained for optimized results.
+         Existing PV technologies can be broadly classified into two groups...
+         Among them, wafer-based silicon technology, including solar cells made of crystalline
+silicon (c-Si) - is the dominant technology. Cells are made of highly purified silicon (5 grams per
+watt), which accounts for at least a quarter of their costs. A potential junction is created, and an
+anti-reflective coating and metal contacts are added. The cells are then grouped into modules,
+resulting in a slight loss of efficiency. Modules usually have: -Transparent glass on the front; -A
+weatherproof material on the back (usually a thick polymer); and -A frame.
+
+         Thin-film technologies, on the other hand, include a range of absorber semi-conductor
+material systems:
+
+         -Amorphous Silicon (a-Si), with efficiencies that range from 4 to 8%;
+         -Multi-junction thin-film silicon, which can absorb more light, increasing the efficiency
+by up to 10% compared with a-Si;
+         -Cadmium Telluride (CdTe) thin-film solar cells have lower production costs and reach
+efficiencies of up to 16.7%;
+         -Copper-indium-(gallium)-(di)selenide (CIS-CIGS) have very high efficiencies, in the
+range 7 to 16%, and have achieved efficiency levels of up to 20.3% under laboratory conditions.
+
+         These films are then deposited on low-cost backings, such as glass, metal or plastic
+substrates.
+
+         Emerging PV technologies are still under development and in laboratory or (pre-) pilot
+stage, but could become commercially viable within the next decade. They are based on very low-
+cost materials and/or processes and include technologies such as dye-sensitized solar cells, organic
+solar cells and low-cost (printed) versions of existing inorganic thin-film technologies.
+         Photovoltaic applications include PV power systems classified into two major types: those
+not connected to the traditional power grid (i.e., off-grid applications) and those that are connected
+(i.e., grid-connected applications).
+
+         Off-grid PV systems have a significant opportunity for economic application in the
+unelectrified areas of developing countries. Off-grid centralized PV mini-grid systems have
+become a reliable alternative for village electrifi cation over the last few years. In a PV mini-grid
+system, energy allocation is possible. For a village located in an isolated area and with houses not
+separated by too great a distance, the power may flow in the mini-grid without considerable losses.
+Such centralized PV mini-grid systems could be the least-cost options for a given level of service,
+and they may have a diesel generator set as an optional balancing system or operate as a hybrid
+PV-wind-diesel system.
+
+         Grid-connected PV systems use an inverter to convert electricity from direct current
+(DC)--as produced by the PV array--to alternating current (AC), and then supply the generated
+electricity to the electricity network. Compared to an off-grid installation, system costs are lower
+because energy storage is not generally required, since the grid is used as a buffer.
+
+         Grid-connected PV systems are classified into two types of applications: distributed and
+centralized.
+         Grid-connected distributed PV systems are installed to provide power to a grid-connected
+customer or directly to the electricity network. Such systems may be: 1) on or integrated into the
+customer's premises, often on the demand side of the electricity meter; 2) on public and
+commercial buildings; or 3) simply in the built environment such as on motorway sound barriers.
+Typical sizes are 1 to 4 kW for residential systems, and 10 kW to several MW for rooftops on
+public and industrial buildings.
+
+         These systems have a number of advantages: distribution losses in the electricity network
+are reduced because the system is installed at the point of use; extra land is not required for the PV
+system, and costs for mounting the systems can be reduced if the system is mounted on an existing
+structure; and the PV array itself can be used as a cladding or roofing material, as in building-
+integrated PV.
+
+         Grid-connected centralized PV systems perform the functions of centralized power
+stations. The power supplied by such a system is not associated with a particular electricity
+customer, and the system is not located to specifi cally perform functions on the electricity network
+other than the supply of bulk power. Typically, centralized systems are mounted on the ground,
+and they are larger than 1 MW. The economical advantage of these systems is the optimization of
+installation and operating cost by bulk buying and the cost effectiveness of the PV components
+and balance of systems at a large scale. In addition, the reliability of centralized PV systems can
+be greater than distributed PV systems because they can have maintenance systems with
+monitoring equipment, which can be a smaller part of the total system cost.
+
+         Multi-functional PV, daylighting and solar thermal components involving PV have already
+been introduced into the built environment such as shading systems made from PV;
+semitransparent PV windows that generate electricity and transmit daylight from the same surface;
+PV roofs; amongst others.
+         Solar photovoltaic (PV) does not directly emit GHGs or other pollutants. However, median
+solar PV emissions range between 24 and 65 g CO2 equivalent per kWh over the entire lifecycle,
+depending upon the material used for the cells. This range is close to concentrating solar power
+and wind, and significantly lower than natural gas and coal-fired power plants that range from 500
+to 1,000 gCO2eq/kWh, respectively, for conventional combustion turbines.
+
+         Lifecycle emissions depend on control and recycling measures during the manufacturing
+process, as well as installation, operation & maintenance, and disposal procedures.
+
+         Replacing fossil-fuel power capacity with solar PV may result in an increase in the use of
+flexible back-up plants. This could lead to a rise in GHG emissions, although the impact would be
+highly system specific. In general, however, greater use of solar PV should significantly reduce
+pollutants and GHG emissions.
+         PV systems do not generate any type of solid, liquid or gaseous byproducts when producing
+electricity. Also, they do not emit noise or use non-renewable resources during operation. But, in
+certain locations, specially in desert area, periodic cleaning of the PV panels may be necessary to
+maintain performance, resulting in nonnegligible water requirements.
+
+         However, land demands of ground for based solar PV utility are substantial, and therefore
+a higher percentage of future solar build-up should be achieved through rooftop solar panels. While
+rooftop solar is currently more expensive than ground-based PV, it removes the obstacle of land
+acquisition for large solar parks. Industry experts have also argued that long term sustainable
+growth in the solar sector will have to be achieved through decentralised rooftop PV instead of
+centralised, utility scale projects.
+         Because of these merits, solar PV market maintained its record-breaking streak, with new
+capacity installations totalling an estimated 175 gigawatts (GW) in 2021 ­ up 36 GW compared to
+2020. This was the largest annual capacity increase ever recorded and brought the cumulative
+global solar PV capacity to 942 GW. Solar PV generation continued to play a substantial role in
+numerous countries.
+         By the end of 2021, at least seven countries had enough capacity installed to meet at least
+10% of their electricity demand from solar PV, For the ninth consecutive year, Asia dominated all
+other regions in new solar PV installations, representing 52% of the global added capacity in 2021.
+It was followed by the Americas (21%), which again surpassed Europe (17%). The top five country
+performersi (in descending order) were China, the United States, India, Japan, and Brazil, together
+comprising around 61% of newly installed capacity.
+
+         Because of the urgent need to decarbonise the energy sector and reduce carbon emissions
+to limit climate change, growth in solar PV deployment is only expected to grow substantially. In
+fact, among all low-carbon technology options, accelerated deployment of solar PV alone can lead
+to significant emission reductions of 4.9 gigatonnes of carbon dioxide (Gt CO) in 2050,
+representing 21% of the total emission mitigation potential in the energy sector.
+
+         It is therefore anticipated that by 2050 solar PV would represent the second-largest power
+generation source, just behind wind power and lead the way for the transformation of the global
+electricity sector. Solar PV would generate a quarter (25%) of total electricity needs globally,
+becoming one of prominent generations source by 2050.
+         In view of the merits, solar PV deployment has grown at unprecedented rates since the
+early 2000s. As the global PV market increases, so will the volume of decommissioned PV panels.
+This is because PV modules have an average lifetime of 30 years and a 99.99% probability of loss
+after 40 years. At the end of 2016, cumulative global PV waste streams reached around 43,500-
+250,000 metric tonnes. This is 0.1%-0.6% of the cumulative mass of all installed panels (4 million
+metric tonnes). Meanwhile, PV waste streams are bound to only increase further. Given an average
+panel lifetime of 30 years, large amounts of annual waste are anticipated by the early 2030s. These
+are equivalent to 4% of installed PV panels in that year, with waste amounts by the 2050s (5.5-6
+million tonnes) almost matching the mass contained in new installations (6.7 million tonnes).
+
+         Today, two-thirds of globally manufactured PV panels are crystalline silicon (c-Si). These
+are typically composed of more than 90% glass, polymer and aluminium, which are classified as
+non-hazardous waste. However, the same panels also include such hazardous materials as silver,
+tin and lead traces. Thin-film panels, by comparison, are over 98% non-hazardous glass, polymer
+and aluminium, combined with around 2% copper and zinc (potentially hazardous) and
+semiconductor or other hazardous materials. These include indium, gallium, selenium, cadmium,
+tellurium and lead. Hazardous materials are typically subject to rigorous treatment requirements
+with specific classifications depending on the jurisdiction.
+         Separation of the major components such as laminated glass, metal frames, wiring and
+polymers is the first step in current and first-generation recycling processes. Recycling the
+laminated glass component of c-Si panels is a relatively low-cost process which flatglass recycling
+companies can implement with little additional investment.
+
+         Typical equipment for removing impurities like polymer (glue) residues or screws from
+the glass cullet includes magnets, crushers, sieves, eddy-current devices, optical sorters, inductive
+sorters and exhaust systems.
+
+         The resulting crushed-glass fraction, which may still be heavily contaminated with silicon,
+polymers and metals, can be blended with other recycled glass as thermal insulating material in
+the glass-foam or glass-fibre industries.
+
+         The aluminium or steel of the frames, and the copper of the cables can become part of the
+already well established metal recycling loops and therefore have easy potential for recycling. The
+polymer fractions can partly be processed in waste-to-energy plants provided they meet the input
+specifications of the plants.
+
+         Recovering small amounts of valuable (e.g. silver, copper), scarce (e.g. indium, tellurium),
+or most hazardous materials (e.g. cadmium, lead, selenium) as components might require
+additional and more advanced processes. These are found predominantly in the glass and
+encapsulant (polymer) fractions.
+
+         One of the main technical challenges in PV recycling is the delamination or the removal of
+the encapsulant material (e.g. ethylene-vinyl-acetate, or EVA). Various methods have been
+explored for effective delamination, including mechanical crushing, thermal processing, use of
+organic solvents, pyrolysis and vacuum blasting, amongst others.
+         In the next lecture, we will look into the other aspects of solar energy technology. So with
+that, I end this lecture. Thank you.
+

@@ -1,0 +1,232 @@
+                                            Environmental Science
+                             Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                               Indian Institute of Technology Kharagpur
+           Week 06- (Lecture 01) : RENEWABLE ENERGY II (Geothermal Energy)
+
+Welcome to week 6 of the NPTEL online certification course on Environmental Science. As you
+may recall in the last week we discussed about the importance of renewable energy particularly
+in the context of climate change mitigation as well as sustainable development. We also learned
+about the various aspects of solar energy and wind energy. This week we will continue our search
+on renewable energy resources, but today our search will be below the earth's surface that is we
+will be discussing about geothermal energy. So, in this particular lecture we will be familiarizing
+ourselves with the basic terminologies or the basic aspects of geothermal energy. I will then give
+you a brief overview of the various technologies that are currently available for harnessing
+geothermal energy and like always we will look into the environmental and social aspects of
+geothermal energy as well as the current status and future deployment prospects of geothermal
+energy.
+So, at the end of this lecture you should be able to identify the various geothermal resources and
+where they are globally distributed. You should be also able to define the following terminologies
+that is enhanced geothermal systems, geothermal directives as well as geothermal heat pumps.
+Now the word geothermal actually comes from two Greek words that is geo and thermos. Now
+the word geo actually means earth and thermos means the heat.
+The word Geothermal came from two Greek words ­ Geo and Therme, which means the Earth and
+the Heat respectively. Thus, geothermal energy Geothermal energy is heat stored in the Earth's
+crust. This energy is extracted mainly by drilling into the ground and then transported to the surface
+using fluids. At the surface, the energy is extracted and converted to electricity or used directly as
+heat.
+Geothermal energy is classified as a renewable resource because the tapped heat from an active
+reservoir is continuously restored by natural heat production, conduction and convection from
+surrounding hotter regions, and the extracted geothermal fluids are replenished by natural recharge
+and by injection of the depleted (cooled) fluids.
+
+The benefits geothermal brings over wind and solar are that it is baseload, meaning it is availably
+24/day, it is not dependent on any day/night cycles and weather conditions thus, it has a high-
+capacity factor, bringing stability to the grid, and importantly, it requires a small land footprint.
+Electricity derived from geothermal developments may be able not only to meet the increase
+energy requirements of megacities but also contribute to the future energy demands. In addition to
+the residential sector, there are also other industry applications that can use heat from geothermal
+circuits, such as agriculture in greenhouses, food preservation, textile industry, etc
+Much of the heat within the Earth is radiogenic, i.e., from the radioactive decay of certain elements
+like uranium, thorium, and potassium in the Earth's crust and mantle - heat associated with the
+formation of the Earth.
+
+Geothermal energy currently exploited occur in a number of geological environments. However,
+the vast majority of medium- and high temperature geothermal systems, which are suitable for
+power generation, are located close to areas of volcanic activity for example, situated along plate
+boundaries (subduction zones, such as the majority of the Pacific "Ring of Fire"), mid-oceanic
+ridges (such as Iceland and the Azores) and rift valleys (such as the East African Rift) or near hot
+spots (such as in Hawaii)
+The volcanically active and earthquake-prone region rimming the Pacific Ocean is known as the
+"Ring of Fire." This region could also be called the Ring of Geothermal Energy, because it contains
+many high-temperature geothermal systems associated with active volcanoes.
+
+The total thermal energy contained in the Earth is of the order of 12.6 x 1012 EJ and that of the
+crust of the order of 5.4 x 109 EJ to depths of up to 50 km. In practice geothermal plants can only
+utilize a portion of the stored thermal energy due to limitations in drilling technology and rock
+permeability.
+Geothermal resources available for utilization can be classified into three broad categories:
+convective or hydrothermal systems, conductive systems, and deep aquifers. Convective or
+hydrothermal systems include both liquid and vapor-dominated types, with temperatures ranging
+from 100°C to over 300°C. Conductive systems typically involve rock and magma across a wide
+range of temperatures. Deep aquifer systems contain circulating fluids in porous media or fracture
+zones at depths greater than 3 kilometers, but unlike the other two, they lack a localized magmatic
+heat source.
+When comparing the global distribution of geothermal resources, it is important to note that high-
+temperature convective hydrothermal resources are most commonly found near tectonic plate
+boundaries, often associated with volcanoes and seismic activity. This is because the Earth's crust
+in these regions is highly fractured and permeable to fluids, making heat sources readily accessible.
+Geothermal resources can be classified as convective (hydrothermal) systems, conductive systems
+and deep aquifers.
+
+Hydrothermal systems include liquid- and vapour-dominated types with temperatures ranging
+from 100 C to over 300 C.
+Conductive systems include hot rock and magma over a wide range of temperatures.
+
+Deep aquifers contain circulating fluids in porous media or fracture zones at depths typically
+greater than 3 km, but lack a localized magmatic heat source.
+
+High-temperature convective hydrothermal resources are most common near tectonic plate
+boundaries, and are often associated with volcanoes and seismic
+activity, as the crust is highly fractured and thus permeable to fluids, resulting in heat sources being
+readily accessible.
+Geothermal heat can also be economically extracted from many deep aquifer systems all over the
+world. Many such locations can be reached within a depth of 3 km, with moderate heat flow in
+excess of 50 MW/m2 to 60 MW/m2 and rock and fluid temperatures of in excess of 60 C
+
+Geothermal systems are made up of three main components: a heat source, a heat sink and a heat
+exchanger. Typically, the heat source is the ground while the heat sink is a built environment (in
+general, a structure). However, the opposite can also occur, that is the heat source is a built
+environment while the heat sink is the ground. The heat exchanger is generally constituted by one
+or more elements containing a fluid that transfers the heat between the heat source and the heat
+sink. There are three main types of geothermal energy systems:
+Geothermal power plants to generate electricity
+Direct use and district heating systems involves directly using heat from hot water within the earth
+Geothermal heat pumps use the Earth's shallow ground temperature for heating and cooling
+buildings.
+
+The first type of geothermal power plant is the dry steam power plant. In these plants, a steam
+turbine is used to directly convert low-pressure, high-volume steam from the steam field into
+electricity. Dry steam plants typically use condensing turbines, with the condensate either re-
+injected into the ground or evaporated in wet cooling towers. This type of plant requires steam at
+150°C or higher, and the steam entering the turbine must be at least 99.999% dry to prevent scaling
+or erosion of turbine and piping components. The term "dry steam" comes from this requirement
+for extremely dry steam. These plants range in size from 8 megawatts to 140 megawatts.
+Next, we have flash steam power plants, the most common type of geothermal electricity plants
+today. These are similar to dry steam plants but use a separation process called flashing to obtain
+steam. The steam is then directed to turbines, and the resulting condensate is either re-injected or
+further flashed at lower pressure. Flash steam plants operate best with well temperatures above
+180°C. The exiting fluid and steam condensate are usually re-injected. Flash plants vary in size:
+single flash plants range from 0.2 to 0.8 megawatts, double flash plants from 2 to 110 megawatts,
+and triple flash plants from 60 to 150 megawatts.
+In addition to the previous two configurations, there are binary power plants. These are typically
+used in low and intermediate-enthalpy geothermal fields, where the geothermal fluid heats a
+secondary working fluid in a closed loop via heat exchangers. Unlike dry steam and flash steam
+plants, the geothermal fluid in binary power plants doesn't directly drive the turbines. Instead, it
+transfers heat to a working fluid, such as an ammonia-water mixture or a hydrocarbon, chosen for
+its boiling and condensation points that better match the geothermal resource temperature. Binary
+power plants are generally used for resource temperatures between 100°C and 170°C
+.
+In locations where natural geothermal resources like steam or hot water do not exist, the heat from
+the rock can still be harnessed by creating artificial permeability for fluids to extract that heat.
+These systems are known as Enhanced Geothermal Systems (EGS) or Engineered Geothermal
+Systems. EGS enables the use of low permeability, low porosity conductive systems, low
+productivity convective systems, and deep aquifers by creating fluid connectivity through
+hydraulic stimulation and advanced well configurations. EGS requires simulation of subsurface
+regions where temperatures are sufficiently high for effective energy utilization.
+Direct use geothermal systems use groundwater that is heated by natural geological processes
+below the Earth's surface. This water can be as hot as 200°F or more. Bodies of hot groundwater
+can be found in many areas with volcanic or tectonic activity. In locations such as Yellowstone
+National Park and Iceland, these groundwater reservoirs can reach the surface, creating geysers
+and hot springs. One can pump hot water from the surface or from underground for a wide range
+of useful applications, including large-scale pool heating; space heating, cooling, and on-demand
+hot water for buildings of most sizes; district heating (i.e., heat for multiple buildings in a city);
+heating roads and sidewalks to melt snow; and some industrial and agricultural processes.
+
+Pumping: To tap into hot ground water, a well is drilled. A pumping system may be installed,
+although in some cases, hot water or steam may rise up through the well without active pumping.
+
+Delivery: Hot water or steam can be used directly in a variety of applications, or it can be cycled
+through a heat exchanger.
+
+Refilling: Depending on the use requirements of the system and the conditions of the site, the
+ground water aquifer may need to be replenished with water from the surface. In some cases, the
+movement of ground water might refill the aquifer naturally.
+This system is commonly used because of the chemical composition of the geothermal water. In
+both cases the spent geothermal water is disposed of into injection wells and a conventional backup
+boiler may be provided to meet peak demand.
+So, there are two types of geothermal systems that are in use. So, one is the open loop and the
+other one is the closed loop. So, open loop systems as you can see here they directly utilize the
+geothermal fluid that is extracted from well to circulate through radiators. And closed loop systems
+or double pipe systems as you can see here. So, they basically use heat exchangers to transfer heat
+from the geothermal water to a closed loop that circulates the heated fresh water through the
+radiators.
+
+Next, we have geothermal heat pumps (GHPs). These systems utilize the constant underground
+temperature of the shallow earth as thermal storage, enabling efficient heating and cooling. Like
+other heat pumps, GHPs move heat from one place to another using electricity, similar to how air
+conditioners and refrigerators operate. Geothermal heat pumps can be used to heat and cool
+buildings by taking advantage of the relatively constant temperatures found about 30 feet below
+the Earth's surface, which typically range between 10°C and 15°C year-round.
+Now, let's consider the environmental and social aspects of geothermal energy. Generally, the
+negative environmental impacts associated with geothermal energy are minor. The production of
+hot fluids can emit small quantities of greenhouse gases, primarily naturally sourced CO, that
+would eventually be released into the atmosphere through natural venting. Importantly, geothermal
+energy does not generate additional CO since it involves no combustion process.
+Water is not a limiting factor for geothermal power generation because geothermal fluids are
+typically brines. Flash power plants do not consume potable water for cooling and produce
+condensed water that, with proper treatment, can be used for agricultural and industrial purposes.
+Binary power plants can further minimize water use by employing air cooling. Potential adverse
+effects, such as the disposal of geothermal fluids, induced seismicity, and ground subsidence, can
+be mitigated through sound practices. These practices can also optimize water and land use,
+enhance long-term sustainability, and protect natural thermal features valued by the community.
+However, the success of geothermal projects often hinges on the acceptance of local communities.
+To secure social acceptance, it is crucial to prevent or minimize detrimental environmental
+impacts, protect land occupiers, and create tangible benefits for local residents. Public education
+and awareness of potential impacts are also essential. The prerequisites for gaining local support
+include: first, preventing adverse effects on people's health; second, minimizing environmental
+impacts; and third, creating direct and ongoing benefits for the community.
+
+Geothermal development creates local job opportunities during exploration, drilling, and
+construction phases, as well as permanent full-time jobs when power plants start operating. This
+is because geothermal fields, where fluids are extracted, must be operated locally. Such
+development can alleviate rural poverty in many developing countries in Asia, Central and South
+America, and Africa, where geothermal resources are often located in remote mountainous areas.
+Some geothermal companies and government agencies have also addressed social issues by
+improving local security, building roads, schools, medical facilities, and other community assets,
+funded by profits from operating power plants.
+
+Geothermal energy currently provides electricity in more than 30 countries across the globe, with
+installed capacity per country ranging from less than 1 megawatt to 3.7 gigawatts. The main
+technologies employed for electricity generation include dry steam, flash steam, and binary power
+plants. The regions with the largest installed capacity are Asia, Oceania, North America, and
+Eurasia. The use of geothermal energy for electricity generation is more advanced in some regions
+and countries than in others, and this development is not always directly correlated with the
+presence of suitable geothermal resources. For instance, even in favourable volcanic settings like
+the Asia-Pacific Ring of Fire, geothermal development shows significant differences across
+regions and countries. North America and Central America have more mature geothermal
+industries compared to South America and the Caribbean islands. The global electricity generation
+capacity of geothermal plants has grown from 200 megawatts in the early 1950s to approximately
+16 gigawatts in 2020. This rise is driven not only by the Paris Agreement and the need to
+decarbonize energy infrastructure but also by the fact that geothermal energy, being locally
+available, allows nations to reduce their dependence on imported fossil fuels for electricity
+generation. Since 2000, installed geothermal capacity has increased at an average annual rate of
+about 3%, with significant contributions from Indonesia, Kenya, Turkey, and the United States.
+Despite this growth, geothermal energy represents only 0.5% of the global renewable electricity
+market as of 2022.
+The global installed capacity for direct energy use of geothermal energy for heating and cooling
+was 117 gigawatts in 2020. Geothermal heat pumps (GHPs) constitute 72% of this capacity, with
+the remaining 28% coming from direct heating and cooling using geothermal fluids. Geothermal
+heating and cooling applications are concentrated in three regions: Asia, Oceania, and Eurasia,
+with a combined installed capacity of 45.8 gigawatts, followed by North America. Latin America,
+the Caribbean, Africa, and the Middle East together contribute less than 1% to the global capacity.
+The geothermal heating and cooling industry experienced a 52% growth in installed thermal
+capacity and a 74% growth in utilization between 2015 and 2020. Over the same period, the
+installed capacity in the GHP sector grew by 54%, and utilization increased by 84%. The largest
+geothermal heating and cooling applications worldwide are GHPs, space heating (both individual
+and district), and agri-food applications. In the last 10 years, geothermal heating and cooling have
+also expanded into various sectors, including fish farming and snow melting.
+Many countries, both in developing and developed regions, are making strides in deploying more
+geothermal heating and cooling projects for agri-food and industrial applications. Climate policies
+are expected to be one of the main driving factors for future geothermal deployment. It is projected
+that by 2050, the installed capacity of geothermal power plants will be between 140 gigawatts and
+160 gigawatts, with half of this capacity being in Enhanced Geothermal Systems (EGS). The
+potential installed capacity for direct uses could reach as high as 800 gigawatts.
+In summary, there is a tremendous amount of energy in the form of heat available below the
+ground, which, if utilized effectively, can be used not only for electricity generation but also for
+direct heating, cooling, and several other applications. As climate actions intensify and the need to
+decarbonize energy infrastructure becomes more urgent, geothermal energy systems are expected
+to gain momentum in the coming years. With that positive outlook, this discussion on geothermal
+energy concludes.
+

@@ -1,0 +1,4426 @@
+{
+  "meta": {
+    "count": 140,
+    "msqCount": 20,
+    "note": "High-chance exam-style MCQs + MSQs from weekly patterns"
+  },
+  "questions": [
+    {
+      "week": 1,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "In the IPAT identity, which factor is best proxied by 'kg CO2 per kWh of electricity'?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Population"
+        },
+        {
+          "key": "b",
+          "text": "Affluence"
+        },
+        {
+          "key": "c",
+          "text": "Technology"
+        },
+        {
+          "key": "d",
+          "text": "Biocapacity"
+        }
+      ],
+      "answer": "c",
+      "explanation": "T (technology) captures impact intensity per unit activity; kg CO2/kWh is a classic technology factor.",
+      "likelihood": "high",
+      "id": "p1",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 1,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "A substance is detected in soil above natural background but causes no observed harm at that level. Course terminology would call it primarily a:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Pollutant"
+        },
+        {
+          "key": "b",
+          "text": "Contaminant"
+        },
+        {
+          "key": "c",
+          "text": "Criteria pollutant"
+        },
+        {
+          "key": "d",
+          "text": "Secondary pollutant"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Contaminant = out of place / above background; pollutant implies adverse effects or unreasonable interference.",
+      "likelihood": "high",
+      "id": "p2",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 1,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "For the same initial population P0, growth rate r and periods n, which model yields the largest Pn?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Arithmetic Pn=P0+nX with X=r*P0"
+        },
+        {
+          "key": "b",
+          "text": "Geometric Pn=P0(1+r)^n"
+        },
+        {
+          "key": "c",
+          "text": "Exponential Pn=P0 e^(rn)"
+        },
+        {
+          "key": "d",
+          "text": "Logistic approaching K"
+        }
+      ],
+      "answer": "c",
+      "explanation": "Continuous compounding e^(rn) exceeds discrete (1+r)^n; arithmetic with X=rP0 is linear and smaller for r>0, n>1.",
+      "likelihood": "high",
+      "id": "p3",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 1,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "Earth Overshoot Day marks the calendar date when:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Global CO2 first exceeds 400 ppm"
+        },
+        {
+          "key": "b",
+          "text": "Cumulative human demand exceeds what Earth regenerates that year"
+        },
+        {
+          "key": "c",
+          "text": "All countries exhaust their national biocapacity"
+        },
+        {
+          "key": "d",
+          "text": "EPI of buildings exceeds design limits"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Overshoot Day = demand for the year exceeds regenerative biocapacity for that year.",
+      "likelihood": "high",
+      "id": "p4",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 1,
+      "type": "numerical",
+      "category": "numerical",
+      "stem": "Course global averages compare roughly _____ gha footprint/person to _____ gha biocapacity/person.",
+      "options": [
+        {
+          "key": "a",
+          "text": "1.6 to 2.8"
+        },
+        {
+          "key": "b",
+          "text": "2.8 to 1.6"
+        },
+        {
+          "key": "c",
+          "text": "5.0 to 5.0"
+        },
+        {
+          "key": "d",
+          "text": "0.5 to 3.0"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Demand (~2.8 gha) exceeds supply (~1.6 gha) — global overshoot framing.",
+      "likelihood": "high",
+      "id": "p5",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 1,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "Energy Performance Index (EPI) for a campus is most correctly expressed as:",
+      "options": [
+        {
+          "key": "a",
+          "text": "kWh / m^2-year"
+        },
+        {
+          "key": "b",
+          "text": "kg CO2 / capita"
+        },
+        {
+          "key": "c",
+          "text": "gha / person"
+        },
+        {
+          "key": "d",
+          "text": "MJ / GDP"
+        }
+      ],
+      "answer": "a",
+      "explanation": "EPI = annual energy use divided by floor area.",
+      "likelihood": "high",
+      "id": "p6",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 1,
+      "type": "mcq",
+      "category": "law",
+      "stem": "Which Supreme Court outcome is linked in Week 1 materials to a national environmental-education mandate?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Oleum gas leak absolute liability"
+        },
+        {
+          "key": "b",
+          "text": "M.C. Mehta vs UOI (1991)"
+        },
+        {
+          "key": "c",
+          "text": "Ratlam municipality sanitation"
+        },
+        {
+          "key": "d",
+          "text": "Vellore polluter pays"
+        }
+      ],
+      "answer": "b",
+      "explanation": "M.C. Mehta vs Union of India (1991) is cited for environmental education directions.",
+      "likelihood": "medium",
+      "id": "p7",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 1,
+      "type": "assertion_reason",
+      "category": "definition",
+      "stem": "Assertion (A): Ecological footprint and biocapacity are both expressed in global hectares.\nReason (R): Global hectares adjust land types to world-average productivity so different land uses can be compared.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Both A and R are true, and R is the correct explanation of A"
+        },
+        {
+          "key": "b",
+          "text": "Both A and R are true, but R is not the correct explanation of A"
+        },
+        {
+          "key": "c",
+          "text": "A is true, but R is false"
+        },
+        {
+          "key": "d",
+          "text": "A is false, but R is true"
+        }
+      ],
+      "answer": "a",
+      "explanation": "Both true; gha standardization is why EF and biocapacity share units and can be compared.",
+      "likelihood": "high",
+      "id": "p8",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 1,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "If India CO2 emissions grow roughly as the product of population, per-capita fossil electricity, and carbon intensity, a 2% rise in each factor implies about:",
+      "options": [
+        {
+          "key": "a",
+          "text": "2% rise in CO2"
+        },
+        {
+          "key": "b",
+          "text": "6% rise in CO2"
+        },
+        {
+          "key": "c",
+          "text": "8% rise in CO2"
+        },
+        {
+          "key": "d",
+          "text": "No change because factors cancel"
+        }
+      ],
+      "answer": "b",
+      "explanation": "For multiplicative I=P×A×T, small % changes approximately add.",
+      "likelihood": "medium",
+      "id": "p9",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 2,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "The Brundtland (1987) definition of sustainable development emphasizes meeting present needs without:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Increasing GDP"
+        },
+        {
+          "key": "b",
+          "text": "Compromising future generations' ability to meet their needs"
+        },
+        {
+          "key": "c",
+          "text": "Using any non-renewable resources"
+        },
+        {
+          "key": "d",
+          "text": "Crossing any planetary boundary immediately"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Classic Brundtland one-liner from Our Common Future.",
+      "likelihood": "high",
+      "id": "p10",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 2,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "Correct chronological order for sustainability milestones is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "SDGs → Rio → Brundtland → MDGs"
+        },
+        {
+          "key": "b",
+          "text": "Brundtland 1987 → Rio 1992 → MDGs 2000 → SDGs 2015"
+        },
+        {
+          "key": "c",
+          "text": "Rio 1992 → Brundtland 1987 → SDGs 2015 → MDGs 2000"
+        },
+        {
+          "key": "d",
+          "text": "MDGs 2000 → Brundtland 1987 → Paris 2015 → Rio 1992"
+        }
+      ],
+      "answer": "b",
+      "explanation": "1987 Our Common Future → 1992 Rio → 2000 MDGs → 2015 SDGs.",
+      "likelihood": "high",
+      "id": "p11",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 2,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "Planetary boundaries primarily define:",
+      "options": [
+        {
+          "key": "a",
+          "text": "National GDP ceilings"
+        },
+        {
+          "key": "b",
+          "text": "A safe operating space for humanity w.r.t. Earth-system processes"
+        },
+        {
+          "key": "c",
+          "text": "Maximum renewable energy shares"
+        },
+        {
+          "key": "d",
+          "text": "WTO trade quotas"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Rockström/Steffen framing: quantified Earth-system limits.",
+      "likelihood": "high",
+      "id": "p12",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 2,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "Which SDG number is most directly about climate action?",
+      "options": [
+        {
+          "key": "a",
+          "text": "SDG 6"
+        },
+        {
+          "key": "b",
+          "text": "SDG 7"
+        },
+        {
+          "key": "c",
+          "text": "SDG 12"
+        },
+        {
+          "key": "d",
+          "text": "SDG 13"
+        }
+      ],
+      "answer": "d",
+      "explanation": "SDG 13 = Climate Action; 6 water, 7 energy, 12 SCP.",
+      "likelihood": "high",
+      "id": "p13",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 2,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "Compared with the MDGs, the SDGs are distinctive mainly because they are:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Only eight goals for developing countries"
+        },
+        {
+          "key": "b",
+          "text": "Seventeen universal goals for all UN Member States"
+        },
+        {
+          "key": "c",
+          "text": "Legally binding emission caps for Annex I only"
+        },
+        {
+          "key": "d",
+          "text": "Focused solely on poverty metrics"
+        }
+      ],
+      "answer": "b",
+      "explanation": "SDGs: 17 goals, universal 2030 Agenda vs MDGs' developing-country focus.",
+      "likelihood": "high",
+      "id": "p14",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 2,
+      "type": "assertion_reason",
+      "category": "concept",
+      "stem": "Assertion (A): The three pillars of sustainability are environment, economy and society.\nReason (R): Sustainable development can be achieved by maximizing economic growth alone if technology improves.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Both A and R are true, and R is the correct explanation of A"
+        },
+        {
+          "key": "b",
+          "text": "Both A and R are true, but R is not the correct explanation of A"
+        },
+        {
+          "key": "c",
+          "text": "A is true, but R is false"
+        },
+        {
+          "key": "d",
+          "text": "A is false, but R is true"
+        }
+      ],
+      "answer": "c",
+      "explanation": "A is true (three pillars). R is false — all three pillars must be balanced.",
+      "likelihood": "high",
+      "id": "p15",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 2,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "The 'Anthropocene / Great Acceleration' narrative in the course mainly highlights:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stable pre-industrial indicators forever"
+        },
+        {
+          "key": "b",
+          "text": "Steep post-~1750 rises in socio-economic and Earth-system trends"
+        },
+        {
+          "key": "c",
+          "text": "Only ocean acidification"
+        },
+        {
+          "key": "d",
+          "text": "Decline of all GHG concentrations"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Coupled socio-economic and Earth-system accelerations frame why SDGs/boundaries matter.",
+      "likelihood": "medium",
+      "id": "p16",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 3,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "Tropospheric ozone (O3) is classified as a _____ pollutant because it is _____ .",
+      "options": [
+        {
+          "key": "a",
+          "text": "Primary; emitted directly from stacks"
+        },
+        {
+          "key": "b",
+          "text": "Secondary; formed by atmospheric reactions of precursors"
+        },
+        {
+          "key": "c",
+          "text": "Criteria; only indoor"
+        },
+        {
+          "key": "d",
+          "text": "Hazardous; never regulated"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Ground-level O3 is classic secondary photochemical pollutant.",
+      "likelihood": "high",
+      "id": "p17",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 3,
+      "type": "mcq",
+      "category": "law",
+      "stem": "Which international instrument specifically targets ozone-depleting substances such as CFCs?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kyoto Protocol"
+        },
+        {
+          "key": "b",
+          "text": "Paris Agreement"
+        },
+        {
+          "key": "c",
+          "text": "Montreal Protocol (1987)"
+        },
+        {
+          "key": "d",
+          "text": "UNFCCC alone"
+        }
+      ],
+      "answer": "c",
+      "explanation": "Montreal Protocol 1987 = ODS control; do not confuse with climate treaties.",
+      "likelihood": "high",
+      "id": "p18",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 3,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "ESP and baghouses are primarily used to control:",
+      "options": [
+        {
+          "key": "a",
+          "text": "SO2 only"
+        },
+        {
+          "key": "b",
+          "text": "Particulate matter"
+        },
+        {
+          "key": "c",
+          "text": "NOx precursors only"
+        },
+        {
+          "key": "d",
+          "text": "Indoor radon"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Electrostatic precipitators and fabric filters remove particulates (often 95–99%).",
+      "likelihood": "high",
+      "id": "p19",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 3,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "FGD (flue-gas desulfurization) is applied mainly to reduce emissions of:",
+      "options": [
+        {
+          "key": "a",
+          "text": "CO2"
+        },
+        {
+          "key": "b",
+          "text": "SO2"
+        },
+        {
+          "key": "c",
+          "text": "CH4"
+        },
+        {
+          "key": "d",
+          "text": "PM2.5 from cooking"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Wet limestone FGD targets sulfur dioxide from combustion.",
+      "likelihood": "high",
+      "id": "p20",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 3,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "'Ambient air' in the course sense means:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Air inside sealed cleanrooms only"
+        },
+        {
+          "key": "b",
+          "text": "Outdoor atmospheric air in its natural state that supports life"
+        },
+        {
+          "key": "c",
+          "text": "Any indoor kitchen plume"
+        },
+        {
+          "key": "d",
+          "text": "Stratospheric ozone layer only"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Ambient = outdoor atmospheric air supporting life.",
+      "likelihood": "high",
+      "id": "p21",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 3,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "Criteria air pollutants are best described as:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Rare industrial toxics without standards"
+        },
+        {
+          "key": "b",
+          "text": "Common pollutants for which ambient air quality standards are set"
+        },
+        {
+          "key": "c",
+          "text": "Only secondary pollutants"
+        },
+        {
+          "key": "d",
+          "text": "Only greenhouse gases"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Criteria = regulated common ambient pollutants with standards.",
+      "likelihood": "high",
+      "id": "p22",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 3,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "Stationary, mobile and area sources form a classification by:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Chemical reactivity only"
+        },
+        {
+          "key": "b",
+          "text": "Emission-source geometry/type for inventories"
+        },
+        {
+          "key": "c",
+          "text": "Indoor vs outdoor only"
+        },
+        {
+          "key": "d",
+          "text": "Primary vs secondary chemistry"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Orthogonal to primary/secondary: inventory source categories.",
+      "likelihood": "medium",
+      "id": "p23",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 3,
+      "type": "numerical",
+      "category": "numerical",
+      "stem": "Course materials cite indoor/household air pollution mortality on the order of:",
+      "options": [
+        {
+          "key": "a",
+          "text": "~32,000 deaths/year"
+        },
+        {
+          "key": "b",
+          "text": "~3.2 million deaths/year"
+        },
+        {
+          "key": "c",
+          "text": "Negligible compared with outdoor"
+        },
+        {
+          "key": "d",
+          "text": "Zero after Montreal Protocol"
+        }
+      ],
+      "answer": "b",
+      "explanation": "~3.2 M deaths/y (2020 cite) — major health burden.",
+      "likelihood": "high",
+      "id": "p24",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 3,
+      "type": "assertion_reason",
+      "category": "concept",
+      "stem": "Assertion (A): Controlling only primary emissions of NOx and VOCs can help reduce urban ozone.\nReason (R): Ozone is emitted directly from vehicle tailpipes as a primary pollutant.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Both A and R are true, and R is the correct explanation of A"
+        },
+        {
+          "key": "b",
+          "text": "Both A and R are true, but R is not the correct explanation of A"
+        },
+        {
+          "key": "c",
+          "text": "A is true, but R is false"
+        },
+        {
+          "key": "d",
+          "text": "A is false, but R is true"
+        }
+      ],
+      "answer": "c",
+      "explanation": "A true (precursor control). R false — O3 is secondary, not directly emitted.",
+      "likelihood": "high",
+      "id": "p25",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 3,
+      "type": "mcq",
+      "category": "law",
+      "stem": "ASEAN Haze Agreement (2002) primarily addresses:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Arctic ozone hole chemistry"
+        },
+        {
+          "key": "b",
+          "text": "Transboundary regional smoke/haze"
+        },
+        {
+          "key": "c",
+          "text": "Global methane trading"
+        },
+        {
+          "key": "d",
+          "text": "Indoor cookstove design only"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Regional haze/transboundary smoke control among ASEAN states.",
+      "likelihood": "medium",
+      "id": "p26",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 3,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "Which pair correctly matches primary vs secondary examples?",
+      "options": [
+        {
+          "key": "a",
+          "text": "O3 primary; SO2 secondary"
+        },
+        {
+          "key": "b",
+          "text": "SO2, NO, CO primary; O3 and secondary PM secondary"
+        },
+        {
+          "key": "c",
+          "text": "All PM always secondary"
+        },
+        {
+          "key": "d",
+          "text": "CO2 is always a criteria ambient pollutant"
+        }
+      ],
+      "answer": "b",
+      "explanation": "SO2/NO/CO/primary PM emitted; O3/secondary PM formed in air.",
+      "likelihood": "high",
+      "id": "p27",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 4,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "Weather differs from climate mainly in:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Weather uses only temperature; climate uses only rainfall"
+        },
+        {
+          "key": "b",
+          "text": "Weather is short-term state; climate is long-term statistics"
+        },
+        {
+          "key": "c",
+          "text": "Climate changes hourly; weather is multi-decadal"
+        },
+        {
+          "key": "d",
+          "text": "They are synonyms in IPCC usage"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Weather = hours–days; climate = decades+ statistics.",
+      "likelihood": "high",
+      "id": "p28",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 4,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "By definition, the Global Warming Potential (GWP) of CO2 is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "0"
+        },
+        {
+          "key": "b",
+          "text": "1"
+        },
+        {
+          "key": "c",
+          "text": "21"
+        },
+        {
+          "key": "d",
+          "text": "310"
+        }
+      ],
+      "answer": "b",
+      "explanation": "CO2 is the reference gas: GWP = 1.",
+      "likelihood": "high",
+      "id": "p29",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 4,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "Ice–albedo feedback amplifies warming because ice loss tends to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Increase albedo and reflect more sunlight"
+        },
+        {
+          "key": "b",
+          "text": "Decrease albedo so more solar energy is absorbed"
+        },
+        {
+          "key": "c",
+          "text": "Increase atmospheric N2"
+        },
+        {
+          "key": "d",
+          "text": "Stop the greenhouse effect"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Darker surfaces absorb more SW → further warming.",
+      "likelihood": "high",
+      "id": "p30",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 4,
+      "type": "mcq",
+      "category": "law",
+      "stem": "Correct climate-regime timeline is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Paris 1997 → Kyoto 2015 → UNFCCC 2005"
+        },
+        {
+          "key": "b",
+          "text": "UNFCCC 1992 → Kyoto 1997 → Paris 2015"
+        },
+        {
+          "key": "c",
+          "text": "Kyoto 1992 → UNFCCC 1997 → Paris 2005"
+        },
+        {
+          "key": "d",
+          "text": "IPCC 2015 → UNFCCC 1997 → Paris 1992"
+        }
+      ],
+      "answer": "b",
+      "explanation": "UNFCCC (Rio 1992), Kyoto 1997 (force 2005), Paris 2015 COP21.",
+      "likelihood": "high",
+      "id": "p31",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 4,
+      "type": "numerical",
+      "category": "numerical",
+      "stem": "Kyoto Protocol Annex I first-period target cited in course materials is about:",
+      "options": [
+        {
+          "key": "a",
+          "text": "5.2% below 1990 levels"
+        },
+        {
+          "key": "b",
+          "text": "50% below 2005 levels"
+        },
+        {
+          "key": "c",
+          "text": "Net-zero by 2030 for all parties"
+        },
+        {
+          "key": "d",
+          "text": "No quantified targets"
+        }
+      ],
+      "answer": "a",
+      "explanation": "~5.2% below 1990 for Annex I; Doha later tightened further.",
+      "likelihood": "high",
+      "id": "p32",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 4,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "Mitigation vs adaptation — which statement is correct?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Mitigation only builds sea walls; adaptation cuts emissions"
+        },
+        {
+          "key": "b",
+          "text": "Mitigation reduces emissions/enhances sinks; adaptation reduces vulnerability to impacts"
+        },
+        {
+          "key": "c",
+          "text": "Adaptation replaces the need for mitigation entirely"
+        },
+        {
+          "key": "d",
+          "text": "Neither is needed under Paris"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Both required: turn down the stove vs live with residual heat.",
+      "likelihood": "high",
+      "id": "p33",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 4,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "GHGs are described as largely transparent to _____ but absorbing _____ radiation.",
+      "options": [
+        {
+          "key": "a",
+          "text": "IR; UV"
+        },
+        {
+          "key": "b",
+          "text": "Shortwave/solar; longwave/IR"
+        },
+        {
+          "key": "c",
+          "text": "X-rays; microwaves"
+        },
+        {
+          "key": "d",
+          "text": "Visible only; visible only"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Transmit SW, trap outgoing IR — greenhouse mechanism.",
+      "likelihood": "high",
+      "id": "p34",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 4,
+      "type": "assertion_reason",
+      "category": "law",
+      "stem": "Assertion (A): Under the Paris Agreement, only Annex I countries submit emission pledges.\nReason (R): Paris relies on nationally determined contributions (NDCs) from parties.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Both A and R are true, and R is the correct explanation of A"
+        },
+        {
+          "key": "b",
+          "text": "Both A and R are true, but R is not the correct explanation of A"
+        },
+        {
+          "key": "c",
+          "text": "A is true, but R is false"
+        },
+        {
+          "key": "d",
+          "text": "A is false, but R is true"
+        }
+      ],
+      "answer": "d",
+      "explanation": "A false (all parties NDCs). R true — NDC architecture.",
+      "likelihood": "high",
+      "id": "p35",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 4,
+      "type": "numerical",
+      "category": "numerical",
+      "stem": "Course notes cite post-1981 warming of roughly:",
+      "options": [
+        {
+          "key": "a",
+          "text": "0.018 °C/decade"
+        },
+        {
+          "key": "b",
+          "text": "0.18 °C/decade"
+        },
+        {
+          "key": "c",
+          "text": "1.8 °C/decade"
+        },
+        {
+          "key": "d",
+          "text": "No detectable trend"
+        }
+      ],
+      "answer": "b",
+      "explanation": "~0.18 °C per decade since 1981 (course figure).",
+      "likelihood": "medium",
+      "id": "p36",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 4,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "The IPCC's primary role emphasized in the course is to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Enforce Kyoto fines"
+        },
+        {
+          "key": "b",
+          "text": "Assess climate science for policymakers"
+        },
+        {
+          "key": "c",
+          "text": "Operate the Green Climate Fund alone"
+        },
+        {
+          "key": "d",
+          "text": "Ban CFCs under Montreal"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Assessment body; shared 2007 Nobel Peace Prize with Al Gore.",
+      "likelihood": "medium",
+      "id": "p37",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 5,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "The Betz limit states that the maximum power coefficient CP of a wind turbine is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "1/2 = 50%"
+        },
+        {
+          "key": "b",
+          "text": "16/27 ≈ 59.3%"
+        },
+        {
+          "key": "c",
+          "text": "8/27 ≈ 29.6%"
+        },
+        {
+          "key": "d",
+          "text": "100%"
+        }
+      ],
+      "answer": "b",
+      "explanation": "CP,max = 16/27 ≈ 59.3%; P_max = (8/27)ρAv³.",
+      "likelihood": "high",
+      "id": "p38",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 5,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "If wind speed doubles while ρ and A stay constant, available wind power scales by a factor of:",
+      "options": [
+        {
+          "key": "a",
+          "text": "2"
+        },
+        {
+          "key": "b",
+          "text": "4"
+        },
+        {
+          "key": "c",
+          "text": "8"
+        },
+        {
+          "key": "d",
+          "text": "16"
+        }
+      ],
+      "answer": "c",
+      "explanation": "P ∝ v³ → 2³ = 8.",
+      "likelihood": "high",
+      "id": "p39",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 5,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "Energy trilemma 'SEE' expands to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Solar, Efficiency, Emissions"
+        },
+        {
+          "key": "b",
+          "text": "Security, Equity, Environmental sustainability"
+        },
+        {
+          "key": "c",
+          "text": "Storage, Export, Electrification"
+        },
+        {
+          "key": "d",
+          "text": "Subsidy, Equity, Expansion"
+        }
+      ],
+      "answer": "b",
+      "explanation": "World Energy Council framing: Security, Equity, Environment.",
+      "likelihood": "high",
+      "id": "p40",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 5,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "Renewable energy is defined in the course as energy replenished at a rate:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Always zero impact"
+        },
+        {
+          "key": "b",
+          "text": "≥ rate of use by natural processes"
+        },
+        {
+          "key": "c",
+          "text": "Only from fossil fuels"
+        },
+        {
+          "key": "d",
+          "text": "Only overnight"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Replenishment ≥ use — not a claim of zero environmental impact.",
+      "likelihood": "high",
+      "id": "p41",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 5,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "Compared with solar PV, CSP is more naturally suited to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Diffuse light only with no thermal storage"
+        },
+        {
+          "key": "b",
+          "text": "Concentrating heat with optional thermal storage"
+        },
+        {
+          "key": "c",
+          "text": "Indoor LED lighting"
+        },
+        {
+          "key": "d",
+          "text": "Geothermal flash steam"
+        }
+      ],
+      "answer": "b",
+      "explanation": "CSP concentrates heat; thermal storage often integrated.",
+      "likelihood": "high",
+      "id": "p42",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 5,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "Capacity factor of a wind farm is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Rated power × 8760 always"
+        },
+        {
+          "key": "b",
+          "text": "Actual energy produced / energy if run at rated capacity continuously"
+        },
+        {
+          "key": "c",
+          "text": "Always equal to Betz limit"
+        },
+        {
+          "key": "d",
+          "text": "Air density in kg/m³"
+        }
+      ],
+      "answer": "b",
+      "explanation": "CF = actual / rated-continuous energy over the period.",
+      "likelihood": "high",
+      "id": "p43",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 5,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "Using ρ=1.21 kg/m³, A=π(25)² m², v=10 m/s, Betz-limited power is closest to which expression?",
+      "options": [
+        {
+          "key": "a",
+          "text": "(1/2)ρAv³"
+        },
+        {
+          "key": "b",
+          "text": "(8/27)ρAv³"
+        },
+        {
+          "key": "c",
+          "text": "ρAv"
+        },
+        {
+          "key": "d",
+          "text": "mgz"
+        }
+      ],
+      "answer": "b",
+      "explanation": "P_wind,max = (16/27)(1/2)ρAv³ = (8/27)ρAv³.",
+      "likelihood": "high",
+      "id": "p44",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 5,
+      "type": "assertion_reason",
+      "category": "formula",
+      "stem": "Assertion (A): Real commercial wind turbines often operate below the Betz CP.\nReason (R): Betz assumes an idealized actuator disk; real rotors have aerodynamic and mechanical losses, and sites have intermittency reflected in capacity factor.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Both A and R are true, and R is the correct explanation of A"
+        },
+        {
+          "key": "b",
+          "text": "Both A and R are true, but R is not the correct explanation of A"
+        },
+        {
+          "key": "c",
+          "text": "A is true, but R is false"
+        },
+        {
+          "key": "d",
+          "text": "A is false, but R is true"
+        }
+      ],
+      "answer": "a",
+      "explanation": "Both true; Betz is an upper bound, not a guaranteed operating CP.",
+      "likelihood": "high",
+      "id": "p45",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 5,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "Intermittency of solar/wind primarily motivates investment in:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Only coal baseload forever"
+        },
+        {
+          "key": "b",
+          "text": "Energy storage and flexible demand/grid integration"
+        },
+        {
+          "key": "c",
+          "text": "Banning all renewables"
+        },
+        {
+          "key": "d",
+          "text": "Montreal Protocol revisions"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Storage and flexibility bridge supply–demand mismatch.",
+      "likelihood": "high",
+      "id": "p46",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 6,
+      "type": "numerical",
+      "category": "numerical",
+      "stem": "Among tidal, wave and OTEC theoretical/technical potentials taught, the largest is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Tidal ~1200 TWh/y"
+        },
+        {
+          "key": "b",
+          "text": "Wave ~29500 TWh/y"
+        },
+        {
+          "key": "c",
+          "text": "OTEC ~44000 TWh/y"
+        },
+        {
+          "key": "d",
+          "text": "All equal"
+        }
+      ],
+      "answer": "c",
+      "explanation": "Rank: OTEC ≫ wave ≫ tidal (course numbers).",
+      "likelihood": "high",
+      "id": "p47",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 6,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "Enhanced Geothermal Systems (EGS) mainly create value by:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Burning biomass underground"
+        },
+        {
+          "key": "b",
+          "text": "Stimulating permeability in hot rock with poor natural productivity"
+        },
+        {
+          "key": "c",
+          "text": "Capturing wave energy"
+        },
+        {
+          "key": "d",
+          "text": "Cooling tropical surface water"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Engineer connectivity in hot dry / low-permeability rock.",
+      "likelihood": "high",
+      "id": "p48",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 6,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "Fast pyrolysis of biomass is characterized by roughly:",
+      "options": [
+        {
+          "key": "a",
+          "text": "400–600 °C with little/no O2 → bio-oil, gases, char"
+        },
+        {
+          "key": "b",
+          "text": "Excess air combustion to ash only"
+        },
+        {
+          "key": "c",
+          "text": "0 °C enzymatic hydrolysis only"
+        },
+        {
+          "key": "d",
+          "text": "Nuclear fission of cellulose"
+        }
+      ],
+      "answer": "a",
+      "explanation": "Anaerobic thermal decomposition favoring liquids.",
+      "likelihood": "high",
+      "id": "p49",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 6,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "Deep-water wave power per unit crest width scales primarily with:",
+      "options": [
+        {
+          "key": "a",
+          "text": "H only linearly"
+        },
+        {
+          "key": "b",
+          "text": "H² and period T"
+        },
+        {
+          "key": "c",
+          "text": "Air density alone"
+        },
+        {
+          "key": "d",
+          "text": "Betz CP"
+        }
+      ],
+      "answer": "b",
+      "explanation": "PW ~ (ρ g² H² T)/32 — height and period dominate.",
+      "likelihood": "high",
+      "id": "p50",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 6,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "Hydropower efficiency e_hydro is computed as:",
+      "options": [
+        {
+          "key": "a",
+          "text": "P_elec / (ṁ g z)"
+        },
+        {
+          "key": "b",
+          "text": "ṁ g z / P_elec"
+        },
+        {
+          "key": "c",
+          "text": "(1/2)ρAv³"
+        },
+        {
+          "key": "d",
+          "text": "20 log(P/P0)"
+        }
+      ],
+      "answer": "a",
+      "explanation": "Electric output over potential-energy rate of the flow.",
+      "likelihood": "high",
+      "id": "p51",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 6,
+      "type": "numerical",
+      "category": "numerical",
+      "stem": "Tidal stream resources are often screened as useful when flow speeds are about:",
+      "options": [
+        {
+          "key": "a",
+          "text": "0.1–0.2 m/s"
+        },
+        {
+          "key": "b",
+          "text": "≥1.5–2 m/s"
+        },
+        {
+          "key": "c",
+          "text": "≥50 m/s"
+        },
+        {
+          "key": "d",
+          "text": "Any speed equally"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Course threshold ~1.5–2 m/s for useful tidal stream KE.",
+      "likelihood": "medium",
+      "id": "p52",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 6,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "Open-cycle OTEC differs from closed-cycle mainly because open-cycle:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Uses ammonia as working fluid"
+        },
+        {
+          "key": "b",
+          "text": "Flash-evaporates seawater as the working vapor"
+        },
+        {
+          "key": "c",
+          "text": "Needs no cold deep water"
+        },
+        {
+          "key": "d",
+          "text": "Is identical to CSP"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Open: seawater vapor; closed: low-BP secondary fluid (e.g. ammonia).",
+      "likelihood": "high",
+      "id": "p53",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 6,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "Geothermal heat delivery for district heating follows Q =:",
+      "options": [
+        {
+          "key": "a",
+          "text": "ṁ cp ΔT"
+        },
+        {
+          "key": "b",
+          "text": "20 log(P/P0)"
+        },
+        {
+          "key": "c",
+          "text": "P×A×T"
+        },
+        {
+          "key": "d",
+          "text": "R K LS C P"
+        }
+      ],
+      "answer": "a",
+      "explanation": "Sensible heat from mass flow and temperature drop.",
+      "likelihood": "high",
+      "id": "p54",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 6,
+      "type": "assertion_reason",
+      "category": "concept",
+      "stem": "Assertion (A): Spring tides are typically larger than neap tides.\nReason (R): Spring tides occur when Sun–Moon–Earth are aligned so gravitational effects reinforce.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Both A and R are true, and R is the correct explanation of A"
+        },
+        {
+          "key": "b",
+          "text": "Both A and R are true, but R is not the correct explanation of A"
+        },
+        {
+          "key": "c",
+          "text": "A is true, but R is false"
+        },
+        {
+          "key": "d",
+          "text": "A is false, but R is true"
+        }
+      ],
+      "answer": "a",
+      "explanation": "Both true; alignment → spring; quadrature → neap.",
+      "likelihood": "high",
+      "id": "p55",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 6,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "Mean wave energy density E = (1/8) ρ g H² implies energy is most sensitive to errors in:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Wave height H"
+        },
+        {
+          "key": "b",
+          "text": "Only seawater salinity"
+        },
+        {
+          "key": "c",
+          "text": "Betz limit"
+        },
+        {
+          "key": "d",
+          "text": "Floor area"
+        }
+      ],
+      "answer": "a",
+      "explanation": "E ∝ H² — height measurement errors dominate.",
+      "likelihood": "high",
+      "id": "p56",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 6,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "Multipurpose reservoirs for hydropower may also serve:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Only electricity with no other uses"
+        },
+        {
+          "key": "b",
+          "text": "Irrigation, flood control and water supply among other services"
+        },
+        {
+          "key": "c",
+          "text": "Only Montreal ODS banking"
+        },
+        {
+          "key": "d",
+          "text": "Only tidal barrages"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Storage dams often multipurpose beyond power.",
+      "likelihood": "medium",
+      "id": "p57",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 7,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "Linear urban metabolism is summarized as:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Borrow–Use–Return"
+        },
+        {
+          "key": "b",
+          "text": "Take–Make–Waste"
+        },
+        {
+          "key": "c",
+          "text": "Reduce–Reuse–Recycle only"
+        },
+        {
+          "key": "d",
+          "text": "Photosynthesis–Respiration"
+        }
+      ],
+      "answer": "b",
+      "explanation": "One-way throughput depleting natural capital.",
+      "likelihood": "high",
+      "id": "p58",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 7,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "Circular economy aims to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Maximize virgin extraction each year"
+        },
+        {
+          "key": "b",
+          "text": "Keep materials in use via reuse/repair/remanufacture/recycling"
+        },
+        {
+          "key": "c",
+          "text": "Ban all industrial activity"
+        },
+        {
+          "key": "d",
+          "text": "Ignore SDG 12"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Close loops; design out waste.",
+      "likelihood": "high",
+      "id": "p59",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 7,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "Industrial symbiosis means:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Competitors never share utilities"
+        },
+        {
+          "key": "b",
+          "text": "Waste/by-product of one firm becomes feedstock for another"
+        },
+        {
+          "key": "c",
+          "text": "All plants must be identical"
+        },
+        {
+          "key": "d",
+          "text": "Only exporting scrap overseas"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Ecosystem-like material coupling in industrial clusters.",
+      "likelihood": "high",
+      "id": "p60",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 7,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "In the urban metabolism metaphor, catabolism corresponds mainly to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Building urban stocks"
+        },
+        {
+          "key": "b",
+          "text": "Generating wastes and emissions"
+        },
+        {
+          "key": "c",
+          "text": "Photosynthesis"
+        },
+        {
+          "key": "d",
+          "text": "Betz limit"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Anabolism builds stocks; catabolism yields wastes/emissions.",
+      "likelihood": "high",
+      "id": "p61",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 7,
+      "type": "assertion_reason",
+      "category": "concept",
+      "stem": "Assertion (A): Closing material loops can reduce both virgin resource demand and waste emissions.\nReason (R): Circular strategies recirculate materials that would otherwise be extracted anew and discarded.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Both A and R are true, and R is the correct explanation of A"
+        },
+        {
+          "key": "b",
+          "text": "Both A and R are true, but R is not the correct explanation of A"
+        },
+        {
+          "key": "c",
+          "text": "A is true, but R is false"
+        },
+        {
+          "key": "d",
+          "text": "A is false, but R is true"
+        }
+      ],
+      "answer": "a",
+      "explanation": "Both true; R explains A.",
+      "likelihood": "high",
+      "id": "p62",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 7,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "Circular economy most directly supports which SDG theme?",
+      "options": [
+        {
+          "key": "a",
+          "text": "SDG 12 Responsible Consumption and Production"
+        },
+        {
+          "key": "b",
+          "text": "Only SDG 14"
+        },
+        {
+          "key": "c",
+          "text": "Only military readiness"
+        },
+        {
+          "key": "d",
+          "text": "None of the SDGs"
+        }
+      ],
+      "answer": "a",
+      "explanation": "SCP and circularity align with SDG 12.",
+      "likelihood": "medium",
+      "id": "p63",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 8,
+      "type": "numerical",
+      "category": "numerical",
+      "stem": "Roughly what fraction of Earth's water is freshwater (all forms)?",
+      "options": [
+        {
+          "key": "a",
+          "text": "97.5%"
+        },
+        {
+          "key": "b",
+          "text": "2.5%"
+        },
+        {
+          "key": "c",
+          "text": "50%"
+        },
+        {
+          "key": "d",
+          "text": "0%"
+        }
+      ],
+      "answer": "b",
+      "explanation": "~97.5% salt; ~2.5% fresh (tiny usable share).",
+      "likelihood": "high",
+      "id": "p64",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 8,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "In NSF-WQI weighting, the single highest weight is assigned to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Phosphate"
+        },
+        {
+          "key": "b",
+          "text": "Dissolved oxygen"
+        },
+        {
+          "key": "c",
+          "text": "Turbidity"
+        },
+        {
+          "key": "d",
+          "text": "Hardness"
+        }
+      ],
+      "answer": "b",
+      "explanation": "DO weight 0.17 (highest); fecal coliform 0.16 next.",
+      "likelihood": "high",
+      "id": "p65",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 8,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "Indian BOD convention often emphasized in the course is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "BOD5 at 20 °C only worldwide"
+        },
+        {
+          "key": "b",
+          "text": "BOD3 at 27 °C"
+        },
+        {
+          "key": "c",
+          "text": "COD always equals BOD"
+        },
+        {
+          "key": "d",
+          "text": "No oxygen demand parameter"
+        }
+      ],
+      "answer": "b",
+      "explanation": "India frequently uses BOD3 @ 27 °C.",
+      "likelihood": "high",
+      "id": "p66",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 8,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "Withdrawal differs from consumption because consumption is water that is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Always returned unchanged to the source"
+        },
+        {
+          "key": "b",
+          "text": "Not returned (evaporated, incorporated, transpired, etc.)"
+        },
+        {
+          "key": "c",
+          "text": "Only rainwater"
+        },
+        {
+          "key": "d",
+          "text": "Identical to precipitation"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Withdrawals = consumption + returns.",
+      "likelihood": "high",
+      "id": "p67",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 8,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "NSF-WQI score band 90–100 is labeled:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Very Bad"
+        },
+        {
+          "key": "b",
+          "text": "Medium"
+        },
+        {
+          "key": "c",
+          "text": "Excellent"
+        },
+        {
+          "key": "d",
+          "text": "Unusable"
+        }
+      ],
+      "answer": "c",
+      "explanation": "90–100 Excellent … 0–25 Very Bad.",
+      "likelihood": "high",
+      "id": "p68",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 8,
+      "type": "mcq",
+      "category": "law",
+      "stem": "NGT was established on / by Act around:",
+      "options": [
+        {
+          "key": "a",
+          "text": "1974 Water Act only"
+        },
+        {
+          "key": "b",
+          "text": "18 October 2010"
+        },
+        {
+          "key": "c",
+          "text": "1992 Rio"
+        },
+        {
+          "key": "d",
+          "text": "1981 Air Act"
+        }
+      ],
+      "answer": "b",
+      "explanation": "NGT Act 2010; est. 18.10.2010; natural justice; ~6-month disposal aim.",
+      "likelihood": "high",
+      "id": "p69",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 8,
+      "type": "assertion_reason",
+      "category": "concept",
+      "stem": "Assertion (A): COD is typically greater than or equal to BOD for the same sample.\nReason (R): COD measures chemically oxidizable matter, which can include substances not readily biodegradable in the BOD test.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Both A and R are true, and R is the correct explanation of A"
+        },
+        {
+          "key": "b",
+          "text": "Both A and R are true, but R is not the correct explanation of A"
+        },
+        {
+          "key": "c",
+          "text": "A is true, but R is false"
+        },
+        {
+          "key": "d",
+          "text": "A is false, but R is true"
+        }
+      ],
+      "answer": "a",
+      "explanation": "Both true; COD ≥ BOD usually.",
+      "likelihood": "high",
+      "id": "p70",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 8,
+      "type": "numerical",
+      "category": "numerical",
+      "stem": "For inland surface water discharge, course CPCB-style BOD limit cited is on the order of:",
+      "options": [
+        {
+          "key": "a",
+          "text": "30 mg/L (3 d, 27 °C)"
+        },
+        {
+          "key": "b",
+          "text": "350 mg/L"
+        },
+        {
+          "key": "c",
+          "text": "1000 mg/L"
+        },
+        {
+          "key": "d",
+          "text": "No limit ever"
+        }
+      ],
+      "answer": "a",
+      "explanation": "Inland surface BOD ~30; sewers much higher (~350) in comparison table.",
+      "likelihood": "medium",
+      "id": "p71",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 9,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "Correct waste hierarchy order (highest priority first) is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dispose > Recover > Recycle > Reuse > Prevent"
+        },
+        {
+          "key": "b",
+          "text": "Prevent > Reuse > Recycle > Recover > Dispose"
+        },
+        {
+          "key": "c",
+          "text": "Recycle > Prevent > Dispose"
+        },
+        {
+          "key": "d",
+          "text": "Incinerate > Landfill > Prevent"
+        }
+      ],
+      "answer": "b",
+      "explanation": "PRRRD: prevention first, disposal last.",
+      "likelihood": "high",
+      "id": "p72",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 9,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "Among the 4Rs, which sits at the top of preference?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Recover"
+        },
+        {
+          "key": "b",
+          "text": "Recycle"
+        },
+        {
+          "key": "c",
+          "text": "Reduce (source reduction)"
+        },
+        {
+          "key": "d",
+          "text": "Relocate"
+        }
+      ],
+      "answer": "c",
+      "explanation": "Source reduction before reuse/recycle/recover.",
+      "likelihood": "high",
+      "id": "p73",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 9,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "Open dumps are unacceptable mainly because they cause:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Only visual blight with no emissions"
+        },
+        {
+          "key": "b",
+          "text": "Uncontrolled leachate, CH4/VOC emissions, fires and multi-media contamination"
+        },
+        {
+          "key": "c",
+          "text": "Perfect LFG capture"
+        },
+        {
+          "key": "d",
+          "text": "Zero soil impact"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Air, water, soil and explosion risks.",
+      "likelihood": "high",
+      "id": "p74",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 9,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "Volatile solids (VS) as a fraction of total solids indicate:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ash content only"
+        },
+        {
+          "key": "b",
+          "text": "Organic fraction lost on ignition — relevant to biodegradability"
+        },
+        {
+          "key": "c",
+          "text": "Moisture only"
+        },
+        {
+          "key": "d",
+          "text": "Metal scrap mass"
+        }
+      ],
+      "answer": "b",
+      "explanation": "VS/TS guides biological treatment suitability.",
+      "likelihood": "high",
+      "id": "p75",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 9,
+      "type": "mcq",
+      "category": "law",
+      "stem": "E-waste management in India is strongly linked to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ignoring producer roles"
+        },
+        {
+          "key": "b",
+          "text": "E-waste Rules (2011) and Extended Producer Responsibility"
+        },
+        {
+          "key": "c",
+          "text": "Montreal Protocol ODS quotas"
+        },
+        {
+          "key": "d",
+          "text": "Betz limit"
+        }
+      ],
+      "answer": "b",
+      "explanation": "EPR + authorized recyclers under e-waste rules.",
+      "likelihood": "high",
+      "id": "p76",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 9,
+      "type": "assertion_reason",
+      "category": "concept",
+      "stem": "Assertion (A): Sanitary landfills are preferred over open dumps as disposal of last resort.\nReason (R): Engineered landfills include liners, cover, leachate and landfill-gas controls that open dumps lack.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Both A and R are true, and R is the correct explanation of A"
+        },
+        {
+          "key": "b",
+          "text": "Both A and R are true, but R is not the correct explanation of A"
+        },
+        {
+          "key": "c",
+          "text": "A is true, but R is false"
+        },
+        {
+          "key": "d",
+          "text": "A is false, but R is true"
+        }
+      ],
+      "answer": "a",
+      "explanation": "Both true; R explains preference within hierarchy.",
+      "likelihood": "high",
+      "id": "p77",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 9,
+      "type": "numerical",
+      "category": "numerical",
+      "stem": "A waste sample has 40% moisture. Total solids (TS) as wet-weight fraction is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "40%"
+        },
+        {
+          "key": "b",
+          "text": "60%"
+        },
+        {
+          "key": "c",
+          "text": "100%"
+        },
+        {
+          "key": "d",
+          "text": "0%"
+        }
+      ],
+      "answer": "b",
+      "explanation": "TS = 100% − moisture = 60%.",
+      "likelihood": "high",
+      "id": "p78",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 10,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "For a free-field point source, doubling distance changes SPL by about:",
+      "options": [
+        {
+          "key": "a",
+          "text": "−3 dB"
+        },
+        {
+          "key": "b",
+          "text": "−6 dB"
+        },
+        {
+          "key": "c",
+          "text": "−20 dB"
+        },
+        {
+          "key": "d",
+          "text": "+6 dB"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Inverse square: ΔLp ≈ −20 log(r2/r1) → −6 dB when r2=2 r1.",
+      "likelihood": "high",
+      "id": "p79",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 10,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "A busy highway approximated as a line source typically loses about _____ per distance doubling.",
+      "options": [
+        {
+          "key": "a",
+          "text": "6 dB"
+        },
+        {
+          "key": "b",
+          "text": "3 dB"
+        },
+        {
+          "key": "c",
+          "text": "20 dB"
+        },
+        {
+          "key": "d",
+          "text": "0 dB"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Line source I ∝ 1/r → ~−3 dB per doubling.",
+      "likelihood": "high",
+      "id": "p80",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 10,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "Reference sound pressure P0 defining 0 dB SPL is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "20 Pa"
+        },
+        {
+          "key": "b",
+          "text": "20 μPa"
+        },
+        {
+          "key": "c",
+          "text": "1 atm"
+        },
+        {
+          "key": "d",
+          "text": "0 Pa"
+        }
+      ],
+      "answer": "b",
+      "explanation": "P0 = 20 μPa ≈ threshold of hearing.",
+      "likelihood": "high",
+      "id": "p81",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 10,
+      "type": "numerical",
+      "category": "numerical",
+      "stem": "Two incoherent sources each at 50 dB combine to approximately:",
+      "options": [
+        {
+          "key": "a",
+          "text": "50 dB"
+        },
+        {
+          "key": "b",
+          "text": "53 dB"
+        },
+        {
+          "key": "c",
+          "text": "100 dB"
+        },
+        {
+          "key": "d",
+          "text": "47 dB"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Equal levels → +3 dB (energy sum).",
+      "likelihood": "high",
+      "id": "p82",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 10,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "Lp = 20 log10(Prms/P0). A tenfold increase in rms pressure raises SPL by:",
+      "options": [
+        {
+          "key": "a",
+          "text": "10 dB"
+        },
+        {
+          "key": "b",
+          "text": "20 dB"
+        },
+        {
+          "key": "c",
+          "text": "3 dB"
+        },
+        {
+          "key": "d",
+          "text": "6 dB"
+        }
+      ],
+      "answer": "b",
+      "explanation": "20 log10(10) = 20 dB.",
+      "likelihood": "high",
+      "id": "p83",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 10,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "Wavelength of sound λ equals:",
+      "options": [
+        {
+          "key": "a",
+          "text": "f/c"
+        },
+        {
+          "key": "b",
+          "text": "c/f"
+        },
+        {
+          "key": "c",
+          "text": "c×f"
+        },
+        {
+          "key": "d",
+          "text": "20 log(c/f)"
+        }
+      ],
+      "answer": "b",
+      "explanation": "λ = c/f; period p = 1/f.",
+      "likelihood": "high",
+      "id": "p84",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 10,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "Approximate speed of sound relation taught is c ≈:",
+      "options": [
+        {
+          "key": "a",
+          "text": "20.05 √T with T in kelvin"
+        },
+        {
+          "key": "b",
+          "text": "T/20.05 with T in °C"
+        },
+        {
+          "key": "c",
+          "text": "343 always at any T"
+        },
+        {
+          "key": "d",
+          "text": "Independent of temperature"
+        }
+      ],
+      "answer": "a",
+      "explanation": "c ≈ 20.05√T (K).",
+      "likelihood": "high",
+      "id": "p85",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 10,
+      "type": "numerical",
+      "category": "numerical",
+      "stem": "Occupational noise risk caution highlighted is continuous exposure around:",
+      "options": [
+        {
+          "key": "a",
+          "text": "30 dB(A) for 8 h"
+        },
+        {
+          "key": "b",
+          "text": "≥85 dB(A) over 8 h"
+        },
+        {
+          "key": "c",
+          "text": "140 dB(A) conversation"
+        },
+        {
+          "key": "d",
+          "text": "0 dB forever safe regardless of duration"
+        }
+      ],
+      "answer": "b",
+      "explanation": "≥85 dB(A) 8-h occupational risk threshold (course).",
+      "likelihood": "high",
+      "id": "p86",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 10,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "Leq is best defined as:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Instant peak only"
+        },
+        {
+          "key": "b",
+          "text": "Equivalent continuous level with same energy as fluctuating noise over the period"
+        },
+        {
+          "key": "c",
+          "text": "Night-only C-weighted peak"
+        },
+        {
+          "key": "d",
+          "text": "Sound power of the source in watts"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Energy-equivalent continuous level.",
+      "likelihood": "high",
+      "id": "p87",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 10,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "A-weighting is commonly used because it:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ignores human hearing sensitivity"
+        },
+        {
+          "key": "b",
+          "text": "Approximates human ear frequency response for environmental/occupational limits"
+        },
+        {
+          "key": "c",
+          "text": "Measures only infrasound"
+        },
+        {
+          "key": "d",
+          "text": "Converts dB to pascals linearly"
+        }
+      ],
+      "answer": "b",
+      "explanation": "A-network mimics ear; dominant for env/occupational limits.",
+      "likelihood": "high",
+      "id": "p88",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 10,
+      "type": "assertion_reason",
+      "category": "formula",
+      "stem": "Assertion (A): If two noise levels differ by 10 dB or more, the total is nearly equal to the louder source.\nReason (R): On the energy scale, the quieter source contributes negligibly compared with a source 10× higher in intensity (+10 dB).",
+      "options": [
+        {
+          "key": "a",
+          "text": "Both A and R are true, and R is the correct explanation of A"
+        },
+        {
+          "key": "b",
+          "text": "Both A and R are true, but R is not the correct explanation of A"
+        },
+        {
+          "key": "c",
+          "text": "A is true, but R is false"
+        },
+        {
+          "key": "d",
+          "text": "A is false, but R is true"
+        }
+      ],
+      "answer": "a",
+      "explanation": "Both true; rule of thumb for unequal combination.",
+      "likelihood": "high",
+      "id": "p89",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 10,
+      "type": "numerical",
+      "category": "numerical",
+      "stem": "A point source measures 70 dB at 10 m. At 40 m (same conditions) the level is nearest:",
+      "options": [
+        {
+          "key": "a",
+          "text": "70 dB"
+        },
+        {
+          "key": "b",
+          "text": "64 dB"
+        },
+        {
+          "key": "c",
+          "text": "58 dB"
+        },
+        {
+          "key": "d",
+          "text": "40 dB"
+        }
+      ],
+      "answer": "c",
+      "explanation": "Distance ×4 = two doublings → −12 dB → 58 dB.",
+      "likelihood": "high",
+      "id": "p90",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 11,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "BCF is defined as:",
+      "options": [
+        {
+          "key": "a",
+          "text": "C_water / C_biota"
+        },
+        {
+          "key": "b",
+          "text": "C_biota / C_water"
+        },
+        {
+          "key": "c",
+          "text": "Kow × population"
+        },
+        {
+          "key": "d",
+          "text": "Soil loss A"
+        }
+      ],
+      "answer": "b",
+      "explanation": "BCF = tissue concentration / water concentration (L/kg).",
+      "likelihood": "high",
+      "id": "p91",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 11,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "Biomagnification differs from bioconcentration because biomagnification refers to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Only uptake from water into one organism"
+        },
+        {
+          "key": "b",
+          "text": "Increase of concentration across trophic levels"
+        },
+        {
+          "key": "c",
+          "text": "Only soil erosion"
+        },
+        {
+          "key": "d",
+          "text": "Only acute toxicity tests"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Bioconcentration vs water; biomagnification up the food chain.",
+      "likelihood": "high",
+      "id": "p92",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 11,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "USLE estimates average annual soil loss A as the product:",
+      "options": [
+        {
+          "key": "a",
+          "text": "R × K × L × S × C × P"
+        },
+        {
+          "key": "b",
+          "text": "P × A × T"
+        },
+        {
+          "key": "c",
+          "text": "(1/2)ρAv³"
+        },
+        {
+          "key": "d",
+          "text": "20 log(P/P0)"
+        }
+      ],
+      "answer": "a",
+      "explanation": "A = R K LS C P (cover & practice are key management levers).",
+      "likelihood": "high",
+      "id": "p93",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 11,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "Logistic population growth approaches carrying capacity K with form:",
+      "options": [
+        {
+          "key": "a",
+          "text": "dN/dt = rN only forever"
+        },
+        {
+          "key": "b",
+          "text": "dN/dt = rN(1 − N/K)"
+        },
+        {
+          "key": "c",
+          "text": "Pn = P0 + nX only"
+        },
+        {
+          "key": "d",
+          "text": "No equilibrium"
+        }
+      ],
+      "answer": "b",
+      "explanation": "S-curve; when N≪K behaves like exponential.",
+      "likelihood": "high",
+      "id": "p94",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 11,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "High log Kow organics tend to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stay dissolved only in water"
+        },
+        {
+          "key": "b",
+          "text": "Bioconcentrate in fatty tissues"
+        },
+        {
+          "key": "c",
+          "text": "Have BCF = 0 always"
+        },
+        {
+          "key": "d",
+          "text": "Never enter food webs"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Hydrophobicity → lipid partitioning → higher BCF.",
+      "likelihood": "high",
+      "id": "p95",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 11,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "In ecosystems, energy flow is typically _____ while nutrients are _____.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Cyclic; unidirectional"
+        },
+        {
+          "key": "b",
+          "text": "Unidirectional; cyclic"
+        },
+        {
+          "key": "c",
+          "text": "Both always cyclic"
+        },
+        {
+          "key": "d",
+          "text": "Neither flows"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Energy one-way; mass/nutrients cycle.",
+      "likelihood": "high",
+      "id": "p96",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 11,
+      "type": "assertion_reason",
+      "category": "concept",
+      "stem": "Assertion (A): Compounds with high log Kow tend to bioaccumulate strongly.\nReason (R): Such compounds are more soluble in organic phases than in water.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Both A and R are true, and R is the correct explanation of A"
+        },
+        {
+          "key": "b",
+          "text": "Both A and R are true, but R is not the correct explanation of A"
+        },
+        {
+          "key": "c",
+          "text": "A is true, but R is false"
+        },
+        {
+          "key": "d",
+          "text": "A is false, but R is true"
+        }
+      ],
+      "answer": "a",
+      "explanation": "Both true; hydrophobicity links Kow to accumulation (course AR pattern).",
+      "likelihood": "high",
+      "id": "p97",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 11,
+      "type": "numerical",
+      "category": "numerical",
+      "stem": "USLE 'unit plot' baseline dimensions cited are about:",
+      "options": [
+        {
+          "key": "a",
+          "text": "72.6 ft × 5.5 ft at 9% slope"
+        },
+        {
+          "key": "b",
+          "text": "1 m × 1 m flat"
+        },
+        {
+          "key": "c",
+          "text": "1 km² always"
+        },
+        {
+          "key": "d",
+          "text": "Irrelevant to K factor"
+        }
+      ],
+      "answer": "a",
+      "explanation": "Classic USLE unit plot definition.",
+      "likelihood": "medium",
+      "id": "p98",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 12,
+      "type": "mcq",
+      "category": "law",
+      "stem": "The Oleum Gas Leak case is landmark mainly for establishing:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Polluter pays only for municipalities"
+        },
+        {
+          "key": "b",
+          "text": "Absolute liability for hazardous industries (no Rylands exceptions)"
+        },
+        {
+          "key": "c",
+          "text": "Public trust over Beas banks only"
+        },
+        {
+          "key": "d",
+          "text": "NGT procedural timelines"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Strict liability hardened to absolute liability — no exceptions for hazardous enterprises.",
+      "likelihood": "high",
+      "id": "p99",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 12,
+      "type": "mcq",
+      "category": "law",
+      "stem": "In Municipal Council, Ratlam vs Vardhichand, the Court held that lack of municipal funds:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Fully excuses sanitation duties"
+        },
+        {
+          "key": "b",
+          "text": "Is not a valid defence against statutory public-health/sanitation duties"
+        },
+        {
+          "key": "c",
+          "text": "Transfers all liability to the Water Act alone"
+        },
+        {
+          "key": "d",
+          "text": "Requires relocating the Taj"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Financial incapacity does not nullify obligatory sanitation/public nuisance duties.",
+      "likelihood": "high",
+      "id": "p100",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 12,
+      "type": "mcq",
+      "category": "law",
+      "stem": "Taj Trapezium Zone (TTZ) remedies included:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Only painting the marble"
+        },
+        {
+          "key": "b",
+          "text": "Coal ban/CNG shift, tannery relocation, green belt near Mathura refinery"
+        },
+        {
+          "key": "c",
+          "text": "Absolute liability for all hotels nationwide"
+        },
+        {
+          "key": "d",
+          "text": "Repealing the Air Act"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Protect 255 monuments: fuel switch, relocate tanneries, green belt.",
+      "likelihood": "high",
+      "id": "p101",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 12,
+      "type": "mcq",
+      "category": "law",
+      "stem": "Vellore Citizens Welfare Forum is strongly associated with embedding:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Betz limit in statute"
+        },
+        {
+          "key": "b",
+          "text": "Polluter pays / precautionary principles in Indian environmental jurisprudence"
+        },
+        {
+          "key": "c",
+          "text": "Only Chipko awards"
+        },
+        {
+          "key": "d",
+          "text": "EPI building codes"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Tanneries vs Palar: development cannot trump environment; polluter pays & precaution.",
+      "likelihood": "high",
+      "id": "p102",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 12,
+      "type": "mcq",
+      "category": "law",
+      "stem": "M.C. Mehta vs Kamal Nath applied which doctrine to riverbank forest lease for a motel?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Absolute liability"
+        },
+        {
+          "key": "b",
+          "text": "Public trust doctrine"
+        },
+        {
+          "key": "c",
+          "text": "Inverse square law"
+        },
+        {
+          "key": "d",
+          "text": "Betz limit"
+        }
+      ],
+      "answer": "b",
+      "explanation": "State as trustee of natural resources — public trust doctrine.",
+      "likelihood": "high",
+      "id": "p103",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 12,
+      "type": "mcq",
+      "category": "law",
+      "stem": "Correct sequence of major Indian statutes is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "EPA 1986 → Water 1974 → Air 1981 → NGT 2010"
+        },
+        {
+          "key": "b",
+          "text": "Water 1974 → Air 1981 → EPA 1986 → NGT 2010"
+        },
+        {
+          "key": "c",
+          "text": "NGT 2010 → Water 1974 → Air 1981 → EPA 1986"
+        },
+        {
+          "key": "d",
+          "text": "Air 1974 → Water 1981 → EPA 2010"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Water → Air → umbrella EPA → NGT.",
+      "likelihood": "high",
+      "id": "p104",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 12,
+      "type": "mcq",
+      "category": "law",
+      "stem": "EPA 1986 is best described as:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Only a state municipal bye-law"
+        },
+        {
+          "key": "b",
+          "text": "Umbrella central law for environmental protection and wide rule-making"
+        },
+        {
+          "key": "c",
+          "text": "A treaty identical to Montreal Protocol"
+        },
+        {
+          "key": "d",
+          "text": "Repeal of Water and Air Acts"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Post-Bhopal-era umbrella; parent of many Rules.",
+      "likelihood": "high",
+      "id": "p105",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 12,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "Act vs Rules — correct distinction:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Rules state WHAT; Acts state HOW"
+        },
+        {
+          "key": "b",
+          "text": "Acts prescribe substantive law (what); Rules detail procedures (how)"
+        },
+        {
+          "key": "c",
+          "text": "They are identical documents"
+        },
+        {
+          "key": "d",
+          "text": "Rules override the Constitution always"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Act = substance; Rules = procedure under the Act.",
+      "likelihood": "high",
+      "id": "p106",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 12,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "Chipko movement (Himalaya, from ~1973) is famous for:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Urban CNG buses first"
+        },
+        {
+          "key": "b",
+          "text": "Non-violent tree-hugging forest protection; Bahuguna marches"
+        },
+        {
+          "key": "c",
+          "text": "Oleum absolute liability"
+        },
+        {
+          "key": "d",
+          "text": "OTEC plants"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Community forest protection; Right Livelihood Award 1987 linked in notes.",
+      "likelihood": "high",
+      "id": "p107",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 12,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "Appiko movement is best placed as:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Arctic ozone activism"
+        },
+        {
+          "key": "b",
+          "text": "Western Ghats forest protection inspired by Chipko (1982–83)"
+        },
+        {
+          "key": "c",
+          "text": "Only e-waste EPR drafting"
+        },
+        {
+          "key": "d",
+          "text": "Paris NDC drafting"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Southern echo of Chipko in Karnataka Western Ghats.",
+      "likelihood": "medium",
+      "id": "p108",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 12,
+      "type": "mcq",
+      "category": "law",
+      "stem": "NGT is guided by _____ and endeavors to dispose of cases within about _____.",
+      "options": [
+        {
+          "key": "a",
+          "text": "CPC 1908 strictly; 10 years"
+        },
+        {
+          "key": "b",
+          "text": "Natural justice; 6 months"
+        },
+        {
+          "key": "c",
+          "text": "Only criminal IPC; 1 day"
+        },
+        {
+          "key": "d",
+          "text": "WTO rules; 20 years"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Not bound by CPC; natural justice; 6-month endeavor; benches incl. Delhi + four others.",
+      "likelihood": "high",
+      "id": "p109",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 12,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "Bishnoi community legacy emphasized in the course relates to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Protecting Khejri trees / community forest ethos"
+        },
+        {
+          "key": "b",
+          "text": "Inventing FGD scrubbers"
+        },
+        {
+          "key": "c",
+          "text": "Drafting Kyoto Annex I"
+        },
+        {
+          "key": "d",
+          "text": "Defining Betz limit"
+        }
+      ],
+      "answer": "a",
+      "explanation": "Sacrifice/protection legacy for Khejri precedes modern statutes.",
+      "likelihood": "medium",
+      "id": "p110",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 12,
+      "type": "assertion_reason",
+      "category": "law",
+      "stem": "Assertion (A): Hazardous industries near habitation can claim Rylands-style exceptions after the Oleum case.\nReason (R): Oleum transformed the doctrine toward absolute liability without those exceptions.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Both A and R are true, and R is the correct explanation of A"
+        },
+        {
+          "key": "b",
+          "text": "Both A and R are true, but R is not the correct explanation of A"
+        },
+        {
+          "key": "c",
+          "text": "A is true, but R is false"
+        },
+        {
+          "key": "d",
+          "text": "A is false, but R is true"
+        }
+      ],
+      "answer": "d",
+      "explanation": "A false; R true — absolute liability eliminates traditional exceptions.",
+      "likelihood": "high",
+      "id": "p111",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 12,
+      "type": "assertion_reason",
+      "category": "law",
+      "stem": "Assertion (A): Under the public trust doctrine, the State holds certain natural resources in trust for the public.\nReason (R): M.C. Mehta vs Kamal Nath applied this doctrine to a forested Beas riverbank lease.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Both A and R are true, and R is the correct explanation of A"
+        },
+        {
+          "key": "b",
+          "text": "Both A and R are true, but R is not the correct explanation of A"
+        },
+        {
+          "key": "c",
+          "text": "A is true, but R is false"
+        },
+        {
+          "key": "d",
+          "text": "A is false, but R is true"
+        }
+      ],
+      "answer": "a",
+      "explanation": "Both true; Kamal Nath is the course exemplar.",
+      "likelihood": "high",
+      "id": "p112",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 12,
+      "type": "mcq",
+      "category": "concept",
+      "stem": "EIA in the Week 12 framing is primarily a tool to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Predict/evaluate impacts before project decisions and attach clearance conditions"
+        },
+        {
+          "key": "b",
+          "text": "Replace all Acts with voluntary codes"
+        },
+        {
+          "key": "c",
+          "text": "Measure only workplace Leq"
+        },
+        {
+          "key": "d",
+          "text": "Compute Betz CP"
+        }
+      ],
+      "answer": "a",
+      "explanation": "Predictive, participatory assessment linked to clearances.",
+      "likelihood": "high",
+      "id": "p113",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 3,
+      "type": "mcq",
+      "category": "law",
+      "stem": "Which pair is correctly matched?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kyoto — NDCs for all parties"
+        },
+        {
+          "key": "b",
+          "text": "Paris — binding Annex I only like original Kyoto"
+        },
+        {
+          "key": "c",
+          "text": "Montreal 1987 — ozone-depleting substances"
+        },
+        {
+          "key": "d",
+          "text": "UNFCCC 2015 — first climate treaty"
+        }
+      ],
+      "answer": "c",
+      "explanation": "Montreal = ODS; Kyoto Annex I binding; Paris NDCs; UNFCCC 1992.",
+      "likelihood": "medium",
+      "id": "p114",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 11,
+      "type": "mcq",
+      "category": "definition",
+      "stem": "Ecological niche means primarily a species':",
+      "options": [
+        {
+          "key": "a",
+          "text": "Only its Latin name"
+        },
+        {
+          "key": "b",
+          "text": "Functional role/position including resource use and interactions"
+        },
+        {
+          "key": "c",
+          "text": "Only biomass in kg"
+        },
+        {
+          "key": "d",
+          "text": "USLE C factor"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Role/position in the ecosystem.",
+      "likelihood": "medium",
+      "id": "p115",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 10,
+      "type": "mcq",
+      "category": "formula",
+      "stem": "If ΔL between two sources is ≥10 dB, total level ≈:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Arithmetic mean"
+        },
+        {
+          "key": "b",
+          "text": "The louder source"
+        },
+        {
+          "key": "c",
+          "text": "Sum of dB values"
+        },
+        {
+          "key": "d",
+          "text": "Zero"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Quieter contribution negligible.",
+      "likelihood": "medium",
+      "id": "p116",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 12,
+      "type": "mcq",
+      "category": "law",
+      "stem": "Water Act 1974's institutional contribution includes creation/empowerment of:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Only NGT"
+        },
+        {
+          "key": "b",
+          "text": "CPCB/SPCBs for water pollution prevention/control"
+        },
+        {
+          "key": "c",
+          "text": "Only municipal corporations"
+        },
+        {
+          "key": "d",
+          "text": "IPCC Working Groups"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Boards architecture for water pollution control.",
+      "likelihood": "high",
+      "id": "p117",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 12,
+      "type": "mcq",
+      "category": "law",
+      "stem": "Air Act year (original) is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "1974"
+        },
+        {
+          "key": "b",
+          "text": "1981 (amended 1987)"
+        },
+        {
+          "key": "c",
+          "text": "1986"
+        },
+        {
+          "key": "d",
+          "text": "2010"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Air 1981, am. 1987; EPA 1986; Water 1974; NGT 2010.",
+      "likelihood": "high",
+      "id": "p118",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 1,
+      "type": "assertion_reason",
+      "category": "formula",
+      "stem": "Assertion (A): For the same r and n, exponential population growth exceeds geometric growth.\nReason (R): Continuous compounding e^(rn) is greater than discrete compounding (1+r)^n for r>0, n>0.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Both A and R are true, and R is the correct explanation of A"
+        },
+        {
+          "key": "b",
+          "text": "Both A and R are true, but R is not the correct explanation of A"
+        },
+        {
+          "key": "c",
+          "text": "A is true, but R is false"
+        },
+        {
+          "key": "d",
+          "text": "A is false, but R is true"
+        }
+      ],
+      "answer": "a",
+      "explanation": "Both true; e^(rn) > (1+r)^n for positive r,n — classic Week 1 trap.",
+      "likelihood": "high",
+      "id": "p119",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "week": 10,
+      "type": "assertion_reason",
+      "category": "formula",
+      "stem": "Assertion (A): Doubling the distance from a free-field point source reduces SPL by about 6 dB.\nReason (R): Intensity falls as 1/r^2, and ΔLp = −20 log10(r2/r1) equals −6 dB when r2=2 r1.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Both A and R are true, and R is the correct explanation of A"
+        },
+        {
+          "key": "b",
+          "text": "Both A and R are true, but R is not the correct explanation of A"
+        },
+        {
+          "key": "c",
+          "text": "A is true, but R is false"
+        },
+        {
+          "key": "d",
+          "text": "A is false, but R is true"
+        }
+      ],
+      "answer": "a",
+      "explanation": "Both true; R is the quantitative explanation of the inverse-square −6 dB rule.",
+      "likelihood": "high",
+      "id": "p120",
+      "multi": false,
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "id": "p121",
+      "week": 1,
+      "type": "msq",
+      "multi": true,
+      "category": "definition",
+      "likelihood": "high",
+      "stem": "Which of the following are correctly treated as renewable natural resources?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Solar radiation"
+        },
+        {
+          "key": "b",
+          "text": "Freshwater renewed by the hydrologic cycle"
+        },
+        {
+          "key": "c",
+          "text": "Coal seams"
+        },
+        {
+          "key": "d",
+          "text": "Wind"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "Solar and wind renew continuously; freshwater renews via the hydrologic cycle. Coal is non-renewable.",
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "id": "p122",
+      "week": 1,
+      "type": "msq",
+      "multi": true,
+      "category": "concept",
+      "likelihood": "high",
+      "stem": "Which combinations indicate an ecological deficit (EF = footprint, BC = biocapacity)?",
+      "options": [
+        {
+          "key": "a",
+          "text": "EF = 3, BC = 2"
+        },
+        {
+          "key": "b",
+          "text": "EF = 2, BC = 3"
+        },
+        {
+          "key": "c",
+          "text": "EF = 5, BC = 4"
+        },
+        {
+          "key": "d",
+          "text": "EF = 4, BC = 4"
+        }
+      ],
+      "answer": [
+        "a",
+        "c"
+      ],
+      "explanation": "Deficit when EF > BC.",
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "id": "p123",
+      "week": 2,
+      "type": "msq",
+      "multi": true,
+      "category": "concept",
+      "likelihood": "high",
+      "stem": "Which of the following are among the classic pillars of sustainable development?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Social equity"
+        },
+        {
+          "key": "b",
+          "text": "Environmental / ecological integrity"
+        },
+        {
+          "key": "c",
+          "text": "Economic viability"
+        },
+        {
+          "key": "d",
+          "text": "Military expansion"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Social, environmental, and economic pillars — not militarization.",
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "id": "p124",
+      "week": 3,
+      "type": "msq",
+      "multi": true,
+      "category": "definition",
+      "likelihood": "high",
+      "stem": "Which of the following are primary precursors of ground-level (tropospheric) ozone?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Carbon monoxide only"
+        },
+        {
+          "key": "b",
+          "text": "Nitrogen oxides (NOx)"
+        },
+        {
+          "key": "c",
+          "text": "Elemental mercury"
+        },
+        {
+          "key": "d",
+          "text": "Volatile organic compounds (VOCs)"
+        }
+      ],
+      "answer": [
+        "b",
+        "d"
+      ],
+      "explanation": "Tropospheric O3 forms from NOx + VOCs in sunlight.",
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "id": "p125",
+      "week": 3,
+      "type": "msq",
+      "multi": true,
+      "category": "concept",
+      "likelihood": "high",
+      "stem": "Which are ozone-depleting substances (ODSs) targeted in classic Montreal Protocol teaching?",
+      "options": [
+        {
+          "key": "a",
+          "text": "CFCs"
+        },
+        {
+          "key": "b",
+          "text": "CO2"
+        },
+        {
+          "key": "c",
+          "text": "Halons"
+        },
+        {
+          "key": "d",
+          "text": "Some chlorinated ODS solvents historically used"
+        }
+      ],
+      "answer": [
+        "a",
+        "c",
+        "d"
+      ],
+      "explanation": "CFCs/halons (and related ODSs) deplete stratospheric ozone; CO2 is mainly a GHG.",
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "id": "p126",
+      "week": 4,
+      "type": "msq",
+      "multi": true,
+      "category": "concept",
+      "likelihood": "high",
+      "stem": "Which major greenhouse gases also occur naturally in Earth's atmosphere?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Carbon dioxide (CO2)"
+        },
+        {
+          "key": "b",
+          "text": "Methane (CH4)"
+        },
+        {
+          "key": "c",
+          "text": "Synthetic CFCs only (no natural source)"
+        },
+        {
+          "key": "d",
+          "text": "Water vapor (H2O)"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "CO2, CH4, and water vapor occur naturally; CFCs are synthetic.",
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "id": "p127",
+      "week": 4,
+      "type": "msq",
+      "multi": true,
+      "category": "concept",
+      "likelihood": "medium",
+      "stem": "Which are primary functions of the IPCC?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Review and synthesize peer-reviewed climate science"
+        },
+        {
+          "key": "b",
+          "text": "Run its own global climate laboratory experiments as its main role"
+        },
+        {
+          "key": "c",
+          "text": "Assess impacts including socioeconomic dimensions"
+        },
+        {
+          "key": "d",
+          "text": "Produce assessment reports that inform policy"
+        }
+      ],
+      "answer": [
+        "a",
+        "c",
+        "d"
+      ],
+      "explanation": "IPCC assesses literature and informs policy; it is not primarily an experimental lab.",
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "id": "p128",
+      "week": 5,
+      "type": "msq",
+      "multi": true,
+      "category": "formula",
+      "likelihood": "high",
+      "stem": "Which factors commonly limit practical solar PV electricity yield at a site?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Available land or rooftop area"
+        },
+        {
+          "key": "b",
+          "text": "Solar resource / irradiance"
+        },
+        {
+          "key": "c",
+          "text": "Module conversion efficiency"
+        },
+        {
+          "key": "d",
+          "text": "The Betz limit for wind turbines"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Betz limit applies to wind, not PV.",
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "id": "p129",
+      "week": 5,
+      "type": "msq",
+      "multi": true,
+      "category": "concept",
+      "likelihood": "medium",
+      "stem": "Which are recognized environmental concerns associated with wind energy?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bird and bat collisions"
+        },
+        {
+          "key": "b",
+          "text": "Habitat fragmentation from infrastructure"
+        },
+        {
+          "key": "c",
+          "text": "Noise and visual impacts"
+        },
+        {
+          "key": "d",
+          "text": "Direct CO2 emissions during operation comparable to coal plants"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Operating turbines are not coal-like CO2 emitters; wildlife/noise/visuals are typical concerns.",
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "id": "p130",
+      "week": 6,
+      "type": "msq",
+      "multi": true,
+      "category": "concept",
+      "likelihood": "high",
+      "stem": "Which are potential benefits of biomass pretreatment for biofuel production?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Increase surface area for enzymatic hydrolysis"
+        },
+        {
+          "key": "b",
+          "text": "Reduce cellulose crystallinity / improve digestibility"
+        },
+        {
+          "key": "c",
+          "text": "Help remove or alter lignin barriers"
+        },
+        {
+          "key": "d",
+          "text": "Directly finish conversion to retail gasoline with no further steps"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Pretreatment prepares feedstock; it does not itself finish fuel production.",
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "id": "p131",
+      "week": 6,
+      "type": "msq",
+      "multi": true,
+      "category": "concept",
+      "likelihood": "medium",
+      "stem": "Which are common direct-use applications of geothermal energy?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Space/district heating"
+        },
+        {
+          "key": "b",
+          "text": "Greenhouse heating"
+        },
+        {
+          "key": "c",
+          "text": "Some industrial process heat"
+        },
+        {
+          "key": "d",
+          "text": "Powering photosynthesis inside leaves"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Direct-use geothermal heats buildings/processes; photosynthesis is solar-driven.",
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "id": "p132",
+      "week": 7,
+      "type": "msq",
+      "multi": true,
+      "category": "definition",
+      "likelihood": "high",
+      "stem": "Which strategies align with a circular economy (not linear take-make-dispose)?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Product reuse and remanufacturing"
+        },
+        {
+          "key": "b",
+          "text": "Design for disassembly and recycling"
+        },
+        {
+          "key": "c",
+          "text": "Industrial symbiosis"
+        },
+        {
+          "key": "d",
+          "text": "Maximizing single-use disposal without recovery"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Circular strategies keep materials in use.",
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "id": "p133",
+      "week": 8,
+      "type": "msq",
+      "multi": true,
+      "category": "definition",
+      "likelihood": "high",
+      "stem": "Which statements about water withdrawal vs consumption are correct?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Withdrawal is water taken from a source"
+        },
+        {
+          "key": "b",
+          "text": "Consumption is the portion not returned to the source"
+        },
+        {
+          "key": "c",
+          "text": "Withdrawal and consumption are always identical"
+        },
+        {
+          "key": "d",
+          "text": "Cooling water returned to a river is largely withdrawn but not fully consumed"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "Returned water counts as withdrawal more than consumption.",
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "id": "p134",
+      "week": 9,
+      "type": "msq",
+      "multi": true,
+      "category": "concept",
+      "likelihood": "high",
+      "stem": "Which belong near the top of the ISWM hierarchy (preferred first)?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Prevention / reduction at source"
+        },
+        {
+          "key": "b",
+          "text": "Reuse"
+        },
+        {
+          "key": "c",
+          "text": "Recycling / recovery"
+        },
+        {
+          "key": "d",
+          "text": "Uncontrolled open dumping as first choice"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Prevention, reuse, recycling beat dumping.",
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "id": "p135",
+      "week": 10,
+      "type": "msq",
+      "multi": true,
+      "category": "definition",
+      "likelihood": "high",
+      "stem": "Which statements about TTS vs PTS are correct?",
+      "options": [
+        {
+          "key": "a",
+          "text": "TTS is temporary hearing sensitivity loss that can recover"
+        },
+        {
+          "key": "b",
+          "text": "PTS is lasting hearing damage"
+        },
+        {
+          "key": "c",
+          "text": "PTS always recovers fully within minutes"
+        },
+        {
+          "key": "d",
+          "text": "Repeated TTS exposures can raise risk of permanent damage"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "TTS recovers; PTS does not.",
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "id": "p136",
+      "week": 11,
+      "type": "msq",
+      "multi": true,
+      "category": "concept",
+      "likelihood": "high",
+      "stem": "Which are examples of regulating ecosystem services?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Climate regulation by forests"
+        },
+        {
+          "key": "b",
+          "text": "Flood regulation"
+        },
+        {
+          "key": "c",
+          "text": "Nutrient cycling (typically a supporting service)"
+        },
+        {
+          "key": "d",
+          "text": "Disease regulation"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "Nutrient cycling is classically supporting, not regulating.",
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "id": "p137",
+      "week": 11,
+      "type": "msq",
+      "multi": true,
+      "category": "concept",
+      "likelihood": "medium",
+      "stem": "Which statements about ecosystem energy flow are correct?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Energy transfer between trophic levels is 100% efficient"
+        },
+        {
+          "key": "b",
+          "text": "Solar energy is the primary energy source for most ecosystems"
+        },
+        {
+          "key": "c",
+          "text": "Chemical energy in biomass moves through food webs"
+        },
+        {
+          "key": "d",
+          "text": "Energy is fully recycled like nutrients in closed loops"
+        }
+      ],
+      "answer": [
+        "b",
+        "c"
+      ],
+      "explanation": "Energy flows and dissipates; nutrients cycle.",
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "id": "p138",
+      "week": 12,
+      "type": "msq",
+      "multi": true,
+      "category": "law",
+      "likelihood": "high",
+      "stem": "Which legal ideas are strongly associated with landmark Indian environmental cases in this course?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Absolute liability (Oleum Gas Leak)"
+        },
+        {
+          "key": "b",
+          "text": "Polluter Pays (e.g., Vellore)"
+        },
+        {
+          "key": "c",
+          "text": "Public Trust Doctrine (e.g., Kamal Nath)"
+        },
+        {
+          "key": "d",
+          "text": "Unlimited right to pollute if any tax is paid"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "Oleum, Vellore, and Kamal Nath map to absolute liability, polluter pays, and public trust.",
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "id": "p139",
+      "week": 12,
+      "type": "msq",
+      "multi": true,
+      "category": "law",
+      "likelihood": "medium",
+      "stem": "Which statements about the National Green Tribunal (NGT) are generally correct?",
+      "options": [
+        {
+          "key": "a",
+          "text": "It is a specialized forum for environmental disputes"
+        },
+        {
+          "key": "b",
+          "text": "It can apply principles like polluter pays and precautionary principle"
+        },
+        {
+          "key": "c",
+          "text": "It replaces the need for any environmental statutes in India"
+        },
+        {
+          "key": "d",
+          "text": "It was created by statute to provide faster environmental adjudication"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "NGT is a specialized statutory tribunal; it does not erase other env. laws.",
+      "trust": "predicted",
+      "verified": false
+    },
+    {
+      "id": "p140",
+      "week": 3,
+      "type": "msq",
+      "multi": true,
+      "category": "concept",
+      "likelihood": "medium",
+      "stem": "Under a strong elevated inversion, which statements are plausible for stack emissions?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Pollutants emitted below the inversion can be trapped near the surface"
+        },
+        {
+          "key": "b",
+          "text": "Poor dispersion can worsen local air quality"
+        },
+        {
+          "key": "c",
+          "text": "Inversions always improve vertical mixing"
+        },
+        {
+          "key": "d",
+          "text": "Emission height relative to the inversion layer matters"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "Inversions suppress mixing; trapping and stack height relative to the lid matter.",
+      "trust": "predicted",
+      "verified": false
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+                                       Environmental Science
+                         Prof. Samik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                Week 10
+                                               Lecture 02
+                                              Audiometry
+
+Welcome everyone to our second lecture. In the series on noise pollution, today we are going
+to look at audiometry. How do we measure our own response to sound? So, we will be looking
+at measuring noise or sound, we will be looking at weighting networks, what is audiometry,
+what are audiograms and how do we measure hearing loss. The keywords are weighting
+network, threshold of pain, threshold of hearing, octave, loudness and fawn.
+
+So how do we measure noise? Sound meters are designed to capture two aspects. I already
+mentioned in the first lecture that sound or noise is not just physics, it is psychology as well
+because the same sound may sound like music to one person and noise to another person.
+We all know, we have friends, some love a certain kind of music and the other people hate the
+same kind of music. So that's the simplest example of the fact that different types of sound
+result in different responses from different human beings. So that's the first point. Now how
+do you design a sound meter that is designed to mimic human response to sound? They have
+to capture both these aspects. They are called sound level meters. They are capable of
+capturing the physical as well as psychological aspects of sound. They are not simply sound
+pressure meters. A sound pressure meter is physical pressure only. So, a sound pressure
+meter measures only physical pressure. Human response to sound as I said is a combination
+of physics and psychology. So, a pure physical measurement is not very useful for human
+beings. It has a sound level meter has a few basic parts to it.
+
+So this is our sound level meter. Your own phone is a pretty good example of a sound level
+meter. It has a calibrator and there are several other parts to it. So, you have your microphone,
+your preamplifier, weighting network is actually an electronic filter. So, it's basically a digital
+filter or an electronic filter which we will come to in a minute or so. You have an amplifier, an
+output jack, a rectifier and a display meter for the readings.
+So let us go into a few more details about how sound level meters work. Sound energy from
+the source is converted into electrical signals by the microphone. There are three basic types
+of microphones that are available. They are called condensers, crystal or piezoelectric type
+microphones and dynamic microphones. From the microphone, the electrical signal that is
+created by the microphone is then going to go through the preamplifier. So back to this
+diagram, we are going the sound wave is travelling from the source to the microphone.
+The sound wave is the sound energy is converted to an electrical signal. From there it goes
+to the preamplifier and the preamplifier is used for boosting the electrical signal for
+magnifying it. From there it goes to the weighting network. Now remember the weighting
+network is not a device, it is more like a software that is used for modifying the electrical
+signals to make them acceptable to the human range of hearing. So, if you remember DBA,
+actually we will be talking about it in the next few slides. DBA is the most commonly used
+weighting network and, in that case, low frequency sounds are cancelled. In any case I will
+be talking about that in more detail after a few slides. The weighting networks are used to
+modify the electrical signals to account for human response to low frequency sounds. We then
+come to the amplifier. So, from the weighting network it goes to the amplifier. In the amplifier
+the modified signals from the weighting network are further boosted. From there it goes to a
+rectifier. These electrical signals which were AC signals are now converted to DC and finally
+you get either an analog or a digital response that can be displayed on a display meter. So, the
+older instruments were based on a needle-based response which is an analog response and
+nowadays we have digital display meters. The sound level meter that you see here has a
+display meter that is digital. Your own phone and the apps that you can use with the phone
+all of them will give you a digital response which gives you the decibel level. So let us take a
+look at the sound level and the meters response. The sound level meter will respond in a
+certain way and these are time weighted averages that we normally use. So, your time
+weighted averages can be based on fast, slow or impulse responses. So let us take a look at
+how that looks.
+
+Now here we have a sound level meter reading where the level has gone from 50 decibels to
+80 decibels and this is an instantaneous reading. I will be talking more about this later but
+we get instantaneous readings and then we convert it to time averaged decibel readings. So
+the red line represents instantaneous readings. Now in this particular case the red line tells
+you how it has changed within seconds or within milliseconds. In any case if you have a fast
+response or a slow response you have an option when you take a sound level meter you have
+to say whether you want a fast response or a slow response. What is the meaning of fast
+response and slow response? It means how much of the duration of instantaneous readings
+is taken for time averaging. So, in the fast response here the response time is given as one
+eighth of a second. So that is 125 milliseconds. In the slow response the reaction time or
+response time is one second. It is added into the software it seems. So, in any case what it
+shows is that these 80 decibels come down to the original level of 50 decibels after 6 seconds.
+Now when the instantaneous reading for 80 dB ends and the noise level comes down to 50
+dB in the fast response curve it takes at least one second for the reading to come down to 50
+dB. So, you can see the green line here it takes one additional second. If you compare it with
+the red line that is the instantaneous level and the green line is the fast response. So, the
+response is registered after one second. In the case of the slow response curve, it takes an
+additional 7 seconds for the response to show at 50 dB. So from 80 dB to 50 dB it takes an
+additional 7 seconds to come down and that is why it is the slow response level. So, what you
+can see with the fast versus slow response is that the slow response will dampen the
+fluctuation to a greater extent than the fast response. So, whenever you have high variability
+in the sound levels then the slow response is a better option and when you have less
+variability the fast response is a better option. You can also look at impulse sounds. Now
+impulse levels or impulse sounds they are sharp very high kinds of sounds and you can think
+of firecrackers, you can think of gunshots, you can think of tire bursts those kinds of single
+bursts of sound are basically what we call impulse sound. So, the same thing is shown over
+here where 50 to 80 decibels instantaneous change in sound pressure is noted and this
+impulse sound has a response time of 35 milliseconds. So that is averaged over a this is an
+average over a much longer period of time and there are different ways of dealing with that.
+So I would not go into too many details you can follow it from the original source.
+
+We will be looking at some more metrics that are used for sound level measurements. So, we
+will be looking at instantaneous sound levels, time weighted averages or equivalent energy
+levels, LC peak, L max and L average and these readings can be integrated over variable
+durations of time. So, there are several metrics that are used for sound measurements. We
+will be looking at that in other lectures.
+So, if you are measuring sound using a sound level meter there are certain thumb rules that
+have to be followed. Sound level meter has to be mounted on a tripod so that you get a stable
+measurement and the operator should be at least half a meter away from the edge of the
+meter. If you are taking outdoor measurements, it should the sound level meter should be at
+least 1.2 to 1.5 meters above the ground and at least 3 and a half meters away from any
+reflecting surface such as buildings. If you are taking sound measurements inside an enclosed
+space basically indoors the same thumb rules are there for keeping the sound level meter. So,
+it should be 1.2 to 1.5 meters above the floor. It should be 1.5 meters away from windows
+and 1 meter away from walls. Remember that each one of these surfaces is a reflecting
+surface. So indoor measurements should also be done with windows closed. I will try to show
+you a demo of sound level measurements.
+So, as I said this is a very simple demo of a sound level meter app. This is the NIOSH app on
+the iPhone and you can see some of the parameters. The first one the larger numbers right
+at the top are for the instantaneous sound level measurement and it is in DBA, A being the
+weighting network which we will look at later. There is a total run time. So, you can see the
+total run time. Right now, it is in seconds. I can do this for minutes, hours and so on. So,
+depending on whatever I am trying to do I can make the run time whatever it whatever I want
+it to be. I have already given you the instantaneous level that is the larger number. After that
+you have LAeq. So that is the average equivalent energy level and we will be looking at that
+later in the week in these lectures. L maximum is the maximum sound level recorded and
+LCP is the peak recording during that period.
+So let's come to that in a little bit. So you will get a display in decibels. What are these
+weighting networks? As I said it is an electronic filtering device. It is not a physical point. It is
+like a software that is built into these sound meters to cancel or attenuate certain frequencies.
+So now as I said every phone has all these parts to it. You have microphones and amplifiers
+and so on. And you can download sound level meter apps. I have an app on you can have
+Android apps or apps for iPhones and so on. There are different ones. The NIOSH app is for
+iPhones only and the other apps are available on the Internet and you can always measure
+sound levels in decibels using these apps. So here we have weighting networks.
+Let me show you the graph before I talk about it. I showed you in the previous lecture a
+notation that says DBA. What is DBA? DBA stands for decibel and A stands for A weighting
+network. So, you have A weighting network, B weighting network, C weighting network. We
+are going to ignore D weighting network. Now what are these networks? So let us come to
+this point. These are internationally accepted weighting scales that account for the
+psychological response to sound.
+So, if we look at our A weighting scale. Now this A weighting scale or A weighting network
+approximates human response to low frequency sound. So low frequency sounds are
+removed and there is very little correction in the high frequencies. So high frequencies are
+maintained and low frequencies are removed in a big way. So low frequency sounds are
+removed. B network approximates human response to medium intensity sound. Low
+frequency sounds are removed to a lesser extent compared to high frequency sounds. So you
+look at B in the low frequency range A is removing all the low frequencies, B is removing less
+of the low frequencies and C is not removing any of the low frequencies. Most measurements
+are done using DBA, A weighting network. So this is to account for human response to low
+frequencies and you can also notice that the high frequencies are more or less the same in all
+cases. So from 1000 hertz to higher there is very little correction except after 10,000 hertz
+and the C weighting network there is almost no correction except at frequencies lower than
+100 hertz. So this is to account for the psychological response to sound. And this is an
+internationally accepted method.
+
+Okay, so here we have a very simple problem. We have a type 2 sound level meter which is
+to be tested with 2 pure tone sources. Now pure tone there are fixed frequencies. So, when
+you have a pure tone, you have a fixed frequency. So, the 2 sources are 1000 hz and 100 hz
+and the loudness level is 90 decibels. What are the readings expected on the A, B and C
+weighting networks? So based on this graph you can determine the readings on the A
+weighting network, B weighting network and C weighting network. So at 1000 what is the
+difference? So let us take a look at that. So, at 1000 hz we have no correction. So, whether it
+is A, B or C, so the blue, yellow or red line at 1000 hertz zero correction in all 3 cases. What
+about 100 hertz? At 100 hertz you can see that there is a serious correction in the dB (A)
+value. It is close to minus 20. In the B weighting network, it is close to 5 and in the C weighting
+network it is almost negligible. So let us look at the real values. For the A weighting network
+90 minus 19.1 the real value is 71 dB(A). For the B weighting network, you subtract 5.6 to get
+84 dB (B) and for the C network you subtract 0.3 to get 89.7 or 90dB (C).
+
+How do we average sound pressure levels? Let us say you take a series of sound pressure
+level readings. How do you determine the average of those readings? So here is our equation
+for determining the average sound pressure level. So you have
+
+                                                                  1
+                                        = 20 [ = 1  10/20]
+N is the number of measurements. We have I which ranges from 1 to N and this is the sum.
+So first you have to add up all the sound pressure levels in the log scale in the 10 to the power
+sound pressure levels and then divide by N and then take the log value again. So 10Li, Li is the
+sound pressure level for I number of measurements which range from 1 to n. 20 is for our
+reference level and remember our reference level remains 20 micro-Pascals and this is the
+formula. So, for 4 readings 38, 51, 68 and 78 decibels you have to determine the average and
+it comes to 69 decibels.
+So, we have two problems over here and I kind of mentioned the first problem that is shown
+on the slide I went over it in the previous lecture. But in either case let us say you have a room
+with two speakers both of them at the same sound level it may be 40 decibels, 60 decibels, 80
+decibels. So in each case how would you determine the total sound level or what is perceived
+by the person in the room. So if the speakers are identical the difference between the two
+sources is going to be 0. So for 0 difference between two sources, you have to add 3 decibels
+to the higher number. So, coming back to this slide for 40 decibels you add 3 you get 43
+decibels for 60 decibels you will get 63 decibels for 80 decibels you will get 83 decibels.
+Supposing you have 3 speakers all at the same sound level what will you do for adding up.
+Again, the difference is very small so for 3 sources at sound levels of 40 decibels each the
+sound pressure level with reference to 20 micro pascals will be 3.15 decibels higher. For 3
+sources we have 3.15 decibels higher. so for 40 decibels it will be 43.15 decibels for 60
+decibels it will be 63.15 decibels for 80 decibels it will be 83.15 decibels.
+We have already gone through this the graph remains the same so you can either use the
+graphical method or you can do it mathematically as well.
+
+Let us now come to audiometry. What is audiometry? Audiometry is measuring the response
+of a single individual to different frequencies of sound. Can they hear it? Do they consider it
+loud and so on. What is the normal hearing and sensitivity range? Young healthy males have
+an ability to hear sound from 20 hertz to 16,000 hertz. Men and children have a slightly wider
+range 20 to 20,000 hertz. Our speech ranges from 500 to 2000 hertz. Our ability to hear our
+ears are most sensitive between 2000 to 5000 hertz. I have already mentioned that the
+threshold of hearing is 20 micro pascals we call that zero decibels and we should also keep in
+mind that the noise spectra is divided into octaves. Those from a musical background would
+understand that better but these are the octave bands.
+
+So you have octave bands based on the frequencies. There is a doubling of the frequency as
+you increase the octave band. So 22 to 44 which will have a geometric mean frequency of
+31.5 hertz and the next band is 44 to 88 then from 88 to 175, 175 to 350 and so on all the
+way to 44,800 hertz and you can see the geometric mean frequency. So, the measurements
+in general in an audiometric case is for 8 measurements. I will show you an example in a little
+bit. So octaves are the frequency intervals between a given frequency and the frequency
+double that. So that is how you get 22 hertz to 44 hertz is the first octave followed by 44 to
+88 and so on what I just showed you in the previous slide. So let's maybe look at an example.
+We then come to loudness. What is loudness? Now loudness again is a psychoacoustic
+quantity. It shows, so here we have sound pressure levels and frequencies. Now for different
+frequencies you can see the sound pressure levels and what sounds loud. So, we have a
+reference value for every frequency what is the level at which the human being can perceive
+that sound. At the low frequencies it takes much louder sound to be perceived. Our ability to
+hear low frequencies is poorer compared to our ability to hear high frequencies. So here we
+have low frequency sound it has to be at 45 decibels. Let's say from 100 to 200 we have a very
+low frequency this is 100 to 200 hertz. You need to have 45 decibel sound to be able to hear
+it. As the frequency goes from 100 to 1000 the decibel value of 7.5 is audible. So, this is the
+difference between different frequencies and the loudness levels. Can I hear it? And that
+depends on a combination of frequency and the decibel level. So here are what are called
+equal loudness contours. So, Fletcher and Munson are the first paper that was published way
+back in 1933. They published the paper which gives the equal loudness contours. Now these
+equal loudness contours tell you what is either audible or what seems to be loud and
+perceivable by a normal adult. So these are called loudness contours equal loudness contours.
+The Fletcher Munson curves are in blue and those are the ones that were published in 1933.
+They have been revised in 2003 under the International Standards Organization 226 revised
+in 2003. So those are the red lines. So that is what is acceptable these days.
+So these are the equal loudness contours and they show the relationship between pressure,
+intensity, loudness, audible frequencies and so on. Now two pure tones which have the same
+wavelength but different frequencies will have the same sound pressure level but different
+loudness level. So, I have already shown the equal loudness contours of Fletcher Munson and
+then we come to fawn. Now fawn is another part of these equal loudness contours. So the unit
+here is fawns and that is for 1000 hertz pure tone. So the sound pressure level at 1000 hertz
+so a fixed tone pure tone at 1000 hertz in decibels is considered a fawn. Just to mention one
+more point the ANSI reference values for the hearing threshold.
+So this is an international reference set of values that gives us what is audible at different
+frequencies. So just so basically this explains that low frequencies you need much higher
+loudness or intensity for that sound to be audible and as the frequency increases our ability
+to hear sound is higher and that means lower decibels can be heard and at the very high
+frequencies again there is some increase.
+
+I will end with the references. Thank you.
+

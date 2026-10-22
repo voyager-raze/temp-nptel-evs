@@ -1,0 +1,326 @@
+                                       Environmental Science
+                        Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                           Multidisciplinary
+                           Indian Institute of Technology Kharagpur
+
+                                                Week 01
+                                               Lecture 05
+     Measuring ­Earth Overshoot Day, Energy Performance Index and Lifecycle
+                                               Assessment
+
+ Welcome, everyone to the fifth and final lecture of week 1. We were looking at different
+methods of measuring environmental impacts and we will continue with that idea in this
+lecture as well. So, this time we are going to look at earth overshoot day, energy
+performance index and life cycle assessment.
+So, as I said these are some of the topics that we are going to cover and we will move to
+that.
+
+Ecological footprint, demand and supply of resources, biocapacity, global hectares, energy
+performance index, life cycle assessment and I will be using different types of paper to
+illustrate the idea of life cycle assessment.
+Continuing with the idea of the ecological footprint, we now have a concept based on the
+same idea and it is called earth overshoot day.
+
+ The global footprint network calculates the earth overshoot day based on determining
+humanity's demand for ecological resources and services in a given year and what the earth
+can regenerate. So, biocapacity per person is calculated, accounting for food, fiber, timber,
+space for roads and structures, energy production whether it is from hydropower, biomass
+whatever it is and waste absorption including CO2 emissions from fossil fuel or any other
+activity like cement production and so on. Now as long as our ecological footprint is below
+the biocapacity there is no issue But, when the date on which the ecological footprint on a
+per capita basis exceeds the biocapacity then you have what is called the earth overshoot
+day. So, the global ecological footprint on a per person basis is 2.
+
+8 global hectares and the global biocapacity is 1.6 global hectares. So, I covered most of
+these points in the previous lecture and just to give you an idea of what this means.
+
+So, in 1971 earth overshoot day was at the end of December. So, what that means is that
+in 1971 biocapacity and the ecological footprint were more or less equal not too different.
+ So, within one year the ecological resources that were being utilized were within the
+earth's capacity to regenerate them within a year. What has happened in the subsequent
+years in the years after that is that the date is arriving sooner and sooner. So, we now
+have a situation where let us look at when it landed for 2019. The earth overshoot day was
+29th July 2019. In 2021 we have 30th July and in 2022 it was 28th July.
+ Why am I skipping 2020? 2020 was the year of the global COVID lockdown. So, because
+of that several activities mainly transportation were stopped and because of that we now
+have a way to understand the impact of a global lockdown on the earth overshoot day. So,
+you can see how much we gained. We gained a few days not much. So instead of 29th
+July 2019 we have 22nd August 2020 for the year 2020.
+So even a global lockdown did not have a huge impact on the utilization of resources. So
+that is one of the take home messages of this exercise, this method of measuring whether
+we are living within the earth's capacity to regenerate our ecological resources. Taking a
+closer look at 2020, the main drivers in 2020 for the reduction in ecological footprint, there
+was a small reduction and therefore the date was later. The carbon footprint was reduced
+by 14.5% compared to 2019 and the forest footprint was reduced by 8.4% and for obvious
+reasons there was no change in the food footprint because everyone is basically going to
+eat more or less the same amount no change.
+
+This slide is basically a tabulation of the same data that is shown in this graph
+And this will allow you to take a closer look at how earth overshoot day has been happening
+in the last few years.
+
+Let's take up something that is far less complicated and something that you can do at your
+own individual level. This is a very simple exercise and I have included it for the simple
+reason that it is simple, unlike the ecological footprint calculation. So, this is an energy
+usage calculator.
+ It doesn't take much. All it takes is your electricity bill. That's the only set of data that
+you need to collect and you need to know the area of your home, office, building, whatever
+you are trying to determine the energy performance index for. So, the first question you
+need to answer is how much energy are you using? We all get electricity bills. We know
+on an average how many electrical units per year we utilize.
+
+ So, you can tabulate your electrical bills. We normally get them on a monthly basis.
+Ideally you should do it for three to five years but for a simple exercise you can do it even
+for one year. You definitely need to do it for a minimum of one year. Use the same
+location, same office, same house, same look.
+
+ It can be for an entire educational campus. It can be for an organization. It can be even
+for a city. It all depends on how ambitious your desire is but you can start with your own
+house or office. Once you know your monthly electricity bill you can calculate your
+average annual electricity usage.
+
+ You need to know the area of your house, office or entire location of interest. The units
+of EPI are kilowatt hours per square meter per year. That is the EPI and you can compare
+this number across locations, across seasons. It's a sort of single unit that you can compare
+to any location in any country and you can also compare across time. So that itself makes
+it very easy to use and compare different units and so on.
+
+ Why do I like it so much? I have a special preference for it and that is you can use it to
+evaluate consumption patterns and conservation measures. Many of us are using different
+types of conservation measures as well as we've had the COVID lockdown. So, one of the
+simplest exercises that anyone can do if they have the electricity bills pre-COVID and
+during COVID and post-COVID. You have an event like that you can collect all your
+electricity bills for these periods, divide your time into these periods and then calculate the
+EPI pre-COVID lockdown, during the lockdown and post-COVID lockdown to understand
+whether there is a significant difference in the usage of electrical energy before and after
+the lockdown. That is one example.
+
+ The second is that many of us are using conservation measures. What are these
+conservation measures? We are now going for solar energy, we are now going for wind
+energy, wave energy. So many renewable forms of energy are becoming fairly prevalent
+in our society. You can use this method. Let's say somebody installs solar panels for their
+house.
+ You can use this methodology to compare the EPI prior to installation of the solar panels
+and after installation of the solar panels. That's one example. There are many people who
+are using sensors. So, you have room occupancy sensors where you have automatic
+switching on and off of lights depending on the occupancy in the room. You can determine
+whether the sensor is effective in reducing your electrical usage.
+ So, when you install a sensor, you can compare your bills before and after installation.
+So, these are some of the things that are being done and can be done quite easily.
+
+What are the factors that affect EPI values? This is a long list of factors that we use in
+understanding differences in EPI values. The first is floor area. I started this exercise based
+on a report that was available from the US EPA where they did a survey of 2.
+6 lakh buildings of all types throughout the country. And they found that refrigerated
+supermarkets and grocery stores were using more energy than the unrefrigerated ones. So
+that seems like common sense. What we also found in our survey, and this paper has been
+published, I will share some of the findings over here.
+What we found in our survey, here in IIT Kharagpur campus, you can see the highest EPI
+value was for the ATM and the pharmacy followed by the telephone exchange.
+
+ These are not commercial, these are what we call public service buildings. Now you
+know that the floor area of an ATM is very small. What is the difference? Why is the EPI
+value the highest? The EPI value is highest because one, the ATM, if I can use that term,
+is run 24-7 and it is air-conditioned 24-7. Same thing for the pharmacy. The pharmacy is
+also air-conditioned, it is a larger area, but it is also running 24-7.
+
+ Because the air-conditioning is running 24-7 in all three places, even though the area is
+very small, these are public service buildings, so there is a lot of input and output from
+these areas and because of that the EPI values are very high. So, floor area and volume of
+the rooms is a major factor.
+The second factor on this slide is number of occupants. Now you can think about your
+own electricity consumption when you are alone in the home versus when there are more
+occupants in the same area, whether it is a home or an office or even a larger commercial
+complex, whatever it is. So, number of occupants, the nature of activity and the nature of
+air conditioning and so on will have an impact on EPI values.
+
+ So, I leave it at that, it is not always going to increase or decrease, there can be different
+situations depending on the number of occupants and we will leave it at that and move to
+the next factor. We come to economic level. We all know this again seems like common
+sense that the richer person is going to be having more electrical appliances in their home
+and because of that they will be utilizing more electrical energy. So, because of electronic
+appliances and all of these factors, the economic level of the occupant, occupants of that
+area, whether it is a school, office, home, it does not matter, it will have an impact.
+
+ Hours of usage. How many hours are you using it? I have already mentioned when I
+talked about the ATM. Our ATM is open 24-7, the pharmacy is open 24-7 and so is not so
+much the telephone exchange. What I don't have here but it is there in the paper that was
+published is that schools are open for the shortest period in a day. Schools are open for
+about 6 hours per day for 5 to 6 days a week. Offices are often open for 8 hours a day for
+5 to 6 days a week and I have already mentioned these facilities like hospitals, ATMs and
+supermarkets in some cases.
+ They are often open 24-7, 7 days a week. So, depending on the number of hours of usage,
+you will have higher or lower EPI values.
+
+Then we come to climate and seasonal variation. Again, coming to this slide, this is a 12-
+month period and you can see that there are two downturns in this graph of EPI values for
+commercial buildings within the campus. The first dip is in April and that is followed by
+a bigger dip in November, December and January.
+
+ Now there is a one-month lag period in the building of these buildings. So, this dip is
+actually representing the lower usage of electricity during winter. So, most people don't
+use fans and definitely not air conditioners during winter. So that is the dip over here.
+
+ It's also vacation time during campus. The summer months where you see the peaks and
+the winter months are where you see the lowest levels and I am saying this is anomalous.
+So, let's come to the next point. Nature of activity in the buildings, public or private. I
+have already given an example of public service buildings over here. Now you can see the
+EPI values are very high.
+
+ In kilowatt hours per square meter per month, the EPI values are in the double-digit
+numbers. In this particular table, what you see are EPI values for a residential home and
+this is a single occupancy residential home. In the first case, the home area was smaller,
+single occupancy which results in an EPI value of 4.6 kilowatt hours per square meter per
+month. You have to convert the square feet to square meters and also use the electrical
+consumption value here to get the average EPI on a monthly basis.
+
+ When the home is greater, the EPI actually falls and in the same home when an air
+conditioner was installed, the EPI which is entirely due to installation of an air conditioner
+has gone from 4 to 4.3. So, you can actually calculate the impact of any electrical appliance
+on your total usage using this methodology and these numbers, these are single digit
+numbers. You can compare that for a private residential building versus these public
+service buildings. They are in the double digits and in the residential areas, both cases in
+table 1 as well as in figure 5, the grey bars are for the halls.
+
+ These are the residential halls. Then we come to energy conservation practices. I have
+already given you some example of that. You can look at EPI values before installation of
+solar panels or in this particular case that I gave you an example of, this is after installation
+of an air conditioner. So, all these kinds of exercises are very easy to do.
+ Another thing is the type of air conditioning. You may have noticed that certain buildings,
+especially public service buildings are often centrally air conditioned. So, we have
+decentralized air conditioning where individual rooms have individual air conditioners or
+you have centralized air conditioning. So, the nature of air conditioning will also determine
+the EPI value. Building materials, the electrical wiring, the construction materials, are the
+houses made of wood, are they made of bamboo, are they made of bricks and cement.
+What is the construction material? How is it as a heat, what is the nature of the material
+and how well does it conduct heat? Is it heat resistant? Is it conducting heat? For example,
+concrete and cement are very good at conducting heat.
+
+ So, they heat up themselves and that heat is basically causing excess heat within the rooms
+and so on. That is one example. Then we come to electrical wiring. We have seen
+experience where people are using either aluminum or copper for electrical wiring. We
+know that copper is a better conductor of electricity compared to aluminum but because
+aluminum is cheap, so people have preferred that.
+
+ But that results in very poor conductance and it can actually result in higher EPI values.
+The shape, size and orientation of a particular building can also result in differences in EPI
+value.
+
+We have one of the last measures of environmental impacts that I will be talking about in
+week one and that is life cycle assessment. Life cycle assessment was proposed by the US
+EPA several decades ago as a methodology for determining environmental impacts of any
+product or process.
+
+ So here we have our inputs. As part of our inputs, we are using raw material, we are using
+energy, air and water. Now in every step of the manufacturing process, all of these inputs
+will have to be accounted for. So raw material extraction, whether you are extracting it
+from mines or from any other resource, natural resource, all that extraction has to be
+accounted for. Then we have transportation of the raw materials to the primary product
+manufacturing sites and very often we notice in petroleum products, we notice this in paper
+products and so many other industries that the primary product does not go directly to the
+consumer. You may have secondary or higher levels of manufacturing.
+
+ So, all of these secondary and higher levels of manufacturing, all these products at all
+levels will then be packaged and distributed. What the consumer sees is going to be a
+limited number of products. So that is the use. At the end of the life of that product, it can
+be either reused or recycled. I will be using paper as an example of this entire exercise.
+ So whether the product is reused or recycled at every step in the process, as I said, we are
+utilizing mass, energy, air and water. We are also generating all kinds of waste. So, we
+are generating gaseous emissions, wastewater emissions and we also have solid waste. So,
+all these outputs also have to be accounted for and their impact on different parts of the
+environment can be quantified.
+
+ So, let us start with our example of paper. There are different types of paper in the market.
+I am using four different types of paper as an example of this exercise in this particular
+slide and in the next one. We do not see recycled paper here. I will come to that later. So,
+when you manufacture paper, most paper manufacturers use wood from softwood as well
+as hardwood trees.
+
+ This is called virgin pulp. It has got three components to it. It has got bark, it has got
+fiber and it has got lignin. De-barking is the first step in the process. So, removal of the
+bark of the wood is the first process. What is interesting is that this de-barking process,
+which is the bark of the wood, is usable as fuel in the next steps in the paper manufacturing
+process.
+
+ So, we have thermo-mechanical pulping where the fuel from the bark or rather the bark
+is used as a fuel for thermo-mechanical pulping. What happens to the fiber and the lignin?
+For good quality paper, lignin has to be removed. But if you are generating newsprint,
+newsprint is considered the lowest grade other than recycled paper, newsprint out of virgin
+pulp is considered the lowest grade of paper. So that does not have to be de-lignified.
+
+ All the remaining types of paper have to be de-lignified. So, this fiber and lignin is taken
+for thermo-mechanical pulping and then it goes for high pressure and high pressure, high
+temperature chemical pulping is done in the next stage to get pure fiber. So, this is the pulp
+that is then used for generating good quality paper and lignin is removed in the process.
+Now as I said, thermo-mechanical pulping without de-lignification gives us newsprint and
+the remaining processes after de-lignification are bleaching and in some cases coating. So,
+bleaching is the next process. Then additives like clay and certain chemicals are added to
+either give the paper a glossy look and so on.
+
+ But if you are using a four-printer paper that has clay and certain chemicals, it is not
+necessarily glossy paper but that is what we are going to look at in our next example. And
+toilet paper which is again fine pulp, so very fine pulp which is sprayed as a mist on a metal
+sheet is then removed to generate toilet paper. So, it does not have a coating, it is pure pulp
+and it is bleached.
+Let's now look at the output from this life cycle assessment exercise and a comparison of
+what is happening with four different grades of paper. So, the first one, the column in
+green is uncoated, unbleached, Kraft paper.
+
+ Now all of, coming back to this slide, printer paper, newsprint and so many other grades
+of paper which are in the market like cardboard and so many different types, as I said,
+different types of paper are there in the market. All of that waste paper can be collected
+which is the case in India, it is very common. All this paper is collected and then taken for
+generating recycled paper. This recycled paper is uncoated, unbleached, graft paper. It is
+called kraft for the industrial process that generates this paper and a red dye is added to it
+and that is what most of us call brown paper.
+
+ So, in common language most of us use brown paper, it is used for covering textbooks
+and and so on and it is used for making paper bags. All these are made out of uncoated,
+unbleached, kraft paper. So, this is recycled paper. We are all familiar with the remaining
+three. I have already mentioned what the manufacturing processes are used for toilet paper,
+printer paper and newsprint.
+
+ So, for the generation of one metric ton of each of these different types of papers, we can
+look at all the parameters that sort of our measures of environmental impacts. Now
+remember kraft paper is 100% recycled paper and the other three grades have 0% recycled
+paper. The amount of wood used in kraft paper is 0 in toilet paper, printer paper and
+newsprint. you can see newsprint has the smallest amount of wood used come out of the
+ones that are made out of virgin pulp and printer paper has the highest amount of wood
+used. In terms of energy used, again the highest amount of energy usage is for toilet paper
+and the lowest is for recycled paper.
+
+ Green house gas emissions similarly lowest for the recycled paper, highest for toilet paper.
+The other values are in between. In terms of water usage, newsprint manufacturing is using
+the highest amount of water for manufacturing one metric ton and the least amount of water
+is used by recycled paper industry. Solid waste generation 106 kilograms per metric ton
+compared to 590 tons for printer paper.
+
+ Purchased energy means electricity. So how much electricity is withdrawn from the grid
+because energy usage can be in many different forms. It can be electricity, it can be oil, it
+can be petroleum products and so on. So, purchased energy is the electrical component of
+this total energy. In this software that was available on the internet, I have used it and the
+entire amount is considered to be purchased energy. So, for recycled paper all of it is
+electrical electricity and that accounts for all the energy but that is not the case for all of
+them.
+
+ And then we come to gaseous emissions and so many other parameters. So, these are our
+gaseous emissions. Sulfur dioxide, volatile organic compounds, reduced sulfur, hazardous
+air pollutants. You can see that the lowest numbers are for recycled paper and the highest
+numbers are for toilet paper. In terms of wastewater discharge, COD, BOD, chemical
+oxygen demand, biochemical oxygen demand, total suspended solids, they are all lowest
+for recycled paper and highest for toilet paper. In terms of forest disturbed, how many
+square kilometers of forest is disturbed? Recycling paper obviously has no impact on the
+forest which is not the case for newsprint.
+
+ Newsprint is literally based on the cutting of fresh trees and so on. So, the amount of
+forest disturbed is highest for newsprint. And because those forests are disturbed, the
+number of species that are threatened is proportionate to that. Let's take the next parameter
+and that is ocean acidification in terms of kilograms. And again, the lowest number is for
+recycled paper and the highest number is for toilet paper.
+
+ Same thing for mercury emissions and the same thing for dioxin emissions. So, this is a
+very useful methodology for comparing the environmental impacts of different products,
+different processes and so on.
+And I will end this lecture over here. Thank you.
+

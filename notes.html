@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Week Notes — NPTEL EVS</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="logo" href="index.html"><span class="logo-mark">EV</span> NPTEL EVS</a>
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="assignments.html">Assignments</a>
+        <a href="materials.html">Materials</a>
+        <a href="notes.html" class="active">Notes</a>
+        <a href="transcripts.html">Transcripts</a>
+        <a href="final.html">Final Notes</a>
+        <a href="mock.html">Mock Exam</a>
+      </nav>
+      <div class="top-actions"><button class="btn btn-sm" id="themeToggle" type="button">Theme</button></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <h1>Week content notes</h1>
+      <p>
+        Full study chapters for each week — definitions, mechanisms, formulas, exam traps,
+        and cross-week links. Read one week deeply, then practice that week’s assignments.
+      </p>
+    </section>
+
+    <div class="week-pills" id="weekPills"></div>
+    <div id="content"></div>
+  </main>
+
+  <script src="js/app.js"></script>
+  <script>
+    function esc(s) {
+      return String(s || "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;");
+    }
+
+    function renderBlocks(blocks) {
+      return (blocks || [])
+        .map((b) => {
+          if (b.type === "p") return `<p>${esc(b.text)}</p>`;
+          if (b.type === "ul")
+            return `<ul>${(b.items || []).map((i) => `<li>${esc(i)}</li>`).join("")}</ul>`;
+          if (b.type === "ol")
+            return `<ol>${(b.items || []).map((i) => `<li>${esc(i)}</li>`).join("")}</ol>`;
+          if (b.type === "formula")
+            return `<div class="note-formula"><code>${esc(b.expr)}</code><span class="note-formula-use">${esc(b.use || "")}</span></div>`;
+          if (b.type === "table") {
+            const rows = (b.rows || [])
+              .map(
+                (r, i) =>
+                  `<tr>${r
+                    .map((cell) => (i === 0 ? `<th>${esc(cell)}</th>` : `<td>${esc(cell)}</td>`))
+                    .join("")}</tr>`
+              )
+              .join("");
+            return `<div class="note-block"><h4>${esc(b.title || "")}</h4><table class="compare">${rows}</table></div>`;
+          }
+          if (b.type === "callout") {
+            const kind = b.kind === "trap" ? "trap" : b.kind === "link" ? "link" : "exam";
+            const label = kind === "trap" ? "Trap" : kind === "link" ? "Link" : "Exam";
+            return `<div class="note-callout ${kind}"><strong>${label}.</strong> ${esc(b.text)}</div>`;
+          }
+          return "";
+        })
+        .join("");
+    }
+
+    async function init() {
+      const [notes, weeks] = await Promise.all([
+        EVS.fetchJSON("data/week-notes.json"),
+        EVS.fetchJSON("data/weeks.json"),
+      ]);
+      const params = new URLSearchParams(location.search);
+      let week = Number(params.get("week") || 1);
+
+      const pills = document.getElementById("weekPills");
+      pills.innerHTML = weeks
+        .map(
+          (w) =>
+            `<button class="week-pill ${w.week === week ? "active" : ""}" data-w="${w.week}">W${w.week}</button>`
+        )
+        .join("");
+
+      function show(wnum) {
+        week = wnum;
+        history.replaceState(null, "", `?week=${week}`);
+        pills.querySelectorAll(".week-pill").forEach((b) => {
+          b.classList.toggle("active", Number(b.dataset.w) === week);
+        });
+        const n = (notes.weeks || []).find((x) => x.week === week);
+        const meta = weeks.find((x) => x.week === week);
+        if (!n) {
+          document.getElementById("content").innerHTML = `<div class="empty">No notes for week ${week}</div>`;
+          return;
+        }
+        EVS.markNoteRead("notes", String(week));
+
+        const tocItems = [
+          { id: "defs", title: "Definitions" },
+          ...(n.sections || []).map((s) => ({ id: s.id, title: s.title })),
+          { id: "numbers", title: "Numbers & standards" },
+          { id: "links", title: "Related weeks" },
+          { id: "checklist", title: "Exam checklist" },
+        ];
+
+        const defs = (n.definitions || [])
+          .map((d) => {
+            const trap = d.trap
+              ? `<div class="def-trap"><strong>Trap:</strong> ${esc(d.trap)}</div>`
+              : "";
+            return `<li><strong>${esc(d.term)}:</strong> ${esc(d.definition)}${trap}</li>`;
+          })
+          .join("");
+
+        const sections = (n.sections || [])
+          .map((s) => {
+            const wt =
+              s.weight === "high"
+                ? `<span class="chip hot">high yield</span>`
+                : s.weight === "medium"
+                  ? `<span class="chip">medium</span>`
+                  : "";
+            return `<section class="note-section" id="${esc(s.id)}">
+              <h3>${esc(s.title)} ${wt}</h3>
+              ${renderBlocks(s.blocks)}
+            </section>`;
+          })
+          .join("");
+
+        const numbers = (n.numbers || [])
+          .map(
+            (x) =>
+              `<li><strong>${esc(x.label)}:</strong> ${esc(x.value)}${
+                x.why ? ` <span class="muted">— ${esc(x.why)}</span>` : ""
+              }</li>`
+          )
+          .join("");
+
+        const links = (n.crossLinks || [])
+          .map(
+            (c) =>
+              `<li><a href="notes.html?week=${c.week}">Week ${c.week}</a> — ${esc(c.why)}</li>`
+          )
+          .join("");
+
+        const checklist = (n.examChecklist || [])
+          .map((x) => `<li>${esc(x)}</li>`)
+          .join("");
+
+        const glance = (n.atAGlance || []).map((x) => `<li>${esc(x)}</li>`).join("");
+        const priority = n.examPriority === "high" ? "high" : "medium";
+
+        document.getElementById("content").innerHTML = `
+          <div class="notes-layout">
+            <aside class="notes-toc card">
+              <h3>On this page</h3>
+              <nav>
+                <a href="#glance">At a glance</a>
+                ${tocItems.map((t) => `<a href="#${esc(t.id)}">${esc(t.title)}</a>`).join("")}
+              </nav>
+            </aside>
+            <article class="card notes-article">
+              <div class="q-meta">
+                <span class="chip">Week ${n.week}</span>
+                <span class="chip">${esc(meta?.faculty || "")}</span>
+                <span class="chip">${(meta?.lectures || []).length} lectures</span>
+                <span class="chip ${priority === "high" ? "hot" : ""}">Exam: ${priority}</span>
+              </div>
+              <h2 style="margin-top:0.25rem">${esc(n.title)}</h2>
+              <p class="muted">${esc(meta?.summary || "")}</p>
+
+              <section class="note-section" id="glance">
+                <h3>At a glance</h3>
+                <ul class="glance-list">${glance}</ul>
+              </section>
+
+              <section class="note-section" id="defs">
+                <h3>Definitions</h3>
+                <ul class="def-list">${defs}</ul>
+              </section>
+
+              ${sections}
+
+              <section class="note-section" id="numbers">
+                <h3>Numbers &amp; standards</h3>
+                <ul>${numbers || "<li class='muted'>See formulas in sections above.</li>"}</ul>
+              </section>
+
+              <section class="note-section" id="links">
+                <h3>Related weeks</h3>
+                <ul>${links || "<li class='muted'>Standalone week.</li>"}</ul>
+              </section>
+
+              <section class="note-section" id="checklist">
+                <h3>Exam checklist</h3>
+                <ul class="checklist">${checklist}</ul>
+              </section>
+
+              <div class="actions" style="margin-top:1.25rem">
+                <a class="btn btn-primary" href="assignments.html?week=${week}">Practice this week</a>
+                <a class="btn" href="materials.html?week=${week}">Cheat sheet</a>
+                <a class="btn" href="transcripts.html?week=${week}">Lecture one-pagers</a>
+              </div>
+            </article>
+          </div>`;
+      }
+
+      pills.querySelectorAll(".week-pill").forEach((b) => {
+        b.onclick = () => show(Number(b.dataset.w));
+      });
+      show(week);
+    }
+
+    init().catch((e) => {
+      document.getElementById("content").innerHTML = `<div class="empty">${e.message}</div>`;
+    });
+  </script>
+</body>
+</html>

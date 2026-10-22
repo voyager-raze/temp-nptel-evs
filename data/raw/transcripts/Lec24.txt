@@ -1,0 +1,322 @@
+                                            Environmental Science
+                             Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                               Indian Institute of Technology Kharagpur
+
+                                                      Week 5
+                   (Lecture 4): RENEWABLE ENERGY I (Solar Energy ­ III)
+
+         Welcome to lecture 4 of week 5 of the NPTEL online certification course on Environmental
+Science. We will continue our discussion on solar energy.
+         Today our focus will be on solar thermal energy and solar fuels. Specifically we will be
+learning about active solar systems, specifically we will be learning about active solar systems,
+into the various aspects of solar fuel technology.
+         Solar thermal systems (STS) absorb the heat of the sun and use this heat for a wide range
+of applications (e.g., water heating, space heating/cooling and air conditioning for homes,
+businesses and industrial process heat). This lecture focuses specifically on residential
+applications.
+
+         Solar heating and cooling technologies have been commercially available for more than 30
+years and have achieved penetration levels of up to 90% in residential homes in Cyprus and Israel
+where they have been mandated for hot water production in newly built homes since the 1980s.
+However, the largest market is in China
+
+         In general, there are two types of solar heating systems: Passive systems and Active
+systems.
+         These systems are used to raise the temperature of a heat transfer fluid, which can be air,
+water or a specially designed fluid. The hot fluid can be used directly for hot water needs or space
+heating/cooling needs, or a heat exchanger can be used to transfer the thermal energy to the final
+application. The heat generated can also be stored in a proper storage tank for use in the hours
+when the sun is not available. Solar thermal technologies are also used to heat swimming pools
+and to provide hot water for commercial buildings and industrial process heat.
+
+         Devices to capture solar energy as heat, i.e., solar collectors, are the key component of an
+active solar system. They essentially offer a receptive surface to the sunlight, whether direct or
+diffuse. Absorption of solar rays heats those surfaces. To absorb as much incoming radiation as
+possible, black is the preferred colour.
+
+         Two dominant designs exist: flat-plate solar collectors (FPC) and evacuated tube solar
+collectors (ETC).
+         Flat plate collectors (FPC) consist of tubes carrying a fluid running through an insulated,
+weather-proof box with a dark absorber material and thermal insulation material on the backside
+that also prevents heat loss. Solar radiation enters the collector through the transparent cover and
+reaches the absorber, where the absorbed radiation is converted to thermal energy. A good thermal
+conductivity is needed to transfer the collected heat from the absorber sheet to the absorber pipes,
+where the heat is transferred to a fluid. The vast majority of flat-plate collectors use water as the
+heat-transfer fluid (HTF), often complemented with glycol to prevent freezing as well as
+anticorrosion additives. The fluid also protects the collector from frost damage.
+
+         Flat-plate collectors are appropriate for lower demand hot water systems. They are also
+often more appropriate when snow accumulation is a problem, because the heat loss through a flat
+plate collector will often melt the snow.
+         The Evacuated tube collector consists of a number of rows of parallel transparent glass
+tubes connected to a header pipe. These glass tubes are cylindrical in shape. Therefore, the angle
+of the sunlight is always perpendicular to the heat absorbing tubes which enables these collectors
+to perform well even when sunlight is low such as when it is early in the morning or late in the
+afternoon, or when shaded by clouds. Evacuated tube collectors are particularly useful in areas
+with cold, cloudy wintry weathers.
+
+         Each tube consists of a thick glass outer tube and a thinner glass inner tube, covered with
+a special coating that absorbs solar energy but inhibits heat loss. A metal heat pipe running through
+the inner tube. Unlike flat panel collectors, evacuated tube collectors do not heat the water directly
+within the tubes. Instead, air is removed or evacuated from the space between the two tubes,
+forming a vacuum (hence the name evacuated tubes). This vacuum acts as an insulator reducing
+any heat loss significantly to the surrounding atmosphere either through convection or radiation
+making the collector much more efficient than the internal insulating that flat plate collectors have
+to offer. With the assistance of this vacuum, evacuated tube collectors generally produce higher
+fluid temperatures than their flat plate counterparts.
+         The most widespread application of active solar systems is to heat the water in homes.
+
+         Solar domestic water heating technology has become a common application in many
+countries and is widely used for domestic hot water preparation in single or small multi-family
+homes. The technology is mature and has been commercially available in many countries for over
+30 years. Typical solar domestic hot water systems used for single-family homes in many parts of
+the world have hot water storage with volumes of approximately 300 litres, a collector area
+between 4-6 m2 and can supply 60%-90% of the annual hot water demand depending of the type
+of collector and local solar radiation conditions.
+
+         Solar water-heating systems used to produce hot water can be classified as passive or active
+solar water heaters
+
+         Active solar water heaters rely on electric pumps and controllers to circulate the carrier
+fluid through the collectors. Three types of active solar water-heating systems are available. Direct
+circulation systems use pumps to circulate pressurized potable water directly through the
+collectors. These systems are appropriate in areas that do not freeze for long periods and do not
+have hard or acidic water. Antifreeze indirect-circulation systems pump heat-transfer fluid, which
+is usually a glycol-water mixture, through collectors. Heat exchangers transfer the heat from the
+fluid to the water for use.
+         Drainback indirect-circulation systems use pumps to circulate water through the collectors.
+The water in the collector and the piping system drains into a reservoir tank when the pumps stop,
+eliminating the risk of freezing in cold climates. This system should be carefully designed and
+installed to ensure that the piping always slopes downward to the reservoir tank.
+         Passive solar water heaters include black tanks or tubes in an insulated glazed box. Cold
+water is preheated as it passes through the solar collector, with the heated water flowing to a
+standard backup water heater. The heated water is stored inside the collector itself. In
+thermosyphon (TS) systems, as shown here, a separate storage tank is directly above the collector.
+The heated water rises from the collector to the tank and cool water from the tank sinks back into
+the collector.
+         In recent years, systems that combine water and space heating--called Solar Combi-
+Systems (solar CS)--have been developed. Solar CSs are used to provide hot water as well as
+space heating from a common array of solar thermal collectors, usually backed up by an auxiliary
+non-solar heat source, and consequently require significantly larger solar collector areas. Solar
+combisystems may range in size from those installed in individual properties to those serving
+several in a block heating scheme.
+         In addition to solar heating, another common application is solar cooling. The solar cooling
+technology involves a system that converts the sunlight into cooling energy that can then be used
+for air conditioning and refrigeration. The system collects solar power and uses it in a thermally
+driven cooling process. This process decreases and controls the temperature for various purposes
+such as conditioning air for a building or generating chilled water.
+
+         The basic principle behind solar-driven refrigeration is quite similar to regular
+refrigeration. Usually what a refrigerator does is it produces cooling by evaporating a liquid
+refrigerant that absorbs the heat and cools the surroundings. So, in this case, the major difference
+between solar cooling and conventional cooling is that the former uses solar thermal energy rather
+than electric power. And then there are many different cooling cycle techniques using various
+principles to function and three of the most common or popular techniques mostly include
+absorption cycles, desiccant cycles, and solar mechanical cycles. However, since solar cooling
+technologies are not as popular as solar heating technologies, we will not go further into our
+discussion on solar cooling technologies.
+         Passive solar design is a way of using surfaces in and around your home to collect energy
+from the sun to provide warmth during cold seasons, as well as block energy from the sun to avoid
+unnecessary warming during hot seasons. In passive solar heating/cooling, no active mechanical
+elements are used to gather or distribute the solar heat through the living spaces. Rather, it involves:
+
+         · Building rooms with large, sun-facing windows to let the sun's energy into the rooms
+         · Using concrete floors and a thermal-mass masonry to capture and store heat
+         · Applying thick, airtight insulation on the outer walls to seal in the heat
+         · Opening and closing windows and vents to regulate temperature, and;
+         · Using insulated blinds, drapes, or shutters to trap the heat in cold weather conditions.
+         Passive House standard follows a "passive-first" approach to ensure thermal comfort
+inside a building. This means, before considering releasing the heat into the environment using a
+mechanical air-conditioning system, the primary focus is on reducing the heat build-up inside the
+building. The following five basic elements apply for the construction of passive houses that ensure
+a sharp reduction in cooling/heating requirements and consequently energy demand of the
+building.
+
+         Aperture/Collector: The large glass area through which sunlight enters the building. They
+are essentially windows or open spaces that have complete, or close to complete, access to the sun,
+and are ideally south-facing and should not be shaded by other buildings or trees from 9a.m. to
+3p.m. daily during the heating season.
+
+         Absorber: Absorbers are hard dark-colored surfaces that are directly in the path of the sun,
+designed to capture (not reflect) solar energy in the form of heat. The surface, which could be a
+masonry wall, floor, or water container, sits in the direct path of sunlight. Sunlight hitting the
+surface is absorbed as heat.
+
+         Thermal mass: Materials that retain or store the heat produced by sunlight. While the
+absorber is an exposed surface, the thermal mass is the material below and behind this surface.
+         Distribution: Method by which solar heat circulates from the collection and storage points
+to different areas of the house. A strictly passive design will use the three natural heat transfer
+modes- conduction, convection and radiation- exclusively.
+
+         Control: Roof overhangs can be used to shade the aperture area during summer months.
+Other elements that control under and/or overheating include electronic sensing devices, such as a
+differential thermostat that signals a fan to turn on; operable vents and dampers that allow or
+restrict heat flow; low-emissivity blinds; and so on.
+         In addition to the aforementioned, building orientation is an essential aspect of passive
+design to maximize the use of natural energy flows and minimize reliance on mechanical systems
+for heating, cooling, and lighting. A well-designed building orientation can significantly reduce
+the energy requirements of a building and improve its overall comfort.
+         The main orientation of the building should be within 30° of the south. A location on a
+south-facing slope optimizes solar access whilst minimizing overshadowing from adjacent
+buildings. It also allows for higher-density planning.
+
+         Houses oriented east of south will benefit from the morning sun. Those orientated west of
+south will catch the late afternoon sun ­ which can help delay the evening heating period.
+
+         With the combination of the five basic elements and the optimal orientation, different
+systems are obtained:
+         Direct gain is the simplest and most common of all passive solar heating systems. All
+glazed buildings make use of this to some degree. The sun's rays simply penetrate the windows
+and strikes masonry floors and/or walls, which absorb and store the solar heat. As the room cools
+during the night, the thermal mass releases heat into the house. If the building is `thermally massive
+enough', i.e., build of heavy materials such as concrete, and the heating system is responsive, the
+gains are likely to be useful. If the building is too `thermally lightweight', such as one of timber
+frame construction, it may overheat on sunny days and the occupants will perceive the effect as a
+nuisance.
+         An indirect-gain passive solar home has its thermal storage between the south-facing
+windows and the living spaces. The most common indirect-gain approach is a Trombe wall. The
+wall consists of an 8-inch to 16-inch thick masonry wall on the south side of a house, with possible
+air circulation between the cavity of the wall system and the room.. A single or double layer of
+glass mounted about one inch or less in front of the dark-colored wall absorbs solar heat, which is
+stored in the wall's mass. The heat migrates through the wall and radiates into the living space.
+Heat travels through a masonry wall at an average rate of one inch per hour, so the heat absorbed
+on the outside of an 8-inch thick concrete wall at noon will enter the interior living space around
+8 p.m.
+         In addition, on sunny days, air is circulated through the air space into the room behind. At
+night and on cold days, the air flow is cut off. However, this system has not gained much
+acceptance because it limits views to the outdoor environment through the fenestration.
+         Daylighting is the controlled admission of natural light, direct sunlight, and diffused-
+skylight into a building to reduce electric lighting and saving energy. By providing a direct link to
+the dynamic and perpetually evolving patterns of outdoor illumination, daylighting helps create a
+visually stimulating and productive environment for building occupants, while reducing as much
+as one-third of total building energy costs.
+
+         A daylighting system is comprised not just of daylight apertures, such as skylights and
+windows, but is coupled with a daylight-responsive lighting control system. When there is
+adequate ambient lighting provided from daylight alone, this system has the capability to reduce
+electric lighting power. Further, the fenestration, or location of windows in a building, must be
+designed in such a way as to avoid the admittance of direct sun on task surfaces or into occupants'
+eyes. Alternatively, suitable glare remediation devices such as blinds or shades must be made
+available.
+
+         A daylighting system consists of systems, technologies, and architecture. While not all of
+these components are required for every daylighting system or design, one or more of the following
+are typically present:
+·  High-performance glazing: A high-performance glazing system will generally
+
+admit more light and less heat than a typical window, allowing for daylighting without
+
+negatively impacting the building cooling load in the summer.
+
+·  Daylighting-optimized fenestration design: The window has two essential
+
+functions in a daylit building: (1) daylight delivery or admittance, and (2) provision of view
+
+to the occupants. As a general rule, the higher the window head height, the deeper into the
+
+space the daylight can penetrate. Therefore, good daylighting fenestration practice dictates
+
+that the window should ideally be composed of two discrete components: a daylight
+
+window and a view window.
+
+·  Skylights (passive or active): Many daylighting designs will employ skylights for
+
+toplighting, or admitting daylight from above. While skylights can be either passive or
+
+active, the majority of skylights are passive because they have a clear or diffusing medium
+
+(usually acrylic) that simply allows daylight to penetrate an opening in the roof.
+
+·  Daylight redirection devices: Daylight redirection devices take incoming direct
+
+beam sunlight and redirect it, generally onto the ceiling of a space. These devices serve
+
+two functions: glare control, where direct sun is redirected away from the eyes of
+
+occupants, and daylight penetration, where sunlight is distributed deeper into a space that
+
+would not be allowed otherwise.
+
+·  Solar shading devices: Solar shading devices are often employed-particularly on
+
+the view windows-to minimize the amount of direct sun that enters the space. These are
+
+typically called overhangs.
+
+·  Daylight-responsive electric lighting controls: Daylight-responsive electric
+
+lighting controls are absolutely essential to any daylighting system. No daylighting design
+
+will save any energy unless the electric lights are dimmed or turned off when there is
+
+sufficient illumination from daylight.
+·  Daylight-optimized interior design (such as space planning, and room surface
+
+finishes): An often overlooked element in a successful daylighting design is the interior
+
+design. A daylight-optimized interior design considers furniture design, placement, and
+
+room surface finishes with respect to daylight performance. For example, office cubicle
+
+partition heights will be limited, particularly those running parallel to the south facade,
+
+enclosed offices will be kept to a minimum, and walls and ceilings will be as highly
+
+reflective as possible, to help "bounce" and distribute the redirected daylight more fully.
+         The global solar heat market grew 3% in 2021 to 25.6 gigawatts-thermal (GWth)i, up from
+24.9 GWth in 2020. This reversal, after seven years of decline, was the result of several factors,
+including rebounded demand (particularly in China) in the wake of COVID-19 related trade and
+traffic restrictions; increased construction activity in many countries; additional support schemes
+under national economic recovery policies; and rising fossil fuel and electricity prices.
+
+         Cumulative global solar thermal capacity in operation reached an estimated 522 GWth in
+2021, up 4% from 502 GWth in 2020. Total global capacity in operation at the end of 2021 was
+enough to provide around 427 terawatt-hours (1,537 petajoules) of heat annually, equivalent to the
+energy content of 251 million barrels of oil.
+         China remained the world`s largest national market for solar thermal systems of all types,
+accounting for 73% of the cumulative world capacity, followed distantly by the United States,
+Turkey, Germany, and Brazil. The top 20 countries for new additions remained more or less the
+same in 2021, led by China, India, Turkey, Brazil, and the United States.
+         Solar energy in addition to heating, and producing electricity can also be used to generate
+hydrogen by splitting water or by splitting any other hydrocarbon through various processes. And
+hydrogen can be used as such or to further process other fuels notably the convenient liquid fuels.
+Hydrogen as a fuel we all know is a clean fuel in the sense that it does not emit any CO 2 and it
+also reduces our dependence on fossil fuels.
+         The current solar-driven H2 production technologies can be generally classified into
+photocatalytic (PC) water splitting, photoelectrochemical (PEC) water splitting,
+photovoltaic-electrochemical (PV-EC) water splitting, solar thermochemical (STC) water
+splitting, photothermal catalytic (PTC) H2 production from fossil fuels (mainly CH4), and
+photobiological (PB) H2 production.
+
+         PC water splitting is a process that utilizes only light and a particulate semiconductor to
+split water into H2 and O2 under mild conditions.
+
+         A typical PEC cell consists of either an n-type semiconductor-based photoanode for OER
+or a p-type semiconductor-based photocathode for HER and the counter electrode for the other
+half-reaction.
+
+         By definition, the PV-EC system is made up of two separate parts: the PV cell and the
+electrolyzer. The PV cell is utilized to absorb solar energy for generating electricity that can be
+directly transferred to the EC cell to split water into H2 and O2 separately at the cathode and anode.
+
+         STC water splitting cycle technology transforms concentrated solar energy into thermal
+energy to split water into H2 and O2 at high temperatures through a series of successive chemical
+reactions. In general, STC cycles include two main categories: two-step processes and multi-step
+processes.
+
+         In PTC H2 Production from Fossil Fuels, the PTC reaction is primarily based on
+plasmonic metal nanostructures and/or semiconductors catalysts. As shown in the Figure, upon
+light irradiation, energetic or hot carriers are generated from the excitation of localized surface
+plasmon resonance (LSPR) on metal nanostructures or from the excitation of semiconductor
+supports. These energetic carriers would either recombine to induce local heating through
+relaxation or interact with reactants adsorbed on the surface of catalysts through transferring their
+energy into surface-absorbed reactants.
+
+         PB H2 production is an environment-friendly technology that uses microorganisms to
+transform solar energy into H2 from water and biomass such as glycogen and starch.
+         Next in the lecture, we will be moving into the discussion on wind energy. So on that note,
+I end this lecture. Thank you.
+

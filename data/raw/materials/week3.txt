@@ -1,0 +1,1588 @@
+   NPTEL
+
+Week 3, Lecture 1 ­ AIR POLLUTION
+                             (Definition, Causes, Sources & Types)
+ Air pollution ­ definition and type
+ Sources of air pollutants
+
+TEL  Classification of air pollutants
+NP  Criteria air pollutants
+
+ Non-criteria air pollutants
+
+                                                                                                                              02
+ Stationary sources
+
+ Mobile sources      NPTEL
+ Area sources
+ Primary pollutants
+
+ Secondary pollutants
+
+                                                                                                                              03
+Ambient air
+
+ Ambient air is atmospheric air in its natural state that support life on Earth.
+
+Layers of the atmosphere  Composition of the atmosphere near Earth's surface
+
+                          NPTEL
+
+                                                                                                                               04
+
+(Image courtesy of National Aeronautics and Space Administration (NASA))
+What is air pollution?
+
+ Air pollution is the presence of one or more substances (indigenous or
+
+      foreign) in the air at a concentration or for a duration that can potentially
+      cause a range of adverse effects on the wellbeing of humans, animals,
+      plants, and the environment, or unreasonably interferes with the comfort
+      or convenience of living and/or ability to perform activities of daily living.
+
+                       NPTEL
+
+                                                                                                                                     05
+What is an air pollutant?
+
+ An air pollutant is any substance found in the air that is not part of its
+
+      natural composition, or any substance whose concentration is higher
+      than that in the air's natural composition.
+
+                       NPTEL
+
+                                                                                                                                     06
+Types of air pollution
+
+ Two types ­ outdoor (ambient air) and indoor (household).
+
+ Outdoor air pollution is the deterioration in ambient air quality due to
+
+  emissions from natural and anthropogenic sources, including
+
+  transportation, power generation, industrial activity, biomass burning,
+  and domestic heating and cooking. The concentration of pollutants in
+
+  EL outdoor air varies widely in space and time, due to the diversity of
+  T sources and the influence of atmospheric processes.
+  NP Indoor air pollution is the degradation of the quality of air that is present
+
+  in confined spaces (including homes, apartments, offices, car interiors,
+
+  schools, hospitals, museums, public transport, and other such areas) by
+
+  harmful chemicals and other materials originating mainly from building
+
+  materials, unvented combustion appliances, and lifestyle habits.
+
+                                                                                    07
+Why should we care about air pollution?
+
+ Air pollution impacts human health, contributes to climate change, and
+
+      damages ecosystems.
+
+                       NPTEL
+
+(Image courtesy of European Environment Agency)                          08
+Why should we care about air pollution?
+
+ Air pollution affects people throughput their lifetime. Children are
+
+      particularly vulnerable to air pollution, from when they are in the womb to
+      when they reach adulthood.
+
+                       NPTEL
+
+(Image courtesy of Government of the United Kingdom)                               09
+Why should we care about air pollution?
+
+ Air pollution is one of the world's leading risk factors for death, attributed
+
+      to 11.65% of deaths globally. It is also one of the leading risk factors for
+      disease burden.
+
+      Overview of published estimates of the death toll from air pollution
+
+                       NPTEL
+
+(Image courtesy of Max Roser)                                                       10
+Why should we care about air pollution?
+
+ Air pollution impacts human health, contributes to climate change, and
+
+      damages ecosystems.
+
+                       NPTEL
+
+(Image courtesy of European Environment Agency)                          11
+Sources of air pollutants
+
+ Sources of air pollution are multiple and context specific.
+
+                       NPTEL
+
+                                             Anthropogenic
+                                                                                                                                     12
+
+        (Image courtesy of US National Park Service)
+Classification of air pollutants
+
+ Based on the states of matter ­ gaseous and particulate
+
+                       NPTEL
+
+                                                                                                                                     13
+
+        (Image courtesy of Torrance Air)
+Classification of air pollutants
+
+ Based on emission type ­ primary and secondary
+
+                       NPTEL
+
+                                                                                                                                     14
+Classification of air pollutants
+
+ Based on origin ­ chemical and biological
+
+                                            Bioaerosols are airborne particles
+
+                                            of biological origin or activity which
+
+                                            may affect living organisms
+
+                                            through infectivity, allergenicity,
+
+                                            toxicity, pharmacological or other
+
+                                            processes. They have a broad size
+                                            L highly
+                                            spectrum (~1 nm to ~102 µm) with
+
+                                                          variable  number
+                                            E viruses, bacteria, fungi, pollens,
+                                            concentrations and include
+                                            Tplant or animal debris, as well as
+                                            NPorganisms.
+                                            fragments and products of these
+
+                                                                                                                               15
+
+(Image courtesy of AWE International)
+Criteria air pollutants
+
+ Criteria air pollutants are those pollutants that are ubiquitous in the
+
+     ambient air and are known or strongly suspected to be harmful to public
+     health and the environment if their concentration in ambient air is above
+     the permissible exposure limit.
+
+ The criteria air pollutants include:  NPTEL
+
+        ­ carbon monoxide (CO)
+        ­ sulfur dioxide (SO2)
+        ­ nitrogen dioxide (NO2)
+        ­ ozone (O3)
+        ­ lead (Pb)
+        ­ particulate matter (PM)
+
+                                                                                16
+Criteria air pollutants
+
+Sources, health and welfare effects of criteria air pollutants
+
+                       NPTEL
+
+                                                                                                                                     17
+Types of PM
+
+ PM may be primary or secondary. Primary PM is natural or
+
+      anthropogenic, and is released directly into the environment. Secondary
+      PM is formed from the condensation of low volatility gases. such as
+      sulfuric acid, ammonia, and functionalized organic compounds.
+
+                       NPTEL
+
+                                                                                                                                     18
+
+        (Image courtesy of Watercube Design)
+Size distribution of PM
+
+ Airborne PM varies in size, composition, and origin and is often
+
+      classified by median aerodynamic diameter, which in turn dictates its
+      potential to cause adverse health effects.
+
+                       NPTEL
+
+                                                                                                                                     19
+Composition of PM
+
+ The composition of PM varies with location, season, and meteorological
+
+      conditions, but usually contain ionic species, carbonaceous species,
+      metals, and metalloids.
+
+                       NPTEL
+
+                                                                                                                                     20
+
+        (Nature Reviews Cardiology, 2020, 17, 656­672)
+Health effects of PM                               Coarse PM (PM10) causes nasal irritation and
+
+  (Image courtesy of VFA Solutions)                       upper respiratory tract disorders. Fine particles
+                                                          (PM2.5) can penetrate deeper into the lungs and
+                                                          can cause cardiovascular diseases, stroke,
+                                                          lung cancer, chronic lung disease, and
+                                                          respiratory infections. Ultrafine particles (PM0.1)
+
+                                          L translocate to essentially all organs and cause
+                                         E even more serious health problems compared
+                                     NPT to fine particles.
+
+                                                                                                            21
+National ambient air quality standard
+
+ National ambient air quality standard (NAAQS) specifies the maximum
+
+     allowable level of a pollutant, averaged over a specified period of time,
+     that can be present in outdoor air without harming public health.
+
+  Two types of NAAQS: primary and secondary.
+
+  L Primary standards provide public health protection, including protecting
+  TE the health of sensitive populations such as those with asthmatics,
+  NP children, and the elderly, with an adequate margin for safety.
+ Secondary standards provide public welfare protection, including those
+
+  related to effects on soils, water, crops, vegetation, man-made materials,
+
+  animals, wildlife, weather, visibility, and climate; damage to property;
+
+  transportation hazard; economic values, and personal comfort and well-
+
+  being.                                                                        22
+National Ambient Air Quality Standard
+
+Indian NAAQSs set by Central Pollution Control Board
+
+                       NPTEL
+
+                                                                                                                                     23
+
+(Image courtesy of Central Pollution Control Board)
+Non-criteria air pollutants
+
+ Non-criteria air pollutants, also called hazardous air pollutants (HAPs) or
+
+     toxic air pollutants (TAPs), are a defined set of airborne pollutants
+     (except criteria pollutants) that may pose an immediate or potential
+     hazard to human health.
+
+  Emissions of HAPs are ubiquitous, and they include organic compounds,
+
+  L such as chlorinated hydrocarbons, dioxins, aldehydes, polycyclic
+  TE aromatic hydrocarbons, and heavy metals, such as chromium, nickel,
+  NP cadmium, and mercury.
+ There are more than 70,000 such chemicals that are in use
+
+  commercially and relatively little is known about their ambient
+
+  concentrations, persistence, transport and transformation as well as their
+
+  effects on health and the environment, many of which take decades to
+
+  emerge.
+
+                                                                                                                                 24
+NPTEL
+   NPTEL
+
+Week 3, Lecture 2 ­ AIR POLLUTION
+                             (Influence of Meteorology)
+ Atmospheric air pollutant dispersion
+      ­ Impact of atmospheric stability
+
+PTEL  Correlation between temperature inversion
+  N and air pollution
+
+ Air quality index and its importance
+
+                                                                                                                              02
+ Adiabatic lapse rates
+
+ Atmospheric stability  NPTEL
+ Temperature inversion
+ Plume behavior
+
+ Air quality index
+
+                                                                                                                              03
+Anthropogenic air pollution
+
+                                          SO2
+
+                               CO2 NO     H2O  PM
+
+                               ELCO  SO   NO2
+
+                               NPT + CFC
+
+(Image courtesy of Wikipedia)  Energy
+
+                                                                                       04
+Example #3.2.1: Emission from coal combustion
+
+A coal-fired power plant has a net electrical output of 500 MW. The
+composition of the coal burned is C = 72%, H = 5%, S = 2%, O = 8%, N = 1%,
+and ash = 12% by weight. Its higher heating value is 30,940 kJ/kg. The net
+thermal efficiency is 33%.
+
+(a) How much coal (in metric tons) does this plant consume in one day running
+
+ L at full capacity?
+E (b) Assume that 75% percent of the ash in coal is entrained in the flue gas
+
+ T stream as fly-ash and the remainder is collected in the boiler as bottom ash.
+ NP How many tons per day of fly-ash would be emitted from this plant in the
+
+    absence of any particulate controls?
+
+(c) How many tons/day of SO2 are emitted if 97% of the sulfur in coal is
+    converted to SO2?
+
+(d) How many tons/day of NOX are emitted if the NOX emission rate is 300          05
+    ng/J?
+Solution
+
+(a)  Maximum energy output per day  =    500  MW  ×  1000  kW    24h
+                                                           MW  
+
+                                    = 1.2 × 107 kWh / day
+
+          L   Total energy input per day = 1.2 × 107 kWh / day / 0.3
+                                    TE = 3.6 × 107 kJh × 3600 sec = 1.3 × 1011 kJ
+                                              NPsec - day             h        day
+
+                                         1.3 × 1011 kJ        4.2× 106 kg
+                                                    day                   day
+     Amount of coal consumed per day =   30,940 kJ         =
+
+                                                     kg
+
+                                       = 4200 t                                     06
+                                              day
+(b) Total amount of ash entering the plant per day       =  (0.12)      4200     t     =  504 t
+                                                                               day             day
+                                                                                    
+
+              Amount   of     fly  ash emitted per  day  =  (0.75)      504    t    =  378 t
+                                                                             day            day
+                                                                                  
+
+                                                            (0.02)               t        84 t
+                                                                               day           day
+L (c) Total mass of sulfur entering the plant per day    =              4200          =
+
+NPTE Amount of SO2 emitted per day                                   t  SO2              t SO2
+                                     =    (0.97)  84     tS       2     tS     =  163     day
+                                                         day                 
+
+(d) Amount of NOx emitted per day
+
+=    300  ng  NOX      10-15   t     1.3  × 1011  kJ     1000     J     =  39 t
+              J               ng                  day             kJ          day
+                                                                                                    07
+Dispersion of air pollutants
+
+ After being emitted from the sources, air pollutants may be dispersed in
+
+      both the vertical and horizontal direction.
+
+ Dispersion of air pollutants in the atmosphere is affected by:
+
+­  meteorological conditions (especially wind speed, wind direction,
+­
+   L and atmospheric stability),
+   TE the emission height (e.g., ground-level sources such as road traffic
+   NP or high-level sources such as tall chimneys),
+
+­ local and regional geographical features,
+
+­ the source type (e.g., point source, such as a chimney, or a diffuse
+
+       number of sources such as cars and solvents).
+
+                                                                                                                               08
+Vertical dispersion of air pollutants
+
+ The vertical movement of air results in vertical dispersion of pollutants.
+
+     Conversely, the absence of vertical dispersion results in increasing
+     ground level concentrations and a larger area of impact.
+
+ The vertical dispersion potential (the stability) of the atmosphere is
+
+  determined by comparing the actual lapse rate against the adiabatic
+
+  L lapse rate.
+  E As a parcel of air in the Earth's atmosphere rises through the
+  T atmosphere, it experiences decreasing pressure and thus expands. This
+  NP expansion lowers the temperature of the air parcel, and therefore the air
+  cools as it rises.
+
+ The atmospheric lapse rate is the change of an atmospheric variable
+
+     with a change of altitude, the variable being temperature unless
+     specified otherwise (if the lapse rate is positive, the temperature
+     decreases with height; conversely if negative, the temperature increases
+
+                                                                                                                                    09
+
+     with height ­ temperature inversion).
+Adiabatic lapse rate                                The adiabatic lapse rate is the rate at which
+                                                    the temperature of an air parcel changes in
+Rising air in a stable atmosphere  NPTEL            response to the compression or expansion
+                                                    associated with altitude, under the
+                                                    assumption that the process is adiabatic, i.e.,
+                                                    no heat exchange occurs between the given
+                                                    air parcel and its surroundings.
+
+                                                    10
+Adiabatic lapse rate
+
+Illustration of dry and moist adiabatic lapse rates         The dry adiabatic lapse rate (DALR) (1oC per
+                                                            100 m) is the rate at which an unsaturated
+                                                     NPTEL  parcel of air (relative humidity < 100%) warms
+                                                            or cools when moving vertically through the
+                                                            atmosphere. The moist adiabatic lapse rate
+                                                            (MALR) (0.6oC per 100 m) is the rate at which
+                                                            a saturated parcel of air (relative humidity of
+                                                            100%) warms or cools when it moves
+                                                            vertically through the atmosphere.
+
+                                                            11
+Environmental lapse rate
+
+Environmental lapse rate vs. adiabatic lapse rate         The environmental lapse rate (ELR), also
+                                                          called the normal lapse rate, is the actual rate
+                                                   NPTEL  at which the ambient temperature changes
+                                                          with altitude. It is highly variable, not only
+                                                          affected by moisture content, but also wind,
+                                                          sunlight on the Earth's surface, and
+                                                          geographical features. ELR is approximately
+                                                          6.5°C per km in the lower atmosphere.
+
+                                                          12
+Atmospheric stability
+
+Thermodynamic diagram illustrating           Atmospheric stability is the ability of the atmosphere to react (mitigating
+                                             or enhancing) to small disturbances in vertical movements of an air
+the stability of the atmosphere              parcel.
+based on the dry and moist
+adiabatic lapse rates                        In general, for a dry air parcel, the following is true:
+                                                  DALR = ELR Neutral (no effect on vertical movement)
+                                           
+                                               L DALR < ELR Stable (resists vertical movement)
+                                               E DALR > ELR Unstable (supports vertical movement)
+                                             NPT If MALR < ELR < DALR, the
+(Image courtesy of Alison Nugent and David
+DeCou)                                       atmosphere is conditionally
+
+                                             unstable. The unsaturated parcel
+
+                                             will be cooler than the environment
+
+                                             and will sink back to the ground.
+
+                                             The saturated parcel will be warmer
+
+                                             than the environment and will                             13
+
+                                             continue to ascend.
+Temperature inversion
+
+ Temperature inversion, also called thermal inversion, is the reversal of
+
+      the normal behaviour of temperature in the troposphere, in which a layer
+      of cool air at the surface is overlain by a layer of warmer air. There are
+      three kinds of inversions: radiation, subsidence, and frontal.
+
+                       NPTEL
+
+                                                                                                                                     14
+
+        (Image courtesy of EduRev)
+Types of temperature inversion
+
+ Radiation inversion, also called ground inversion or surface temperature
+
+      inversion, occurs when air is cooled by contact with a colder surface until
+      it becomes cooler than the overlying atmosphere; this occurs most often
+      on clear nights, when the ground cools off rapidly by radiation.
+
+                       NPTEL
+
+                                                                                                                                     15
+
+        (Image courtesy of Fly Me To The Moon)
+Types of temperature inversion
+
+                                                            A subsidence inversion, also called elevated inversion,
+
+                                                                             develops when a widespread layer of air descends. The
+                                                                             layer is compressed and heated by the resulting increase
+                                                                             in atmospheric pressure, and, as a result, the lapse rate
+                                                                             of temperature is reduced. If the air mass sinks low
+                                                                             enough, the air at higher altitudes becomes warmer than
+
+                       NPTEL at lower altitudes, producing a temperature inversion.
+
+(Image courtesy of Fly Me To The Moon)
+
+                                                                                                                                     16
+Types of temperature inversion
+
+ A frontal inversion occurs when a cold air mass undercuts a warm air
+
+      mass and lifts it aloft; the front between the two air masses then has
+      warm air above and cold air below. This kind of inversion has a
+      considerable slope, whereas other inversions are nearly horizontal.
+
+                       NPTEL
+
+                                                                                                                                     17
+
+        (Image courtesy of Fly Me To The Moon)
+Atmospheric stability and plume behavior
+
+ The behavior of a plume
+
+emitted from an elevated
+
+source such as a tall stack
+
+depends on the degree of
+
+instability of the atmosphere
+and the prevailing
+                    wind
+NPTEL turbulence.
+
+                                                                                                                                    18
+
+(Image courtesy of Centre for Agriculture and Bioscience International)
+Air quality index
+
+ The air quality index (AQI) is a simple, unitless index to communicate air
+
+     quality information to the general public in a timely manner. It is a
+     measure of how air pollution affects one's health within a short time
+     period.
+
+  L The AQI is based on measurement of six different pollutant types: PM2.5
+  E and PM10, O3, NO2, SO2, and CO emissions. Every day, the
+  T concentrations of these pollutants are monitored at the desired location.
+  NP The raw measurements then are converted into subindices for each
+  pollutant using standard formulae.
+
+ The largest sub-index across the pollutants is the AQI for that location.
+
+ The higher the AQI value, the greater the level of air pollution and the
+
+                                                                                                                                    19
+
+     greater the health concerns.
+AQI levels
+
+AQI scale and color legend
+
+                            NPTEL
+
+                                                                                                                                    20
+
+(Image courtesy of IQAir)
+How to calculate AQI?
+
+For each pollutant (P), a concentration reading (CP) is recorded. This reading
+is typically an average over some period of time. The index for that pollutant
+
+(IP) is given by
+
+IP                =   (Ihigh -  Ilow )  × (CP - Clow ) + Ilow
+                     (Chigh -   Clow )
+TEL CP ­ the concentration reading for pollutant P
+NP Clow and Chigh ­ these values are the breakpoints that define a range of
+
+concentrations (and their likely health impacts) that would qualify pollutant P
+
+as falling into a particular AQI level. Each pollutant has a different range. For
+
+example, PM2.5 is `Good Quality' if it is measured between Clow = 0.0 Chigh =
+
+12.0; PM10 is `Good' if between Clow = 0.0 Chigh = 54.0, and is `Moderate' if
+
+between between Clow = 55 and Chigh = 154.0.                                       21
+How to calculate AQI?
+
+Ilow and Ihigh ­ each of the AQI breakpoints is associated with an integer range
+of values, for example, `Unhealthy for Sensitive Group' is associated with the
+range 101 to 150. The smaller value for a range is Ilow and the larger value is
+Ihigh.
+The final IP value is rounded to the nearest integer. After computing the index
+
+L IP for each measured pollutant, the overall AQI is the largest IP value across
+E the pollutants.
+NPT Breakpoints of different pollutants in Indian AQI
+
+                                                                                                                                     22
+
+(Aerosol and Air Quality Research, 2017, 17, 588­597)
+Example #3.2.2: AQI calculation
+
+A PM2.5 sensor records 30.1 µg/m3 average pollution over a 24-hour period.
+This reading falls into the 12.1­35.4 range for PM2.5, associated with the index
+range 51­100. Calculate the AQI for this pollutant.
+
+Solution:
+TEL IPM2.5
+= (Ihigh -  Ilow )  × (CPM2.5 - Clow ) + Ilow
+  (Chigh -  Clow )
+NP = (100- 51) × (30.1 - 12.1) + 51
+(35.4 - 12.1)
+
+= 88.85  89
+
+                                                                                  23
+NPTEL
+   NPTEL
+
+Week 3, Lecture 3 ­ AIR POLLUTION
+                             (Local Effects & Mitigation Measures)
+ Major environmental effects of air pollution
+      ­ Local issues
+
+NPTEL  Mitigation strategies for reducing air pollution
+
+                                                                                                                              02
+ Smog
+
+ Industrial smog           NPTEL
+ Photochemical smog
+ Flue gas desulfurization
+
+ Selective catalytic reduction
+
+                                                                                                                              03
+Environmental effects of outdoor air pollution
+
+SO2                           Local issues
+
+CO2 NO                  PM  NPTEL Regional issues
+                H2O
+
+      SO
+                   NO2
+
+CO
+           CFC
+
+                            Global issues
+
+                                                                                                04
+Local impact on air quality ­ Smog
+
+ Smog is a complex mixture of primary and secondary air pollutants,
+
+  including oxides of carbon, sulfur and nitrogen, ozone, hydrocarbons,
+
+  and fine particulate matter, manifesting as a dense haze mainly in urban
+
+  areas. Apart from reducing visibility, smog can cause a variety of
+
+  adverse effects on human health and the environment.
+  NPTEL Smog is of two types: industrial smog and photochemical smog.
+
+
+  (a) Industrial smog                          (b) Photochemical smog
+
+  (Image courtesy of Pearson Education, Inc.)                               05
+What is industrial smog?
+
+ Industrial smog is an obnoxious grayish haze, and is produced primarily
+
+      by the burning of fossil fuels, particularly high sulfur coal. It usually forms
+      in cool, humid environments, and consists mostly of SO2, suspended
+      droplets of sulfuric acid, and a variety of suspended solid particles.
+
+                       NPTEL
+
+                                                              (Image courtesy of Britannica)
+
+                                                                                                                                     06
+
+        (Image courtesy of Pearson Education, Inc.)
+Mitigating industrial smog
+
+ Flue-gas desulfurization (FGD) is a set of technologies used to remove
+
+  SO2 from the flue gases of coal- and oil-fired power plants as well as
+  emissions from municipal and medical waste incinerators and a wide
+
+  range of industrial processes, including cement and lime kilns, metal
+
+  smelters, petroleum refineries, glass furnaces, and sulfuric acid plants.
+
+  EL It typically consists of a vertical and cylindrical column or tower in which
+  T the exhaust gas is brought into contact with a sorbent, such as limestone
+  NP or lime, that absorb and react with sulfur dioxide in the waste gas stream
+  to produce salts.
+
+ FGD systems can be classified as either wet or dry depending on the
+
+     physical state of the sorbent, and can achieve removal efficiencies of
+
+     between 95 and 99% for most industrial applications.
+
+                                                                                                                                    07
+Mitigating industrial smog
+
+ Wet FGD systems employ a slurry of pulverized limestone mixed with
+
+water to remove SO2 from the combustion exhaust gas of power plants.
+The sorbent slurry, after reacting with SO2, falls to the bottom of the
+absorber tower, where it is collected and transferred to a waste handling
+
+system.                      NPTEL
+Schematic of wet FGD system
+
+                                                                                                                               08
+
+(Image courtesy of HORIBA Ltd.)
+Mitigating industrial smog
+
+ In dry FGD systems, lime is used as absorbent to react and remove
+
+      SO2. There are two common approaches: dry injection system and spray
+      drying system. A dry injection process injects dry hydrated lime directly
+      into the flue gas duct, whereas the spray dry system injects atomized
+      lime slurry into a separate vessel. Both methods yield a dry final product,
+      collected in particulate control devices for further treatment.
+
+  NPTEL Schematic of spray dry FGD system
+
+                                                                                                                                     09
+
+        (Image courtesy of GEA Group Aktiengesellschaft)
+Example #3.3.1: SO2 removal with an FGD system
+
+A 500 MW power plant emits 5.82  106 kg SO2 per year. It is decided to install
+a wet limestone FGD system to reduce SO2 emissions by 95%. The FGD
+system requires a reagent stoichiometry of 1.03 (i.e., 3% more limestone than
+theoretically needed to remove a mole of SO2). Calculate (a) the new annual
+SO2 emissions and (b) the annual quantity of limestone required by this power
+plant.
+
+EL Solution:
+NPT (a) The FGD system will reduce SO2 emissions by 95%. Thus, the new
+
+      emissions will be 5% of the current value.
+
+  SO2 emissions with FGD = (0.05) 5.82 × 106 kg / year
+
+= 2.91 × 105 kg / year                                                          10
+  SO2 emissions withFGD = (0.05) 5.82 × 106 kg / year
+
+                                   = 2.91 × 105 kg / year
+
+(b) SO2 is removed according to the following reaction:
+TEL SO2 +
+(CaCO3  +  2H2O)  +  1  O2    CO2  +  (CaSO4.2H2O)
+                     2
+NP The theoretical reagent requirement is 1.00 mol Ca/mol SO2 removed.
+
+However, the actual requirement is 1.03 mol Ca/mol SO2 removed.
+
+                                                                        11
+Thus a stoichiometric ratio of 1.03 corresponds to a mass ratio of
+
+mCaCO3  =  1.03   mol Ca      100 gCaCO3 / mol Ca  
+ mSO2            mol SO2        64 gSO2 / mol SO2  
+                                                   
+
+        L = 1.6094 g CaCO3
+                 E g SO2 removed
+                              = 1.6094 kg CaCO3
+NPT The annual mass of limestone required is thuskg SO2 removed
+
+mCaCO3 = (1.6094)(5.82 × 106 ) = 9.37 × 106 kgCaCO3 / year
+
+                                                                    12
+What is photochemical smog?
+
+ Photochemical smog is a brownish-gray haze caused by the action of
+
+      solar ultraviolet radiation on atmosphere polluted with hydrocarbons,
+      volatile organic compounds (VOCs) and oxides of nitrogen. It contains
+      mainly ozone, nitric acid, aldehydes, and peroxyacetyl nitrate, which are
+      trapped near the ground by temperature inversion.
+
+                       NPTEL
+
+                                                                                                                                     13
+
+        (Image courtesy of Britannica)
+Formation of photochemical smog
+
+ Photochemical smog is initiated by nitrogen oxides that are emitted into
+
+the air as pollutants mainly from internal combustion engines. Absorbing
+
+the ultraviolet energy of sunlight, it forms nitric oxide (NO) and free
+
+atoms of oxygen (O), which then combine with molecular oxygen (O2) to
+
+form ozone (O3).  NPTEL
+
+                                   PHOTOTOCHEMICAL SMOG
+
+                                                                                                                               14
+
+(Image courtesy of Chegg Inc.)
+Factors affecting formation of photochemical smog
+
+ Morning commuter traffic emit sufficient NO, hydrocarbon, and other
+
+      VOCs into air and, therefore, plays a significant role in the formation
+      of photochemical smog. Ample sunlight, higher temperatures, and a
+      relatively little movement of air are also required.
+      Variation in the concentrations of four major components of
+
+  NPTEL photochemical smog on a sunny day
+
+                                                                                                                                     15
+
+        (Image courtesy of Chegg Inc.)
+Effects of photochemical smog
+
+ The various components of photochemical smog can cause irritation to
+
+      the eyes and respiratory tract, and plant damage if their concentrations
+      are sufficiently high.
+
+                       NPTEL
+
+                                                                  (Image courtesy of NASA)
+
+                                                                                                                                     16
+
+        (Image courtesy of American Lung Association)
+Mitigation of photochemical smog
+
+ Photochemical smog can be controlled by decreasing the concentrations
+
+      of hydrocarbons, NOx and VOC emissions.
+
+ Usage of catalytic converters can reduce vehicle emissions of nitrogen,
+
+  carbon dioxide, and hydrocarbons.
+
+  EL Biofuels can reduce greenhouse gas emissions and noxious urban
+  NPT emissions from transport.
+
+  Hydrogen-powered and electric vehicles are cleaner options for vehicles.
+
+ Simple lifestyle changes like increasing the usage of public transport to
+
+     conserve fuel and reduce NOx emissions.
+
+ Reducing anthropogenic emission of polycyclic aromatic hydrocarbons.       17
+What is selective catalytic reduction?
+
+ Selective catalytic reduction (SCR) is an advanced NOX emission control
+
+      technology that injects a liquid-reductant agent through a special catalyst
+      into the exhaust stream of a diesel engine. The reductant source is
+      usually automotive-grade urea, otherwise known as diesel exhaust fluid
+      (DEF).
+
+  NPTEL Schematic of SCR technology for NOX removal
+
+(Image courtesy of Diesel Technology Forum)                                        18
+What is selective catalytic reduction?
+
+ The heat of the exhaust transforms the DEF to NH3. The NH3 then
+
+     chemically reacts with NO and NO2 at the surfaces of the highly porous
+     catalyst to form nitrogen and water, which are then expelled through the
+
+     vehicle tailpipe.
+
+Chemistry of SCR process  NPTEL
+
+                          (Image courtesy of AeriNOx Inc.)
+
+                                                                                                                               19
+
+(REM: Revista Escola de Minas, Ouro Preto, 2013, 66, 153­158)
+NPTEL
+   NPTEL
+
+Week 3, Lecture 4 ­ AIR POLLUTION
+
+                              (Regional Issues & Mitigation Measures)
+ Major environmental effects of air pollution
+      ­ Regional issues
+
+NPTEL  Mitigation strategies for reducing air pollution
+
+                                                                                                                              02
+ Transboundary pollution
+ Transboundary smoke haze
+
+NPTEL  Acid deposition
+
+ Dry deposition
+ Wet deposition
+
+                                                                                                                              03
+Environmental effects of outdoor air pollution
+
+SO2                           Local impact
+
+CO2 NO                  PM  NPTEL Regional impact
+                H2O
+
+      SO
+                   NO2
+
+CO
+           CFC
+
+                            Global impact
+
+                                                                                                04
+Regional issues: Transboundary smoke haze
+
+ Transboundary haze refers to haze pollution whose physical origin is
+
+     situated wholly or in part within the area under the national jurisdiction of
+     a country and is transported into the area under the jurisdiction of
+     another nation.
+
+  It is the result of slash and burn and/or other types of moderate to large-
+
+  L scale burning to clear land for growing agricultural crops like corn and
+  E plantation trees such as pulp wood, rubber or oil palm.
+  NPT The transboundary haze pollution has been an almost annual
+  occurrence in Southeast Asia since the late 1990s. It usually occurs
+
+  during the southwest monsoon season between June and September
+
+  and becomes more severe during periods of dry weather.
+
+ The affected countries include Indonesia, Malaysia, Singapore, and
+
+  Brunei, and to a lesser extent Thailand, Vietnam and the Philippines.             05
+Regional issues: Transboundary smoke haze
+
+                       NPTEL
+
+                                                                                                                                     06
+
+(Image courtesy of Wikipedia)
+Causes of transboundary smoke haze
+
+ Haze originates from peat and forest fires to clear land for agriculture
+
+      and settlement mostly in Indonesia, and consists of small airborne
+      particles, containing many harmful compounds.
+
+ The occurrence and severity of haze depend on several key factors,
+
+      including the extent of the fires, the direction and strength of prevailing
+
+  L winds, and the incidence and amount of rain.
+                        E Satellite image showing the
+                        T extent of the haze in Borneo on
+                        P15 September 2019. An
+                       Nabundance of blazes in
+
+                                                                                           Kalimantan (part of Borneo)
+                                                                                           and Sumatra blanketed the
+                                                                                           region in a pall of thick, noxious
+                                                                                           smoke (Image courtesy of
+                                                                                           NASA).
+
+                                                                                                                                     07
+Causes of transboundary smoke haze
+
+                                                     Peat is formed when
+
+                                                                    organic matter accumulates
+                                                                    faster than it decomposes
+                                                                    due to the lack of oxygen in
+                                                                    waterlogged conditions.
+                                                                    Peatlands are the most
+
+                       L carbon dense of any
+                       E terrestrial ecosystem in the
+                       NPT world.
+
+                                                                                                                                     08
+
+(Image courtesy of Michael Succow Foundation for the Protection of Nature)
+Composition of transboundary smoke haze
+
+ Due to the specific emission characteristics of land and forest fires, haze
+
+predominately consists of fine particles (PM2.5). While coarse particles
+(PM10) flush out of the atmosphere within several hours up to a day, fine
+particles have extremely long residence time (up to weeks) in the
+
+atmosphere, and travel extensive distances (hundreds to thousands of
+              NPTEL
+kilometers).
+
+                                                                                                                               09
+
+(Journal of Hazardous Materials, 2021, 407, 124760)
+Effects of transboundary smoke haze
+
+ The impacts of transboundary haze are significant and include:
+
+­ Losses to property and/or degradation of natural resources,
+
+   forest, biodiversity, and ecosystem, including damage to
+
+­  agricultural production.
+­
+   EL Increase in emissions of greenhouse gases and other
+   T hazardous pollutants.
+   NP Premature deaths, respiratory ailments, and exacerbation of
+
+   existing heart and lung conditions in humans.
+
+­ Animals subjected to prolonged smoke exposure, may die or
+
+      migrate into other areas or even human settlements.
+
+                                                                                                                           10
+Effects of transboundary smoke haze
+
+        ­ Interruption in the regular operation of various modes of
+
+                transport due to safety concerns including accidents arising
+                from poor visibility.
+
+­  Negative impact on tourism and business.
+­
+   EL Rights to clean air, good health, and quality livelihoods being
+   T denied to numerous affected communities and ordinary
+   NP citizens.
+
+­ Strained neighborly relations amongst ASEAN member
+
+      countries (Brunei, Cambodia, Indonesia, Laos, Malaysia,
+      Myanmar, the Philippines, Singapore, Thailand, and
+      Vietnam), if not others.
+
+                                                                                                                            11
+ASEAN agreement on transboundary haze
+
+ Signed in June 2002 by all ASEAN member states, the ASEAN
+
+  Agreement on Transboundary Haze Pollution was the first regional
+
+  cooperation agreement worldwide to aim to mitigate and prevent haze
+
+  pollution arising from land and forest fires. The treaty came into force in
+
+  2003.
+  L By January 2015, the Agreement had been ratified by all ASEAN
+  E Member States, giving a new impetus for implementation.
+  NPT To further enhance ASEAN's capabilities on addressing the
+
+  transboundary haze pollution, a Roadmap on ASEAN Cooperation
+
+  towards Transboundary Haze Pollution Control, with Means of
+
+  Implementation, was adopted in August 2016, with a vision of a haze-
+
+  free region by 2020. The Roadmap require all countries to localize the
+
+  ASEAN transboundary haze pollution agreement by developing and
+
+  implementing national and local level policies, strategies and actions       12
+Regional issues: Acid deposition
+
+ Acid deposition, or acid rain, is a broad term that includes any form of
+
+      precipitation with acidic components, such as sulfuric or nitric acid, in
+      wet or dry forms.
+
+                                                                                                      Formation of acid
+                                                                                                      rain: (1) Emissions of
+                                                                                                      SO2 and NOx are
+                                                                                                      released into the air,
+
+                           L where (2) the pollutants
+                           Eare transformed into
+
+                                                                                                      acid particles that may
+
+                          Tbe transported long
+                        P distances. (3) These
+                       N acid particles then fall
+
+                                                                                                      to the earth as wet and
+                                                                                                      dry deposition (dust,
+                                                                                                      rain, snow, etc.) and (4)
+                                                                                                      may cause harmful
+                                                                                                      effects on soil, forests,
+                                                                                                      streams, and lakes.
+
+                                                                                                                                     13
+
+        (Image courtesy of US Environmental Protection Agency)
+Acid deposition
+
+ Acid deposition is a regional air pollution problem in areas that lie
+
+     downwind from coal-burning facilities and in urban areas with large
+     numbers of motor vehicles.
+
+Regions where acid deposition is now a problem and regions with the
+
+potential to develop this problem  NPTEL
+
+                                                                                                                               14
+
+(Image courtesy of Encyclopedia Britannica, Inc.)
+Effects of acid deposition
+
+                                                        Acid rain causes demineralization of soil. Base cations like
+
+                                                       Ca2+, Mg2+, Na+, and K+ are leached away and replaced by
+
+                                                       acid cations, such as H+ and Al3+ ions. Acidification of soil
+
+                                                       adversely affects soil fauna and lead to reduced forest
+
+                                                            productivity.
+
+                                                       TEL Core processes of soil acidification.
+
+                                                       The black arrows represent the source
+
+                                                       P and input of atmospheric deposition.
+                                                       NThe red and blue arrows represent
+                                                       hydrogen production and consumption,
+
+                                                       respectively. The orange arrow
+
+                                                       represents the process without
+
+                                                       hydrogen generation and consumption.
+
+                                                       The thinner lines represent natural
+
+                                                       acidification. The dotted box shows the
+
+                                                       buffer system of the soil at different pH
+
+                                                       stages.                                    15
+
+(Science of The Total Environment, 2021, 755, 143372)
+NPTEL
+   NPTEL
+
+Week 3, Lecture 5 ­ AIR POLLUTION
+
+                              (Global Issues & Mitigation Measures,
+                               Indoor Air Quality)
+ Major environmental effects of air pollution
+      ­ Global issues
+
+NPTEL  Mitigation strategies for reducing air pollution
+
+ Major environmental effects of air pollution
+      ­ Sources, effects, and control
+
+                                                                                                                              02
+ Ozone depletion
+ Ozone hole
+
+NPTEL  Ozone depleting substances
+
+ Montreal protocol
+ Indoor air pollutants
+
+                                                                                                                              03
+Environmental effects of outdoor air pollution
+
+SO2                           Local impact
+
+CO2 NO                  PM  NPTEL Regional impact
+                H2O
+
+      SO
+                   NO2
+
+CO
+           CFC
+
+                            Global impact
+
+                                                                                                04
+Atmospheric ozone
+
+ Ozone is present throughout the troposphere and stratosphere.
+
+      Stratospheric ozone is formed naturally by chemical reactions involving
+      solar ultraviolet radiation (sunlight) and oxygen molecules.
+
+                       NPTEL
+
+                                                                                                                                     05
+
+        (Image courtesy of NOAA Chemical Sciences Laboratory)
+Distribution of total ozone over Earth
+
+                                                                   Total ozone at any location on the globe is the
+
+                                                                                     sum of all the ozone molecules in the atmosphere
+                                                                                     directly above that location. Total ozone varies
+                                                                                     with latitude, longitude, and season, with the
+                                                                                     largest values at high latitudes and the lowest
+
+                       NPTELvalues in tropical regions.
+
+                                                                                                                                     06
+
+(Image courtesy of NOAA Chemical Sciences Laboratory)
+Measuring ozone in the atmosphere
+
+                                                                   The amount of ozone in the atmosphere is
+
+                                                                                     measured by instruments on the ground and
+                                                                                     carried aloft on balloons, aircraft, and satellites.
+                                                                                     Some instruments measure ozone locally by
+                                                                                     continuously drawing air samples into a small
+                                                                                     detection chamber. Other instruments measure
+
+                             Lozone remotely over long distances by using
+                           Eozone's unique optical absorption or emission
+                       NPT properties.
+
+                                                                                                                                     07
+
+(Image courtesy of NOAA Chemical Sciences Laboratory)
+Stratospheric ozone depletion
+
+                                             Ozone depletion refers to two distinct but related phenomena
+
+                                                           observed since the late 1970s: (1) a steady decline in the total
+                                                           amount of ozone in the Earth's stratosphere (i.e., the ozone layer),
+                                                           and (2) a much larger springtime decrease in stratospheric ozone
+                                                           around the Earth's polar regions (ozone hole).
+
+                       NPTEL
+
+(a) Minimum ozone column south of 60° for the
+
+past 25 years. (b) Average area of the Antarctic
+
+ozone hole. Areas are averaged over 30 days. The
+
+area of the ozone hole is defined as that of the
+
+region within the 220 DU contour (Image courtesy  08
+
+of NASA Goddard Space Flight Center).
+                              Stratospheric ozone depletion
+
+                                              The initial step in the depletion of stratospheric ozone is the emission
+
+                                                            of halogen source gases by human activities and natural processes
+                                                            that contain chlorine and bromine and have long atmospheric
+                                                            lifetimes. Most of these gases accumulate in the troposphere
+                                                            because they are relatively unreactive and do not dissolve readily in
+                                                            rain or snow. Natural air motions transport these accumulated gases
+
+                    L to the stratosphere, where they are converted to more reactive
+                    E gases. Some of these gases then participate in reactions that destroy
+                    NPT ozone.
+
+                                                                                                                                     09
+
+(Image courtesy of NOAA Chemical Sciences Laboratory)
+Halogen source gases vs. ozone-depleting substances
+
+ Ozone-depleting substances (ODSs) are a subset of halogen source gases, manufactured for specific
+
+industrial uses or consumer products. These gases bring chlorine and bromine atoms to the stratosphere,
+
+where they destroy ozone in chemical reactions. Important examples are the chlorofluorocarbons (CFCs),
+
+once used in almost all refrigeration and air conditioning systems, and the halons, which were used as fire
+
+extinguishing agents.  NPTEL
+
+                                                                                                                               10
+
+(Image courtesy of NOAA Chemical Sciences Laboratory)
+Conversion of halogen source gases
+
+ Halogen-containing gases present in the stratosphere can be divided into two groups: halogen source gases
+
+and reactive halogen gases. The source gases, which include ozone-depleting substances (ODSs), are
+
+emitted at Earth's surface by natural processes and by human activities. Once in the stratosphere, the halogen
+
+source gases chemically convert at different rates to form the reactive halogen gases. The conversion occurs
+
+in the stratosphere instead of the troposphere for most gases because solar ultraviolet radiation is more
+                              NPTEL
+intense in the stratosphere.
+
+                                                                                                                               11
+
+(Image courtesy of NOAA Chemical Sciences Laboratory)
+Ozone destruction cycle
+
+                                   Stratospheric ozone is destroyed by reactions
+
+                                         involving reactive halogen gases. The most
+                                         reactive of these gases are chlorine monoxide
+                                         (ClO), bromine monoxide (BrO), and chlorine and
+                                         bromine atoms (Cl and Br). These gases
+                                         participate in three principal reaction cycles that
+
+                         NPTELdestroy ozone.
+
+                                                                                                                                    12
+
+(Image courtesy of NOAA Chemical Sciences Laboratory)
+                              Ozone destruction cycle
+
+                                              Reactive gases containing chlorine and bromine destroy
+
+                                                            stratospheric ozone in catalytic cycles, comprising two or more
+                                                            separate reactions. As a result, a single chlorine or bromine atom can
+                                                            destroy many thousands of ozone molecules before it leaves the
+                                                            stratosphere. In this way, a small amount of reactive chlorine or
+                                                            bromine has a large impact on the ozone layer. A special situation
+
+                    L develops in polar regions in the late winter/early spring season,
+                    E where large enhancements in the abundance of the most reactive
+                    NPT gas, chlorine monoxide, lead to severe ozone depletion.
+
+                                                                                                                                     13
+
+(Image courtesy of NOAA Chemical Sciences Laboratory)
+Antarctic ozone hole
+
+                       The severe depletion of the Antarctic ozone layer, known
+
+                            as the ozone hole, occurs because of the special
+                            meteorological and chemical conditions that exist there
+                            and nowhere else on the globe. The very low winter
+                            temperatures in the Antarctic stratosphere cause polar
+                            stratospheric clouds (PSCs) to form. Special reactions
+
+                        L that occur on PSCs, combined with the isolation of polar
+                        E stratospheric air in the polar vortex, allow chlorine and
+                        Tbromine reactions to produce the ozone hole in Antarctic
+                      NPspringtime.
+
+(Image courtesy of NOAA Chemical Sciences Laboratory)
+
+                                                                                                                                     14
+Antarctic ozone hole
+
+                                                Severe depletion of the Antarctic ozone layer was first reported in
+
+                                                              the mid-1980s. Antarctic ozone depletion is seasonal, occurring
+                                                              primarily in late winter and early spring (August­November). Peak
+                                                              depletion occurs in early October when ozone is often completely
+                                                              destroyed over a range of stratospheric altitudes, thereby reducing
+                                                              total ozone by as much as two-thirds at some locations. This
+
+                     L severe depletion creates the ozone hole apparent in images of
+                     E Antarctic total ozone acquired using satellite instruments. In most
+                     T years the maximum area of the ozone hole far exceeds the size of
+                     NP the Antarctic continent.
+
+                                                                                                                                     15
+
+(Image courtesy of NOAA Chemical Sciences Laboratory)
+Is there depletion of the Arctic ozone layer?
+
+                                                                  Significant depletion of the Arctic ozone layer
+
+                                                                                    occurs in most years in the late winter and early
+                                                                                    spring period (January­March). However, Arctic
+                                                                                    ozone depletion is less severe than that observed
+                                                                                    in the Antarctic and exhibits larger year-to-year
+                                                                                    differences as a consequence of the highly variable
+
+                            Lmeteorological conditions found in the Arctic polar
+                       NPTEstratosphere.
+
+(Image courtesy of NOAA Chemical Sciences Laboratory)
+
+                                                                                                                                     16
+Effects of ozone depletion
+
+ The depletion of stratospheric ozone leads to an increase in solar
+
+  ultraviolet radiation at Earth's surface. The increase occurs primarily in
+
+  the ultraviolet-B (UV-B) (280 to 315 nm) component of the Sun's
+
+  radiation. Exposure to UV-B radiation can harm humans, other life
+
+  forms, and materials. Most of the effects of sunlight on the human body
+
+  are caused by UV-B radiation. A principal effect is skin erythema, which
+
+  L leads to sunburn. Excess exposure may lead to skin cancer.
+  E Overexposure to UV-B reduces
+  T the size, productivity, and quality
+  NP of many crop plants (rice,
+  soybeans, winter wheat, cotton,
+
+  and corn). In addition, it impairs
+
+  the productivity of phytoplankton
+
+  in aquatic ecosystems.
+
+                                                                                                                                     17
+
+(Image courtesy of NOAA Chemical Sciences Laboratory)
+Protecting the ozone layer
+
+                                                         The production and consumption of ODSs are controlled
+
+                                                                         under a 1987 international agreement known as the
+                                                                         Montreal Protocol on Substances that Deplete the Ozone
+                                                                         Layer and its subsequent Amendments and Adjustments.
+                                                                         The Protocol, now ratified by 198 nations, establishes
+                                                                         legally binding controls on national production and
+
+                        L consumption of ODSs. Production and consumption of all
+                        E principal ODSs by developed and developing nations will
+                       NPTbe almost completely phased out by 2030.
+
+(Image courtesy of NOAA Chemical Sciences Laboratory)  18
+Protecting the ozone layer
+
+                                                         As a result of the Montreal Protocol, the overall abundance
+
+                                                                         of ODSs in the atmosphere has been decreasing for the
+                                                                         past two decades. However, it is only after midcentury that
+                                                                         the abundance of ODSs is expected to fall to values that
+                                                                         were present before the Antarctic ozone hole was first
+                                                                         observed in the early 1980s, due to the long atmospheric
+
+                       NPTEL lifetime of these gases.
+
+(Image courtesy of NOAA Chemical Sciences Laboratory)
+
+                                                                                                                                     19
+Protecting the ozone layer
+
+                                            Substantial recovery of the ozone layer from
+                                            the effects of ODSs is expected around the
+                            NPTEL           middle of the 21st century, assuming global
+                                            compliance with the Montreal Protocol.
+                                            Recovery will occur as ODSs and reactive
+                                            halogen gas abundances in the stratosphere
+                                            decrease in the coming decades.
+
+                                                                                                                                     20
+
+(Image courtesy of NOAA Chemical Sciences Laboratory)
+Indoor air pollution
+
+ Household air pollution is generated by the use of inefficient and
+
+      polluting fuels and technologies in and around the home that contains a
+      range of health-damaging pollutants. Exposure is particularly high
+      among women and children, who spend the most time near the domestic
+      hearth.
+
+                       NPTEL
+
+                                                                                                                                     21
+
+        (Science of the Total Environment, 2017, 576, 347­361)
+Impacts of indoor air pollution
+
+ Household air pollution exposure leads to noncommunicable diseases
+
+including stroke, ischaemic heart disease, chronic obstructive pulmonary
+
+disease (COPD) and lung cancer. Household air pollution was
+
+responsible for an estimated 3.2 million deaths per year in 2020,
+
+including over 237,000 deaths of children under the age of 5.
+                                        NPTEL
+Deaths from indoor air pollution, 2019
+
+                                                                                                                               22
+
+(Image courtesy of OurWorldInData)
+Sources of indoor air pollution
+
+Sources of indoor air pollutants in a modern home   Numerous forms of indoor air pollution are
+
+                                                   possible in the modern home. Air pollutant
+
+                                                   levels in the home increase if not enough
+
+                                                   outdoor air is brought in to dilute emissions
+
+                                                                    from indoor sources and to carry indoor air
+                                                                    pollutants out of the home. In addition, high
+
+                                                    L temperature and humidity levels can increase
+                                               NPTE the concentration of some pollutants.
+
+(Image courtesy of Paint & Coatings Industry)      23
+Improving indoor air quality              There are three basic strategies to improve
+
+Solutions to improve indoor air quality       indoor air quality: (1) source control, (2)
+                                              improved ventilation, and (3) air cleaners.
+
+NPTEL
+
+                                                                                                                                    24
+
+(Image courtesy of Southern Energy Management)
+Concluding remarks
+
+ Air pollution is one of the greatest environmental risk to human
+
+     health and wellbeing.
+
+ Contamination of the outdoor and indoor environment cause
+  respiratory and other diseases and are important sources of
+
+  EL morbidity and mortality.
+  NPT A key strategy for solving air pollution problems is to focus on
+  preventing or sharply reducing outdoor and indoor air pollution at
+
+  global, regional, national, local, and individual levels.
+
+ Each of us has an important role to play in protecting the
+
+  atmosphere that sustains life and supports our economies.             25
+NPTEL
+

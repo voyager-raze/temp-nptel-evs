@@ -1,0 +1,317 @@
+                                            Environmental Science
+                             Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                               Indian Institute of Technology Kharagpur
+                 Week 06- (Lecture 05) : RENEWABLE ENERGY II (Bioenergy)
+
+Welcome to lecture 5 of week 6 of the NPTEL online certification course on Environmental
+Science. Over the span of the last 2 weeks, we have looked at various renewable energy resources
+from solar energy, wind energy, geothermal energy, our oceans as well as our rivers. In this
+concluding lecture on renewable energy sources, we will be looking into bioenergy.
+Specifically, we will be learning about whether bioenergy is a sustainable form of energy. We
+will also look into what are the various types of feedstocks and their standards that are essential
+for bioenergy deployment. We will then learn about the various biomass conversion pathways
+that are currently available and what is the current status and future deployment scenario of
+bioenergy.
+Bioenergy is the energy produced from biological materials such as crops, woody biomass (e.g.,
+forestry and agricultural residues) and other organic materials and wastes. Biomass, biofuels,
+bioliquids and biomethane are related terms. These different forms of bioenergy can be used for
+cooking, heating, industrial use, to produce electricity and for transport fuels.
+
+Bioenergy use can be categorized into two distinct categories: "traditional" and "modern".
+Traditional use refers to the direct combustion of biomass such as wood, animal waste and
+traditional charcoal. Around 2.5 billion people, mostly in developing regions of sub-Saharan
+Africa and South Asia with limited access to affordable and reliable modern energy systems, rely
+on traditional solid biofuels for cooking and residential heating on open cookstoves and fireplaces
+with very low energy conversion efficiency. Traditional use of solid biofuels causes negative
+health, socio-economic and environmental consequences. It generates a high level of health-
+damaging air pollutants, inducing acute ambient and indoor air pollution when combined with poor
+ventilation.
+
+Modern bioenergy technologies include liquid biofuels produced from agricultural crops and other
+plants; biogas produced through anaerobic digestion of residues; wood pellet heating systems; and
+other technologies.
+Bioenergy is an important contributor to global energy needs. It makes up the largest share of
+renewable energy use today, accounting for around 12% of the world's total final energy demand.
+More than half of bioenergy is consumed for cooking and heating buildings in a traditional way.
+Modern uses of bioenergy include biomass and biogas/biomethane for building and industrial heat
+and power generation, liquid biofuels and biomethane for transport, and biomass-based material
+used as industrial feedstocks. In 2019, modern use of bioenergy provided some 6% of total global
+final energy demand, more than hydropower and other modern renewables.
+Increasing bioenergy's share in the energy transition is, however, a major challenge, particularly
+from the viewpoint of sustainable development. In principle, bioenergy use can provide various
+benefits, such as avoiding GHG emissions by replacing fossil fuels in power generation, heating,
+transport and industry. It can also bring environmental and socio-economic benefits such as land
+restoration and job creation and improved health from clean cooking. However, these benefits can
+only be realised under specific circumstances.
+
+If not managed well, bioenergy supply chains and use could incur negative environmental, social
+or economic impacts beyond the energy sector due to their strong interactions with a number of
+important sectors such as agriculture, forestry, rural development and waste management.
+Bioenergy's impacts on land-use changes are highly context-, location- and scale-dependent. For
+example, increased bioenergy supply could cause land-use changes from the current purpose (e.g.
+food production or ecological service) to energy use, raising potential concerns about issues such
+as food security or biodiversity loss. However, there is also scope for potential benefits by using
+bioenergy
+by-products to improve soil quality, plantations for phytoremediation to improve water quality and
+agroforestry to increase biodiversity. Additionally, the potential for increased carbon sequestration
+through improved land stewardship measures is considered to be substantial.
+
+Evaluating the synergies and trade-offs and the myriad issues related to land-use governance is
+therefore essential for the deployment of sustainable biomass for different purposes.
+There are broadly two main sources of biomass for heat and power applications:
+
+Agricultural biomass ­ also referred to as herbaceous biomass. Generally, herbaceous biomass
+resources are either agricultural residues or purpose grown crops such as grasses. Agricultural
+residues are biomass that is left over in the field (such as straw, prunings, stalks and leaves) or
+generated during processing after the portions of the crop used for food production have been
+extracted (such as husks, shells, kernels and bagasse).
+
+Agricultural crops are harvested in short harvesting windows; therefore, their biomass is collected
+and treated seasonally. Continuous production of biofuels from agricultural sources thus requires
+extensive storage for year-round use, which may be challenging as the herbaceous biomass easily
+starts decomposing, emitting GHGs.
+
+Herbaceous biomass has higher ash, chlorine, nitrogen and sulphur content and contains more
+abrasive particles than woody feedstock. It also has a lower ash-fusion temperature, resulting in
+greater boiler slagging and fouling, faster boiler corrosion and higher emissions of atmospheric
+pollutants.
+
+Forestry biomass ­ also referred to as woody biomass.
+
+Woody biomass includes trees or parts of trees, such as trunks, branches, bark and tops. It contains
+more lignin than
+herbaceous feedstock or tree leaves. Lignin is an organic polymer that supports vascular plants,
+such as trees, structurally acting as a glue. It also reduces their rate of decomposition.
+Forestry biomass is usually harvested during all seasons, often on demand. Most wood species
+have similar energy content on a mass basis. Softwood has a slightly higher heating value than
+hardwood, on a mass basis. On a volume basis, hardwood has a higher heating value because it is
+generally denser. The energy content of wood by weight varies only slightly between timber
+species, but the density varies significantly.
+Clean stem wood with no bark and no branches usually has an ash content of 0.5­ 1 %. Bark has
+higher ash content of,
+typically, 3­5 % (dry basis). Woody biomass is known to have less silica than herbaceous biomass.
+Uncontaminated woody biomass with no additives hardly ever produces any byproducts under
+normal combustion conditions.
+
+Elemental composition ­ The main constituents of biomass are carbon (C), oxygen (O) and
+hydrogen (H). As carbon and hydrogen are oxidised in the combustion process, they release
+energy. Most biomass has a carbon content of around 50 % (dry basis), 40 % to 45 % oxygen and
+5 % to 7 % hydrogen.
+There are also other chemical elements, although these constitute much lower percentages of the
+total dry biomass.
+Nitrogen (N), sulphur (S) and chlorine (Cl) contents are some of the main causes of air pollution
+from biomass combustion. A higher percentage of these elements generally results in a higher level
+of air contaminants being released. Minerals, such as silica, are also present in small quantities and
+together form the ash that remains after combustion.
+
+Chemical composition ­ A different level of chemical analysis of biomass is more concerned
+with the presence of chemical compounds such as sugar, starch, oil, protein, cellulose,
+hemicellulose and lignin. These substances are present in biomass at different levels and determine
+the potential uses of the biomass. In the case of solid biofuels, the presence of dissolved sugars,
+starch, oil and protein is usually very low. The substances of interest are cellulose, hemicellulose
+and lignin.
+
+Moisture ­ All biomass contains water, typically expressed as percentage moisture content.
+Moisture is most often undesirable and has a significant negative impact on the value of the
+biomass for several reasons. Moisture reduces energy content as it adds mass without calorific
+value, increasing transport costs per unit of energy. It also increases the necessary furnace volume
+and requires larger exhaust channels, resulting in higher capital costs for combustion plants.
+
+Moisture requires energy during combustion to evaporate, reducing plant efficiency (unless the
+application allows for low-temperature heat recovery), and it can induce corrosion
+in boilers and combustion equipment. Moist biomass also decomposes faster than dry biomass.
+
+Ash content ­ Ash content reflects the amount of minerals, such as calcium (Ca), chlorine (Cl),
+potassium (K), nitrogen (N), sulphur (S) and silicon (Si), contained in the biomass. This forms the
+residue left after combustion. The ash content of biomass is determined by its chemical
+composition and by contamination with dirt that often occurs during harvesting, transport and
+storage. For instance, biomass stored on the ground can pick up dirt, which increases the ash
+content significantly. High ash content is undesirable because ash adds weight without adding
+calorific value. It also can cause equipment damage depending on its melting temperature. Further,
+the high temperatures in the combustor may melt the ash, giving it a lava-like consistency that
+sticks to the equipment, causing damage.
+
+Another fraction of the ash can also be emitted through the stack as fly ash and often needs to be
+removed prior to emission of the combustion gases to the atmosphere. Such properties need to be
+considered in plant design by selecting the appropriate combustion technology, tube materials
+and/or coating, or mitigated by temperature control of combustion or co-firing with low-fouling
+fuel.
+
+Ash content varies considerably with biomass type, from as low as 0.3 % in clean wood to 4 % in
+perennial grasses and up to 7 % in some straws.
+Density ­ Density is the measure of mass per volume. The factors that affect biomass density are
+the chemical composition of the biomass (including moisture) and its inherent structure. Bulk
+density depends on the method of conditioning biomass for storage and transport, which affects
+the volume of biomass as purchased or as delivered. Bulk density is an important property that
+impacts logistics, storage and handling of the biomass, and it can be improved by using techniques
+that reduce the total volume of the bulk biomass, such as compaction or densification.
+
+Energy content ­ The calorific or heating value of a fuel indicates the energy available in the fuel
+per unit mass. The difference in available energy depends on the chemical composition of the
+biomass, and its moisture and ash content.
+
+Particle size ­ The distribution of biomass particle size in the biomass fuel can range from
+macroscopic dimensions, such as in a wood log, to microscopic dimensions, such as the fine
+particles that result from milling and grinding processes. Some biomass applications are sensitive
+to particle size and demand tight control for optimal results.
+Most of the feedstock utilized for bioenergy is ligno-cellulosic biomass consisting of 50-75%
+cellulose and hemicellulose and the remaining lignin, a phenolic compound. The lignin content is
+usually high in woody biomass and lower in agriculture waste and perennial grasses. The
+conversion of lignocellulosic feedstock into liquid biofuels is based on two main processes (i.e.,
+biochemical and thermochemical conversion.
+In biochemical process, biomass is pre-treated and enzymatically hydrolysed to convert the
+cellulose and hemicellulose fractions to sugars and possibly separate the lignin fraction. The
+soluble C5 and C6 sugar molecules are fermented to ethanol, butanol, or diesel using yeast or
+bacteria. The biofuel is separated from the fermentation broth using distillation and/or membranes
+or molecular sieves.
+Converting cellulose into sugar is more challenging than converting starchy biomass for biofuels
+since the lignin tends to inhibit hydrolysis and must be removed. To facilitate the process, a pre-
+treatment (e.g., biological, physical or chemical) is needed to comminute the feedstock. The need
+for pre-treatment and enzymes for hydrolysis makes the overall process rather costly though
+enzymatic hydrolysis is cheaper than acidic hydrolysis.
+
+The pretreatment of lignocellulosic feedstocks is an essential step and is required to alter the
+structure of biomass residues and expose the lignocellulosic fractions for easy access to enzymes
+during enzymatic hydrolysis and enhance the rate and yield of reducing sugars.
+Based on the type of the treatment process involved, lignocellulosic biomass pretreatment methods
+are broadly classified into two groups: Non-biological and biological. Non-biological pretreatment
+methods do not involve any microbial treatments and are roughly divided into different categories:
+physical, chemical, and physico-chemical methods. The selection of pretreatment process depends
+exclusively on the application.
+As compared to the conventional single pretreatment process, integrated processes combining two
+or more pretreatment techniques is beneficial in reducing the number of process operational steps
+besides minimizing the production of undesirable inhibitors. However, extensive research is still
+required for the development of new and more efficient pretreatment processes for lignocellulosic
+feedstocks yielding promising results.
+
+The thermo-chemical process includes biomass pre-treatment, gasification at around 850°C in
+controlled air/O2 atmosphere to produce syngas, clean-up of syngas and the well-known catalytic
+Fischer-Tropsch (FT) conversion to produce a variety of fuels.
+Gasification converts dry biomass to syngas (a mixture of primarily hydrogen and carbon
+monoxide typically under high temperature and pressure. Syngas is cleaned of contaminants and
+conditioned via a water-gas shift reaction to meet the catalyst specification. Fischer-Tropsch
+catalysts convert conditioned syngas to a mixture of hydrocarbons which may be upgraded via
+standard refinery processes. Basically, diesel and jet fuel from low-temperature FT, and gasoline
+and chemicals from high-temperature FT. The process offers a number of variants and products:
+the syngas can also be used to produce hydrogen, methanol, ethanol and DME.
+Many other thermochemical processes can provide biofuels. Fast pyrolysis can convert biomass
+into bio-oil, which is then refined into diesel. It involves low-temperature gasification (400-600°C)
+in the absence of O2, followed by quick cooling at 100°C to obtain a condensed oil. Pyrolysis
+enables the use of larger size biomass particles (5 mm), thus saving pre-treatment costs in
+comparison with other processes. It is rather energy-intensive, with the yield of product, mainly
+pyrolysis oil, depending to a certain extent on how fast heating and cooling occur. Pyrolysis oil
+can be rather acidic and corrosive, thus requiring more expensive storage and handling. A by-
+product is bio-char, which can be used as solid fuel or as a fertilizer.
+Algae have recently gained attention as a potential feedstock for biofuels. In principle, they offer
+high yields (i.e., several times the yield of palm feedstock,) and large CO2 absorption by
+photosynthesis, with up to 90% lower water needs than terrestrial crops, possible use of saline or
+waste water and no need for arable land. Algae contain approximately 33-50% lipids and
+triglycerides for biodiesel production, the rest being sugar and proteins for bioethanol production.
+They are considered primarily for biodiesel and jet fuel production since fewer alternatives exist
+to replace these fuels. However, algae cultivation in open ponds requires regions and sites with the
+appropriate climate, sunshine and water nutrients, whereas alternative cultivations in closed photo-
+bioreactors are very expensive. In addition, cultivations are vulnerable to contamination, and an
+efficient technology is needed for oil extraction. A number of pilot and demonstration projects
+exist all over the world, but there is consensus that commercial production of algae biofuels, will
+take at least ten years to materialise.
+The anaerobic digestion process is a fermentation process, which takes place in a closed airtight
+digester where organic raw materials such as manure, food waste, sewage
+sludge and organic industrial waste are converted into biogas and digestate as products by a
+complex microbial community. The produced biogas is a mixture of 50 ­ 70% methane and 30 ­
+50% carbon dioxide and smaller amounts of water vapor, hydrogen sulphide and other minor
+components and trace elements. After purification, biogas can be sold and injected into the natural
+gas distribution system, compressed and used as vehicle fuel, or processed further to generate
+alternative transportation fuel, energy products, or other advanced biochemicals and bioproducts.
+
+The digestate resulting from anaerobic digestion of the substrates, are pumped out of the digester
+tank, after the extraction of biogas. The digestate consists of slow degradable, stable organic
+components such as lignin, nitrogen and phosphorous in various forms, inorganic salts containing
+phosphate, ammonium, potassium, and other minerals. With appropriate treatment, the digestate
+can be used in many beneficial applications, such as animal bedding (solids), nutrient-rich fertilizer
+(liquids and solids), a foundation material for bio-based products (e.g., bioplastics), organic-rich
+compost (solids), and/or simply as soil amendment (solids).
+
+Digestate products can be a source of revenue or cost savings, and are often pursued to increase
+the financial and net-environmental benefit of an AD/biogas project.
+Biofuels produced from edible biomass such as starch (from potato, wheat, barley, and corn) or
+sugars (from sugarcane and sugar beet) are called 1st generation biofuels. They initially showed a
+promising capability in minimizing the fossil fuels combustion and lowering atmospheric levels
+of CO2 which is consumed by crops as they grow. However, concerns arose about using edible
+crops as feedstocks and the impacts on croplands, biodiversity, and food supply. First-generation
+biofuels, which are produced commercially today at around 50 billion liters per year, include
+biodiesel (bio-esters), and bioethanol, as well as bio-gas.
+
+2nd generation: In this generation, a more sustainable protocol is followed to produce biofuels. The
+net carbon (emitted­consumed) from combusting second-generation biofuels is neutral or even
+negative. The feedstock is lignocellulosic material which include the inexpensive and abundant
+nonedible biomass available from plants. The cost-effectiveness of this generation of biofuels still
+needs development because there are several technical barriers that need to be overcome.
+
+Several kinds of microorganisms which do not compete with foods and land crops are used as
+feedstocks in the third generation of biofuels. There are two main types of algae based on their
+size and morphology: macro-algae and micro-algae. One of the most commonly used macroalgae
+is marine macro-algae which has multiple cells, resembling the roots, stem and leaves of higher
+plants. In contrast, microalgae which are classified as autotrophic, heterotrophic, and mixotrophic
+microscopic organisms, exist in both fresh and marine water. Microalgae are the most common
+type for biodiesel production.
+
+Microalgae have excellent potential to produce special chemicals and nutritional products due to
+their photosynthetic ability. Autotrophic and heterotrophic microalgae differ in the source of the
+carbon they consume, where autotrophs use inorganic carbon while heterotrophs use organic
+carbon sources.
+Fourth-generation biofuels are the amalgamation of genomically prepared microorganisms and
+genetically engineered feedstock. Microalgae are commonly engineered to increase the oil yield
+and are used for the efficient production of bioenergy. These feedstocks can be grown in nonarable
+land. The implementation of bioengineering principles is to modify algal metabolism and
+properties to enhance the oil content in the cells. Moreover, the increased oil yield also helps in
+CO2 mitigation. Hence the net effect of CO2 is negligible on the environment. The research into
+this field is emerging, and various methods have been proposed to provide a sustainable solution
+for biofuels production.
+
+Bioenergy use worldwide totalled an estimated 44 exajoules (EJ) in 2020, or around 12.3% of
+global total final energy consumption (TFEC). More than half of this (24.1 EJ) was the traditional
+use of biomass for cooking and heating in developing and emerging economies (6.7% of TFEC).
+Other, more modern and efficient uses of bioenergy provided an estimated 20.3 EJ or 5.6% of
+TFEC. Overall, bioenergy represented around 47% of the estimated renewable energy use in global
+TFEC in 2020, down from 54% in 2010. Modern bioenergy for heating in buildings and industry
+provided around 14.7 EJ in 2020 (7.6% of the global energy use for heating). Transport use
+amounted to 3.7 EJ (3.5% of transport energy needs). Bioenergy also provided 1.8 EJ to the global
+electricity supply (2.4% of the total).
+Between 2011 and 2021, the production of transport biofuels grew 56%, from 2.6 EJ to 4.1 EJ.46)
+Biofuel production fell sharply in 2020 as the COVID-19 pandemic led to reduced transport energy
+demand and restricted blending; however, production recovered in 2021 to levels near those of
+2019, although growth was constrained by very high feedstock costs. Since 2011, the share of
+biodiesel in the biofuel mix has grown from 29% to 37%, due largely to rising production in Asia.
+
+Global bio-power capacity and generation both increased
+significantly during 2011-2021 and were not impacted greatly by the pandemic in 2020, with
+generation protected by long-term power purchase contracts. Global capacity more than doubled
+during the period, reaching an estimated 158 gigawatts, while global generation rose 88% to 656
+terawatt-hours (TWh). Since 2017, China has been the top bio-power producing country, followed
+by the United States, Brazil, Germany, Japan, the United Kingdom and India, as of 2021.
+
+Bioenergy plays an important role in the global energy transition. To limit global temperature rise
+to 1.5°C, sustainable bioenergy plays a major role in bringing global CO2 emissions close to net
+zero by 2050, thus limiting the global temperature rise to 1.5°C. Bioenergy could provide medium
+and long-term solutions for many sectors for which there are few other renewable options
+available, such as providing fuels for aviation. It could also provide renewable heat and feedstock
+for industries. To limit global warming to 1.5°C, bioenergy need to contribute 17% of total final
+energy consumption by 2050. Modern use of bioenergy would need to increase in all end uses.
+Achieving the requisite supply in a sustainable manner would be a major challenge.
+Renewables are the most affordable energy source to both improve resilience and support
+decarbonisation
+A profound and systemic transformation of the global energy system must occur by 2050.
+
+This necessitates a strategic shift that expands beyond the focus on decarbonisation of supply
+toward designing an energy system that not only reduces carbon emissions but also supports a
+resilient and inclusive global economy. As a result, planning needs to extend beyond borders and
+the narrow confines of fuels to focus on the requirements of the new energy system and the
+economies it will sustain.
+Grid expansion and flexibility measures must be prioritised in the coming years.
+Accelerated end-use sector electrification will need to be combined with a continuous drive to
+grow renewable power capacity. This growth requires concomittant electricity network expansion
+and modernization.
+So, with that I end our discussion on renewable energy resources. Thank you.
+

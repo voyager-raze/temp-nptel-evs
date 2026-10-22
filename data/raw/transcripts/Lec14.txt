@@ -1,0 +1,326 @@
+                                            Environmental Science
+                             Prof. Shamik Chowdhury & Prof. Sudha Goel
+
+                                               Multidisciplinary
+                               Indian Institute of Technology Kharagpur
+
+                                                     Week 03
+           (Lecture 04): AIR POLLUTION (Regional Issues & Mitigation Measures)
+
+Welcome to lecture 4 of week 3 of the NPTEL online certification course on Environmental
+Science. So, we will continue our discussion on the environmental effects of air pollution. Now,
+in the last lecture we looked into the local impacts pertaining to air pollution.
+Today we will look into the regional effects of air pollution and we will also learn some of the
+agreements or treaties that are in place for reducing such regional effects of air pollution.
+
+So, at the end of this lecture, you should be able to explain what is transboundary pollution, what
+is transboundary smoke haze, you should also be able to explain what is acid deposition, what is
+dry deposition, and what is wet deposition? Now, in the last lecture as I already said to you that
+air pollutants can actually have three different impacts on our environment or I would say that the
+scale of their impact varies. So, they can have local impact, regional impact and global impact.
+
+Transboundary haze refers to haze pollution whose physical origin is situated wholly or in part
+within the area under the national jurisdiction of a country and is transported into the area under
+the jurisdiction of another nation.
+Transboundary haze is a form of seasonal air pollution that crosses national borders, affecting up
+to six Southeast Asian countries, including Malaysia, Singapore, Brunei, Thailand, Vietnam, and
+the Philippines, on a near-annual basis. The particulates that make up the haze arise from forest
+and peat fires during the dry season, mostly in Indonesia on the islands of Borneo and Sumatra.
+When this particulate matter travels across national borders, it is called transboundary haze.
+
+Transboundary haze pollution has adversely impacted air quality in Indonesia, Malaysia, and
+Singapore for decades.
+Although there are reports of haze beginning in the 1980s, the first major episode occurred in 1997
+when Singapore, Kuala Lumpur and to a lesser extent Jakarta (along with other Southeast Asian
+cities) experienced weeks of air pollution with widespread concerns about its economic and health
+consequences. The most recent serious episodes of haze took place in 2015, 2016 and 2019. People
+and countries in reach of the smoke suffer environmental, economic, and health damages that are
+often serious.
+Transboundary air pollution is not a new phenomenon. It has existed for centuries in one form or
+another. Causes for this pollution could be both natural and man-made. However, prior to 1960, it
+was not a serious issue since population levels, urbanization rates and the extent of industrial and
+agricultural activities were rather low. Equally, prior to 1960, all types of environmental pollution
+were generally accepted by societies to be prices that had to be paid for economic progress. In
+addition, the health, economic and environmental costs of air, water and land pollution were
+neither properly known nor fully appreciated. Thus, if there was a conflict between economic
+growth and environmental pollution, it was routinely resolved in favor of economic growth.
+
+The situation started to change around 1970 when many people in the industrialized world started
+to realize and appreciate the increasing costs of environmental pollution that had significantly
+adverse impacts on the human and the ecosystems health. The smog of the 1950s in major cities
+like London, Los Angeles and Tokyo made their inhabitants question if unfettered economic
+growth, at the cost of environmental deterioration, is a desirable long-term societal policy option.
+Shortly thereafter, a nascent environmental movement started. It began to gain momentum and
+flexed its muscles during the post-1970 period.
+
+Transboundary air pollution first burst into global consciousness during the 1960s when some
+Swedish and Norwegian scientists noted that a large number of their lakes were showing increasing
+acidity. This resulted in a steady increase in fish kills and serious negative impacts on many other
+species. Aquatic biodiversity was declining. Forests were also adversely affected.
+
+The culprit was found to be acid rain whose sources were outside Scandinavia. Acid rain was being
+caused by sulfur dioxide and nitrogen oxides emitted by factories in the United Kingdom, West
+Germany and several East European countries which reacted in the atmosphere with the water
+droplets in the clouds. The net result was that rainfall in Sweden and Norway contained higher
+concentrations of nitric and sulfuric acids, which started to take its toll on aquatic and territorial
+ecosystems by acidifying lake waters.
+In a similar manner, transboundary smoke pollution is an important concern in the Southeast Asian
+countries of Indonesia, Malaysia, Singapore, Brunei, Thailand, Vietnam and the Philippines except
+for Myanmar and Laos, and some Pacific island areas. They are affected by haze because of forest
+and vegetation clearance by fire, primarily in the Indonesian provinces of Sumatra and Kalimantan.
+This clearance is to ensure increasingly more and more land is available for expanding the area for
+palm oil cultivation to meet the ever-mounting global demand. The main difference between the
+Swedish and the Indonesian cases is that acid rain had very limited impact on the emitting countries
+like United Kingdom and Germany. In contrast, the Indonesian haze is having the most severe
+health, economic and environmental impact on the country from where it originates, as well as on
+its neighbors.
+
+The acute cause of transboundary haze is the burning of carbon-rich Indonesian peatland as a
+byproduct of agricultural activity. Oil palm farming, specifically the acts of draining and/or
+clearing of peatland in preparation for planting, is linked to these fires.
+Tropical lowland peatland swamps are a type of forestland commonly found in Southeast Asia,
+with Southeast Asia accounting for 6% of the total peatland of the world. Indonesia is the fourth
+largest in the world in terms of peatland area.
+
+Over 12% of Indonesia's land area is peatland, with most of this located on the islands of Borneo
+and Sumatra. While most crops are not suitable for cultivation on peatland, oil palm can thrive
+when the peatland has been deeply drained.
+
+Peatlands are a unique ecosystem that are of utmost importance for maintaining biodiversity at
+many different levels, including genetic, species, and broader habitat diversity. Peatlands are also
+water catchments which modify the quality and quantity of water supplies, including that supplied
+to rivers and lakes. This ecosystem is also a critical carbon sink.
+
+Peatlands are not ordinarily fire-prone: they are flooded year-round in their natural state. They
+become flammable only when drained in preparation for planting. Once peatlands are drained, the
+dry biomass can catch fire accidentally.
+
+Additionally, some companies use fire as a cheap and effective method of clearing peatland in
+preparation for planting lucrative crops like oil palm. By burning away unwanted grass and weeds,
+companies reduce the risk of pests and lower their operating costs. Because palm oil is a
+commodity good, used in a wide range of products, companies face pressure to keep costs low to
+maintain their profitability. It is already costly to drain peatlands in preparation for planting, thus
+fire as a cost-cutting method holds appeal.
+
+If oil palm plantations were operated sustainably, the risk of fire would reduce substantially, right?
+So why does the issue endure? Three factors combine to form an environment where unsustainable
+farming practices continue to wreak ecological havoc: demand for palm oil sourced from
+developing countries, Indonesia's status as a post-colonial developing economy, and complex
+patronage networks protect the operations of oil palm companies in Indonesia. Investors and
+companies from neighboring Singapore and Malaysia participate in this system, contributing to
+the haze pollution that affects their home countries.
+
+The oil palm tree produces high-quality oil used in cooking products in developing countries, and
+food products, cosmetics, soaps, and detergents around the world. Palm oil is favored for its
+versatility and low production cost. For these reasons, it has worked its way into many of the
+products that consumers in rich nations use every day. Demand for and global production of palm
+oil are increasing rapidly. Oil palm grows only in the tropics, and the number oil palm plantations
+in tropical regions is rising to meet growing global demand. Today, oil palm plantations account
+for 10% of global cropland. Globally, the average individual consumes 8 kg of palm oil a year.
+And of this, Malaysia and Indonesia product 85% of the world's total palm oil--with Indonesia as
+the world's leading producer. For Indonesia, palm oil represents an opportunity for economic
+growth and poverty reduction.
+While not all companies use fire to clear land, satellite images and field research suggest larger
+plantations use open burning on peatlands, as shown here. This NASA satellite picture shows a
+large area of Kalimantan shrouded in very dense smoke haze. Peat fires in Indonesia are widely
+recognized as the main source of severe air pollution across the region. Peatland degradation and
+conversion for oil palm plantations and agriculture, and the fire risk that results, have created a
+transboundary environmental disaster in Southeast Asia. The worst forest fires occurred in 1997,
+2006, 2009, 2012, 2013, 2015 and 2019. The 2015 fires devastated seven Indonesian provinces
+and destroyed approximately 600,000 hectares of peatland. Nevertheless, this slash and burn
+practice remain the approach preferred by local communities for clearing peatland for agriculture.
+Fire is widely recognized by locals to increase crop yields by increasing the fertility of the region's
+acidic soils.
+
+The immediate effects of biomass burning events are the production and release of gases and
+particulates into the atmosphere, affecting its chemistry. The instantaneous aerial combustion
+products of burning vegetation include carbon dioxide, carbon monoxide, methane, nonmethane
+hydrocarbons, nitric oxide, sulfur oxide, methyl chloride, polycyclic aromatic hydrocarbons, and
+other gases that are released and returned to the atmosphere in a matter of hours. The greenhouse
+gases, viz. carbon dioxide and methane, influence global climate, while combustion particulates
+also affect global radiation. Methane, nonmethane hydrocarbons, and nitric oxide are all
+chemically active gases that affect the oxidizing capacity of the atmosphere and lead to the
+photochemical production of ozone in the troposphere. Recently, it has been found that biomass
+burning is also an important global source of atmospheric bromine in the form of methyl bromine.
+Bromine leads to the chemical destruction of ozone in the stratosphere and is about 40 times more
+efficient in the process than chlorine on a molecule-to-molecule basis. Burning also enhances the
+biogenic emissions of nitric oxide and nitrous oxide from soil. Biomass burning affects the
+reflectivity and emissivity of the earth's surface as well as hydrological cycle by changing rates of
+land evaporation and water run-off.
+Nevertheless, due to the specific emission characteristics of land and forest fires, haze
+predominately consists of fine particles (PM2.5). In fact, several studies have confirmed that
+biomass burning events in SEA are a major source of fine particles (PM2.5). Significant
+enrichments in PM2.5 mass concentrations during haze episodes have been reported in Singapore
+and Indonesia with daily PM2.5 levels, exceeding local background levels and the World Health
+Organization (WHO) safe guideline value of 25 µg/m3. Elevated PM2.5 levels have been also
+observed in Thailand due to BB events.
+
+The importance of transboundary haze issue lies in the fact that smokehaze pollution has been
+occurring for several decades in Southeast Asia and with each passing year the pollution gets worse
+and lasts longer. While the haze in 2015 was the longest on record the pollution standards index
+(PSI) data from Singapore has exhibited increasingly higher peaks. The longer the issue goes
+unaddressed, the greater the public and environmental health impacts and economic costs become.
+Furthermore, it risks straining relations between the countries within the ASEAN region.
+ECONOMIC
+
+Economic impacts arise from the haze-related effects on sectors such as agriculture, forestry, trade,
+tourism and transportation. Education is also impacted as children are requested to stay home to
+minimize their exposure to the harmful haze. Low visibility disrupts transport and tourism leading
+to losses in revenue. For instance, in 2015, forest fires in some of the Sumatran and Kalimantan
+provinces of Indonesia generated thick clouds of haze across the Malacca Strait paralyzing air
+travel in Pekanbaru, Batam, and other neighboring area.
+
+HEALTH
+
+The health impacts of smoke-haze include premature deaths, respiratory ailments and exacerbation
+of existing heart and lung conditions. The impacts on health are associated with a huge cost to the
+society. The Southeast Asia region is one of the worst affected worldwide and over the years, the
+number of premature deaths attributed to air pollution has been increasing. In 2012, ambient air
+pollution from particulate matter was responsible for over 5 million disability adjusted life years
+in the ASEAN region. The DALY (disability adjusted life years) is the number of years lost due
+to ill-health, disability or early death. The haze episode in 2015 is estimated to have resulted in
+around 100,000 deaths in Indonesia, Malaysia and Singapore, twice as much as the episode in
+2006.
+
+ECOSYSTEM
+
+Ecosystem damage is one of the impacts of the fires which lead to habitat destruction, loss of peat
+resources and natural rainforest areas. Peatlands are an important element of the hydrological cycle
+moderating the micro-climate, regulating floods during the rains and providing water during the
+dry seasons. The increasing demand for land has led to encroachment onto peatlands, which are
+protected under Indonesian law. Peat fires also lead to loss of soil biological properties including
+the incineration of seedlings and the soil seed bank. The ash formed during the fires is thought to
+increase top soil erosion, which is eventually washed into the surrounding coastal waters leading
+to eutrophication in water and loss of soil fertility on land.
+
+Some animals subjected to prolonged smoke exposure, may die or migrate into other areas or even
+human settlements. Rare species such as the Sumatran tiger and Orang utan are affected. The fires
+sometimes extend into protected areas such as the biodiversity-rich Kuti National Park in
+Kalimantan.
+
+The relationship between carbon dioxide and global climate change is one that is well documented.
+There has been an increasing trend in carbon dioxide emissions from the ASEAN region. Data
+from 2013 highlighted a 30 per cent average increase in carbon dioxide emissions from the 2005
+levels. Recent data indicates that emissions from the fires in 2015 were the largest in southeast
+Asia, increasing by 110 per cent compared to the 2006 emissions during the same months.
+
+Transboundary air pollution is a growing environmental threat that calls for sustained regional
+cooperation if it is to be addressed. The impacts of the fires on the health of people, ecosystems
+and wildlife and on climate change are recognized; and it is important that the root causes are
+attended to and not just reacting after the events. As early as 1998, the United Nations Environment
+Programme (UNEP) called for global action to address this problem. Since then, there have been
+programmes addressing various aspects of the problem.
+This led to the adoption of a policy on zero burning in April 1999. Guidelines have since been
+developed to implement this policy and various public awareness activities have been carried out
+to enhance implementation. Some of the benefits envisaged included reduction in haze pollution,
+reduction in greenhouse gas emissions and better soil management through techniques such as
+recycling of plant biomass and other techniques which reduce the requirement for the application
+of inorganic fertilizers. The policy on zero burning prohibits open burning especially amongst
+plantation and timber companies in the region but allows a certain element of controlled burning
+as a complete ban may not be feasible amongst the smallholder farmers.
+Despite such regional governance mechanisms, Southeast Asia continued suffering from
+transboundary haze episodes. Therefore, to strengthen the region's capacity and capability to
+address transboundary haze pollution, The Landmark ASEAN Agreement on Transboundary Haze
+Pollution was signed by the ASEAN member states on 10 June 2002 in Kuala Lumpur, Malaysia
+and was enforced on 25 November 2003.
+
+The ASEAN Agreement on Transboundary Haze Pollution was the first regional cooperation
+agreement worldwide to aim to mitigate and prevent haze pollution arising from land and forest
+fires.
+
+By January 2015 the Agreement had been ratified by all ASEAN Member States, giving a new
+impetus for implementation.
+
+To further enhance ASEAN's capabilities on addressing the transboundary haze pollution, a
+Roadmap on ASEAN Cooperation towards Transboundary Haze Pollution Control with Means of
+Implementation was adopted in August 2016 with a vision of a haze-free region by 2020.
+
+The Roadmap will require all countries to localize the ASEAN transboundary haze pollution
+agreement by developing and implementing national and local level policies, strategies and
+actions. Already, some countries have enacted their own laws to speed up implementation of
+actions to curb and address land and forest fires. An example is the Transboundary Haze Pollution
+Act of 2014 enacted to address the issue in Singapore and in the region.
+
+The success of this Act will depend on high levels of enforcement and compliance. Strong
+implementation of national laws could also have positive impacts across borders. For instance, the
+Transboundary Haze Pollution Act in Singapore enables the government to prosecute its plantation
+owners who may set fires outside the country and be fined up to $ 2 million and will thus act as a
+deterrent. Although it takes time to realise the dividends of environmental regulation, there are
+some indications of an overall positive impact. An analysis of the number of hotspots (locations
+with possible active fires) between 2008 and 2017 shows a general declining trend within the
+region and at country level. For instance, hotspots in Myanmar declined from 52,033 in 2012 to
+11,345 in 2017 hotspots, while in Sumatra they declined from a high of 17,841 in 2012 to 1,074
+in 2017.
+
+There are also some positive impacts on some health indicators. For instance, between 2005 and
+2016, the number of deaths attributed to lower respiratory infections has been on the decline
+ranging from a decline of just over 50 per cent in Myanmar to 5.9 per cent in Vietnam. However,
+more research is needed to confirm these trends.
+Most coal-burning power plants, ore smelters, and other industrial plants in developed countries
+use tall smokestacks to emit sulfur dioxide, suspended particles, and nitrogen oxides high into the
+atmosphere where wind can mix, dilute, and disperse them.
+
+These tall smokestacks reduce local air pollution, but can increase regional air pollution
+downwind. The primary pollutants (sulfur dioxide and nitrogen oxides) emitted high into the
+troposphere may be transported as far as 1,000 kilometers by prevailing winds. During their trip,
+they form secondary pollutants such as droplets of sulfuric acid (H2SO4), nitric acid vapor
+(HNO3), and particles of acid-forming sulfate and nitrate salts.
+
+These acidic substances remain in the atmosphere for 2­14 days, depending mostly on prevailing
+winds, precipitation, and other weather patterns. During this period, they descend to the earth's
+surface in two forms: wet deposition consisting of acidic rain, snow, fog, and cloud vapor with a
+pH less than 5.6* and dry deposition consisting of acidic particles.
+
+The resulting mixture is called acid deposition--sometimes termed acid rain. Most dry deposition
+occurs within 2­3 days fairly near the emission sources, whereas most wet deposition takes place
+within 4­14 days in more distant downwind areas.
+
+Acid deposition has been occurring since the Industrial Revolution. In 1872, British chemist
+Robert A. Smith coined the term acid rain after observing that rain was eating away stone in the
+walls of buildings in major industrial areas.
+Acid deposition is a regional air pollution problem in areas that lie downwind from coal-burning
+facilities and in urban areas with large numbers of motor vehicles. Such areas include the eastern
+United States and other parts of the world as shown here.
+
+In some areas, soils contain basic compounds such as calcium carbonate (CaCO3) or limestone
+that can react with and neutralize, or buffer, some inputs of acids. The areas most sensitive to acid
+deposition are those with thin, acidic soils that provide no such natural buffering and those where
+the buffering capacity of soils has been depleted by decades of acid deposition.
+
+In the United States, older, coal-burning power and industrial plants without adequate pollution
+controls in the Midwest emit the largest quantities of sulfur dioxide and other pollutants that cause
+acid deposition. Because of these emissions, and those of motor vehicles and other urban sources,
+typical precipitation in the eastern United States is at least 10 times more acidic than natural
+precipitation is.
+
+Many acid-producing chemicals generated in one country are exported to other countries by
+prevailing winds. For example, acidic emissions from the United Kingdom and Germany blow
+into Switzerland, Austria, Norway, and neighboring countries. Some SO2 and other emissions from
+coal-burning power and industrial plants in the United States end up in southeastern Canada.
+The worst acid deposition occurs in Asia, especially in China, which gets 70% of its total energy
+and 80% of its electricity from burning coal. According to its government, China is the world's
+top emitter of SO2. The resulting acid precipitation is damaging crops and threatening food security
+in China, Japan, and North and South Korea.
+
+Acid deposition causes harm in several ways. It contributes to human respiratory diseases, and
+damages statues, national monuments, buildings, metals, and car finishes. Also, acidic particles in
+the air can decrease visibility.
+One of the most alarming and often unseen effects of acid deposition is that it can leach toxic
+metals (such as lead and mercury) from soils and rocks into lakes and waterbodies used as sources
+of drinking water. These toxic metals can accumulate in the tissues of fish eaten by people, other
+mammals, and birds.
+Acid deposition also harms aquatic ecosystems in other ways. Most fish cannot survive in water
+with a pH less than 4.5. Acid deposition can also release aluminum ions, which are attached to
+minerals in nearby soil, into lakes. These ions asphyxiate many kinds of fish by stimulating
+excessive mucus formation, which clogs their gills.
+Acid deposition can affect forests and cropland by leaching essential plant nutrients, such as
+calcium and magnesium, from soils and releasing ions of aluminum, lead, cadmium, and mercury,
+which are toxic to the trees. This rarely kills trees directly, but it can weaken them and leave them
+vulnerable to stresses such as severe cold, diseases, insect attacks, and drought.
+So, in the next lecture what we will see is we will look into the global effects of air pollution. We
+will see how air pollutants can also impact the global environment. So, these pollutants that are
+coming from almost every nation how they can have a cumulative impact on the environment at a
+global scale. And we will also see how indoor air quality is one of the various is one of the most
+important aspect of air and which also needs to be taken into consideration when we are addressing
+air pollution. So, on that note I end this lecture. Thank you.
+

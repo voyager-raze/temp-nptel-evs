@@ -1,0 +1,250 @@
+NPTEL Environmental Science
+
+WEEK 12: Environmental policies and legislation in India
+Q1.
+The Oleum Gas Leak case (1986) is significant primarily because it transformed an existing
+legal doctrine into a stricter form?
+a) The Precautionary Principle into the Polluter Pays Principle
+b) The Doctrine of Strict Liability into the Doctrine of Absolute Liability
+c) The Public Trust Doctrine into Sustainable Development
+d) Criminal Procedure Code liability into Civil liability
+Correct Answer: Option (b)
+Solution: Before this case, courts applied 'strict liability' which allowed exceptions. The
+Supreme Court modified it to 'absolute liability' meaning no exceptions apply when hazardous
+industries cause harm near human habitation.
+Q2.
+In the Ratlam Municipality case (1980), the municipality argued it lacked funds to provide
+sanitation. What did the Supreme Court decide regarding this defence?
+a) It was accepted since financial constraints are a valid legal excuse
+b) The case was transferred to the High Court for reassessment
+c) The municipality was ordered to act within six months
+d) Residents were asked to fund the facilities themselves
+Correct Answer: Option (c)
+Solution: The Supreme Court ruled that a municipality cannot escape its statutory duty to
+provide basic sanitation by pleading financial incapacity.
+Q3.
+The Taj Trapezium Zone (TTZ) case involved protecting 255 historic monuments. Which
+combination of remedies did the Supreme Court order?
+a) Shut down the Mathura refinery permanently and plant trees
+b) Ban coal use in the zone, switch industries to CNG, and relocate tanneries
+c) Impose fines on industries and require them to install filters
+d) Create a 10 km no-industry buffer around the Taj Mahal only
+Correct Answer: Option (b)
+Solution: The Court ordered a ban on coal, directed industries to shift to Compressed Natural
+Gas (CNG), asked tanneries to relocate out of the TTZ, and required a green belt around the
+Mathura refinery.
+Q4.
+In the Vellore Citizens Welfare Forum case (1996), tanneries argued they were major foreign
+exchange earners and employers. How did the Supreme Court balance this against
+environmental harm?
+a) It allowed tanneries to continue operations as economic benefits outweighed harm
+b) It transferred enforcement entirely to the Tamil Nadu Pollution Control Board
+c) It shut down all tanneries permanently and compensated workers from government funds
+d) It applied the Polluter Pays Principle, fined each tannery 10,000, and required them to fund
+a common effluent treatment plant
+Correct Answer: Option (d)
+Solution: The Court acknowledged both sides but upheld the Polluter Pays Principle and
+Sustainable Development doctrine holding that economic importance could not justify
+environmental destruction. Each tannery paid a fine and contributed to a Common Effluent
+Treatment Plant (CETP).
+Q5.
+In the Alaknanda Hydropower Project case (NGT, 2016), the company argued the 2013
+Uttarakhand floods were an 'Act of God' and it bore no liability. How did the NGT respond?
+a) The NGT accepted the Act of God defence and dismissed the petition
+b) The NGT ruled the company bore 100% liability since the dam amplified flooding
+c) The NGT found that construction muck (approx. 30% of damage) made the company
+partially liable despite the natural disaster
+d) The NGT ordered a fresh environmental clearance before deciding on liability
+Correct Answer: Option (c)
+Solution: The NGT applied the No-Fault Liability principle and found that phyllite and
+construction debris from the project contributed about 30% of the damage, meaning the Act of
+God defence did not fully shield the company. Each applicant received Rs. 1 lakh
+compensation.
+Q6.
+A rapid EIA of the River Ib Barrage evaluated barrage heights of 4 m, 5 m, and 6 m. Even the
+tallest option (6 m) was found inadequate. What was the main reason?
+a) The 6 m barrage would submerge too many coal mines, violating environmental law
+b) The total annual water demand was 94.8 MCM/year, but even the 6 m option could only
+satisfy about 14.6% of that
+c) The Digital Elevation Model showed the site was geologically unstable
+d) Evaporation losses exceeded inflow during monsoon months
+Correct Answer: Option (b)
+Solution: The estimated water flow into the river was only 65.5 MCM/year, already less than
+demand. The 6 m barrage met just 14.6% of the 94.8 MCM/year requirement, indicating that a
+barrage based solution was unlikely to meet the projected demand. Refer Lecture 5.
+Q7.
+The Bishnoi movement of 1730 is regarded as one of India's earliest tree protection protests.
+What was the immediate cause of the conflict in the village of Khejarli?
+a) Villagers protested against a new road cutting through their forest
+b) King Abhay Singh ordered his men to clear Khejri trees for wood to build his palace
+c) A British company obtained a logging permit for the Thar desert region
+d) The state government planned to replace natural trees with teak plantations
+Correct Answer: Option (b)
+Solution: The Bishnoi community opposed the felling of Khejri trees ordered by King Abhay
+Singh's officials. Their sacrifice at Khejarli became one of the earliest examples of organized
+environmental conservation in India.
+Q8.
+Which of the following statements regarding the Paris Agreement and India's Nationally
+Determined Contributions (NDC) is incorrect?
+a) India committed to reducing emissions intensity by 33­35% below 2005 levels.
+b) India pledged to achieve 40% installed electricity capacity from non fossil fuel sources by
+2030.
+c) India committed to creating an additional carbon sink of 2.5­3 GtCOe by 2030.
+d) The Paris Agreement imposes legally binding emission reduction targets on all countries.
+Correct Answer: Option (d)
+Solution: The Paris Agreement is legally binding regarding reporting and NDC submission, but
+countries determine their own mitigation targets.
+Q9.
+Consider the following statements:
+I. The Vienna Convention primarily focuses on the protection of the ozone layer.
+II. The Basel Convention deals with transboundary movement and disposal of hazardous waste.
+III. The Stockholm Convention aims to address climate change and its adverse impacts.
+IV. The UNFCCC seeks to control persistent organic pollutants (POPs).
+How many of the above statements are correct?
+a) Only one
+b) Only two
+c) Only three
+d) All four
+Correct Answer: Option (b)
+Solution: Statements 1 and 2 are correct. Climate change is addressed by the UNFCCC, while
+the Stockholm Convention deals with POPs.
+Q10.
+Under the Biomedical Waste Management Rules (1998), which colour coded container is used
+for sharp metallic waste such as needles and scalpels, and which is used for broken glassware
+and medicine vials?
+a) Yellow for sharps; red for glassware
+b) Red for sharps; white for glassware
+c) Blue for sharps; white for glassware
+d) White for sharps; blue for glassware
+Correct Answer: Option (c)
+Solution: Sharp metallic wastes are collected in blue containers, while broken glassware and
+medicine vials are placed in white containers to ensure safe segregation and disposal.
+Q11.
+Extended Producer Responsibility (EPR) was a key innovation in Indian waste rules. Which of
+the following rules first clearly defined EPR?
+a) Fly Ash Rules 1999
+b) Hazardous Waste Rules 1989
+c) E Waste Rules 2011 (clarified in 2022)
+d) Municipal Solid Waste Rules 2000
+Correct Answer: Option (c)
+Solution: EPR places responsibility on producers for managing products after their useful life.
+It aims to improve recycling, recovery and environmentally sound disposal of electronic waste.
+Q12.
+The Doon Valley case (1987) is celebrated as the first Supreme Court judgment to apply a key
+environmental doctrine in India. Which doctrine was applied, and what was the court's ruling?
+a) Polluter Pays Principle; all mining companies were fined and ordered to pay for reforestation
+b) Doctrine of Absolute Liability; mine owners were ordered to pay compensation to all
+residents of Dehradun
+c) Public Trust Doctrine; the valley was declared state property and transferred to a government
+conservation authority
+d) Doctrine of Sustainable Development; all mines except three were ordered closed, and
+economic development was held not to justify environmental degradation
+Correct Answer: Option (d)
+Solution: The Supreme Court ruled that economic development should not occur at the cost of
+environmental destruction. Most limestone mines in the Doon Valley were ordered to shut
+down.
+Q13.
+In M.C. Mehta vs. Kamal Nath (1996), the Supreme Court held that the Himachal Pradesh
+government had violated an important doctrine by leasing protected forest land on the banks
+of the Beas River to a motel. Which doctrine was this?
+a) Doctrine of Absolute Liability
+b) Precautionary Principle
+c) Public Trust Doctrine
+d) Doctrine of Sustainable Development
+Correct Answer: Option (c)
+Solution: The Court held that natural resources are held by the State in trust for public use and
+enjoyment. Such resources cannot be transferred for private commercial exploitation.
+Q14.
+Which of the following was a major reason for rejecting the proposed vegetable oil industry
+near Himayat Sagar and Osman Sagar reservoirs?
+a) The project was located inside a wildlife sanctuary
+b) The project violated coastal regulation norms
+c) It posed a potential threat to major drinking water sources
+d) The project lacked foreign investment approval
+Correct Answer: Option (c)
+Solution: The proposed vegetable oil industry was rejected because it was located near the
+Himayat Sagar and Osman Sagar reservoirs, which were important sources of drinking water
+for Hyderabad. The Supreme Court held that the project posed a potential threat to major
+drinking water reservoirs serving Hyderabad.
+Q15.
+The Supreme Court's order requiring cinema halls and television networks to promote
+environmental awareness originated from:
+a) M.C. Mehta v. Union of India (Environmental Education Case)
+b) Vellore Citizens Welfare Forum Case
+c) Ratlam Municipality Case
+d) Almitra Patel Case
+Correct Answer: Option (a)
+Solution: In M.C. Mehta v. Union of India (Environmental Education Case), the Supreme Court
+emphasized the importance of environmental awareness among citizens. The Court directed
+cinema halls to display environmental messages and required television and radio networks to
+broadcast programmes on environmental protection, recognizing environmental education as
+essential for sustainable development.
+Q16.
+Which of the following principles places the burden of proof on the project proponent to
+demonstrate environmental safety?
+a) Polluter Pays Principle
+b) Public Trust Doctrine
+c) Precautionary Principle
+d) Absolute Liability
+Correct Answer: Option (c)
+Solution: Under the Precautionary Principle, when there is a potential risk of serious
+environmental harm, the project proponent must prove that the activity is environmentally safe.
+The burden of proof lies on the proposer, not on those raising environmental concerns.
+Q17.
+The creation of CAMPA (Compensatory Afforestation Fund Management and Planning
+Authority) emerged from judicial intervention related to:
+a) Taj Trapezium conservation
+b) Godavarman forest case
+c) Oleum gas leakage
+d) Ratlam sanitation dispute
+Correct Answer: Option (b)
+Solution: CAMPA was established following directions issued in the Godavarman forest case
+to monitor compensatory afforestation, oversee funds collected for forest diversion, and
+support the preservation of forests.
+Q18.
+Consider the following statements:
+I. Vembanad­Kol Wetland is located in Karnataka.
+II. The Wildlife (Protection) Act, 1972 falls under the original jurisdiction of the National
+Green Tribunal.
+III. A Rapid EIA is always followed by a Comprehensive EIA.
+How many of the above statements are correct?
+a) Only one
+b) Only two
+c) All three
+d) None
+Correct Answer: Option (d)
+Solution: Statement 1 is incorrect because Vembanad­Kol Wetland is located in Kerala, not
+Karnataka. Statement 2 is incorrect because the Wildlife (Protection) Act, 1972 is not under the
+NGT's original jurisdiction. Statement 3 is incorrect because a Rapid EIA is not necessarily
+followed by a Comprehensive EIA.
+Q19.
+A State Government argues that Solid Waste Management Rules cannot be implemented
+immediately due to inadequate infrastructure and therefore seeks a phased implementation
+schedule. Which judicial precedent would most directly reject this argument?
+a) M.C. Mehta v. Union of India (Taj Trapezium Case)
+b) Vellore Citizens Welfare Forum v. Union of India
+c) Municipal Council, Ratlam v. Vardhichand
+d) Almitra H. Patel v. Union of India
+Correct Answer: Option (d)
+Solution: In the Almitra H. Patel case, strict enforcement of Solid Waste Management Rules
+was emphasized. The Tribunal did not support delayed or phased implementation based on
+local capacity constraints.
+Q20.
+Consider the following statements regarding important NGT interventions:
+I. In the Edwin Wilson case, the NGT took cognizance of the environmental impacts of flex
+and PVC banners and involved authorities such as the CPCB and State Pollution Control
+Boards.
+II. In the Vardhaman Koushik case, the NGT merely advised states to discourage stubble
+burning in Punjab, Haryana and Uttar Pradesh.
+III. In both cases, the NGT limited itself to issuing advisory recommendations without directing
+action by regulatory authorities.
+How many of the above statements are correct?
+a) Only one
+b) Only two
+c) All three
+d) None
+Correct Answer: Option (a)
+Solution: Statement 1 is correct. Statement 2 is incorrect because the NGT imposed a ban on
+stubble burning and issued directions to governments, not merely advisory suggestions.
+Statement 3 is incorrect because the NGT issued enforceable directions in both cases.
+

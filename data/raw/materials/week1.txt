@@ -1,0 +1,1193 @@
+ NPTEL
+
+Week 1: Environmental Concerns, Population Growth and
+Resource Consumption
+Lecture 1 ­ Major Environmental Concerns and Pollution
+ Major environmental concerns
+ The concept of sustainable development
+
+L  Population growth models: arithmetic, geometric and exponential
+E  Resource consumption and pollution
+T  Measures of Environmental impacts ­ pollution and the IPAT Model
+ P  Ecological Footprint
+ N  Earth Overshoot Day
+
+    Energy Performance Index
+    Lifecycle Assessment
+· Course Objectives             NPTEL
+· Learning objectives
+· Environment
+· Air
+· Water
+· Wastewater
+· Solid waste
+· Urban Heat Island Effect
+· Pollutant versus contaminant
+Course objective is to ensure that students incorporate the concept of
+`sustainable development' in their daily lives and decision-making
+processes and are sensitive to diverse environmental issues and the
+impacts of pollution#
+
+Learning objectives
+    To understand the relationship between humans and their environment
+1.  To quantify the relationship between population growth, resource consumption and
+2.
+    L pollution
+3.  E To identify sources of pollution in the environment, their impacts and remedial
+    T measures
+4.
+    To apply the laws of conservation of mass and energy in understanding and solving
+
+     NP environmental problems
+# A Supreme Court directive (M C Mehta vs. Union of India, 1991) requires that
+all students have an environmental subject at all levels of education. There
+should be growth in environmental awareness as students mature in their
+understanding of science, technology and other fields.
+Weeks                           Lecture Names                      Faculty
+
+Week 1  Environmental Concerns, Population Growth, and Resource      S Goel
+Week 2  Consumption                                              S Chowdhury
+
+        Principles of Sustainable Development
+
+Week 3 Understanding Air Pollution                               S Chowdhury  Course
+                                                                              content
+Week 4  Climate Change: Scientific Basis, Mitigation & Adaption  S Chowdhury
+Week 5  Renewable Energy ­ I (Solar Energy & Wind Energy)        S Chowdhury
+Week 6                                                           S Chowdhury
+Week 7  L Renewable Energy ­ II (Geothermal Energy, Ocean Energy,S Chowdhury
+Week 8  E Hydroelectricity, Bioenergy)
+Week 9  T Industrial Ecology & Circular Economy                      S Goel
+        NP Water Quality, Reuse and Recycling
+        Solid Waste Management (including E-waste Management)      S Goel
+
+Week 10 Noise Pollution                                            S Goel
+
+Week 11 Ecology and Soil Pollution                                 S Goel
+
+Week 12 Environmental Policies and Legislation                     S Goel
+The Environment and its domains
+
+Air Pollution and                                              Solid and
+Control; Climate                                          Hazardous Waste
+ Change, noise                                            Management; soil
+
+    pollution                                                  pollution
+
+                        Atmosphere  NPTEL Lithosphere
+
+Water quality,  Hydrosphere          Biosphere
+  water and
+ wastewater                                                 Public Health
+  treatment                                                 and Ecology
+         Major environmental concerns
+
+· Air quality
+     · Poor air quality due to industries and vehicular emissions
+     · Stubble and solid waste burning
+     · Urban Heat Island Effect
+     · Climate change
+
+· Water quantity and quality
+
+ L · Lack of adequate drinking water
+ E · Poor water quality
+ T · Wastewater discharges and their impact on aquatic ecosystems
+P · Soil quality
+ N · Salinization
+
+     · Erosion
+     · Nutrient depletion and presence of synthetic organic compounds
+
+· Biodiversity and stability of ecosystems
+     · Extinction of species
+     · Bioaccumulation of toxic compounds
+       Major environmental concerns ­ air quality
+
+ · Poor Air Quality
+
+      · Of the 30 most polluted cities in the world, 21
+        are in India
+
+      · Primary pollutants and Secondary pollutants
+
+ L · Sources of air pollution: natural and
+        anthropogenic
+   E · Natural sources ­ forest fires, eruptions from
+    T volcanoes (dust, ash and gases)
+   P · Anthropogenic sources - biomass burning, waste
+    N burning (municipal and agricultural), industries,
+               thermal power plants, vehicles (air, road, rail, sea)
+
+<a href="https://www.vecteezy.com/free-vector/air-pollution">Air Pollution Vectors by Vecteezy</a>
+Major environmental concerns ­ air quality
+
+NPTEL     Delhi's AQI ­ before and
+       during the COVID lockdown in
+
+                     2020
+
+https://www.indiatimes.com/technology/science-and-future/not-a-single-indian-city-in-worlds-top-20-polluted-
+ones-thanks-to-coronavirus-lockdown-511180.html
+
+                                                                                                                                                                                        9
+       Major environmental concerns ­ air quality
+
+   · Crop stubble burning in Northern India
+
+                NPTEL
+
+Satellite image on 11 Nov 2021 using Visible Infrared Imaging Radiometer Suite (VIIRS)
+on the Suomi NPP satellite
+
+https://eoimages.gsfc.nasa.gov/images/imagerecords/149000/149086/indiafire_vir_2021315_lrg.jpg
+
+                                                                                                                                                                                         10
+       Major environmental concerns ­ air quality
+
+  · Urban Heat Island Effect
+
+       · Temperature difference between urban areas and suburban or rural areas in the same
+         region
+
+  NPTEL · Micro-climatic effects on temperature and humidity
+
+<a href="https://www.vecteezy.com/free-vector/city-skyline">City Skyline Vectors by Vecteezy</a>
+                                                                                                                                                                                         11
+Major environmental concerns ­ water quality
+
+· Water quantity and quality                                                                                                                       https://www.telegraphindia.com/india/how-india-s-
+                                                                                                                                                   biggest-sewage-treatment-plant-in-delhi-is-different-
+    · Lack of adequate drinking water; lack of availability and                                                                                    from-others/cid/1694191
+       diversion for irrigation
+
+    · Poor water quality
+
+ NPTEL · Wastewater discharges and their impact on aquatic ecosystems
+
+                                                                                        https://www.livemint.com/Politics/gOHoaq0n5wa2qpjLx4yh5K/
+                                                                                        Govt-issues-draft-of-new-standards-on-water-quality.html
+
+https://www.pexels.com/photo/a-women-carrying-water-on-their-heads-4511301/
+Major environmental concerns ­ soil quality
+
+· Soil quality
+
+· Soil degradation
+
+· Erosion ­ deforestation and overgrazing
+
+· Nutrient depletion ­ poor agricultural practices
+
+· Soil pollution
+     · Salinization
+
+ L · Contamination by chemicals: heavy metals and synthetic organic compounds
+      TE Regulate water, nutrient
+         NP availability
+                                           Support medium for
+Engineering         SOILS                  plants, agricultural
+    resource                               productivity
+
+                    Habitat for organisms
+    Major environmental concerns ­ biodiversity and
+                     stability of ecosystems
+
+· Loss of biodiversity
+     · International Union for Conservation of Nature (IUCN) is
+        dedicated to the conservation of nature
+     · Publishes a Red List of Threatened Species with various
+        qualifiers shown in the adjoining figure
+
+ L · India's Red List of 2021 contained 199 species of plants
+        and animals considered endangered
+
+E · Factors resulting in species extinction and/or endangered
+T species
+ P · Loss of habitat and poaching
+ N · Loss of food source or change in population dynamics
+
+     · Bioaccumulation of toxic chemicals in the environment
+     · Climate change
+       What is a pollutant or contaminant?
+
+ · A pollutant is a chemical species in the environment that causes
+   undesirable effects on the environment or any of its components.
+
+ · Can be natural or anthropogenic
+ · Undesirable effects
+
+  L · Endangers health of humans and other organisms
+  E · Endangers safety
+  T · Causes financial and aesthetic losses
+NP Contamination is simply the presence of a substance where it should not
+
+be or at concentrations above background.
+
+Pollution results in or can result in adverse biological effects to resident
+communities.
+· Masters G and Ela WP (2012). Introduction to Environmental Engineering
+   and Science. Prentice Hall, NJ, US.
+
+· Miller GT (2004) Living in the Environment, Thomson/Brooks Cole.
+
+· Khoiyangbam RS and Gupta N (2015) Introduction to Environmental
+
+L Sciences, TERI Press, Delhi
+
+· Davis ML and Masten SJ (2009) Principles of Environmental Engineering
+
+NPTE and Science, McGraw Hill Education, Indian edition.
+NPTEL
+   NPTEL
+
+Week 1: Environmental Concerns, Population Growth and
+Resource Consumption
+Lecture 2 ­ Population Growth Models
+ Major environmental concerns
+ The concept of sustainable development
+ Population growth models: arithmetic, geometric and exponential
+
+L  Resource consumption and pollution
+E  Measures of Environmental impacts ­ pollution and the IPAT Model
+
+  PT  Ecological Footprint
+  N  Earth Overshoot Day
+
+    Energy Performance Index
+    Lifecycle Assessment
+· Commons               NPTEL
+· Models
+· Census data
+· Curve-fitting
+· Linear or arithmetic
+· Geometric
+· Exponential
+          Sustainable development
+
+Development that meets the needs of the present without compromising the
+ability of future generations to meet their own needs (Brundtland Report ­ Our
+Common Future, 1987)
+
+· Implications:
+
+ L · Societal emphasis has to shift from a destructive, exploitative
+   E philosophy (The Tragedy of the Commons*) to one that fosters
+   T long-term protection of the environment and its inhabitants
+
+ P · Two conflicting objectives have to be reconciled
+   N · improving quality of life vs. protecting the environment
+
+                *Hardin, Garrett [1968] The Tragedy of the Commons, Science, 162:1243-1248.
+ Driving forces for sustainability
+
+· Health and safety: human and other organisms
+· Financial: property values, profits, taxes
+· Aesthetics
+· Civic pride and values
+
+L · THE LAW
+  TE All the good intentions in the world are not equal to the arm of law
+
+NP Our biggest challenge in this new century is to take an
+
+abstract idea like sustainable development and turn it into
+reality for all the world's people ­ Kofi Annan, 2001
+Why is pollution increasing?
+
+Population Growth
+
+TEL Resource Consumption
+NP Increase in population
+                         Higher standard of living
+
+Pollution
+
+More resources consumed  More waste generated
+· World Population = 8.0 billion (as on 15 Nov 2022, UNPF)
+· India's population = 1.21 billion (Census, 2011)
+
+                 World Population - top 20 countries, UNPF, 2023                                                                            20.00  Population
+
+1500.00 17.82                                                                                                                                       https://www.unfpa.org/data/world-
+                      17.78                                                                                                                         population-dashboard
+
+          PTEL 4.24 3.46 2.79 2.16 1.60 1.54 1.41 1.23 1.07
+1000.00Population, millions                                                                                                                 15.00
+ 500.00          India                                                                                                                      10.00
+    0.00              China                                                                                                                 5.00
+                          USA                                                                                                               0.00
+                               Indonesia
+                                   Pakistan
+                                        Nigeria
+                                             Brazil
+                                                 Bangladesh
+                                                      Russian...
+                                                          Mexico
+                                                               Ethiopia
+                                                                    Japan
+                                                                        Philippines
+                                                                             Egypt
+                                                                                 Democratic...
+                                                                                      Viet Nam
+                                                                                           Iran
+                                                                                               Türkiye
+                                                                                                    Germany
+                                                                                                        Thailand
+
+                                                                                                                       % of total population
+          N 3.00                                                     0.90
+          2.70  1.80                                              1.04
+                      1.58  1.46
+                                  1.28  1.11
+                                         Population growth
+
+                                                                                   Population of the world and its regions
+                                                                                   (in millions). Data
+
+                       NPTEL from https://population.un.org/wpp/
+
+By Conscious - Own work, CC BY-SA 3.0,
+https://commons.wikimedia.org/w/index.php?curid=2562456
+            Population growth ­ arithmetic growth
+
+ This method is used when the population is growing by a fixed amount each year such
+   as in areas where growth is planned or controlled.
+
+ This model is also called the linear growth model
+ If Pn = Population at the end of n increments (can be months, years, decades, etc.)
+ Pn = P0 + nX
+Where
+P0 = population at time t = 0
+
+L X = fixed increment in population, usually annual or decadal
+TE Problem
+P If a college has a capacity for 1000 students now, and an additional 100 students
+N are to be taken every year, what will the student intake capacity be at the end
+
+of 10, 20 or 50 years?
+Solution
+As P0 = 1000, n = number of years and X = 100
+P10 = 1000 + 10*100 = 2000
+P20 = 1000 + 20*100 = 3000
+P50 = 1000 + 50*100 = 6000
+
+                                                                                             Goel, 2019
+
+                                                                                                                                                                                                                       9
+              Population growth ­ geometric growth
+
+ This method is used when the population is growing at a constant rate each year. Unlike
+   the exponential function which is a continuous function, this is a discrete function.
+
+ If Pn = Population at the end of n increments (can be months, years, decades, etc.)
+ Pn = P0 [1 + r/100]n
+Where
+P0 = population at time t = 0
+r = constant rate of growth, usually annual or decadal
+
+EL Problem
+T If a college has a capacity for 1000 students now, and the capacity for students is to be
+P increased by 10% every year, what will the student intake capacity be at the end
+N of 10, 20 or 50 years?
+
+Solution
+As P0 = 1000, n = number of years and r = 10% or 0.1
+P10 = 1000[1+0.1]10 = 2594
+P20 = 1000[1+0.1]20 = 6727
+P50 = 1000[1+0.1]50 = 117391
+
+                                                                                             Goel, 2019
+
+                                                                                                                                                                                                                     10
+ This method is used when the population is growing at a constant rate each year.
+
+However, it is a continuous function rather than a discrete function like geometric
+
+growth.
+
+ If Pn = Population at the end of n increments (can be months, years, decades, etc.)
+ Pn = P0 exp(rn) or P0 ern
+
+Where                                                   Population growth ­
+                                                        exponential growth
+P0 = population at time t = 0
+r = constant rate of growth, usually annual or decadal
+EL Problem
+T If a college has a capacity for 1000 students now, and the capacity for students is to be
+P increased by 10% every year, what will the student intake capacity be at the end
+N of 10, 20 or 50 years?
+
+Solution
+
+As P0 = 1000, n = number of years and r = 10% or 0.1
+P10 = 1000exp(0.1*10) = 2718
+P20 = 1000exp(0.1*20) = 7389
+P50 = 1000exp(0.1*50) = 148413
+
+                                                        Goel, 2019
+
+                                                                                                                                 11
+Population  160000        Linear Geometric Exponential     Comparing the three
+            140000                                           population growth
+            120000                     NPTEL                         models
+            100000
+                          10  20  30       40  50       60
+             80000
+             60000
+             40000
+             20000
+
+                   0
+                       0
+
+                              Time, years
+                       NPTEL                                        Population
+                                                                      growth
+If Census data for India from 1911 to 2011 are used, we can assume
+exponential growth (good assumption since R2 >0.95)
+Average annual total population growth rate = 1.75%
+Average annual urban population growth rate = 2.85%
+1. Fit the data to any equation - can be linear, exponential, polynomial,    Curve-fitting
+    logistic growth or any other equation.                                     exercise
+
+2. In Excel, use the trendline option and choose to get R2 and equation.
+    Do NOT force the curve to go through zero or origin.
+
+3. Coefficient of determination, R2 is used to test goodness-of-fit.
+
+4. Coefficient of determination, R2 = 1 ­ RSS/TSS where RSS = sum of
+
+ L squared residuals (residual = predicted ­ observed values) and TSS =
+ E sum of squared residuals with respect to the mean of observed values
+ T (observed value ­ mean value).
+P 5. R2 values can range from 0 to 1; closer to 1 implies best-fit.
+N 6. Thumbrule: if R2 >0.9, it is a reasonably good fit and >0.95 is a very
+
+    good fit. Values of R2 <0.5 show that there is no correlation between
+    the two independent variables.
+· Masters G and Ela WP (2012). Introduction to Environmental Engineering and
+   Science. Prentice Hall, NJ, US.
+
+· Miller GT (2004) Living in the Environment, Thomson/Brooks Cole.
+· Khoiyangbam RS and Gupta N (2015) Introduction to Environmental
+
+   Sciences, TERI Press, Delhi
+· Davis ML and Masten SJ (2009) Principles of Environmental Engineering and
+
+ L Science, McGraw Hill Education, Indian edition.
+E · Goel S. (2019) Water and Wastewater Engineering, Cambridge University
+ NPT Press.
+NPTEL
+   NPTEL
+
+Week 1: Environmental Concerns, Population Growth, and Resource
+
+Consumption
+
+Lecture 3 ­ Resource Consumption and Pollution
+ Major environmental concerns
+ The concept of sustainable development
+ Population growth models: arithmetic, geometric and exponential
+
+EL  Resource consumption and pollution
+T  Measures of Environmental impacts ­ pollution and the IPAT Model
+
+  NP  Ecological Footprint
+
+    Earth Overshoot Day
+    Energy Performance Index
+    Lifecycle Assessment
+· Resource consumption
+· Natural capital
+· Natural services
+
+L · Electricity consumption
+
+· Nature of cities: Agropolis, Petropolis, Ecopolis
+
+TE · Green design
+P · Sustainable design
+N · Linear economy
+
+· Circular economy
+           Perpetual      Solar, wind, tides, flowing water
+
+Resources  Renewable      Air, water, soil, plants and animals                           Resources
+
+           Non-renewable  L Fossil fuels, minerals (metals and
+                          NPTE non-metals), deep groundwater
+
+Free-access or commons: resources not owned by individuals, may include public property
+owned by governments
+Public property: owned by governments or administrative authorities
+Private property: owned by individuals or groups of individuals
+
+                          Miller, 2004
+Natural resources                        Natural services                                Natural capital =
+Air                                                                                natural resources + natural
+                                         Air purification; Climate control ­ CO2
+Water                                    uptake by plants                                     services
+
+Soil and Land                            Self-purification capacity of flowing               Based on Miller, 2009
+                                         water; Assimilation of waste and its
+Biota                                    degradation, cleansing of atmospheric
+                                         pollution by precipitation
+Renewable energy (solar, wind, wave,
+biomass)                                 Soil formation and renewal,
+Non-renewable energy (fossil fuels ­
+coal, petroleum, natural gas; minerals,  L agricultural productivity, habitat and
+deep groundwater)                        E food for organisms, building materials
+                                         T Biodiversity and gene pool
+                                         NP maintenance; food, fibre, fodder
+
+                                         Sunlight ­ heat, energy, degradation of
+                                         all materials, primary productivity
+
+                                         Recycling of nutrients through
+                                         biogeochemical cycles
+             47019, 3% 36143, 2%
+
+           18324, 1%               115, 0%
+
+73483, 5%
+
+68640, 5%                                                          Resource
+                                                                consumption ­
+10463, 1%
+                                                                   electricity
+151695, 10%                NPTEL 1078444, 73%                      generation
+
+           Electricity Generation in India, FY 2021-22
+
+Coal                  Large Hydro           Small Hydro
+
+Wind Power            Solar Power           Biomass & other RE
+
+Nuclear               Gas                   Diesel
+Electricity generated (GWh)  18,00,000                     NPTEL                               Resource
+                             16,00,000                                                      consumption ­
+                             14,00,000
+                             12,00,000                                                         electricity
+                             10,00,000                                                         generation
+
+                              8,00,000
+                              6,00,000
+                              4,00,000
+                              2,00,000
+
+                                       0
+
+                                          Fossil Fuel Coal Fossil Fuel Oil Fossil Fuel Gas
+
+                                          Nuclear  Hydro*  Total RE
+
+https://en.wikipedia.org/wiki/Electricity_sector_in_India
+420*  * Measured at Mauna Loa, Hawaii, USA
+      in Feb 2023
+
+          ELRockstrom et al., 2009. A safe operating space for
+      NPT humanity, Nature, 461: 472-475
+
+      8
+                    NPTEL
+
+Steffen et al., 2015, Science, 347(6223).
+NPTEL                                                                              AGROPOLIS
+                                                                       Symbiosis between city and its
+                                                                       surroundings (economically and
+
+                                                                                  ecologically)
+
+Girardet, H (2009) Regenerative cities, World Future Council, Germany
+NPTEL                                                                                                 PETROPOLIS
+                                                                                          Driven by fossil fuel consumption
+
+                                                                                                   for transportation
+
+Driving force of city is transportation ­ road, rail and air. Centralization of economy,
+import of goods and services and export of waste
+
+Girardet, H (2009) Regenerative cities, World Future Council, Germany                     11
+NPTEL                   ECOPOLIS
+                Circular economy and
+                minimization of waste
+
+       Girardet, H (2009) Regenerative cities,
+       World Future Council, Germany
+
+Consumptive approach to resources by petropolis has to change so that renewable
+resources are used more than non-renewable resources.
+Examples ­ Circular economy ­ waste utilization rather than exporting waste, urban
+mining, solar power, minimize energy consumption, buy local produce instead of
+importing exotic produce.
+
+                                                                                                                                                                                                                          12
+TAKE ­ MAKE - DISPOSE  TAKE ­ MAKE - RECREATE
+
+CRADLE ­ TO - GRAVE    NPTEL CRADLE ­ TO - CRADLE
+
+Girardet, H (2009) Regenerative cities, World Future Council, Germany
+
+                                                                       13
+GREEN DESIGN                                SUSTAINABLE DESIGN
+
+Focus is on use of recyclable and reusable Based on the three pillars of sustainability:
+
+materials                                   planet, people, and profit
+
+Minimize negative impacts on the            Minimize negative impacts in the long-term
+environment in the present
+
+Term is used often for buildings but applies Sustainable design is based on renewable
+
+to all products and processes               resources                                         GREEN DESIGN
+                                                                                                     OR
+Green buildings have                        Sustainable buildings have
+· Healthy indoor air quality                   Enhance indoor environmental quality       SUSTAINABLE DESIGN
+· Adaptable design to changing              ·
+                                            ·  L Low energy and water consumption                                                  14
+   environment                                 E through the entire lifecycle ­ from
+· Use renewable energy sources              ·  T manufacture to daily use to disposal
+· Use non-toxic, sustainable, low-impact,
+                                               Simple operational and maintenance
+   and ethical materials
+· Efficient energy and water resources         NP procedures
+· Reduction of waste and pollution          · Design and construction that considers
+· Utilization of green roofs and rain
+                                               the quality of life of occupants
+   gardens
+· Recycling and reusability of materials    · Limit resource consumption through
+
+   used                                        waste-free manufacturing, a preference
+· Use environmentally friendly products in
+                                               for renewable resources, and an
+   the building design, construction, and
+   operation                                   emphasis on recycled materials
+
+                                            · Reduce greenhouse gas emissions
+
+                                            · Optimize renewable energy
+
+                                            · Minimize impact on the local ecosystem
+· Masters G and Ela WP (2012). Introduction to Environmental
+  Engineering and Science. Prentice Hall, NJ, US.
+
+· Miller GT (2004) Living in the Environment, Thomson/Brooks Cole.
+
+· Khoiyangbam RS and Gupta N (2015) Introduction to Environmental
+  Sciences, TERI Press, Delhi
+
+L · Davis ML and Masten SJ (2009) Principles of Environmental
+  Engineering and Science, McGraw Hill Education, Indian edition.
+
+NPTE · Girardet, H (2009) Regenerative cities, World Future Council, Germany
+NPTEL
+   NPTEL
+
+Week 1: Environmental Concerns, Population Growth, and Resource
+Consumption
+Lecture 4 ­ Measuring Environmental Impacts ­ the IPAT Model and
+Ecological Footprint
+ Major environmental concerns
+
+ The concept of sustainable development
+
+  Population growth models: arithmetic, geometric and exponential
+
+  L Resource consumption and pollution
+  E Measures of Environmental impacts ­ pollution and the IPAT Model
+  T  Ecological Footprint
+  NP  Earth Overshoot Day
+   Energy Performance Index
+
+   Lifecycle Assessment
+· Pillars of sustainable development
+
+· Capital Stock Model                 NPTEL
+· Principles of sustainability
+· IPAT Model
+· Earth Overshoot Day
+· Biocapacity
+Pillars of Sustainable Development
+
+Human and social capital
+Ecological capital
+Financial capital
+
+                                           Social        NPTEL
+
+                                            Sustainable
+                                           development
+
+                              Environment                Economic
+
+(Khoiyangbam and Gupta, 2015)
+Capital stock model (World Bank)
+
+· If we live off the interest and not the capital, the basis of prosperity is
+ maintained.
+
+· However, if we consume the capital (substance) our means of existence
+ in the long-term is endangered
+
+EL · Capital stock of sustainable development = capital stock of environment
+ NPT + capital stock of economy + capital stock of society
+
+(Khoiyangbam and Gupta, 2015)  5
+· Maximize use of renewable sources for materials      PRINCIPLES OF
+ and energy                                            SUSTAINABILITY
+
+· Minimize use of non-renewable materials and
+ energy
+
+· Maintain biodiversity for ecosystems to be stable
+
+L · Population control
+NPTE · Nutrient cycling through biogeochemical cycles
+
+Based on Miller, 2009
+Disaggregated growth rates or the IPAT Model (Masters and Ela, 2012)               The IPAT
+                                                                                    Model
+The IPAT Model was first proposed by Paul Ehrlich and John Holdern in 1971.
+Ehrlich, P.R. and Holdren, J.P., 1971. Impact of population growth. Science, vol.
+171, 26 March 1971, pp 1212-1217.
+
+Environmental Impact (I)= Population (P) x Affluence (A) x
+Technology (T)
+
+L Where
+E Affluence is per capita energy demand or per capita MSW generation or any
+T other parameter that is related to the income of the region or country,
+NP Technology is carbon emissions per unit energy consumed or energy use/GDP
+
+Example for any country:
+CO2 emissions/year =
+Population x Per capita electricity usage from fossil fuels/y x CO2 emitted in
+kg/kWh
+
+  https://www.eia.gov/tools/faqs/faq.php?id=427&t=3
+Parameter                                                       USA                       India
+                                                                                            1615
+Total electricity generated, billion kWh/y (as of Feb 2023)     4243                        1.417
+                                                                                            1140
+Population - estimated (2022), billions                         0.333
+                                                                                          1182 (73)
+Per capita electricity consumption (2022), kWh/capita-y         12,742
+                                                                                            1.03#
+Electricity generation using coal-based thermal power plants     828                        1182        The IPAT Model: CO2
+(TPP), billion kWh/y (% of total)                               (19.5)                                emissions from coal and
+                                                                                           24 (2.4)  natural gas-based thermal
+CO2 emissions/kWh electricity generated, kg CO2/kWh             0.93*
+                                                                                              1.0             power plants
+CO2 emissions from coal-TPP electricity generation/year, billion 828                          24
+
+L kg CO2/y (assuming a value of 1.0 kg CO2/kWh for both         1689                        1206
+E countries)                                                    (39.8)
+T Electricity generation using natural gas-based thermal power  0.97
+P plants (NG-TPP), billion kWh/y (% of total)
+N CO2 emissions/kWh electricity generated, kg CO2/kWh
+
+CO2 emissions from NG-TPP electricity generation/year, billion  1689
+kg CO2/y (assuming a value of 1.0 kg CO2/kWh for both
+countries)
+
+Total CO2 emissions/y from TPP assuming a value of 1.0 kg       2517
+CO2/kWh for both countries, billion kg CO2/y
+
+#https://www.eia.gov/tools/faqs/faq.php?id=427&t=3
+*Mittal et al. (2015) https://www3.epa.gov/ttnchie1/conference/ei20/session5/mmittal.pdf
+Disaggregated growth rates or the IPAT Model (Masters and Ela, 2012)
+
+CO2 emissions/year =
+Population x Per capita electricity usage from fossil fuels/y x CO2 emitted in kg/kWh
+
+These results show that CO2 emissions are likely to increase annually at the rate of   The IPAT
+5.1% in India in the next few years.                                                    Model
+
+                                                         L electricity
+                                                         Per capita
+            TE billion electrical
+            P units, kWh                                 usage,
+
+Year                 Popn, billion kWh/person-y
+      N 2011
+            922.45                                 1.21          762.36
+
+      2022  1614.70                                1.42          1139.52
+
+               r%                                  1.44                 3.65
+
+                                5.09
+
+https://www.eia.gov/tools/faqs/faq.php?id=427&t=3
+   PRIMARY
+PRODUCTIVITY
+
+NATURE                        HUMAN  Ecological
+                                     footprint
+          WASTE     NPTEL BEINGS
+      ABSORPTION
+                     WASTE
+                  GENERATION
+NPTEL  DEMAND FOR RESOURCES
+
+           http://www.footprintne
+                     twork.org/
+
+       SUPPLY OF RESOURCES
+NPTEL  Ecological
+       footprint
+· The ecological footprint measures how much nature we use compared to how much we have.                Ecological
+                                                                                                         footprint
+· An accounting approach that tracks how much biologically productive land and water area an
+   individual, population or activity uses to produce all the resources it consumes, to house all its  http://www.footprint
+   infrastructure, and to absorb its waste given prevailing technology and resource management               network.org/
+   practices (GFN, 2018. Beyond GDP: Measuring progress, wealth and wellbeing).
+
+· Global Footprint Network calculates the ecological footprint of countries on an annual basis
+   and presents the results on an open data platform. The source of their data is the UNO. The
+   results shed light on the ecological performances of nations and regions.
+
+· Methodology: Ecological footprint accounts adds up all the competing demands for biologically
+   productive space, including the space needed to sequester carbon emissions from fossil fuel.
+
+ L This human demand is compared to how much biologically productive space is available.
+
+   Footprints can be calculated for products, individuals, cities, regions, countries or the world.
+
+TE · Amount of land needed to produce the resources needed by an average person in a country
+P · Global hectares are productivity adjusted hectares. Each unit represents a biologically
+ N productive hectare with world average productivity. This is needed to adjust for differences in
+
+   the productivity of different types of land areas. For example, biological productivity of one
+   hectare of a rocky mountain slope, of a tundra forest, of a tropical rain forest, or of a highly
+   fertile cropland in river basin is very different.
+
+· Units of ecological footprint: Per capita ecological footprint (global hectares per person)
+
+· Total ecological footprint (global hectares for a nation, city, etc.)
+EQUATIONS FOR CALCULATING THE ECOLOGICAL FOOTPRINT
+
+1. Human-harvest or waste-production flow is quantified in mass per time and
+
+translated into global hectares through the following equation:                        Ecological
+                                                                                       footprint
+                                  EFproduction = P* EQF/Yw
+
+where:
+
+- EFproduction is the ecological footprint for production
+- P is the production (or harvest) in tons per year,
+
+- Yw is the world average yield in tons per hectare, per year, and
+
+L - EQF is the equivalence factor.
+TE For each land-use type, the EQF is the ratio of a given land type's average global
+
+productivity divided by the average global productivity of the entire planet's
+
+NP productive surfaces. EQF allows one to compare the land used for a given product
+
+category with the average global bioproductive surface area, which may be of higher
+
+or lower average productivity [29].
+
+For each country, the Ecological Footprint of production (EFp) of a single footprint
+
+category is calculated by summing all products of that footprint category (such as
+
+rice, wheat, corn for cropland).
+
+The total EFp of a country is the sum of the Ecological Footprint of all product
+
+categories combined.
+
+                      Resources 2018, 7, 58; doi:10.3390/resources7030058
+EQUATIONS FOR CALCULATING THE ECOLOGICAL FOOTPRINT
+
+2. The Ecological Footprint of consumption for a country is estimated by calculating the
+
+Ecological Footprint of all that is produced within a country, then adding the Ecological
+
+Footprint embodied in imports and subtracting the Ecological Footprint embodied in
+
+exports:                                                                                      Ecological
+                                                                                              footprint
+EFconsumption = EFP + EFI - EFE (2)
+where:
+
+- EFP is the is the Ecological Footprint of production,
+
+- EFI is the Ecological Footprint of imports, and
+
+L - EFE is the Ecological Footprint of exports.
+                                                         Resources 2018, 7, 58; doi:10.3390/resources7030058
+E 3. Biocapacity can be measured in global hectares at any scale, from a single farm to the
+T entire planet. The following formula details how biocapacity is calculated at the national
+P level for each biocapacity land-use category:
+N biocapacity = An*(Yn/Yw)*EQF
+where:
+
+- An is the area in country "n" for this land-use category in hectares, and
+- Yn is the national average yield for this land-use category in tons per hectare and year.
+Detailed equations and their application for each of the six Ecological Footprint
+
+subcomponents (cropland, grazing land, fishing grounds, forest for forest products, built-
+
+up land, and carbon footprint) and five biocapacity components (cropland, grazing land,
+
+fishing grounds, forests, and built-up land) are described in detail in earlier publications
+
+[9,10,14,16,18,30­35].
+                       NPTEL                                                               Ecological
+                                                                                           footprint
+How can a country have a Footprint larger than its Biocapacity?
+· Net-importing biocapacity from elsewhere (this means that the Ecological Footprint       Resources 2018, 7, 58;
+                                                                                      doi:10.3390/resources7030058
+   embodied in imports exceeds the Ecological Footprint embodied in exports);
+· Using the global commons such as fishing in international waters or
+· Emitting greenhouse gases into the global atmosphere; or
+· Overusing one's own territorial biocapacity (overharvesting fish or forest stock)
+· Masters G and Ela WP (2012). Introduction to Environmental
+   Engineering and Science. Prentice Hall, NJ, US.
+
+· Miller GT (2004) Living in the Environment, Thomson/Brooks Cole.
+
+· Khoiyangbam RS and Gupta N (2015) Introduction to Environmental
+   Sciences, TERI Press, Delhi
+
+L · Davis ML and Masten SJ (2009) Principles of Environmental
+ NPTE Engineering and Science, McGraw Hill Education, Indian edition.
+NPTEL
+   NPTEL
+
+Week 1: Environmental Concerns, Population Growth, and Resource
+Consumption
+Lecture 5 ­ Measuring Environmental Impacts ­ Earth Overshoot Day,
+Energy Performance Index and Lifecycle Assessment
+ Major environmental concerns
+ The concept of sustainable development
+ Population growth models: arithmetic, geometric and exponential
+
+L  Resource consumption and pollution
+TE  Measures of Environmental Impacts ­ pollution and the IPAT Model
+
+  P  Ecological Footprint
+  N  Earth Overshoot Day
+
+    Energy Performance Index
+    Lifecycle Assessment
+· Ecological footprint            NPTEL
+· Demand and supply of resources
+· Biocapacity
+· Global hectares
+· Energy Performance Index
+· Lifecycle Assessment
+· Paper
+· The date that is calculated for every year that marks when humanity's demand           Earth
+  for ecological resources and services in a given year exceeds what Earth can      Overshoot Day
+  regenerate in that year.
+
+· Global Footprint Network calculates the number of days that Earth's
+  biocapacity can provide for humanity's Ecological Footprint.
+
+· Biocapacity per person is calculated based on food, fibre, and timber; space for
+  roads and structures, energy production (from hydropower to biomass), and
+  waste absorption, including CO2 emissions from fossil fuel or cement
+  production.
+
+L · Global biocapacity per person = 1.6 global hectares (gha)
+TE · Global ecological footprint per person = 2.8 global hectares (gha)
+P · *Due to the global Covid lockdown, Earth Overshoot Day 2020 landed on 22
+ N August 2020 for the year 2020. This is in contrast to 29 July 2019 and 30 July
+
+  2021, 28 July 2022.
+
+· The downloadable research report documents that the main drivers in 2020
+  were the carbon Footprint (reduced 14.5% from 2019) and the forest product
+  Footprint (reduced 8.4% from 2019). There was no change in the food
+  footprint.
+
+   https://www.overshootday.org/2020-calculation/
+NPTEL  https://www.overshootday.org/newsroom
+       /past-earth-overshoot-days/
+December 25,  November 15,  October 13,                           September 24, August 4, 2011
+1971          1981          1991
+December 14,  November 19,  October 15,                           2001            August 4, 2012
+1972          1982          1992
+December 1,   November 19,  October 15,                           September 21, August 3, 2013
+1973          1983          1993
+December 2,   November 11,  October 13,                           2002            August 4, 2014
+1974          1984          1994
+December 4,   November 8,   October 7,                            September 11, August 5, 2015
+1975          1985          1995
+November 21,  November 3,   October 4,                            2003            August 6, 2016     Past Earth
+1976          1986          1996                                                                  Overshoot Days
+November 15,  October 27,   October 1,                            September 2, August 1, 2017
+1977          1987          1997
+November 11,  October 18,   October 1,                            2004            July 28, 2018
+1978          1988          1998
+November 2,   October 15,   October 1,                            August 26,      July 29, 2019
+1979          1989          1999                                                  August 22,
+November 8,   October 14,   September 25,                         L 2005          2020*
+1980          1990          2000                                  E August 21,    July 30, 2021
+                                                                                  July 28, 2022
+                                                                  2006
+
+                                                                  T August 15,
+                                                                  P 2007
+                                                                  NAugust 15,
+
+                                                                  2008
+
+                                                                  August 19,
+
+                                                                  2009
+
+                                                                  August 8, 2010
+
+https://www.overshootday.org/newsroom/past-earth-overshoot-days/
+ Energy usage calculator; Energy performance index (EPI)
+
+· How much energy are you using? Average in kWh/year
+· Tabulate your electricity bills (monthly) for 3 to 5 years (same location, same
+
+  house or office or bigger location like entire campus).
+     · Ideally, 3 to 5 annual cycles are essential for calculating EPI
+
+· Determine average annual electricity usage (kWh/y)
+
+L · Divide by area of house, office or entire location (kWh/m2-y) = EPI for that
+ E unit, building or location such as campus area, etc.
+T · Compare energy usage for different units, buildings or locations.
+P · Method can be used to evaluate consumption patterns and bring in
+ N conservation measures.
+
+· Can evaluate the impacts of events like the COVID lockdowns or conservation
+  measures like installing sensors or solar panels, etc.
+
+ Goel S, Malav A, and Apshanker-Kher KR [2017] Energy performance index (EPI) for
+ different types of buildings in IIT Kharagpur, West Bengal, India. Consulting Ahead,
+ 11(2): 72-82
+Energy usage calculator; Energy performance index (EPI)
+
+Factors influencing EPI values
+
+· Floor area and volume of rooms
+
+· Number of occupants
+
+· Economic level of occupants
+
+·  Hours of usage
+·
+·  L Climate and seasonal variations
+·  E Nature of activity in building: public or private
+·  T Energy conservation practices
+   NP Type of air-conditioning ­ centralized or decentralized
+
+· Building materials: electrical wiring, construction materials
+
+· Shape, size and orientation of building
+
+Goel S, Malav A, and Apshanker-Kher KR [2017] Energy performance index (EPI) for different types of buildings
+
+in IIT Kharagpur, West Bengal, India. Consulting Ahead, 11(2): 72-82.
+Energy Performance Index (EPI)
+
+             NPTEL
+            Raw materials extraction
+               and transportation
+
+ INPUTS         Primary product       NPTEL       LIFECYCLE
+                 Manufacturing               ASSESSMENT (LCA)
+   Raw
+materials,   Secondary and higher                         OUTPUTS
+            levels of manufacturing
+ energy,                                              Air, wastewater
+ air and         Packaging and                      emissions and solid
+  water            distribution                      waste generation
+                        Use
+
+            Product Reuse or Recycle
+              Wood or virgin pulp
+
+   Bark             Fiber                                            Lignin              LIFECYCLE
+Debarking
+                                                                                         ASSESSMENT
+
+              Fuel                                        Thermomechanical               (LCA): different
+
+                                   pulping                                               types of paper
+
+                    EL High pressure and temperature                         Newsprint
+                    T chemical pulping to get fiber and
+
+                        NP remove lignin
+
+Toilet paper                                              Bleaching          A4 printer
+                                                                               paper
+
+https://www.caseyprinting.com/blog/how-is-paper-made      Coating            Glossy
+http://www.toiletpaperhistory.net/toilet-paper-made/how-                     paper
+is-toilet-paper-made/
+                            Paperboard:
+
+                            Uncoated                              Newsprint:
+
+                            Unbleached                            uncoated
+
+Parameter         Units     Kraft          Toilet paper Uncoated A4 ground wood
+
+Metric tons                        1.00    1.00       1.00                  1.00
+
+% Recycled                         100.00  0.00       0.00                  0.00       LIFECYCLE
+                                                                                  ASSESSMENT (LCA)
+Wood used         tons             0.00    3.94       3.99                  2.09
+                                                                                              based on
+Energy used       kWh              4,981.00 11,465.22 8,233.30 9,083.00              www.papercalcuator.org
+
+GHG emissions     kg               1,495.31 11,897.23 8,999.10 9,680.85
+
+Water used        L         43,527.50      1,69,502.1789,326.00   1,72,974.50
+                               106.35                    590.85         397.23
+Solid waste generated kg                     L 142.28
+                             4,981.00                  4,688.00      7,032.00
+Purchased energy kWh              1.14        7,643.48      4.11           5.91
+                                  0.05                      0.09           0.45
+Sulfur dioxide    kg              0.05        E 7.90        0.05           0.05
+                                  1.23        T 0.16        0.82           0.68
+VOCs              kg                          P 0.40
+                                              N1.98
+Total Reduced Sulfur kg
+
+HAPs              kg
+
+COD               kg               1.91    13.83      9.54                  8.54
+
+BOD               kg               0.86    5.93       4.55                  3.21
+
+TSS               kg               1.95    9.88       8.64                  6.68
+
+Forest disturbed  km2              0.00 1,759.50 1,618.74 10,926.52
+
+Species threatened species         0.00    4.00       9.00                  5.00
+
+Ocean acidification kg             418.59 2,786.28 1,499.85 2,586.11
+
+Mercury emitted   mg               34.90   87.39      40.00       66.00
+
+Dioxin emitted    microg           4.90 4,521.74 3,520.00 3,980.00
+· Masters G and Ela WP (2012). Introduction to Environmental
+   Engineering and Science. Prentice Hall, NJ, US.
+
+· Miller GT (2004) Living in the Environment, Thomson/Brooks Cole.
+
+· Khoiyangbam RS and Gupta N (2015) Introduction to Environmental
+   Sciences, TERI Press, Delhi
+
+L · Davis ML and Masten SJ (2009) Principles of Environmental
+ NPTE Engineering and Science, McGraw Hill Education, Indian edition.
+NPTEL
+
