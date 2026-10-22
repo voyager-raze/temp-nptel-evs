@@ -2,15 +2,22 @@
 
 Offline-first static site for **NPTEL Environmental Science** (IIT Kharagpur).
 
-## Phone / tablet (GitHub Pages)
+## Phone / tablet (GitHub Pages + offline)
 
-Live site (after Pages is enabled):
+Live site:
 
 **https://voyager-raze.github.io/temp-nptel-evs/**
 
-Open that link on your phone or tablet (Chrome/Safari), then bookmark it. Needs mobile data or Wi‑Fi while practicing.
+### Install for offline (one-time on Wi‑Fi)
 
-PDF backup: [exports/NPTEL_EVS_Complete_Practice.pdf](exports/NPTEL_EVS_Complete_Practice.pdf)
+1. Open the link above on phone/tablet **while online**.
+2. Wait ~10–20 seconds so the app finishes downloading (~3–4 MB).
+3. **Android (Chrome):** menu → **Install app** / **Add to Home screen**.  
+   **iPhone/iPad (Safari):** Share → **Add to Home Screen**.
+4. Open the home-screen icon once online (confirms install).
+5. After that you can practice **without internet** (airplane mode OK).
+
+Progress still saves per device/browser. PDF backup: [exports/NPTEL_EVS_Complete_Practice.pdf](exports/NPTEL_EVS_Complete_Practice.pdf)
 
 ## How to open (laptop)
 
